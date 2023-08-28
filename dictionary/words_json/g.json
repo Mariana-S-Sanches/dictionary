@@ -1,0 +1,2080 @@
+{
+    "gelignite": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "gel",
+                "ig",
+                "nite"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɛlɪɡ,naɪt",
+            "simplified": "dʒɛlɪɡnaɪt"
+        },
+        "rhymePatterns": {
+            "all": "-aɪt"
+        },
+        "definitions": [
+            {
+                "definition": "a type of dynamite in which the nitroglycerin is absorbed in a base of wood pulp and sodium or potassium nitrate",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "gelly"
+                ],
+                "typeOf": [
+                    "dynamite"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 10,
+        "frequency": 2.4
+    },
+    "gem-engraving": {
+        "rhymes": {
+            "all": "-eɪvɪŋ"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "dʒɛmɛngreɪvɪŋ"
+        },
+        "sounds": 13
+    },
+    "gemini": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "gem",
+                "i",
+                "ni"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒəmɪni",
+            "simplified": "dʒəmɪni"
+        },
+        "rhymePatterns": {
+            "all": "-əmɪni"
+        },
+        "definitions": [
+            {
+                "definition": "(astrology) a person who is born while the sun is in Gemini",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "twin"
+                ],
+                "inCategory": [
+                    "star divination",
+                    "astrology"
+                ],
+                "typeOf": [
+                    "someone",
+                    "mortal",
+                    "person",
+                    "soul",
+                    "somebody",
+                    "individual"
+                ]
+            },
+            {
+                "definition": "the third sign of the zodiac; the sun is in this sign from about May 21 to June 20",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "gemini the twins",
+                    "twins"
+                ],
+                "instanceOf": [
+                    "sign of the zodiac",
+                    "sign",
+                    "planetary house",
+                    "mansion",
+                    "star sign",
+                    "house"
+                ]
+            },
+            {
+                "definition": "a zodiacal constellation in the northern hemisphere between Taurus and Cancer on the ecliptic",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "constellation"
+                ],
+                "hasMembers": [
+                    "alpha geminorum",
+                    "pollux",
+                    "castor"
+                ],
+                "partOf": [
+                    "zodiac"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.09,
+            "perMillion": 1.23,
+            "diversity": 0
+        }
+    },
+    "gemmology": {
+        "rhymes": {
+            "all": "-ɑlədʒi"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "dʒɛmɑlədʒi"
+        },
+        "sounds": 10
+    },
+    "gemstone": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "gem",
+                "stone"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɛm,stoʊn",
+            "simplified": "dʒɛmstoʊn"
+        },
+        "rhymePatterns": {
+            "all": "-oʊn"
+        },
+        "definitions": [
+            {
+                "definition": "a crystalline rock that can be cut and polished for jewelry",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "gem",
+                    "stone"
+                ],
+                "typeOf": [
+                    "crystal"
+                ],
+                "hasTypes": [
+                    "cabochon",
+                    "opaque gem",
+                    "transparent gem"
+                ],
+                "partOf": [
+                    "jewellery",
+                    "jewelry"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.36,
+            "perMillion": 0.21,
+            "diversity": 0
+        }
+    },
+    "gen": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ge",
+                "n"
+            ]
+        },
+        "pronunciation": {
+            "all": "dʒɛn",
+            "simplified": "dʒɛn"
+        },
+        "rhymePatterns": {
+            "all": "-ɛn"
+        },
+        "definitions": [
+            {
+                "definition": "informal term for information",
+                "partOfSpeech": "noun",
+                "inRegion": [
+                    "united kingdom of great britain and northern ireland",
+                    "great britain",
+                    "united kingdom",
+                    "britain",
+                    "u.k.",
+                    "uk"
+                ],
+                "typeOf": [
+                    "info",
+                    "information"
+                ],
+                "examples": [
+                    "give me the gen on your new line of computers"
+                ]
+            }
+        ],
+        "letters": 3,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.01,
+            "perMillion": 1,
+            "diversity": 0
+        }
+    },
+    "genappe": {
+        "rhymes": {
+            "all": "-æp"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "dʒənæp"
+        },
+        "sounds": 6
+    },
+    "gender": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "gen",
+                "der"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɛndər",
+            "simplified": "dʒɛndər"
+        },
+        "rhymePatterns": {
+            "all": "-ɛndər"
+        },
+        "definitions": [
+            {
+                "definition": "the properties that distinguish organisms on the basis of their reproductive roles",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "sex",
+                    "sexuality"
+                ],
+                "attribute": [
+                    "nonsexual",
+                    "sexual",
+                    "androgynous",
+                    "asexual",
+                    "female",
+                    "male"
+                ],
+                "typeOf": [
+                    "physiological property"
+                ],
+                "hasTypes": [
+                    "masculinity",
+                    "bisexuality",
+                    "femaleness",
+                    "feminineness",
+                    "hermaphroditism",
+                    "maleness",
+                    "androgyny"
+                ]
+            },
+            {
+                "definition": "a grammatical category in inflected languages governing the agreement between nouns and pronouns and adjectives; in some languages it is quite arbitrary but in Indo-European languages it is usually based on sex or animateness",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "grammatical gender"
+                ],
+                "typeOf": [
+                    "syntactic category",
+                    "grammatical category"
+                ],
+                "hasTypes": [
+                    "masculine",
+                    "feminine",
+                    "neuter"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.48,
+            "perMillion": 3.01,
+            "diversity": 0.01
+        }
+    },
+    "generalissimo": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "gen",
+                "er",
+                "al",
+                "is",
+                "si",
+                "mo"
+            ]
+        },
+        "pronunciation": {
+            "all": ",dʒɛnərə'lɪsə,moʊ",
+            "simplified": "dʒɛnərəlɪsəmoʊ"
+        },
+        "rhymePatterns": {
+            "all": "-oʊ"
+        },
+        "definitions": [
+            {
+                "definition": "the officer who holds the supreme command",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "commander-in-chief",
+                    "commander in chief"
+                ],
+                "typeOf": [
+                    "commandant",
+                    "commander",
+                    "commanding officer"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 14,
+        "frequency": {
+            "zipf": 2.17,
+            "perMillion": 0.13,
+            "diversity": 0
+        }
+    },
+    "generative": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "gen",
+                "er",
+                "a",
+                "tive"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɛnə,reɪtɪv",
+            "simplified": "dʒɛnəreɪtɪv"
+        },
+        "rhymePatterns": {
+            "all": "-eɪtɪv"
+        },
+        "definitions": [
+            {
+                "definition": "producing new life or offspring",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "procreative",
+                    "reproductive"
+                ],
+                "similarTo": [
+                    "fruitful"
+                ],
+                "derivation": [
+                    "generate"
+                ],
+                "examples": [
+                    "the reproductive or generative organs"
+                ]
+            },
+            {
+                "definition": "having the ability to produce or originate",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "productive"
+                ],
+                "antonyms": [
+                    "consumptive"
+                ],
+                "derivation": [
+                    "generate"
+                ],
+                "examples": [
+                    "generative power",
+                    "generative forces"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 11,
+        "frequency": 1.74
+    },
+    "generosity": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "gen",
+                "er",
+                "os",
+                "i",
+                "ty"
+            ]
+        },
+        "pronunciation": {
+            "all": ",dʒɛnə'rɑsɪti",
+            "simplified": "dʒɛnərɑsɪti"
+        },
+        "rhymePatterns": {
+            "all": "-ɑsɪti"
+        },
+        "definitions": [
+            {
+                "definition": "acting generously",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "unselfishness"
+                ],
+                "typeOf": [
+                    "share-out",
+                    "sharing"
+                ],
+                "derivation": [
+                    "generous"
+                ]
+            },
+            {
+                "definition": "the trait of being willing to give your money or time",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "generousness"
+                ],
+                "attribute": [
+                    "generous",
+                    "stingy",
+                    "ungenerous"
+                ],
+                "typeOf": [
+                    "kindness"
+                ],
+                "hasTypes": [
+                    "unselfishness",
+                    "liberalness",
+                    "bounteousness",
+                    "bounty",
+                    "charitableness",
+                    "liberality",
+                    "bigheartedness"
+                ],
+                "antonyms": [
+                    "stinginess"
+                ],
+                "derivation": [
+                    "generous"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 3.47,
+            "perMillion": 2.93,
+            "diversity": 0.02
+        }
+    },
+    "genetics": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ge",
+                "net",
+                "ics"
+            ]
+        },
+        "pronunciation": {
+            "all": "dʒə'nɛtɪks",
+            "simplified": "dʒənɛtɪks"
+        },
+        "rhymePatterns": {
+            "all": "-ɛtɪks"
+        },
+        "definitions": [
+            {
+                "definition": "the branch of biology that studies heredity and variation in organisms",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "genetic science"
+                ],
+                "hasCategories": [
+                    "univalent",
+                    "allelomorph",
+                    "amphidiploid",
+                    "multivalent",
+                    "parental",
+                    "polygenic",
+                    "polyploid",
+                    "recessive",
+                    "triploid",
+                    "allele",
+                    "carrier",
+                    "character",
+                    "chromosomal mutation",
+                    "chromosome mapping",
+                    "cistron",
+                    "cosmid",
+                    "cross",
+                    "crossbreed",
+                    "crossbreeding",
+                    "crossing",
+                    "deletion",
+                    "diploid",
+                    "dominance",
+                    "expression",
+                    "factor",
+                    "fertilized ovum",
+                    "gene",
+                    "gene linkage",
+                    "gene mutation",
+                    "genetic mutation",
+                    "haploid",
+                    "haplotype",
+                    "hereditary pattern",
+                    "heteroploid",
+                    "heterosis",
+                    "heterozygote",
+                    "homozygote",
+                    "hybrid",
+                    "hybrid vigor",
+                    "hybridisation",
+                    "hybridization",
+                    "hybridizing",
+                    "inheritance",
+                    "insertional mutagenesis",
+                    "interbreeding",
+                    "inversion",
+                    "linkage",
+                    "mapping",
+                    "meiosis",
+                    "mendel's law",
+                    "miosis",
+                    "mutation",
+                    "point mutation",
+                    "polymorphism",
+                    "position effect",
+                    "recombination",
+                    "reduction division",
+                    "replication",
+                    "reversion",
+                    "saltation",
+                    "segregation",
+                    "sex chromosome",
+                    "single nucleotide polymorphism",
+                    "snp",
+                    "transcription",
+                    "transduction",
+                    "transformation",
+                    "translation",
+                    "translocation",
+                    "transposition",
+                    "unit character",
+                    "vector",
+                    "xx",
+                    "xxx",
+                    "xxy",
+                    "xy",
+                    "xyy",
+                    "zygote",
+                    "translate",
+                    "bivalent",
+                    "dominant",
+                    "double",
+                    "filial",
+                    "haploidic",
+                    "heterozygous",
+                    "homozygous",
+                    "monogenic",
+                    "monoploid"
+                ],
+                "typeOf": [
+                    "biological science",
+                    "biology"
+                ],
+                "hasTypes": [
+                    "molecular genetics",
+                    "cytogenetics",
+                    "proteomics",
+                    "pharmacogenetics",
+                    "genomics"
+                ],
+                "derivation": [
+                    "genetic",
+                    "genetical",
+                    "geneticist"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 3.26,
+            "perMillion": 1.83,
+            "diversity": 0.01
+        }
+    },
+    "genii": {
+        "rhymes": {
+            "all": "-aɪ"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "dʒiniaɪ"
+        },
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.85,
+            "perMillion": 0.69,
+            "diversity": 0
+        }
+    },
+    "genip": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ge",
+                "nip"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɡə'nɪp",
+            "simplified": "ɡənɪp"
+        },
+        "rhymePatterns": {
+            "all": "-ɪp"
+        },
+        "definitions": [
+            {
+                "definition": "tropical American tree bearing a small edible fruit with green leathery skin and sweet juicy translucent pulp",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "ginep",
+                    "honey berry",
+                    "mamoncillo",
+                    "melicocca bijuga",
+                    "melicocca bijugatus",
+                    "spanish lime",
+                    "spanish lime tree"
+                ],
+                "typeOf": [
+                    "fruit tree"
+                ],
+                "memberOf": [
+                    "genus melicocca",
+                    "melicocca",
+                    "genus melicoccus",
+                    "melicoccus"
+                ],
+                "hasParts": [
+                    "spanish lime"
+                ]
+            },
+            {
+                "definition": "round one-inch Caribbean fruit with green leathery skin and sweet juicy translucent pulp; eaten like grapes",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "spanish lime"
+                ],
+                "typeOf": [
+                    "edible fruit"
+                ],
+                "partOf": [
+                    "spanish lime tree",
+                    "ginep",
+                    "honey berry",
+                    "mamoncillo",
+                    "melicocca bijuga",
+                    "melicocca bijugatus",
+                    "spanish lime"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5
+    },
+    "genteel": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "gen",
+                "teel"
+            ]
+        },
+        "pronunciation": {
+            "all": "dʒɛn'til",
+            "simplified": "dʒɛntil"
+        },
+        "rhymePatterns": {
+            "all": "-il"
+        },
+        "definitions": [
+            {
+                "definition": "marked by refinement in taste and manners",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "civilised",
+                    "civilized",
+                    "cultivated",
+                    "cultured",
+                    "polite"
+                ],
+                "similarTo": [
+                    "refined"
+                ],
+                "derivation": [
+                    "genteelness"
+                ],
+                "examples": [
+                    "a genteel old lady"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.33,
+            "perMillion": 0.2,
+            "diversity": 0
+        }
+    },
+    "gentile": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "gen",
+                "ti",
+                "le"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɛntaɪl",
+            "simplified": "dʒɛntaɪl"
+        },
+        "rhymePatterns": {
+            "all": "-ɛntaɪl"
+        },
+        "definitions": [
+            {
+                "definition": "a Christian as contrasted with a Jew",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "goy",
+                    "non-jew"
+                ],
+                "typeOf": [
+                    "christian"
+                ],
+                "hasTypes": [
+                    "shegetz"
+                ]
+            },
+            {
+                "definition": "a person who does not acknowledge your god",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "heathen",
+                    "infidel",
+                    "pagan"
+                ],
+                "typeOf": [
+                    "nonreligious person"
+                ],
+                "hasTypes": [
+                    "idol worshiper",
+                    "idolizer",
+                    "idolater",
+                    "idoliser",
+                    "paynim"
+                ]
+            },
+            {
+                "definition": "a Christian",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "christian"
+                ],
+                "examples": [
+                    "Christians refer to themselves as gentiles"
+                ]
+            },
+            {
+                "definition": "a person who is not a member of one's own religion; used in this sense by Mormons and Hindus",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "soul",
+                    "individual",
+                    "mortal",
+                    "person",
+                    "somebody",
+                    "someone"
+                ]
+            },
+            {
+                "definition": "belonging to or characteristic of non-Jewish peoples",
+                "partOfSpeech": null
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.01,
+            "perMillion": 1.01,
+            "diversity": 0
+        }
+    },
+    "gentility": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "gen",
+                "til",
+                "i",
+                "ty"
+            ]
+        },
+        "pronunciation": {
+            "all": "dʒɛn'tɪlɪti",
+            "simplified": "dʒɛntɪlɪti"
+        },
+        "rhymePatterns": {
+            "all": "-ɪlɪti"
+        },
+        "definitions": [
+            {
+                "definition": "elegance by virtue of fineness of manner and expression",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "breeding",
+                    "genteelness"
+                ],
+                "typeOf": [
+                    "elegance"
+                ],
+                "derivation": [
+                    "gentle"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 2.27,
+            "perMillion": 0.17,
+            "diversity": 0
+        }
+    },
+    "gentisin": {
+        "rhymes": {
+            "all": "-ɛntɪsɪn"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "dʒɛntɪsɪn"
+        },
+        "sounds": 9
+    },
+    "gentle-voiced": {
+        "rhymes": {
+            "all": "-ɔɪst"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "dʒɛntəlvɔɪst"
+        },
+        "sounds": 12
+    },
+    "gentleman-dependent": {
+        "rhymes": {
+            "all": "-ɛndənt"
+        },
+        "letters": 19,
+        "pronunciation": {
+            "simplified": "dʒɛntəlməndɪpɛndənt"
+        },
+        "sounds": 19
+    },
+    "gentleman-recusant": {
+        "rhymes": {
+            "all": "-ɛkjəzənt"
+        },
+        "letters": 18,
+        "pronunciation": {
+            "simplified": "dʒɛntəlmənrɛkjəzənt"
+        },
+        "sounds": 19
+    },
+    "gentleman-usher": {
+        "rhymes": {
+            "all": "-əʃər"
+        },
+        "letters": 15,
+        "pronunciation": {
+            "simplified": "dʒɛntəlmənəʃər"
+        },
+        "sounds": 14
+    },
+    "genty": {
+        "rhymes": {
+            "all": "-ɛnti"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "dʒɛnti"
+        },
+        "sounds": 6,
+        "frequency": 1.74
+    },
+    "genuflect": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "gen",
+                "u",
+                "flect"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɛnjʊ,flɛkt",
+            "simplified": "dʒɛnjʊflɛkt"
+        },
+        "rhymePatterns": {
+            "all": "-ɛkt"
+        },
+        "definitions": [
+            {
+                "definition": "bend the knees and bow in a servile manner",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "kowtow",
+                    "scrape"
+                ],
+                "typeOf": [
+                    "bow"
+                ],
+                "derivation": [
+                    "genuflection",
+                    "genuflexion"
+                ]
+            },
+            {
+                "definition": "bend the knees and bow in church or before a religious superior or image",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "bow"
+                ],
+                "derivation": [
+                    "genuflection",
+                    "genuflexion"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "geographical": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ge",
+                "o",
+                "graph",
+                "i",
+                "cal"
+            ]
+        },
+        "pronunciation": {
+            "all": ",dʒiə'græfɪkəl",
+            "simplified": "dʒiəgræfɪkəl"
+        },
+        "rhymePatterns": {
+            "all": "-æfɪkəl"
+        },
+        "definitions": [
+            {
+                "definition": "determined by geography",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "geographic"
+                ],
+                "similarTo": [
+                    "true"
+                ]
+            },
+            {
+                "definition": "of or relating to the science of geography",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "geographic"
+                ],
+                "pertainsTo": [
+                    "geography"
+                ],
+                "derivation": [
+                    "geography"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 12,
+        "frequency": {
+            "zipf": 2.69,
+            "perMillion": 0.48,
+            "diversity": 0
+        }
+    },
+    "geologize": {
+        "rhymes": {
+            "all": "-aɪz"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "dʒiɑlədʒaɪz"
+        },
+        "sounds": 11
+    },
+    "geomagnetic": {
+        "rhymes": {
+            "all": "-ɛtɪk"
+        },
+        "letters": 11,
+        "pronunciation": ",dʒioʊmæɡ'nɛtɪk",
+        "sounds": 13,
+        "frequency": {
+            "zipf": 2.36,
+            "perMillion": 0.21,
+            "diversity": 0
+        }
+    },
+    "geophone": {
+        "rhymes": {
+            "all": "-oʊn"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "dʒiəfoʊn"
+        },
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "geoponic": {
+        "rhymes": {
+            "all": "-ɑnɪk"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "dʒiəpɑnɪk"
+        },
+        "sounds": 9
+    },
+    "georg": {
+        "rhymes": {
+            "all": "-ɔRg"
+        },
+        "letters": 5,
+        "pronunciation": "'ɡeɪɔrɡ",
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.33,
+            "perMillion": 2.11,
+            "diversity": 0
+        }
+    },
+    "georgette": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "geor",
+                "gette"
+            ]
+        },
+        "pronunciation": {
+            "all": "dʒɔr'dʒɛt",
+            "simplified": "dʒɔrdʒɛt"
+        },
+        "rhymePatterns": {
+            "all": "-ɛt"
+        },
+        "definitions": [
+            {
+                "definition": "a thin silk dress material",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "cloth",
+                    "fabric",
+                    "material",
+                    "textile"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.36,
+            "perMillion": 0.21,
+            "diversity": 0
+        }
+    },
+    "georgene": {
+        "rhymes": {
+            "all": "-in"
+        },
+        "letters": 8,
+        "pronunciation": "'dʒɔr,dʒin",
+        "sounds": 8
+    },
+    "georgia": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "geor",
+                "gia"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɔrdʒə",
+            "simplified": "dʒɔrdʒə"
+        },
+        "rhymePatterns": {
+            "all": "-ɔrdʒə"
+        },
+        "definitions": [
+            {
+                "definition": "a state in southeastern United States; one of the Confederate states during the American Civil War",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "empire state of the south",
+                    "ga",
+                    "ga.",
+                    "peach state"
+                ],
+                "regionOf": [
+                    "kennesaw mountain"
+                ],
+                "instanceOf": [
+                    "american state"
+                ],
+                "memberOf": [
+                    "confederacy",
+                    "confederate states",
+                    "confederate states of america",
+                    "dixie",
+                    "dixieland",
+                    "south"
+                ],
+                "hasParts": [
+                    "coosa river",
+                    "valdosta",
+                    "albany",
+                    "flint",
+                    "flint river",
+                    "augusta",
+                    "chattahoochee river",
+                    "capital of georgia",
+                    "chattahoochee",
+                    "atlanta",
+                    "macon",
+                    "okefenokee swamp",
+                    "oxford",
+                    "savannah",
+                    "coosa",
+                    "vidalia",
+                    "tallapoosa",
+                    "tallapoosa river",
+                    "athens"
+                ],
+                "partOf": [
+                    "united states of america",
+                    "deep south",
+                    "usa",
+                    "south",
+                    "the states",
+                    "america",
+                    "u.s.",
+                    "u.s.a.",
+                    "united states",
+                    "us"
+                ],
+                "derivation": [
+                    "georgian"
+                ]
+            },
+            {
+                "definition": "a republic in Asia Minor on the Black Sea separated from Russia by the Caucasus mountains; formerly an Asian soviet but became independent in 1991",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "sakartvelo"
+                ],
+                "instanceOf": [
+                    "asian country",
+                    "asian nation"
+                ],
+                "hasMembers": [
+                    "georgian"
+                ],
+                "memberOf": [
+                    "commonwealth of independent states",
+                    "cis"
+                ],
+                "hasParts": [
+                    "abkhaz",
+                    "tiflis",
+                    "adzharia",
+                    "adzhar",
+                    "tbilisi",
+                    "capital of georgia",
+                    "abkhazia"
+                ],
+                "partOf": [
+                    "transcaucasia"
+                ],
+                "derivation": [
+                    "georgian"
+                ]
+            },
+            {
+                "definition": "one of the British colonies that formed the United States",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "colony"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.93,
+            "perMillion": 8.5,
+            "diversity": 0.01
+        }
+    },
+    "georgic": {
+        "rhymes": {
+            "all": "-ɔrdʒɪk"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "dʒɔrdʒɪk"
+        },
+        "sounds": 8
+    },
+    "geotropic": {
+        "rhymes": {
+            "all": "-ɑpɪk"
+        },
+        "letters": 9,
+        "pronunciation": ",dʒiʌ'trɑpɪk",
+        "sounds": 11
+    },
+    "gerald": {
+        "rhymes": {
+            "all": "-ɛrəld"
+        },
+        "letters": 6,
+        "pronunciation": "'dʒɛrʌld",
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.54,
+            "perMillion": 3.47,
+            "diversity": 0.01
+        }
+    },
+    "geralda": {
+        "rhymes": {
+            "all": "-ældə"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "dʒərældə"
+        },
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "gerhart": {
+        "rhymes": {
+            "all": "-ɛRhɑRt"
+        },
+        "letters": 7,
+        "pronunciation": "'ɡɝrhɑrt",
+        "sounds": 7
+    },
+    "germanophile": {
+        "rhymes": {
+            "all": "-aɪl"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "dʒərmænəfaɪl"
+        },
+        "sounds": 12
+    },
+    "gerodontics": {
+        "rhymes": {
+            "all": "-ɑntɪks"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "dʒɛrədɑntɪks"
+        },
+        "sounds": 12
+    },
+    "gerontocracy": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ger",
+                "on",
+                "toc",
+                "ra",
+                "cy"
+            ]
+        },
+        "pronunciation": {
+            "all": ",dʒɛrən'tɑkrəsi",
+            "simplified": "dʒɛrəntɑkrəsi"
+        },
+        "rhymePatterns": {
+            "all": "-ɑkrəsi"
+        },
+        "definitions": [
+            {
+                "definition": "a political system governed by old men",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "form of government",
+                    "political system"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 13
+    },
+    "gerry": {
+        "rhymes": {
+            "all": "-ɛri"
+        },
+        "letters": 5,
+        "pronunciation": "'dʒɛri",
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.69,
+            "perMillion": 4.91,
+            "diversity": 0
+        }
+    },
+    "gertie": {
+        "rhymes": {
+            "all": "-i"
+        },
+        "letters": 6,
+        "pronunciation": "'dʒɝrti",
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.02,
+            "perMillion": 1.03,
+            "diversity": 0
+        }
+    },
+    "geryon": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ge",
+                "ry",
+                "on"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒiriən",
+            "simplified": "dʒiriən"
+        },
+        "rhymePatterns": {
+            "all": "-iriən"
+        },
+        "definitions": [
+            {
+                "definition": "(Greek mythology) a mythical monster with three heads that was slain by Hercules",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "greek mythology"
+                ],
+                "typeOf": [
+                    "mythical creature",
+                    "mythical monster"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7,
+        "frequency": 2.02
+    },
+    "gerusia": {
+        "rhymes": {
+            "all": "-uʒiə"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "dʒɪruʒiə"
+        },
+        "sounds": 8
+    },
+    "gesticulation": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ges",
+                "tic",
+                "u",
+                "la",
+                "tion"
+            ]
+        },
+        "pronunciation": {
+            "all": "dʒɛ,stɪkjə'leɪʃən",
+            "simplified": "dʒɛstɪkjəleɪʃən"
+        },
+        "rhymePatterns": {
+            "all": "-eɪʃən"
+        },
+        "definitions": [
+            {
+                "definition": "a deliberate and vigorous gesture or motion",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "gesture",
+                    "motion"
+                ],
+                "derivation": [
+                    "gesticulate"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 15
+    },
+    "get-at-able": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "get-at-a",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɡɛt'ætəbəl",
+            "simplified": "ɡɛtætəbəl"
+        },
+        "rhymePatterns": {
+            "all": "-ætəbəl"
+        },
+        "definitions": [
+            {
+                "definition": "capable of being reached or attained",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "come-at-able",
+                    "getatable"
+                ],
+                "usageOf": [
+                    "colloquialism"
+                ],
+                "similarTo": [
+                    "accessible"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 9
+    },
+    "gezira": {
+        "rhymes": {
+            "all": "-irə"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "dʒəzirə"
+        },
+        "sounds": 7
+    },
+    "ghazi": {
+        "rhymes": {
+            "all": "-ɑzi"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "ɡɑzi"
+        },
+        "sounds": 4,
+        "frequency": {
+            "zipf": 2.03,
+            "perMillion": 0.09,
+            "diversity": 0
+        }
+    },
+    "gheorghiu-dej": {
+        "rhymes": {
+            "all": "-ɛʒ"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "ɡjɔRgjudɛʒ"
+        },
+        "sounds": 10
+    },
+    "giacalone": {
+        "rhymes": {
+            "all": "-æckæloʊni"
+        },
+        "letters": 9,
+        "pronunciation": "'dʒɑkɑloʊni",
+        "sounds": 11
+    },
+    "gibbet": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "gib",
+                "bet"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɪbɪt",
+            "simplified": "dʒɪbɪt"
+        },
+        "rhymePatterns": {
+            "all": "-ɪbɪt"
+        },
+        "definitions": [
+            {
+                "definition": "alternative terms for gallows",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "gallous",
+                    "gallows-tree",
+                    "gallows tree"
+                ],
+                "typeOf": [
+                    "gallows"
+                ]
+            },
+            {
+                "definition": "expose to ridicule or public scorn",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "pillory"
+                ],
+                "typeOf": [
+                    "display",
+                    "exhibit",
+                    "expose"
+                ]
+            },
+            {
+                "definition": "hang on an execution instrument",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "hang",
+                    "string up"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.03,
+            "perMillion": 0.09,
+            "diversity": 0
+        }
+    },
+    "gibboseness": {
+        "rhymes": {
+            "all": "-ɪboʊsnɛs"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ɡɪboʊsnɛs"
+        },
+        "sounds": 9
+    },
+    "giblet": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "gib",
+                "let"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɪblɪt",
+            "simplified": "dʒɪblɪt"
+        },
+        "rhymePatterns": {
+            "all": "-ɪblɪt"
+        },
+        "definitions": [
+            {
+                "definition": "edible viscera of a fowl",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "giblets"
+                ],
+                "typeOf": [
+                    "organs",
+                    "variety meat"
+                ],
+                "partOf": [
+                    "bird",
+                    "fowl"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "giblets": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "gib",
+                "lets"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɪblɪts",
+            "simplified": "dʒɪblɪts"
+        },
+        "rhymePatterns": {
+            "all": "-ɪblɪts"
+        },
+        "definitions": [
+            {
+                "definition": "edible viscera of a fowl",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "giblet"
+                ],
+                "typeOf": [
+                    "organs",
+                    "variety meat"
+                ],
+                "partOf": [
+                    "bird",
+                    "fowl"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.17,
+            "perMillion": 0.13,
+            "diversity": 0
+        }
+    },
+    "gid": {
+        "rhymes": {
+            "all": "-ɪd"
+        },
+        "letters": 3,
+        "pronunciation": {
+            "simplified": "ɡɪd"
+        },
+        "sounds": 3,
+        "frequency": 2.7
+    },
+    "gideonse": {
+        "rhymes": {
+            "all": "-ɪdiʊnz"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ɡɪdiʊnz"
+        },
+        "sounds": 7
+    },
+    "gideon": {
+        "rhymes": {
+            "all": "-ɪdiən"
+        },
+        "letters": 6,
+        "pronunciation": "'ɡɪdiʌn",
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.08,
+            "perMillion": 1.2,
+            "diversity": 0
+        }
+    },
+    "gigameter": {
+        "rhymes": {
+            "all": "-itər"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɡɪɡəmitər"
+        },
+        "sounds": 9,
+        "frequency": 1.74
+    },
+    "gigle": {
+        "rhymes": {
+            "all": "-ilji"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "dʒilji"
+        },
+        "sounds": 6
+    },
+    "gigaton": {
+        "rhymes": {
+            "all": "-ən"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "dʒaɪɡətən"
+        },
+        "sounds": 9
+    },
+    "gignoux": {
+        "rhymes": {
+            "all": "-u"
+        },
+        "letters": 7,
+        "pronunciation": "ɡɪ'nu",
+        "sounds": 5
+    },
+    "gigmanity": {
+        "rhymes": {
+            "all": "-ænɪti"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɡɪɡmænɪti"
+        },
+        "sounds": 9
+    },
+    "gijon": {
+        "rhymes": {
+            "all": "-ɔn"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "ɡihɔn"
+        },
+        "sounds": 5
+    },
+    "gilder": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "gil",
+                "der"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɡɪldər",
+            "simplified": "ɡɪldər"
+        },
+        "rhymePatterns": {
+            "all": "-ɪldər"
+        },
+        "definitions": [
+            {
+                "definition": "someone whose occupation is to apply an overlay of gold or gilt",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "skilled worker",
+                    "skilled workman",
+                    "trained worker"
+                ],
+                "derivation": [
+                    "gild"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": 2.4
+    },
+    "gildsman": {
+        "rhymes": {
+            "all": "-ɪldzmən"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ɡɪldzmən"
+        },
+        "sounds": 8
+    },
+    "gilding": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "gild",
+                "ing"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɡɪldɪŋ",
+            "simplified": "ɡɪldɪŋ"
+        },
+        "rhymePatterns": {
+            "all": "-ɪldɪŋ"
+        },
+        "definitions": [
+            {
+                "definition": "a coating of gold or of something that looks like gold",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "gilt"
+                ],
+                "typeOf": [
+                    "coat",
+                    "coating"
+                ],
+                "derivation": [
+                    "gild"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.12,
+            "perMillion": 0.12,
+            "diversity": 0
+        }
+    },
+    "gill-ale": {
+        "rhymes": {
+            "all": "-ɪl_eɪl"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ɡɪleɪl"
+        },
+        "sounds": 6
+    },
+    "gilmer": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "gil",
+                "mer"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɡɪlmər",
+            "simplified": "ɡɪlmər"
+        },
+        "rhymePatterns": {
+            "all": "-ɪlmər"
+        },
+        "definitions": [
+            {
+                "definition": "United States journalist who wrote a syndicated column of advice to the lovelorn (1870-1951)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dorothy dix",
+                    "elizabeth merriwether gilmer"
+                ],
+                "instanceOf": [
+                    "journalist"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "gilolo": {
+        "rhymes": {
+            "all": "-oʊloʊ"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "dʒaɪloʊloʊ"
+        },
+        "sounds": 10
+    },
+    "gimlet-eyed": {
+        "rhymes": {
+            "all": "-ɪmlɪt_aɪd"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ɡɪmlɪtaɪd"
+        },
+        "sounds": 9
+    },
+    "gimel": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "gim",
+                "el"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɡɪməl",
+            "simplified": "ɡɪməl"
+        },
+        "rhymePatterns": {
+            "all": "-ɪməl"
+        },
+        "definitions": [
+            {
+                "definition": "the 3rd letter of the Hebrew alphabet",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "alphabetic character",
+                    "letter",
+                    "letter of the alphabet"
+                ],
+                "memberOf": [
+                    "hebraic alphabet",
+                    "hebrew alphabet",
+                    "hebrew script"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "gin": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "gin"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɡɪn",
+            "simplified": "ɡɪn"
+        },
+        "rhymePatterns": {
+            "all": "-ɪn"
+        },
+        "definitions": [
+            {
+                "definition": "a machine that separates the seeds from raw cotton fibers",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "cotton gin"
+                ],
+                "typeOf": [
+                    "machine"
+                ]
+            },
+            {
+                "definition": "a form of rummy in which a player can go out if the cards remaining in their hand total less than 10 points",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "gin rummy",
+                    "knock rummy"
+                ],
+                "typeOf": [
+                    "rum",
+                    "rummy"
+                ]
+            },
+            {
+                "definition": "a trap for birds or small mammals; often has a slip noose",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "noose",
+                    "snare"
+                ],
+                "typeOf": [
+                    "trap"
+                ],
+                "hasParts": [
+                    "slipknot"
+                ]
+            },
+            {
+                "definition": "separate the seeds from (cotton) with a cotton gin",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "separate",
+                    "disunite",
+                    "divide",
+                    "part"
+                ]
+            },
+            {
+                "definition": "strong liquor flavored with juniper berries",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "spirits",
+                    "hard drink",
+                    "hard liquor",
+                    "john barleycorn",
+                    "liquor",
+                    "booze",
+                    "strong drink"
+                ],
+                "hasTypes": [
+                    "bathtub gin",
+                    "hollands",
+                    "holland gin",
+                    "geneva",
+                    "sloe gin"
+                ],
+                "hasSubstances": [
+                    "juniper berries"
+                ],
+                "substanceOf": [
+                    "pink lady",
+                    "gin and it",
+                    "gin and tonic",
+                    "martini"
+                ]
+            },
+            {
+                "definition": "trap with a snare",
+                "partOfSpeech": "verb",
+                "inCategory": [
+                    "hunt",
+                    "hunting"
+                ],
+                "typeOf": [
+                    "trap",
+                    "ensnare",
+                    "snare",
+                    "trammel",
+                    "entrap"
+                ],
+                "examples": [
+                    "gin game"
+                ]
+            }
+        ],
+        "letters": 3,
+        "sounds": 3,
+        "frequency": {
+            "zipf": 3.87,
+            "perMillion": 7.34,
+            "diversity": 0.03
+        }
+    }
+}

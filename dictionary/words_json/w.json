@@ -1,0 +1,2010 @@
+{
+    "weirdy": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "weird",
+                "y"
+            ]
+        },
+        "pronunciation": {
+            "all": "'wirdi",
+            "simplified": "wirdi"
+        },
+        "rhymePatterns": {
+            "all": "-irdi"
+        },
+        "definitions": [
+            {
+                "definition": "someone unpleasantly strange or eccentric",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "creep",
+                    "spook",
+                    "weirdie",
+                    "weirdo"
+                ],
+                "typeOf": [
+                    "disagreeable person",
+                    "unpleasant person"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "weiss": {
+        "rhymes": {
+            "all": "-aɪs"
+        },
+        "letters": 5,
+        "pronunciation": "waɪs",
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.18,
+            "perMillion": 1.49,
+            "diversity": 0
+        }
+    },
+    "welcome": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "wel",
+                "come"
+            ]
+        },
+        "pronunciation": {
+            "all": "'wɛlkəm",
+            "simplified": "wɛlkəm"
+        },
+        "rhymePatterns": {
+            "all": "-ɛlkəm"
+        },
+        "definitions": [
+            {
+                "definition": "bid welcome to; greet upon arrival",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "receive"
+                ],
+                "typeOf": [
+                    "recognize",
+                    "greet",
+                    "recognise"
+                ],
+                "antonyms": [
+                    "say farewell"
+                ],
+                "derivation": [
+                    "welcomer"
+                ]
+            },
+            {
+                "definition": "accept gladly",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "accept",
+                    "have",
+                    "take"
+                ],
+                "examples": [
+                    "I welcome your proposals"
+                ]
+            },
+            {
+                "definition": "a greeting or reception",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "greeting",
+                    "salutation"
+                ],
+                "hasTypes": [
+                    "cordial reception",
+                    "glad hand",
+                    "hospitality",
+                    "inhospitality"
+                ],
+                "examples": [
+                    "the proposal got a warm welcome"
+                ]
+            },
+            {
+                "definition": "giving pleasure or satisfaction or received with pleasure or freely granted",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "wanted"
+                ],
+                "antonyms": [
+                    "unwelcome"
+                ],
+                "examples": [
+                    "a welcome relief",
+                    "a welcome guest",
+                    "made the children feel welcome",
+                    "you are welcome to join us"
+                ]
+            },
+            {
+                "definition": "receive someone, as into one's house",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "receive",
+                    "invite",
+                    "take in"
+                ]
+            },
+            {
+                "definition": "the state of being welcome",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "acceptance"
+                ],
+                "examples": [
+                    "don't outstay your welcome"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 5.3,
+            "perMillion": 201.66,
+            "diversity": 0.53
+        }
+    },
+    "well-able": {
+        "rhymes": {
+            "all": "-eɪbəl"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "wɛleɪbəl"
+        },
+        "sounds": 8
+    },
+    "well": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "well"
+            ]
+        },
+        "pronunciation": {
+            "all": "wɛl",
+            "simplified": "wɛl"
+        },
+        "rhymePatterns": {
+            "all": "-ɛl"
+        },
+        "definitions": [
+            {
+                "definition": "in a manner affording benefit or advantage",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "advantageously"
+                ],
+                "antonyms": [
+                    "badly"
+                ],
+                "examples": [
+                    "she married well"
+                ]
+            },
+            {
+                "definition": "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well')",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "good"
+                ],
+                "usageOf": [
+                    "combining form"
+                ],
+                "antonyms": [
+                    "ill"
+                ],
+                "examples": [
+                    "the children behaved well",
+                    "a task well done",
+                    "the party went well",
+                    "he slept well",
+                    "a well-argued thesis",
+                    "a well-seasoned dish",
+                    "a well-planned party"
+                ]
+            },
+            {
+                "definition": "indicating high probability; in all likelihood",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "easily"
+                ],
+                "examples": [
+                    "I might well do it",
+                    "you may well need your umbrella",
+                    "he could equally well be trying to deceive us"
+                ]
+            },
+            {
+                "definition": "resulting favorably",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "good"
+                ],
+                "similarTo": [
+                    "fortunate"
+                ],
+                "examples": [
+                    "it is well that no one saw you",
+                    "all's well that ends well"
+                ]
+            },
+            {
+                "definition": "to a great extent or degree",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "considerably",
+                    "substantially"
+                ],
+                "examples": [
+                    "I'm afraid the film was well over budget"
+                ]
+            },
+            {
+                "definition": "an abundant source",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "fountainhead",
+                    "wellspring"
+                ],
+                "typeOf": [
+                    "source"
+                ],
+                "examples": [
+                    "she was a well of information"
+                ]
+            },
+            {
+                "definition": "with great or especially intimate knowledge",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "intimately"
+                ],
+                "examples": [
+                    "we knew them well"
+                ]
+            },
+            {
+                "definition": "come up, as of a liquid",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "swell"
+                ],
+                "typeOf": [
+                    "surface",
+                    "come up",
+                    "rise",
+                    "rise up"
+                ],
+                "examples": [
+                    "Tears well in her eyes",
+                    "the currents well up"
+                ]
+            },
+            {
+                "definition": "in financial comfort",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "comfortably"
+                ],
+                "examples": [
+                    "They live well"
+                ]
+            },
+            {
+                "definition": "a cavity or vessel used to contain liquid",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "vessel"
+                ],
+                "hasTypes": [
+                    "inkwell",
+                    "inkstand"
+                ]
+            },
+            {
+                "definition": "a deep hole or shaft dug or drilled to obtain water or oil or gas or brine",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "excavation"
+                ],
+                "hasTypes": [
+                    "artesian well",
+                    "driven well",
+                    "gas well",
+                    "tube well",
+                    "sump",
+                    "oil well",
+                    "oiler"
+                ]
+            },
+            {
+                "definition": "an enclosed compartment in a ship or plane for holding something as e.g. fish or a plane's landing gear or for protecting something as e.g. a ship's pumps",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "compartment"
+                ],
+                "hasTypes": [
+                    "bilge well",
+                    "pump well"
+                ]
+            },
+            {
+                "definition": "an open shaft through the floors of a building (as for a stairway)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "shaft"
+                ],
+                "hasTypes": [
+                    "stairwell"
+                ]
+            },
+            {
+                "definition": "in good health especially after having suffered illness or injury",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "healthy",
+                    "fit"
+                ],
+                "similarTo": [
+                    "symptomless",
+                    "asymptomatic",
+                    "cured",
+                    "healed",
+                    "recovered"
+                ],
+                "antonyms": [
+                    "ill"
+                ],
+                "derivation": [
+                    "wellness"
+                ],
+                "examples": [
+                    "appears to be entirely well",
+                    "the wound is nearly well",
+                    "a well man",
+                    "I think I'm well; at least I feel well"
+                ]
+            },
+            {
+                "definition": "(used for emphasis or as an intensifier) entirely or fully",
+                "partOfSpeech": "adverb",
+                "usageOf": [
+                    "intensive",
+                    "intensifier"
+                ],
+                "examples": [
+                    "a book well worth reading",
+                    "was well aware of the difficulties ahead",
+                    "suspected only too well what might be going on"
+                ]
+            },
+            {
+                "definition": "wise or advantageous and hence advisable",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "advisable"
+                ],
+                "examples": [
+                    "it would be well to start early"
+                ]
+            },
+            {
+                "definition": "favorably; with approval",
+                "partOfSpeech": null,
+                "antonyms": [
+                    "ill"
+                ],
+                "examples": [
+                    "their neighbors spoke well of them",
+                    "he thought well of the book"
+                ]
+            },
+            {
+                "definition": "with skill or in a pleasing manner",
+                "partOfSpeech": null,
+                "antonyms": [
+                    "badly"
+                ],
+                "examples": [
+                    "she dances well",
+                    "he writes well"
+                ]
+            },
+            {
+                "definition": "without unusual distress or resentment; with good humor",
+                "partOfSpeech": null,
+                "antonyms": [
+                    "badly"
+                ],
+                "examples": [
+                    "took the joke well",
+                    "took the tragic news well"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 3,
+        "frequency": {
+            "zipf": 6.36,
+            "perMillion": 2283.93,
+            "diversity": 0.96
+        }
+    },
+    "well-advised": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "well-ad",
+                "vised"
+            ]
+        },
+        "pronunciation": {
+            "all": "wɛl_æd'vaɪzd",
+            "simplified": "wɛlædvaɪzd"
+        },
+        "rhymePatterns": {
+            "all": "-aɪzd"
+        },
+        "definitions": [
+            {
+                "definition": "having the benefit of careful prior consideration or counsel",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "advised"
+                ],
+                "also": [
+                    "wise"
+                ],
+                "similarTo": [
+                    "considered"
+                ],
+                "antonyms": [
+                    "ill-advised"
+                ],
+                "examples": [
+                    "a well-advised delay in carrying out the plan"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 10
+    },
+    "well-becoming": {
+        "rhymes": {
+            "all": "-əmɪŋ"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "wɛlbɪkəmɪŋ"
+        },
+        "sounds": 10
+    },
+    "well-befitting": {
+        "rhymes": {
+            "all": "-ɪtɪŋ"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "wɛlbɪfɪtɪŋ"
+        },
+        "sounds": 10
+    },
+    "well-bent": {
+        "rhymes": {
+            "all": "-ɛl_bɛnt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "wɛlbɛnt"
+        },
+        "sounds": 7
+    },
+    "well-boring": {
+        "rhymes": {
+            "all": "-oʊrɪŋ"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "wɛlboʊrɪŋ"
+        },
+        "sounds": 9
+    },
+    "well-bred": {
+        "pronunciation": {
+            "all": "wɛl_brɛd",
+            "simplified": "wɛlbrɛd"
+        },
+        "rhymePatterns": {
+            "all": "-ɛl_brɛd"
+        },
+        "definitions": [
+            {
+                "definition": "of good upbringing",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "well-mannered"
+                ],
+                "similarTo": [
+                    "refined"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7
+    },
+    "well-combined": {
+        "rhymes": {
+            "all": "-aɪnd"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "wɛlkəmbaɪnd"
+        },
+        "sounds": 11
+    },
+    "well-deck": {
+        "rhymes": {
+            "all": "-ɛl_dɛk"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "wɛldɛk"
+        },
+        "sounds": 6
+    },
+    "well-designing": {
+        "rhymes": {
+            "all": "-aɪnɪŋ"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "wɛldɪzaɪnɪŋ"
+        },
+        "sounds": 11
+    },
+    "well-desired": {
+        "rhymes": {
+            "all": "-aɪərd"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "wɛldɪzaɪərd"
+        },
+        "sounds": 11
+    },
+    "well-dressed": {
+        "pronunciation": {
+            "all": "'wɛl_'drɛst",
+            "simplified": "wɛldrɛst"
+        },
+        "rhymePatterns": {
+            "all": "-ɛst"
+        },
+        "definitions": [
+            {
+                "definition": "having tasteful clothing and being scrupulously neat",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "well-groomed"
+                ],
+                "similarTo": [
+                    "groomed"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 8
+    },
+    "well-dying": {
+        "rhymes": {
+            "all": "-aɪɪŋ"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "wɛldaɪɪŋ"
+        },
+        "sounds": 8
+    },
+    "well-felt": {
+        "rhymes": {
+            "all": "-ɛl_fɛlt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "wɛlfɛlt"
+        },
+        "sounds": 7
+    },
+    "well-found": {
+        "pronunciation": {
+            "all": "wɛl_faʊnd",
+            "simplified": "wɛlfaʊnd"
+        },
+        "rhymePatterns": {
+            "all": "-ɛl_faʊnd"
+        },
+        "definitions": [
+            {
+                "definition": "having a full array of suitable equipment or furnishings",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "well-appointed"
+                ],
+                "similarTo": [
+                    "equipped",
+                    "furnished"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 8
+    },
+    "well-furred": {
+        "rhymes": {
+            "all": "-ɛl_fɜrd"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "wɛlfɜrd"
+        },
+        "sounds": 7
+    },
+    "well-girt": {
+        "rhymes": {
+            "all": "-ɛl_gɜrt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "wɛlgɜrt"
+        },
+        "sounds": 7
+    },
+    "well-grounded": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "well-ground",
+                "ed"
+            ]
+        },
+        "pronunciation": {
+            "all": "'wɛl_'graʊndɪd",
+            "simplified": "wɛlgraʊndɪd"
+        },
+        "rhymePatterns": {
+            "all": "-aʊndɪd"
+        },
+        "definitions": [
+            {
+                "definition": "logically valid",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "reasoned",
+                    "sound"
+                ],
+                "similarTo": [
+                    "valid"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 11
+    },
+    "well-inclined": {
+        "rhymes": {
+            "all": "-aɪnd"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "wɛlɪnklaɪnd"
+        },
+        "sounds": 11
+    },
+    "well-led": {
+        "rhymes": {
+            "all": "-ɛl_lɛd"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "wɛllɛd"
+        },
+        "sounds": 6
+    },
+    "well-lent": {
+        "rhymes": {
+            "all": "-ɛl_lɛnt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "wɛllɛnt"
+        },
+        "sounds": 7
+    },
+    "well-like": {
+        "rhymes": {
+            "all": "-ɛl_laɪk"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "wɛllaɪk"
+        },
+        "sounds": 7
+    },
+    "well-meaning": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "well-mean",
+                "ing"
+            ]
+        },
+        "pronunciation": {
+            "all": "wɛl_'minɪŋ",
+            "simplified": "wɛlminɪŋ"
+        },
+        "rhymePatterns": {
+            "all": "-inɪŋ"
+        },
+        "definitions": [
+            {
+                "definition": "not unfriendly or threatening",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unthreatening"
+                ],
+                "similarTo": [
+                    "amicable"
+                ],
+                "examples": [
+                    "her well-meaning words were received in silence",
+                    "the exasperation of a...well-meaning cow worried by dogs"
+                ]
+            },
+            {
+                "definition": "marked by good intentions though often producing unfortunate results",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "well-intentioned",
+                    "well-meant"
+                ],
+                "similarTo": [
+                    "intended"
+                ],
+                "examples": [
+                    "a well-meaning but tactless fellow",
+                    "the son's well-meaning efforts threw a singular chill upon the father's admirers"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 8
+    },
+    "well-metalled": {
+        "rhymes": {
+            "all": "-ɛtəld"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "wɛlmɛtəld"
+        },
+        "sounds": 9
+    },
+    "well-moneyed": {
+        "rhymes": {
+            "all": "-ənid"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "wɛlmənid"
+        },
+        "sounds": 8
+    },
+    "well-ordered": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "well-or",
+                "dered"
+            ]
+        },
+        "pronunciation": {
+            "all": "'wɛl_'ɔrdərd",
+            "simplified": "wɛlɔrdərd"
+        },
+        "rhymePatterns": {
+            "all": "-ɔrdərd"
+        },
+        "definitions": [
+            {
+                "definition": "ordered well",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "regular"
+                ],
+                "examples": [
+                    "well-ordered work habits"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 9
+    },
+    "well-picked": {
+        "rhymes": {
+            "all": "-ɛl_pɪkt"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "wɛlpɪkt"
+        },
+        "sounds": 7
+    },
+    "well-pretended": {
+        "rhymes": {
+            "all": "-ɛndɪd"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "wɛlprɪtɛndɪd"
+        },
+        "sounds": 12
+    },
+    "well-professed": {
+        "rhymes": {
+            "all": "-ɛst"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "wɛlprəfɛst"
+        },
+        "sounds": 10
+    },
+    "well-quartered": {
+        "rhymes": {
+            "all": "-ɔrtərd"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "wɛlkwɔrtərd"
+        },
+        "sounds": 11
+    },
+    "well-reasoned": {
+        "rhymes": {
+            "all": "-izənd"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "wɛlrizənd"
+        },
+        "sounds": 9
+    },
+    "well-secluded": {
+        "rhymes": {
+            "all": "-udɪd"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "wɛlsɪkludɪd"
+        },
+        "sounds": 11
+    },
+    "well-shown": {
+        "rhymes": {
+            "all": "-ɛl_ʃoʊn"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "wɛlʃoʊn"
+        },
+        "sounds": 7
+    },
+    "well-sold": {
+        "rhymes": {
+            "all": "-ɛl_soʊld"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "wɛlsoʊld"
+        },
+        "sounds": 8
+    },
+    "well-sped": {
+        "rhymes": {
+            "all": "-ɛl_spɛd"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "wɛlspɛd"
+        },
+        "sounds": 7
+    },
+    "well-strapped": {
+        "rhymes": {
+            "all": "-ɛl_stræpt"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "wɛlstræpt"
+        },
+        "sounds": 9
+    },
+    "well-swollen": {
+        "rhymes": {
+            "all": "-oʊlən"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "wɛlswoʊlən"
+        },
+        "sounds": 10
+    },
+    "well-thought": {
+        "rhymes": {
+            "all": "-ɛl_θɔt"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "wɛlθɔt"
+        },
+        "sounds": 6
+    },
+    "well-timed": {
+        "pronunciation": {
+            "all": "'wɛl_'taɪmd",
+            "simplified": "wɛltaɪmd"
+        },
+        "rhymePatterns": {
+            "all": "-aɪmd"
+        },
+        "definitions": [
+            {
+                "definition": "at an opportune time",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "apropos",
+                    "seasonably",
+                    "timely"
+                ]
+            },
+            {
+                "definition": "done or happening at the appropriate or proper time",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "seasonable",
+                    "timely",
+                    "well timed"
+                ],
+                "similarTo": [
+                    "opportune"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 8
+    },
+    "well-tailored": {
+        "rhymes": {
+            "all": "-eɪlərd"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "wɛlteɪlərd"
+        },
+        "sounds": 10
+    },
+    "well-sugared": {
+        "rhymes": {
+            "all": "-ʊɡərd"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "wɛlʃʊɡərd"
+        },
+        "sounds": 9
+    },
+    "well-thought-out": {
+        "rhymes": {
+            "all": "-aʊt"
+        },
+        "letters": 16,
+        "pronunciation": {
+            "simplified": "wɛlθɔtaʊt"
+        },
+        "sounds": 9
+    },
+    "well-wish": {
+        "rhymes": {
+            "all": "-ɛl_wɪʃ"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "wɛlwɪʃ"
+        },
+        "sounds": 6
+    },
+    "well-worn": {
+        "pronunciation": {
+            "all": "wɛl_woʊrn",
+            "simplified": "wɛlwoʊrn"
+        },
+        "rhymePatterns": {
+            "all": "-ɛl_woʊrn"
+        },
+        "definitions": [
+            {
+                "definition": "repeated too often; overfamiliar through overuse",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "banal",
+                    "commonplace",
+                    "hackneyed",
+                    "old-hat",
+                    "shopworn",
+                    "stock",
+                    "threadbare",
+                    "timeworn",
+                    "tired",
+                    "trite"
+                ],
+                "similarTo": [
+                    "unoriginal"
+                ]
+            },
+            {
+                "definition": "showing signs of much wear or use",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "worn"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8
+    },
+    "wellborn": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "well",
+                "born"
+            ]
+        },
+        "pronunciation": {
+            "all": "'wɛl'bɔrn",
+            "simplified": "wɛlbɔrn"
+        },
+        "rhymePatterns": {
+            "all": "-ɔrn"
+        },
+        "definitions": [
+            {
+                "definition": "of good or upper-class lineage",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "upper-class"
+                ],
+                "examples": [
+                    "a rich and wellborn husband"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": 2.48
+    },
+    "wellington": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "wel",
+                "ling",
+                "ton"
+            ]
+        },
+        "pronunciation": {
+            "all": "'wi'ɡjɪn",
+            "simplified": "wiɡjɪn"
+        },
+        "rhymePatterns": {
+            "all": "-ɪn"
+        },
+        "definitions": [
+            {
+                "definition": "(19th century) a man's high tasseled boot",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hessian",
+                    "hessian boot",
+                    "jackboot",
+                    "wellington boot"
+                ],
+                "typeOf": [
+                    "boot"
+                ]
+            },
+            {
+                "definition": "British general and statesman; he defeated Napoleon at Waterloo; subsequently served as Prime Minister (1769-1852)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "arthur wellesley",
+                    "duke of wellington",
+                    "first duke of wellington",
+                    "iron duke"
+                ],
+                "instanceOf": [
+                    "full general",
+                    "general",
+                    "national leader",
+                    "statesman",
+                    "solon"
+                ]
+            },
+            {
+                "definition": "the capital of New Zealand",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "capital of new zealand"
+                ],
+                "instanceOf": [
+                    "national capital"
+                ],
+                "partOf": [
+                    "new zealand"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.32,
+            "perMillion": 2.09,
+            "diversity": 0
+        }
+    },
+    "welty": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "wel",
+                "ty"
+            ]
+        },
+        "pronunciation": {
+            "all": "'wɛlti",
+            "simplified": "wɛlti"
+        },
+        "rhymePatterns": {
+            "all": "-ɛlti"
+        },
+        "definitions": [
+            {
+                "definition": "United States writer about rural southern life (1909-2001)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "eudora welty"
+                ],
+                "instanceOf": [
+                    "author",
+                    "writer"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5
+    },
+    "wensleydale": {
+        "rhymes": {
+            "all": "-eɪl"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "wɛnzlideɪl"
+        },
+        "sounds": 10,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "werwolf": {
+        "rhymes": {
+            "all": "-ʊlf"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "wirwʊlf"
+        },
+        "sounds": 7
+    },
+    "wenonah": {
+        "rhymes": {
+            "all": "-oʊnə"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "wɪnoʊnə"
+        },
+        "sounds": 7
+    },
+    "wesleyanism": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "wes",
+                "ley",
+                "an",
+                "ism"
+            ]
+        },
+        "pronunciation": {
+            "all": "'wɛsliə,nɪzəm",
+            "simplified": "wɛsliənɪzəm"
+        },
+        "rhymePatterns": {
+            "all": "-ɪzəm"
+        },
+        "definitions": [
+            {
+                "definition": "evangelical principles taught by John Wesley",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "wesleyism"
+                ],
+                "typeOf": [
+                    "protestantism"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11
+    },
+    "wessex": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "wes",
+                "sex"
+            ]
+        },
+        "pronunciation": {
+            "all": "'wɛsɪks",
+            "simplified": "wɛsɪks"
+        },
+        "rhymePatterns": {
+            "all": "-ɛsɪks"
+        },
+        "definitions": [
+            {
+                "definition": "a Saxon kingdom in southwestern England that became the most powerful English kingdom by the 10th century",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "geographic area",
+                    "geographic region",
+                    "geographical area",
+                    "geographical region"
+                ],
+                "partOf": [
+                    "england"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.57,
+            "perMillion": 0.36,
+            "diversity": 0
+        }
+    },
+    "wesleyan": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "wes",
+                "ley",
+                "an"
+            ]
+        },
+        "pronunciation": {
+            "all": "'wɛsliən",
+            "simplified": "wɛsliən"
+        },
+        "rhymePatterns": {
+            "all": "-ɛsliən"
+        },
+        "definitions": [
+            {
+                "definition": "of or pertaining to or characteristic of the branch of Protestantism adhering to the views of Wesley",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "methodist"
+                ],
+                "inCategory": [
+                    "faith",
+                    "religion",
+                    "religious belief"
+                ],
+                "derivation": [
+                    "wesley"
+                ]
+            },
+            {
+                "definition": "a follower of Wesleyanism",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "methodist"
+                ],
+                "memberOf": [
+                    "wesleyan methodist church",
+                    "wesleyan methodists"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.03,
+            "perMillion": 0.09,
+            "diversity": 0
+        }
+    },
+    "westwood": {
+        "rhymes": {
+            "all": "-ʊd"
+        },
+        "letters": 8,
+        "pronunciation": "'wɛst,wʊd",
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.66,
+            "perMillion": 0.44,
+            "diversity": 0
+        }
+    },
+    "wet-pipe": {
+        "rhymes": {
+            "all": "-ɛt_paɪp"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "wɛtpaɪp"
+        },
+        "sounds": 7
+    },
+    "wetproof": {
+        "rhymes": {
+            "all": "-uf"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "wɛtpruf"
+        },
+        "sounds": 7
+    },
+    "wewoka": {
+        "rhymes": {
+            "all": "-oʊkə"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "wəwoʊkə"
+        },
+        "sounds": 7
+    },
+    "wharves": {
+        "rhymes": {
+            "all": "-ɔrvz"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "hwɔrvz"
+        },
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.97,
+            "perMillion": 0.08,
+            "diversity": 0
+        }
+    },
+    "whatsoe'er": {
+        "rhymes": {
+            "all": "-otsoʊ'ɜr"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "wotsoʊɜr"
+        },
+        "sounds": 8
+    },
+    "wheat-colored": {
+        "rhymes": {
+            "all": "-ələrd"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "hwitkələrd"
+        },
+        "sounds": 10
+    },
+    "wheaten": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "wheat",
+                "en"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hwitən",
+            "simplified": "hwitən"
+        },
+        "rhymePatterns": {
+            "all": "-itən"
+        },
+        "definitions": [
+            {
+                "definition": "of or relating to or derived from wheat",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "whole-wheat",
+                    "wholemeal"
+                ],
+                "pertainsTo": [
+                    "wheat"
+                ],
+                "examples": [
+                    "wheaten bread"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": 1.74
+    },
+    "wheelhorse": {
+        "rhymes": {
+            "all": "-ɔrs"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "hwilhɔrs"
+        },
+        "sounds": 8
+    },
+    "whelm": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "whelm"
+            ]
+        },
+        "pronunciation": {
+            "all": "hwɛlm",
+            "simplified": "hwɛlm"
+        },
+        "rhymePatterns": {
+            "all": "-ɛlm"
+        },
+        "definitions": [
+            {
+                "definition": "overcome, as with emotions or perceptual stimuli",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "overcome",
+                    "overpower",
+                    "overtake",
+                    "overwhelm",
+                    "sweep over"
+                ],
+                "typeOf": [
+                    "enkindle",
+                    "kindle",
+                    "evoke",
+                    "fire",
+                    "provoke",
+                    "raise",
+                    "elicit",
+                    "arouse"
+                ],
+                "hasTypes": [
+                    "seize",
+                    "stagger",
+                    "benight",
+                    "clutch",
+                    "devastate",
+                    "get hold of",
+                    "kill",
+                    "knock out",
+                    "lock"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5
+    },
+    "when'd": {
+        "rhymes": {
+            "all": "-enəd"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "hwenəd"
+        },
+        "sounds": 6
+    },
+    "whereinto": {
+        "rhymes": {
+            "all": "-ɪntu"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "hwɜrɪntu"
+        },
+        "sounds": 8
+    },
+    "wherefrom": {
+        "rhymes": {
+            "all": "-əm"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "hwɜrfrəm"
+        },
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.12,
+            "perMillion": 0.12,
+            "diversity": 0
+        }
+    },
+    "wherry": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "wher",
+                "ry"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hwɛri",
+            "simplified": "hwɛri"
+        },
+        "rhymePatterns": {
+            "all": "-ɛri"
+        },
+        "definitions": [
+            {
+                "definition": "sailing barge used especially in East Anglia",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "norfolk wherry"
+                ],
+                "inRegion": [
+                    "united kingdom of great britain and northern ireland",
+                    "u.k.",
+                    "great britain",
+                    "britain",
+                    "uk",
+                    "united kingdom"
+                ],
+                "typeOf": [
+                    "hoy",
+                    "flatboat",
+                    "barge",
+                    "lighter"
+                ]
+            },
+            {
+                "definition": "light rowboat for use in racing or for transporting goods and passengers in inland waters and harbors",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "dinghy",
+                    "dory",
+                    "rowboat"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": 2.31
+    },
+    "whiggish": {
+        "rhymes": {
+            "all": "-ɪɡɪʃ"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "hwɪɡɪʃ"
+        },
+        "sounds": 6
+    },
+    "whiggism": {
+        "rhymes": {
+            "all": "-ɪɡɪzəm"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "hwɪɡɪzəm"
+        },
+        "sounds": 8
+    },
+    "whimsical": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "whim",
+                "si",
+                "cal"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hwɪmzɪkəl",
+            "simplified": "hwɪmzɪkəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɪmzɪkəl"
+        },
+        "definitions": [
+            {
+                "definition": "determined by chance or impulse or whim rather than by necessity or reason",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "capricious",
+                    "impulsive"
+                ],
+                "similarTo": [
+                    "arbitrary"
+                ],
+                "derivation": [
+                    "whimsicality",
+                    "whimsy"
+                ],
+                "examples": [
+                    "the victim of whimsical persecutions"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.78,
+            "perMillion": 0.59,
+            "diversity": 0
+        }
+    },
+    "whip-round": {
+        "pronunciation": {
+            "all": "hwɪp_raʊnd",
+            "simplified": "hwɪpraʊnd"
+        },
+        "rhymePatterns": {
+            "all": "-ɪp_raʊnd"
+        },
+        "definitions": [
+            {
+                "definition": "(British) solicitation of money usually for a benevolent purpose",
+                "partOfSpeech": "noun",
+                "inRegion": [
+                    "u.k.",
+                    "uk",
+                    "united kingdom",
+                    "united kingdom of great britain and northern ireland",
+                    "britain",
+                    "great britain"
+                ],
+                "typeOf": [
+                    "solicitation",
+                    "collection",
+                    "ingathering",
+                    "appeal"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "whirligig": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "whirl",
+                "i",
+                "gig"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hwɜrləɡɪɡ",
+            "simplified": "hwɜrləɡɪɡ"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrləɡɪɡ"
+        },
+        "definitions": [
+            {
+                "definition": "a large, rotating machine with seats for children to ride or amusement",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "carousel",
+                    "carrousel",
+                    "merry-go-round",
+                    "roundabout"
+                ],
+                "typeOf": [
+                    "ride"
+                ]
+            },
+            {
+                "definition": "a conical child's plaything tapering to a steel point on which it can be made to spin",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "spinning top",
+                    "teetotum",
+                    "top"
+                ],
+                "typeOf": [
+                    "plaything",
+                    "toy"
+                ],
+                "hasTypes": [
+                    "humming top",
+                    "peg top",
+                    "whip top",
+                    "whipping top"
+                ]
+            },
+            {
+                "definition": "whirl or spin like a whirligig",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "whirl",
+                    "gyrate",
+                    "reel",
+                    "spin",
+                    "spin around"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.33,
+            "perMillion": 0.2,
+            "diversity": 0
+        }
+    },
+    "whisk": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "whisk"
+            ]
+        },
+        "pronunciation": {
+            "all": "hwɪsk",
+            "simplified": "hwɪsk"
+        },
+        "rhymePatterns": {
+            "all": "-ɪsk"
+        },
+        "definitions": [
+            {
+                "definition": "a small short-handled broom used to brush clothes",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "whisk broom"
+                ],
+                "typeOf": [
+                    "broom"
+                ]
+            },
+            {
+                "definition": "whip with or as if with a wire whisk",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "whip"
+                ],
+                "inCategory": [
+                    "cooking",
+                    "cookery",
+                    "preparation"
+                ],
+                "typeOf": [
+                    "beat",
+                    "scramble"
+                ],
+                "examples": [
+                    "whisk the eggs"
+                ]
+            },
+            {
+                "definition": "brush or wipe off lightly",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "whisk off"
+                ],
+                "typeOf": [
+                    "wipe",
+                    "pass over"
+                ]
+            },
+            {
+                "definition": "a mixer incorporating a coil of wires; used for whipping eggs or cream",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "mixer"
+                ]
+            },
+            {
+                "definition": "move quickly and nimbly",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "go",
+                    "locomote",
+                    "move",
+                    "travel"
+                ],
+                "examples": [
+                    "He whisked into the house"
+                ]
+            },
+            {
+                "definition": "move somewhere quickly",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "convey",
+                    "take",
+                    "bring"
+                ],
+                "examples": [
+                    "The President was whisked away in his limo"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.7,
+            "perMillion": 0.49,
+            "diversity": 0
+        }
+    },
+    "whisht": {
+        "rhymes": {
+            "all": "-ɪʃt"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "hwɪʃt"
+        },
+        "sounds": 5
+    },
+    "whisky-jack": {
+        "rhymes": {
+            "all": "-ɪski_dʒæk"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "hwɪskidʒæk"
+        },
+        "sounds": 10
+    },
+    "whistle-blower": {
+        "pronunciation": {
+            "all": "'hwɪsəl_'bloʊər",
+            "simplified": "hwɪsəlbloʊər"
+        },
+        "rhymePatterns": {
+            "all": "-oʊər"
+        },
+        "definitions": [
+            {
+                "definition": "an informant who exposes wrongdoing within an organization in the hope of stopping it",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "whistle blower",
+                    "whistleblower"
+                ],
+                "typeOf": [
+                    "informant",
+                    "source"
+                ]
+            }
+        ],
+        "letters": 14,
+        "sounds": 12
+    },
+    "whistle-stopping": {
+        "rhymes": {
+            "all": "-ɑpɪŋ"
+        },
+        "letters": 16,
+        "pronunciation": {
+            "simplified": "hwɪsəlstɑpɪŋ"
+        },
+        "sounds": 12
+    },
+    "whistling": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "whis",
+                "tling"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hwɪslɪŋ",
+            "simplified": "hwɪslɪŋ"
+        },
+        "rhymePatterns": {
+            "all": "-ɪslɪŋ"
+        },
+        "definitions": [
+            {
+                "definition": "the sound made by something moving rapidly or by steam coming out of a small aperture",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "whistle"
+                ],
+                "typeOf": [
+                    "sound"
+                ],
+                "derivation": [
+                    "whistle"
+                ]
+            },
+            {
+                "definition": "the act of signalling (e.g., summoning) by whistling or blowing a whistle",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "whistle"
+                ],
+                "typeOf": [
+                    "sign",
+                    "signal",
+                    "signaling"
+                ],
+                "derivation": [
+                    "whistle"
+                ]
+            },
+            {
+                "definition": "the act of whistling a tune",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "music"
+                ],
+                "derivation": [
+                    "whistle"
+                ],
+                "examples": [
+                    "his cheerful whistling indicated that he enjoyed his work"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.91,
+            "perMillion": 8.13,
+            "diversity": 0.03
+        }
+    }
+}

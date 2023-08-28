@@ -1,0 +1,2020 @@
+{
+    "disembody": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "dis",
+                "em",
+                "bod",
+                "y"
+            ]
+        },
+        "pronunciation": {
+            "all": ",dɪsɛm'bɑdi",
+            "simplified": "dɪsɛmbɑdi"
+        },
+        "rhymePatterns": {
+            "all": "-ɑdi"
+        },
+        "definitions": [
+            {
+                "definition": "free from a body or physical form or reality",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "disembarrass",
+                    "free",
+                    "rid"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "disentail": {
+        "rhymes": {
+            "all": "-eɪl"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "dɪsɛnteɪl"
+        },
+        "sounds": 9
+    },
+    "disenthrone": {
+        "rhymes": {
+            "all": "-oʊn"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "dɪsɛnθroʊn"
+        },
+        "sounds": 10
+    },
+    "disgracefully": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "dis",
+                "grace",
+                "ful",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪs'greɪsfəlli",
+            "simplified": "dɪsgreɪsfəlli"
+        },
+        "rhymePatterns": {
+            "all": "-eɪsfəlli"
+        },
+        "definitions": [
+            {
+                "definition": "in a dishonorable manner or to a dishonorable degree",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "discreditably",
+                    "dishonorably",
+                    "dishonourably",
+                    "ignominiously",
+                    "ingloriously",
+                    "shamefully"
+                ],
+                "pertainsTo": [
+                    "disgraceful"
+                ],
+                "examples": [
+                    "his grades were disgracefully low"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 13,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "disgustful": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "dis",
+                "gust",
+                "ful"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪs'ɡəstfəl",
+            "simplified": "dɪsɡəstfəl"
+        },
+        "rhymePatterns": {
+            "all": "-əstfəl"
+        },
+        "definitions": [
+            {
+                "definition": "highly offensive; arousing aversion or disgust",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "disgusting",
+                    "distasteful",
+                    "foul",
+                    "loathly",
+                    "loathsome",
+                    "repellant",
+                    "repellent",
+                    "repelling",
+                    "revolting",
+                    "skanky",
+                    "wicked",
+                    "yucky"
+                ],
+                "similarTo": [
+                    "offensive"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10
+    },
+    "dishclout": {
+        "rhymes": {
+            "all": "-aʊt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "dɪʃklaʊt"
+        },
+        "sounds": 8
+    },
+    "disherison": {
+        "rhymes": {
+            "all": "-ɛrɪsən"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "dɪshɛrɪsən"
+        },
+        "sounds": 10
+    },
+    "disincentive": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "dis",
+                "in",
+                "cen",
+                "tive"
+            ]
+        },
+        "pronunciation": {
+            "all": ",dɪsɪn'sɛntɪv",
+            "simplified": "dɪsɪnsɛntɪv"
+        },
+        "rhymePatterns": {
+            "all": "-ɛntɪv"
+        },
+        "definitions": [
+            {
+                "definition": "a negative motivational influence",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "deterrence"
+                ],
+                "typeOf": [
+                    "rational motive"
+                ],
+                "antonyms": [
+                    "incentive"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 11
+    },
+    "disintegratory": {
+        "rhymes": {
+            "all": "-oʊri"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "dɪsɪntəgrətoʊri"
+        },
+        "sounds": 15
+    },
+    "disjasked": {
+        "rhymes": {
+            "all": "-æskɪt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "dɪsdʒæskɪt"
+        },
+        "sounds": 10
+    },
+    "disjoint": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "dis",
+                "joint"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪs'dʒɔɪnt",
+            "simplified": "dɪsdʒɔɪnt"
+        },
+        "rhymePatterns": {
+            "all": "-ɔɪnt"
+        },
+        "definitions": [
+            {
+                "definition": "separate at the joints",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "disarticulate"
+                ],
+                "typeOf": [
+                    "part",
+                    "separate",
+                    "divide",
+                    "disunite"
+                ],
+                "examples": [
+                    "disjoint the chicken before cooking it"
+                ]
+            },
+            {
+                "definition": "become separated, disconnected or disjoint",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "disjoin"
+                ],
+                "typeOf": [
+                    "divide",
+                    "separate",
+                    "part"
+                ]
+            },
+            {
+                "definition": "part; cease or break association with",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "disassociate",
+                    "dissociate",
+                    "disunite",
+                    "divorce"
+                ],
+                "typeOf": [
+                    "break",
+                    "part",
+                    "separate",
+                    "break up",
+                    "split",
+                    "split up"
+                ]
+            },
+            {
+                "definition": "make disjoint, separated, or disconnected; undo the joining of",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "disjoin"
+                ],
+                "cause": [
+                    "disjoin"
+                ],
+                "typeOf": [
+                    "part",
+                    "separate",
+                    "divide",
+                    "disunite"
+                ]
+            },
+            {
+                "definition": "having no elements in common",
+                "partOfSpeech": "adjective",
+                "inCategory": [
+                    "mathematics",
+                    "maths",
+                    "math"
+                ],
+                "similarTo": [
+                    "separate"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "disney": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "dis",
+                "ney"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dɪzni",
+            "simplified": "dɪzni"
+        },
+        "rhymePatterns": {
+            "all": "-ɪzni"
+        },
+        "definitions": [
+            {
+                "definition": "United States film maker who pioneered animated cartoons and created such characters as Mickey Mouse and Donald Duck; founded Disneyland (1901-1966)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "walt disney",
+                    "walter elias disney"
+                ],
+                "instanceOf": [
+                    "film maker",
+                    "film producer",
+                    "filmmaker",
+                    "movie maker"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.71,
+            "perMillion": 5.13,
+            "diversity": 0.01
+        }
+    },
+    "disobedient": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "dis",
+                "o",
+                "be",
+                "di",
+                "ent"
+            ]
+        },
+        "pronunciation": {
+            "all": ",dɪsə'bidiənt",
+            "simplified": "dɪsəbidiənt"
+        },
+        "rhymePatterns": {
+            "all": "-idiənt"
+        },
+        "definitions": [
+            {
+                "definition": "unwilling to submit to authority",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unruly"
+                ],
+                "similarTo": [
+                    "insubordinate"
+                ],
+                "derivation": [
+                    "disobedience",
+                    "disobey"
+                ]
+            },
+            {
+                "definition": "not obeying or complying with commands of those in authority",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "intractable",
+                    "bad",
+                    "unregenerate",
+                    "defiant",
+                    "difficult",
+                    "unmanageable",
+                    "stubborn",
+                    "obstinate",
+                    "incorrigible",
+                    "noncompliant"
+                ],
+                "attribute": [
+                    "obedience"
+                ],
+                "similarTo": [
+                    "willful",
+                    "headstrong",
+                    "obstinate",
+                    "perverse",
+                    "recalcitrant",
+                    "recusant",
+                    "refractory",
+                    "self-willed",
+                    "froward",
+                    "fractious",
+                    "contrary",
+                    "wayward",
+                    "wilful"
+                ],
+                "antonyms": [
+                    "obedient"
+                ],
+                "derivation": [
+                    "disobedience",
+                    "disobey"
+                ],
+                "examples": [
+                    "disobedient children"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 2.62,
+            "perMillion": 0.4,
+            "diversity": 0
+        }
+    },
+    "disorder": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "dis",
+                "or",
+                "der"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪs'ɔrdər",
+            "simplified": "dɪsɔrdər"
+        },
+        "rhymePatterns": {
+            "all": "-ɔrdər"
+        },
+        "definitions": [
+            {
+                "definition": "a physical condition in which there is a disturbance of normal functioning",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "upset"
+                ],
+                "typeOf": [
+                    "physiological condition",
+                    "physiological state",
+                    "physical condition"
+                ],
+                "hasTypes": [
+                    "impaction",
+                    "learning disability",
+                    "learning disorder",
+                    "malocclusion",
+                    "mental disorder",
+                    "mental disturbance",
+                    "metabolic disorder",
+                    "nervous disorder",
+                    "neurological disease",
+                    "neurological disorder",
+                    "olfactory impairment",
+                    "organic disorder",
+                    "parosamia",
+                    "perleche",
+                    "psilosis",
+                    "psychological disorder",
+                    "sleep disorder",
+                    "speech defect",
+                    "speech disorder",
+                    "sprue",
+                    "strangulation",
+                    "tropical sprue",
+                    "disturbance",
+                    "abruptio placentae",
+                    "achlorhydria",
+                    "acholia",
+                    "achylia",
+                    "achylia gastrica",
+                    "acute brain disorder",
+                    "acute organic brain syndrome",
+                    "adenosis",
+                    "ailment",
+                    "bladder disorder",
+                    "cardiovascular disease",
+                    "celiac disease",
+                    "cheilosis",
+                    "choking",
+                    "cholestasis",
+                    "colpoxerosis",
+                    "complaint",
+                    "defect of speech",
+                    "degenerative disorder",
+                    "abocclusion",
+                    "dysaphia",
+                    "dysosmia",
+                    "dysphagia",
+                    "dysuria",
+                    "eating disorder",
+                    "failure",
+                    "fantods",
+                    "folie",
+                    "functional disorder",
+                    "gland disease",
+                    "glandular disease",
+                    "glandular disorder",
+                    "haematocolpometra",
+                    "haematocolpos",
+                    "hematocolpometra",
+                    "hematocolpos",
+                    "hydrocele",
+                    "hyperactivity",
+                    "idiopathic disease",
+                    "idiopathic disorder",
+                    "idiopathy",
+                    "ill",
+                    "immunological disorder",
+                    "impacted tooth"
+                ],
+                "examples": [
+                    "the doctor prescribed some medicine for the disorder"
+                ]
+            },
+            {
+                "definition": "bring disorder to",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "disarray"
+                ],
+                "typeOf": [
+                    "alter",
+                    "change",
+                    "modify"
+                ],
+                "hasTypes": [
+                    "derange",
+                    "perturb",
+                    "scramble",
+                    "throw out of kilter",
+                    "throw together",
+                    "disarrange",
+                    "jumble",
+                    "mess",
+                    "mess up"
+                ],
+                "antonyms": [
+                    "order"
+                ]
+            },
+            {
+                "definition": "a condition in which things are not in their expected places",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "disorderliness"
+                ],
+                "typeOf": [
+                    "status",
+                    "condition"
+                ],
+                "hasTypes": [
+                    "untidiness",
+                    "mare's nest",
+                    "mess",
+                    "messiness",
+                    "jumble",
+                    "muddle",
+                    "muss",
+                    "mussiness",
+                    "clutter",
+                    "disarrangement",
+                    "smother",
+                    "shambles",
+                    "disorganization",
+                    "fuddle",
+                    "disorganisation",
+                    "welter"
+                ],
+                "antonyms": [
+                    "order"
+                ],
+                "examples": [
+                    "the files are in complete disorder"
+                ]
+            },
+            {
+                "definition": "disturb in mind or make uneasy or cause to be worried or alarmed",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "cark",
+                    "disquiet",
+                    "distract",
+                    "perturb",
+                    "trouble",
+                    "unhinge"
+                ],
+                "typeOf": [
+                    "disturb",
+                    "trouble",
+                    "upset"
+                ],
+                "hasTypes": [
+                    "vex",
+                    "worry"
+                ]
+            },
+            {
+                "definition": "a disturbance of the peace or of public order",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "state"
+                ],
+                "hasTypes": [
+                    "confusion",
+                    "turbulence",
+                    "anarchy",
+                    "upheaval",
+                    "flutter",
+                    "disruption",
+                    "riot",
+                    "rioting",
+                    "roughness",
+                    "rowdiness",
+                    "rowdyism",
+                    "disorderliness",
+                    "disturbance",
+                    "discord",
+                    "hurly burly",
+                    "instability",
+                    "hoo-hah",
+                    "hoo-ha",
+                    "commotion",
+                    "kerfuffle",
+                    "strife",
+                    "sturm und drang",
+                    "to-do",
+                    "lawlessness"
+                ],
+                "antonyms": [
+                    "order"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.84,
+            "perMillion": 6.93,
+            "diversity": 0.03
+        }
+    },
+    "disown": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "dis",
+                "own"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪs'oʊn",
+            "simplified": "dɪsoʊn"
+        },
+        "rhymePatterns": {
+            "all": "-oʊn"
+        },
+        "definitions": [
+            {
+                "definition": "cast off",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "renounce",
+                    "repudiate"
+                ],
+                "typeOf": [
+                    "reject"
+                ],
+                "hasTypes": [
+                    "apostatise",
+                    "apostatize",
+                    "deny",
+                    "forswear",
+                    "rebut",
+                    "recant",
+                    "refute",
+                    "withdraw",
+                    "abjure",
+                    "resile",
+                    "retract",
+                    "swallow",
+                    "take back",
+                    "tergiversate",
+                    "unsay"
+                ]
+            },
+            {
+                "definition": "prevent deliberately (as by making a will) from inheriting",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "disinherit"
+                ],
+                "typeOf": [
+                    "deprive"
+                ],
+                "derivation": [
+                    "disowning",
+                    "disownment"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.68,
+            "perMillion": 0.47,
+            "diversity": 0
+        }
+    },
+    "dispart": {
+        "rhymes": {
+            "all": "-ɑrt"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "dɪspɑrt"
+        },
+        "sounds": 7
+    },
+    "dispensatorily": {
+        "rhymes": {
+            "all": "-oʊrəli"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "dɪspɛnsətoʊrəli"
+        },
+        "sounds": 15
+    },
+    "dispeople": {
+        "rhymes": {
+            "all": "-ipəl"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "dɪspipəl"
+        },
+        "sounds": 8
+    },
+    "displayed": {
+        "rhymes": {
+            "all": "-eɪd"
+        },
+        "letters": 9,
+        "pronunciation": "dɪ'spleɪd",
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.21,
+            "perMillion": 1.63,
+            "diversity": 0.01
+        }
+    },
+    "displume": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "dis",
+                "plume"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪs'plum",
+            "simplified": "dɪsplum"
+        },
+        "rhymePatterns": {
+            "all": "-um"
+        },
+        "definitions": [
+            {
+                "definition": "strip of feathers",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "deplumate",
+                    "deplume",
+                    "pluck",
+                    "pull",
+                    "tear"
+                ],
+                "typeOf": [
+                    "strip"
+                ]
+            },
+            {
+                "definition": "strip of honors, possessions, or attributes",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "deplume"
+                ],
+                "typeOf": [
+                    "foray",
+                    "loot",
+                    "pillage",
+                    "plunder",
+                    "ransack",
+                    "reave",
+                    "rifle",
+                    "despoil",
+                    "strip"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7
+    },
+    "disproportionation": {
+        "rhymes": {
+            "all": "-eɪʃən"
+        },
+        "letters": 18,
+        "pronunciation": {
+            "simplified": "dɪsprəpoʊrʃəneɪʃən"
+        },
+        "sounds": 18
+    },
+    "disputatiousness": {
+        "rhymes": {
+            "all": "-eɪʃəsnɛs"
+        },
+        "letters": 16,
+        "pronunciation": {
+            "simplified": "dɪspjʊteɪʃəsnɛs"
+        },
+        "sounds": 15
+    },
+    "dissatisfy": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "dis",
+                "sat",
+                "is",
+                "fy"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪs'sætɪs,faɪ",
+            "simplified": "dɪssætɪsfaɪ"
+        },
+        "rhymePatterns": {
+            "all": "-aɪ"
+        },
+        "definitions": [
+            {
+                "definition": "fail to satisfy",
+                "partOfSpeech": "verb",
+                "entails": [
+                    "disappoint",
+                    "let down"
+                ],
+                "typeOf": [
+                    "displease"
+                ],
+                "hasTypes": [
+                    "discontent",
+                    "disgruntle"
+                ],
+                "antonyms": [
+                    "satisfy"
+                ],
+                "derivation": [
+                    "dissatisfaction",
+                    "dissatisfactory"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 11
+    },
+    "dissever": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "dis",
+                "sev",
+                "er"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪ'sɛvər",
+            "simplified": "dɪsɛvər"
+        },
+        "rhymePatterns": {
+            "all": "-ɛvər"
+        },
+        "definitions": [
+            {
+                "definition": "separate into parts or portions",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "carve up",
+                    "divide",
+                    "separate",
+                    "split",
+                    "split up"
+                ],
+                "typeOf": [
+                    "change integrity"
+                ],
+                "hasTypes": [
+                    "balkanize",
+                    "canton",
+                    "format",
+                    "initialise",
+                    "initialize",
+                    "lot",
+                    "paragraph",
+                    "parcel",
+                    "sectionalise",
+                    "sectionalize",
+                    "sliver",
+                    "splinter",
+                    "subdivide",
+                    "triangulate",
+                    "unitise",
+                    "balkanise",
+                    "unitize"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7
+    },
+    "dissimilar": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "dis",
+                "sim",
+                "i",
+                "lar"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪ'sɪmələr",
+            "simplified": "dɪsɪmələr"
+        },
+        "rhymePatterns": {
+            "all": "-ɪmələr"
+        },
+        "definitions": [
+            {
+                "definition": "not alike or similar",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unalike"
+                ],
+                "attribute": [
+                    "alikeness",
+                    "likeness",
+                    "similitude"
+                ],
+                "derivation": [
+                    "dissimilarity"
+                ]
+            },
+            {
+                "definition": "not similar",
+                "partOfSpeech": "adjective",
+                "attribute": [
+                    "similarity"
+                ],
+                "antonyms": [
+                    "similar"
+                ],
+                "derivation": [
+                    "dissimilarity"
+                ],
+                "examples": [
+                    "a group of very dissimilar people",
+                    "a pump not dissimilar to those once found on every farm",
+                    "their understanding of the world is not so dissimilar from our own",
+                    "took different (or dissimilar) approaches to the problem"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.3,
+            "perMillion": 0.19,
+            "diversity": 0
+        }
+    },
+    "dissimulate": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "dis",
+                "sim",
+                "u",
+                "late"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪ'sɪmjə,leɪt",
+            "simplified": "dɪsɪmjəleɪt"
+        },
+        "rhymePatterns": {
+            "all": "-eɪt"
+        },
+        "definitions": [
+            {
+                "definition": "hide (feelings) from other people",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "disguise",
+                    "mask"
+                ],
+                "derivation": [
+                    "dissimulation",
+                    "dissimulative"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 2.03,
+            "perMillion": 0.09,
+            "diversity": 0
+        }
+    },
+    "dissipatedness": {
+        "rhymes": {
+            "all": "-eɪtɪdnɛs"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "dɪsəpeɪtɪdnɛs"
+        },
+        "sounds": 13
+    },
+    "dissolvent": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "dis",
+                "sol",
+                "vent"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪ'zɑlvənt",
+            "simplified": "dɪzɑlvənt"
+        },
+        "rhymePatterns": {
+            "all": "-ɑlvənt"
+        },
+        "definitions": [
+            {
+                "definition": "a liquid substance capable of dissolving other substances",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dissolver",
+                    "dissolving agent",
+                    "resolvent",
+                    "solvent"
+                ],
+                "typeOf": [
+                    "medium"
+                ],
+                "hasTypes": [
+                    "alcahest",
+                    "alkahest",
+                    "carbolic acid",
+                    "carbon tet",
+                    "carbon tetrachloride",
+                    "chlorobenzene",
+                    "dimethyl ketone",
+                    "hexane",
+                    "hydroxybenzene",
+                    "menstruum",
+                    "methylbenzene",
+                    "naphtha",
+                    "oxybenzene",
+                    "perchloromethane",
+                    "phenol",
+                    "phenylic acid",
+                    "propanone",
+                    "remover",
+                    "tetrachloromethane",
+                    "toluene",
+                    "universal solvent",
+                    "xylene",
+                    "acetone",
+                    "xylol"
+                ],
+                "derivation": [
+                    "dissolve"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "distichous": {
+        "rhymes": {
+            "all": "-ɪstəkəs"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "dɪstəkəs"
+        },
+        "sounds": 8
+    },
+    "distinct": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "dis",
+                "tinct"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪ'stɪŋkt",
+            "simplified": "dɪstɪŋkt"
+        },
+        "rhymePatterns": {
+            "all": "-ɪŋkt"
+        },
+        "definitions": [
+            {
+                "definition": "constituting a separate entity or part",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "discrete"
+                ],
+                "similarTo": [
+                    "separate"
+                ],
+                "derivation": [
+                    "distinctness"
+                ],
+                "examples": [
+                    "on two distinct occasions"
+                ]
+            },
+            {
+                "definition": "recognizable; marked",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "decided"
+                ],
+                "similarTo": [
+                    "definite"
+                ],
+                "derivation": [
+                    "distinctness"
+                ],
+                "examples": [
+                    "noticed a distinct improvement",
+                    "at a distinct (or decided) disadvantage"
+                ]
+            },
+            {
+                "definition": "clearly or sharply defined to the mind",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "clear-cut",
+                    "trenchant"
+                ],
+                "similarTo": [
+                    "clear"
+                ],
+                "derivation": [
+                    "distinctness"
+                ],
+                "examples": [
+                    "Claudius was the first to invade Britain with distinct...intentions of conquest",
+                    "trenchant distinctions between right and wrong"
+                ]
+            },
+            {
+                "definition": "(often followed by `from') not alike; different in nature or quality",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "distinguishable"
+                ],
+                "similarTo": [
+                    "different"
+                ],
+                "derivation": [
+                    "distinctness"
+                ],
+                "examples": [
+                    "plants of several distinct types",
+                    "the word `nationalism' is used in at least two distinct senses",
+                    "gold is distinct from iron",
+                    "a tree related to but quite distinct from the European beech",
+                    "management had interests quite distinct from those of their employees"
+                ]
+            },
+            {
+                "definition": "easy to perceive; especially clearly outlined",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "definite",
+                    "precise",
+                    "clear"
+                ],
+                "similarTo": [
+                    "crystalline",
+                    "defined",
+                    "knifelike",
+                    "outlined",
+                    "well-defined",
+                    "clean-cut",
+                    "clear",
+                    "clear-cut",
+                    "crisp",
+                    "sharp",
+                    "chiseled",
+                    "razor-sharp"
+                ],
+                "antonyms": [
+                    "indistinct"
+                ],
+                "derivation": [
+                    "distinctness"
+                ],
+                "examples": [
+                    "a distinct flavor",
+                    "a distinct odor of turpentine",
+                    "a distinct outline",
+                    "the ship appeared as a distinct silhouette",
+                    "distinct fingerprints"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.43,
+            "perMillion": 2.65,
+            "diversity": 0.01
+        }
+    },
+    "distinctive": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "dis",
+                "tinc",
+                "tive"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪ'stɪŋktɪv",
+            "simplified": "dɪstɪŋktɪv"
+        },
+        "rhymePatterns": {
+            "all": "-ɪŋktɪv"
+        },
+        "definitions": [
+            {
+                "definition": "capable of being classified",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "classifiable"
+                ],
+                "similarTo": [
+                    "identifiable"
+                ],
+                "derivation": [
+                    "distinctiveness"
+                ]
+            },
+            {
+                "definition": "of a feature that helps to distinguish a person or thing",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "typical"
+                ],
+                "similarTo": [
+                    "characteristic"
+                ],
+                "derivation": [
+                    "distinctiveness"
+                ],
+                "examples": [
+                    "Jerusalem has a distinctive Middle East flavor"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 3.25,
+            "perMillion": 1.75,
+            "diversity": 0.01
+        }
+    },
+    "distingue": {
+        "rhymes": {
+            "all": "-eɪ"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "dɪstæŋɡeɪ"
+        },
+        "sounds": 9
+    },
+    "distressedness": {
+        "rhymes": {
+            "all": "-ɛstnɛs"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "dɪstrɛstnɛs"
+        },
+        "sounds": 11
+    },
+    "disturbed": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "dis",
+                "turbed"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪ'stɜrbd",
+            "simplified": "dɪstɜrbd"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrbd"
+        },
+        "definitions": [
+            {
+                "definition": "afflicted with or marked by anxious uneasiness or trouble or grief",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "disquieted",
+                    "distressed",
+                    "upset",
+                    "worried"
+                ],
+                "similarTo": [
+                    "troubled"
+                ],
+                "examples": [
+                    "lapsed into disturbed sleep"
+                ]
+            },
+            {
+                "definition": "affected with madness or insanity",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "brainsick",
+                    "crazy",
+                    "demented",
+                    "mad",
+                    "sick",
+                    "unbalanced",
+                    "unhinged"
+                ],
+                "similarTo": [
+                    "insane"
+                ]
+            },
+            {
+                "definition": "emotionally unstable and having difficulty coping with personal relationships",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "maladjusted"
+                ],
+                "similarTo": [
+                    "neurotic",
+                    "psychoneurotic"
+                ]
+            },
+            {
+                "definition": "having the place or position changed",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "disarranged"
+                ],
+                "examples": [
+                    "the disturbed books and papers on her desk",
+                    "disturbed grass showed where the horse had passed"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.91,
+            "perMillion": 8.06,
+            "diversity": 0.04
+        }
+    },
+    "disunite": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "dis",
+                "u",
+                "nite"
+            ]
+        },
+        "pronunciation": {
+            "all": ",dɪsju'naɪt",
+            "simplified": "dɪsjunaɪt"
+        },
+        "rhymePatterns": {
+            "all": "-aɪt"
+        },
+        "definitions": [
+            {
+                "definition": "part; cease or break association with",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "disassociate",
+                    "disjoint",
+                    "dissociate",
+                    "divorce"
+                ],
+                "typeOf": [
+                    "part",
+                    "split up",
+                    "break",
+                    "split",
+                    "separate",
+                    "break up"
+                ],
+                "derivation": [
+                    "disunion"
+                ]
+            },
+            {
+                "definition": "force, take, or pull apart",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "divide",
+                    "part",
+                    "separate"
+                ],
+                "cause": [
+                    "divide",
+                    "separate",
+                    "part"
+                ],
+                "typeOf": [
+                    "displace",
+                    "move"
+                ],
+                "hasTypes": [
+                    "compartmentalize",
+                    "cut",
+                    "cut up",
+                    "disarticulate",
+                    "disconnect",
+                    "disjoin",
+                    "disjoint",
+                    "gin",
+                    "isolate",
+                    "joint",
+                    "keep apart",
+                    "tear",
+                    "break",
+                    "break up",
+                    "bust",
+                    "compartmentalise",
+                    "sequester",
+                    "sequestrate",
+                    "set apart",
+                    "sever",
+                    "snap",
+                    "polarise",
+                    "polarize",
+                    "rupture"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9
+    },
+    "disyllable": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "di",
+                "syl",
+                "la",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "'daɪsɪləbəl",
+            "simplified": "daɪsɪləbəl"
+        },
+        "rhymePatterns": {
+            "all": "-aɪsɪləbəl"
+        },
+        "definitions": [
+            {
+                "definition": "a word having two syllables",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dissyllable"
+                ],
+                "typeOf": [
+                    "word"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10
+    },
+    "dithionite": {
+        "rhymes": {
+            "all": "-aɪt"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "daɪθaɪənaɪt"
+        },
+        "sounds": 11
+    },
+    "dithyramb": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "dith",
+                "y",
+                "ramb"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dɪθə,ræm",
+            "simplified": "dɪθəræm"
+        },
+        "rhymePatterns": {
+            "all": "-æm"
+        },
+        "definitions": [
+            {
+                "definition": "(ancient Greece) a passionate hymn (usually in honor of Dionysus)",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "antiquity"
+                ],
+                "inRegion": [
+                    "ellas",
+                    "greece",
+                    "hellenic republic"
+                ],
+                "typeOf": [
+                    "hymn",
+                    "anthem"
+                ]
+            },
+            {
+                "definition": "a wildly enthusiastic speech or piece of writing",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "written material",
+                    "piece of writing",
+                    "speech",
+                    "writing",
+                    "address"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7
+    },
+    "dithyrambus": {
+        "rhymes": {
+            "all": "-æmbəs"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "dɪθəræmbəs"
+        },
+        "sounds": 10
+    },
+    "dittograph": {
+        "rhymes": {
+            "all": "-æf"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "dɪtəgræf"
+        },
+        "sounds": 8
+    },
+    "divalent": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "di",
+                "va",
+                "lent"
+            ]
+        },
+        "pronunciation": {
+            "all": "daɪ'veɪlənt",
+            "simplified": "daɪveɪlənt"
+        },
+        "rhymePatterns": {
+            "all": "-eɪlənt"
+        },
+        "definitions": [
+            {
+                "definition": "having a valence of two or having two valences",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "bivalent"
+                ],
+                "inCategory": [
+                    "chemical science",
+                    "chemistry"
+                ],
+                "pertainsTo": [
+                    "valence"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 10
+    },
+    "divaricate": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "di",
+                "var",
+                "i",
+                "cate"
+            ]
+        },
+        "pronunciation": {
+            "all": "daɪ'væri,keɪt",
+            "adjective": "daɪ'værəkɪt",
+            "verb": "daɪ'værə,keɪt",
+            "simplified": "daɪværikeɪt"
+        },
+        "rhymePatterns": {
+            "all": "-eɪt",
+            "adjective": "-ærəkɪt",
+            "verb": "-eɪt"
+        },
+        "definitions": [
+            {
+                "definition": "branch off",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "diverge"
+                ],
+                "examples": [
+                    "The road divaricates here"
+                ]
+            },
+            {
+                "definition": "spread apart",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "open",
+                    "spread",
+                    "spread out",
+                    "unfold"
+                ],
+                "examples": [
+                    "divaricate one's fingers"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 11
+    },
+    "diverticular": {
+        "rhymes": {
+            "all": "-ɪkjʊlər"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "daɪvɜrtɪkjʊlər"
+        },
+        "sounds": 14
+    },
+    "divertissement": {
+        "rhymes": {
+            "all": "-ɪsmənt"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "dɪvɜrtɪsmənt"
+        },
+        "sounds": 12,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "dividual": {
+        "rhymes": {
+            "all": "-ɪdʒuəl"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "dɪvɪdʒuəl"
+        },
+        "sounds": 9
+    },
+    "divine-human": {
+        "rhymes": {
+            "all": "-umən"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "dɪvaɪnhjumən"
+        },
+        "sounds": 12
+    },
+    "divorce": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "di",
+                "vor",
+                "c",
+                "e"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪ'voʊrs",
+            "simplified": "dɪvoʊrs"
+        },
+        "rhymePatterns": {
+            "all": "-oʊrs"
+        },
+        "definitions": [
+            {
+                "definition": "part; cease or break association with",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "disassociate",
+                    "disjoint",
+                    "dissociate",
+                    "disunite"
+                ],
+                "typeOf": [
+                    "break up",
+                    "split",
+                    "split up",
+                    "part",
+                    "break",
+                    "separate"
+                ]
+            },
+            {
+                "definition": "get a divorce; formally terminate a marriage",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "split up"
+                ],
+                "entails": [
+                    "wed",
+                    "conjoin",
+                    "espouse",
+                    "get hitched with",
+                    "get married",
+                    "hook up with",
+                    "marry"
+                ],
+                "typeOf": [
+                    "part",
+                    "split up",
+                    "separate",
+                    "break",
+                    "split",
+                    "break up"
+                ],
+                "derivation": [
+                    "divorcee",
+                    "divorcement"
+                ],
+                "examples": [
+                    "The couple divorced after only 6 months"
+                ]
+            },
+            {
+                "definition": "the legal dissolution of a marriage",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "divorcement"
+                ],
+                "inCategory": [
+                    "jurisprudence",
+                    "law"
+                ],
+                "typeOf": [
+                    "separation"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 4.5,
+            "perMillion": 31.95,
+            "diversity": 0.09
+        }
+    },
+    "divot": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "div",
+                "ot"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dɪvət",
+            "simplified": "dɪvət"
+        },
+        "rhymePatterns": {
+            "all": "-ɪvət"
+        },
+        "definitions": [
+            {
+                "definition": "a piece of turf dug out of a lawn or fairway (by an animals hooves or a golf club)",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "golf",
+                    "golf game"
+                ],
+                "typeOf": [
+                    "turf",
+                    "greensward",
+                    "sod",
+                    "sward"
+                ]
+            },
+            {
+                "definition": "(golf) the cavity left when a piece of turf is cut from the ground by the club head in making a stroke",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "golf game",
+                    "golf"
+                ],
+                "typeOf": [
+                    "pit",
+                    "cavity"
+                ],
+                "examples": [
+                    "it was a good drive but the ball ended up in a divot"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "diwali": {
+        "rhymes": {
+            "all": "-ɑli"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "dɪwɑli"
+        },
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.03,
+            "perMillion": 1.05,
+            "diversity": 0
+        }
+    },
+    "dix": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "dix"
+            ]
+        },
+        "pronunciation": {
+            "all": "dɪks",
+            "simplified": "dɪks"
+        },
+        "rhymePatterns": {
+            "all": "-ɪks"
+        },
+        "definitions": [
+            {
+                "definition": "United States social reformer who pioneered in the reform of prisons and in the treatment of the mentally ill; superintended women army nurses during the American Civil War (1802-1887)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dorothea dix",
+                    "dorothea lynde dix"
+                ],
+                "instanceOf": [
+                    "crusader",
+                    "meliorist",
+                    "reformer",
+                    "reformist",
+                    "social reformer"
+                ]
+            }
+        ],
+        "letters": 3,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.03,
+            "perMillion": 1.07,
+            "diversity": 0
+        }
+    },
+    "dizzy": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "diz",
+                "zy"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dɪzi",
+            "simplified": "dɪzi"
+        },
+        "rhymePatterns": {
+            "all": "-ɪzi"
+        },
+        "definitions": [
+            {
+                "definition": "lacking seriousness; given to frivolity",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "airheaded",
+                    "empty-headed",
+                    "featherbrained",
+                    "giddy",
+                    "light-headed",
+                    "lightheaded",
+                    "silly"
+                ],
+                "similarTo": [
+                    "frivolous"
+                ],
+                "examples": [
+                    "a dizzy blonde"
+                ]
+            },
+            {
+                "definition": "having or causing a whirling sensation; liable to falling",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "giddy",
+                    "vertiginous",
+                    "woozy"
+                ],
+                "similarTo": [
+                    "ill",
+                    "sick"
+                ],
+                "derivation": [
+                    "dizziness"
+                ],
+                "examples": [
+                    "had a dizzy spell",
+                    "a dizzy pinnacle"
+                ]
+            },
+            {
+                "definition": "make dizzy or giddy",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "alter",
+                    "change",
+                    "modify"
+                ],
+                "examples": [
+                    "a dizzying pace"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.98,
+            "perMillion": 9.52,
+            "diversity": 0.04
+        }
+    }
+}

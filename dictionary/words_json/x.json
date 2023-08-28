@@ -1,0 +1,188 @@
+{
+    "xalostockite": {
+        "rhymes": {
+            "all": "-oʊkaɪt"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "sɑloʊstoʊkaɪt"
+        },
+        "sounds": 13
+    },
+    "xanthine": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "xan",
+                "thine"
+            ]
+        },
+        "pronunciation": {
+            "all": "'zænθin",
+            "simplified": "zænθin"
+        },
+        "rhymePatterns": {
+            "all": "-ænθin"
+        },
+        "definitions": [
+            {
+                "definition": "crystalline oxidation product of the metabolism of nucleoproteins; precursor of uric acid; found in many organs and in urine",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "organic compound"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 6
+    },
+    "xanthoma": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "xan",
+                "tho",
+                "ma"
+            ]
+        },
+        "pronunciation": {
+            "all": "zæn'θoʊmə",
+            "simplified": "zænθoʊmə"
+        },
+        "rhymePatterns": {
+            "all": "-oʊmə"
+        },
+        "definitions": [
+            {
+                "definition": "a skin problem marked by the development (on the eyelids and neck and back) of irregular yellow nodules; sometimes attributable to disturbances of cholesterol metabolism",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "skin disease",
+                    "skin disorder",
+                    "disease of the skin"
+                ],
+                "hasTypes": [
+                    "xanthelasma",
+                    "xanthoma disseminatum",
+                    "xanthoma multiplex",
+                    "cholesterosis cutis",
+                    "xanthomatosis",
+                    "lipid granulomatosis",
+                    "lipoid granulomatosis"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8
+    },
+    "xat": {
+        "rhymes": {
+            "all": "-ɑt"
+        },
+        "letters": 3,
+        "pronunciation": {
+            "simplified": "xɑt"
+        },
+        "sounds": 3
+    },
+    "xenocrates": {
+        "rhymes": {
+            "all": "-iz"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "zənɑkrətiz"
+        },
+        "sounds": 10
+    },
+    "xerophagy": {
+        "rhymes": {
+            "all": "-ɑfədʒi"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "zɪrɑfədʒi"
+        },
+        "sounds": 9
+    },
+    "xerophagia": {
+        "rhymes": {
+            "all": "-eɪdʒə"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "zirəfeɪdʒə"
+        },
+        "sounds": 10
+    },
+    "xerophilous": {
+        "rhymes": {
+            "all": "-ɑfələs"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "zɪrɑfələs"
+        },
+        "sounds": 9
+    },
+    "xylophagous": {
+        "rhymes": {
+            "all": "-ɑfəɡəs"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "zaɪlɑfəɡəs"
+        },
+        "sounds": 10
+    },
+    "xylophone": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "xy",
+                "lo",
+                "phone"
+            ]
+        },
+        "pronunciation": {
+            "all": "'zaɪlə,foʊn",
+            "simplified": "zaɪləfoʊn"
+        },
+        "rhymePatterns": {
+            "all": "-oʊn"
+        },
+        "definitions": [
+            {
+                "definition": "a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "marimba"
+                ],
+                "typeOf": [
+                    "percussion instrument",
+                    "percussive instrument"
+                ],
+                "derivation": [
+                    "xylophonist"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.36,
+            "perMillion": 0.21,
+            "diversity": 0
+        }
+    },
+    "xyster": {
+        "rhymes": {
+            "all": "-ɪstər"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "zɪstər"
+        },
+        "sounds": 6
+    }
+}

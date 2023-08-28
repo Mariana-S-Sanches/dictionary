@@ -1,0 +1,849 @@
+{
+    "quaternary": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "qua",
+                "ter",
+                "nar",
+                "y"
+            ]
+        },
+        "pronunciation": {
+            "all": "kwə'tɜrnəri",
+            "simplified": "kwətɜrnəri"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrnəri"
+        },
+        "definitions": [
+            {
+                "definition": "last 2 million years",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "age of man",
+                    "quaternary period"
+                ],
+                "instanceOf": [
+                    "geological period",
+                    "period"
+                ],
+                "hasParts": [
+                    "holocene epoch",
+                    "holocene",
+                    "pleistocene",
+                    "pleistocene epoch",
+                    "recent",
+                    "recent epoch",
+                    "glacial epoch"
+                ],
+                "partOf": [
+                    "cenozoic era",
+                    "cenozoic",
+                    "age of mammals"
+                ]
+            },
+            {
+                "definition": "coming next after the third and just before the fifth in position or time or degree or magnitude",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "4th",
+                    "fourth"
+                ],
+                "similarTo": [
+                    "ordinal"
+                ],
+                "examples": [
+                    "the quaternary period of geologic time extends from the end of the tertiary period to the present"
+                ]
+            },
+            {
+                "definition": "consisting of or especially arranged in sets of four",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "quaternate"
+                ],
+                "similarTo": [
+                    "multiple"
+                ],
+                "examples": [
+                    "a quaternary compound"
+                ]
+            },
+            {
+                "definition": "the cardinal number that is the sum of three and one",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "4",
+                    "four",
+                    "foursome",
+                    "iv",
+                    "little joe",
+                    "quadruplet",
+                    "quartet",
+                    "quatern",
+                    "quaternion",
+                    "quaternity",
+                    "tetrad"
+                ],
+                "typeOf": [
+                    "figure",
+                    "digit"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "quaver": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "qua",
+                "ver"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kweɪvər",
+            "simplified": "kweɪvər"
+        },
+        "rhymePatterns": {
+            "all": "-eɪvər"
+        },
+        "definitions": [
+            {
+                "definition": "sing or play with trills, alternating with the half note above or below",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "trill",
+                    "warble"
+                ],
+                "typeOf": [
+                    "sing"
+                ]
+            },
+            {
+                "definition": "a musical note having the time value of an eighth of a whole note",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "eighth note"
+                ],
+                "typeOf": [
+                    "musical note",
+                    "note",
+                    "tone"
+                ]
+            },
+            {
+                "definition": "give off unsteady sounds, alternating in amplitude or frequency",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "waver"
+                ],
+                "typeOf": [
+                    "voice",
+                    "sound",
+                    "vocalise",
+                    "vocalize"
+                ]
+            },
+            {
+                "definition": "a tremulous sound",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "sound"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.03,
+            "perMillion": 0.09,
+            "diversity": 0
+        }
+    },
+    "quebecer": {
+        "rhymes": {
+            "all": "-ɛkər"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "kwɪbɛkər"
+        },
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "quechua": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "quech",
+                "ua"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kɛʧ,wɑ",
+            "simplified": "kɛʧwɑ"
+        },
+        "rhymePatterns": {
+            "all": "-ɑ"
+        },
+        "definitions": [
+            {
+                "definition": "a member of a South American Indian people in Peru who were formerly the ruling class of the Inca empire",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "kechua"
+                ],
+                "typeOf": [
+                    "south american"
+                ],
+                "hasTypes": [
+                    "inca",
+                    "incan",
+                    "inka"
+                ],
+                "derivation": [
+                    "quechuan"
+                ]
+            },
+            {
+                "definition": "the language of the Quechua which was spoken by the Incas",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "kechua",
+                    "kechuan",
+                    "quechuan",
+                    "quechuan language"
+                ],
+                "typeOf": [
+                    "american-indian language",
+                    "american indian",
+                    "indian",
+                    "amerindian language",
+                    "amerind"
+                ],
+                "derivation": [
+                    "quechuan"
+                ]
+            },
+            {
+                "definition": "a community of South American Indians in Peru who were formerly the ruling class of the Incan Empire",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "kechua"
+                ],
+                "instanceOf": [
+                    "community"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.2,
+            "perMillion": 0.15,
+            "diversity": 0
+        }
+    },
+    "quechuan": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "quech",
+                "uan"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kɛʧ,wən",
+            "simplified": "kɛʧwən"
+        },
+        "rhymePatterns": {
+            "all": "-ən"
+        },
+        "definitions": [
+            {
+                "definition": "the language of the Quechua which was spoken by the Incas",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "kechua",
+                    "kechuan",
+                    "quechua",
+                    "quechuan language"
+                ],
+                "typeOf": [
+                    "american-indian language",
+                    "american indian",
+                    "amerind",
+                    "amerindian language",
+                    "indian"
+                ]
+            },
+            {
+                "definition": "of or relating to the Quechua or their language",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "kechuan"
+                ],
+                "pertainsTo": [
+                    "quechua"
+                ],
+                "derivation": [
+                    "quechua"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7
+    },
+    "queen's-flower": {
+        "rhymes": {
+            "all": "-ouər"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "kwinzflouər"
+        },
+        "sounds": 11
+    },
+    "queenhood": {
+        "rhymes": {
+            "all": "-ʊd"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "kwinhʊd"
+        },
+        "sounds": 7,
+        "frequency": 1.74
+    },
+    "queening": {
+        "rhymes": {
+            "all": "-inɪŋ"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "kwinɪŋ"
+        },
+        "sounds": 6
+    },
+    "quenchless": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "quench",
+                "less"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kwɛnʧlɪs",
+            "simplified": "kwɛnʧlɪs"
+        },
+        "rhymePatterns": {
+            "all": "-ɛntʃlɪs"
+        },
+        "definitions": [
+            {
+                "definition": "impossible to quench",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unquenchable"
+                ],
+                "similarTo": [
+                    "insatiable",
+                    "insatiate",
+                    "unsatiable"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "questionary": {
+        "rhymes": {
+            "all": "-ɛri"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "kwɛsʧənɛri"
+        },
+        "sounds": 11
+    },
+    "questorial": {
+        "rhymes": {
+            "all": "-oʊriəl"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "kwɛstoʊriəl"
+        },
+        "sounds": 11
+    },
+    "quetzalcoatl": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "quet",
+                "zal",
+                "co",
+                "a",
+                "tl"
+            ]
+        },
+        "pronunciation": {
+            "all": "kɛt,sɑlkoʊ'ɑtəl",
+            "simplified": "kɛtsɑlkoʊɑtəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɑtəl"
+        },
+        "definitions": [
+            {
+                "definition": "an Aztec deity represented as a plumed serpent",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "deity",
+                    "divinity",
+                    "god",
+                    "immortal"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 13,
+        "frequency": {
+            "zipf": 2.38,
+            "perMillion": 0.23,
+            "diversity": 0
+        }
+    },
+    "quick-freeze": {
+        "pronunciation": {
+            "all": "'kwɪk,friz",
+            "simplified": "kwɪkfriz"
+        },
+        "rhymePatterns": {
+            "all": "-iz"
+        },
+        "definitions": [
+            {
+                "definition": "freeze rapidly so as to preserve the natural juices and flavors",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "flash-freeze"
+                ],
+                "typeOf": [
+                    "freeze"
+                ],
+                "examples": [
+                    "quick-freeze the shrimp"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 8
+    },
+    "quickhatch": {
+        "rhymes": {
+            "all": "-ætʃ"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "kwɪkhæʧ"
+        },
+        "sounds": 8
+    },
+    "quickstep": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "quick",
+                "step"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kwɪk,stɛp",
+            "simplified": "kwɪkstɛp"
+        },
+        "rhymePatterns": {
+            "all": "-ɛp"
+        },
+        "definitions": [
+            {
+                "definition": "a ballroom dance with both quick and slow steps",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "ballroom dance",
+                    "ballroom dancing"
+                ]
+            },
+            {
+                "definition": "military march accompanying quick time",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "martial music",
+                    "military march",
+                    "military music"
+                ]
+            },
+            {
+                "definition": "perform a quickstep",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "dance",
+                    "trip the light fantastic",
+                    "trip the light fantastic toe"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.03,
+            "perMillion": 0.09,
+            "diversity": 0
+        }
+    },
+    "quiddity": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "quid",
+                "di",
+                "ty"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kwɪdɪti",
+            "simplified": "kwɪdɪti"
+        },
+        "rhymePatterns": {
+            "all": "-ɪdɪti"
+        },
+        "definitions": [
+            {
+                "definition": "the essence that makes something the kind of thing it is and makes it different from any other",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "haecceity"
+                ],
+                "typeOf": [
+                    "core",
+                    "essence",
+                    "gist",
+                    "heart",
+                    "heart and soul",
+                    "inwardness",
+                    "kernel",
+                    "marrow",
+                    "meat",
+                    "nitty-gritty",
+                    "nub",
+                    "pith",
+                    "substance",
+                    "center",
+                    "sum",
+                    "centre"
+                ]
+            },
+            {
+                "definition": "an evasion of the point of an argument by raising irrelevant distinctions or objections",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "cavil",
+                    "quibble"
+                ],
+                "typeOf": [
+                    "equivocation",
+                    "evasion"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7
+    },
+    "quiet-eyed": {
+        "rhymes": {
+            "all": "-aɪɪt_aɪd"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "kwaɪɪtaɪd"
+        },
+        "sounds": 9
+    },
+    "quiet-living": {
+        "rhymes": {
+            "all": "-ɪvɪŋ"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "kwaɪɪtlɪvɪŋ"
+        },
+        "sounds": 11
+    },
+    "quiet-mannered": {
+        "rhymes": {
+            "all": "-ænərd"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "kwaɪɪtmænərd"
+        },
+        "sounds": 12
+    },
+    "quiet-tempered": {
+        "rhymes": {
+            "all": "-ɛmpərd"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "kwaɪɪttɛmpərd"
+        },
+        "sounds": 13
+    },
+    "quilt": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "quilt"
+            ]
+        },
+        "pronunciation": {
+            "all": "kwɪlt",
+            "simplified": "kwɪlt"
+        },
+        "rhymePatterns": {
+            "all": "-ɪlt"
+        },
+        "definitions": [
+            {
+                "definition": "bedding made of two layers of cloth filled with stuffing and stitched together",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "comfort",
+                    "comforter",
+                    "puff"
+                ],
+                "typeOf": [
+                    "bed clothing",
+                    "bedclothes",
+                    "bedding"
+                ],
+                "hasTypes": [
+                    "patchwork",
+                    "patchwork quilt",
+                    "eiderdown",
+                    "continental quilt",
+                    "duvet"
+                ]
+            },
+            {
+                "definition": "create by stitching together",
+                "partOfSpeech": "verb",
+                "entails": [
+                    "bolster",
+                    "pad"
+                ],
+                "typeOf": [
+                    "tailor-make",
+                    "sew",
+                    "tailor"
+                ],
+                "derivation": [
+                    "quilting"
+                ]
+            },
+            {
+                "definition": "stitch or sew together",
+                "partOfSpeech": "verb",
+                "entails": [
+                    "sew",
+                    "sew together",
+                    "stitch",
+                    "run up"
+                ],
+                "typeOf": [
+                    "conjoin",
+                    "join"
+                ],
+                "derivation": [
+                    "quilting"
+                ],
+                "examples": [
+                    "quilt the skirt"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.09,
+            "perMillion": 1.21,
+            "diversity": 0
+        }
+    },
+    "quincunx": {
+        "rhymes": {
+            "all": "-ɪŋkəŋks"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "kwɪŋkəŋks"
+        },
+        "sounds": 9
+    },
+    "quinidine": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "quin",
+                "i",
+                "dine"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kwɪnɪ,din",
+            "simplified": "kwɪnɪdin"
+        },
+        "rhymePatterns": {
+            "all": "-in"
+        },
+        "definitions": [
+            {
+                "definition": "cardiac drug (trade names Quinidex and Quinora) used to treat certain heart arrhythmias",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "quinidex",
+                    "quinora"
+                ],
+                "typeOf": [
+                    "antiarrhythmic",
+                    "antiarrhythmic drug",
+                    "antiarrhythmic medication"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": 1.74
+    },
+    "quinquennium": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "quin",
+                "quen",
+                "ni",
+                "um"
+            ]
+        },
+        "pronunciation": {
+            "all": "kwɪn'kwɛniəm",
+            "simplified": "kwɪnkwɛniəm"
+        },
+        "rhymePatterns": {
+            "all": "-ɛniəm"
+        },
+        "definitions": [
+            {
+                "definition": "a period of five years",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "period",
+                    "period of time",
+                    "time period"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 11
+    },
+    "quinquevalent": {
+        "rhymes": {
+            "all": "-eɪlənt"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "kwɪŋkwəveɪlənt"
+        },
+        "sounds": 14
+    },
+    "quintessentially": {
+        "rhymes": {
+            "all": "-ɛnʃəlli"
+        },
+        "letters": 16,
+        "pronunciation": ",kwɪntʌ'sɛntʃʌli",
+        "sounds": 14,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "quintus": {
+        "rhymes": {
+            "all": "-ɪntəs"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "kwɪntəs"
+        },
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "quoth": {
+        "rhymes": {
+            "all": "-oʊθ"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "kwoʊθ"
+        },
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "qurush": {
+        "pronunciation": {
+            "all": "'kʊrəsh",
+            "simplified": "kʊrəsh"
+        },
+        "rhymePatterns": {
+            "all": "-ʊrəsh"
+        },
+        "definitions": [
+            {
+                "definition": "20 qurush equal 1 riyal in Saudi Arabia",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "saudi arabian monetary unit"
+                ],
+                "partOf": [
+                    "riyal",
+                    "saudi arabian riyal"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6
+    }
+}

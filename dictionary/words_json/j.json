@@ -1,0 +1,1942 @@
+{
+    "james": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "james"
+            ]
+        },
+        "pronunciation": {
+            "all": "dʒeɪmz",
+            "simplified": "dʒeɪmz"
+        },
+        "rhymePatterns": {
+            "all": "-eɪmz"
+        },
+        "definitions": [
+            {
+                "definition": "(New Testament) disciple of Jesus; brother of John; author of the Epistle of James in the New Testament",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "saint james",
+                    "saint james the apostle",
+                    "st. james",
+                    "st. james the apostle"
+                ],
+                "inCategory": [
+                    "new testament"
+                ],
+                "instanceOf": [
+                    "apostle",
+                    "saint"
+                ]
+            },
+            {
+                "definition": "United States outlaw who fought as a Confederate soldier and later led a band of outlaws that robbed trains and banks in the West until he was murdered by a member of his own gang (1847-1882)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "jesse james"
+                ],
+                "instanceOf": [
+                    "criminal",
+                    "outlaw",
+                    "malefactor",
+                    "crook",
+                    "felon"
+                ]
+            },
+            {
+                "definition": "writer who was born in the United States but lived in England (1843-1916)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "henry james"
+                ],
+                "instanceOf": [
+                    "author",
+                    "writer"
+                ]
+            },
+            {
+                "definition": "a river in Virginia that flows east into Chesapeake Bay at Hampton Roads",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "james river"
+                ],
+                "instanceOf": [
+                    "river"
+                ],
+                "partOf": [
+                    "virginia",
+                    "va",
+                    "va.",
+                    "old dominion state",
+                    "old dominion"
+                ]
+            },
+            {
+                "definition": "the first Stuart to be king of England and Ireland from 1603 to 1625 and king of Scotland from 1567 to 1625; he was the son of Mary Queen of Scots and he succeeded Elizabeth I; he alienated the British Parliament by claiming the divine right of kings (1566-1625)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "james i",
+                    "king james",
+                    "king james i"
+                ],
+                "instanceOf": [
+                    "king of england",
+                    "king of great britain"
+                ],
+                "memberOf": [
+                    "stuart"
+                ]
+            },
+            {
+                "definition": "a river that rises in North Dakota and flows southward across South Dakota to the Missouri",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "james river"
+                ],
+                "instanceOf": [
+                    "river"
+                ],
+                "partOf": [
+                    "peace garden state",
+                    "coyote state",
+                    "south dakota",
+                    "sd",
+                    "s.d.",
+                    "mount rushmore state",
+                    "n.d.",
+                    "nd",
+                    "north dakota"
+                ]
+            },
+            {
+                "definition": "a Stuart king of Scotland who married a daughter of Henry VII; when England and France went to war in 1513 he invaded England and died in defeat at Flodden (1473-1513)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "james iv"
+                ],
+                "instanceOf": [
+                    "male monarch",
+                    "rex",
+                    "king"
+                ],
+                "memberOf": [
+                    "stuart"
+                ]
+            },
+            {
+                "definition": "the last Stuart to be king of England and Ireland and Scotland; overthrown in 1688 (1633-1701)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "james ii"
+                ],
+                "instanceOf": [
+                    "king of england",
+                    "king of great britain"
+                ],
+                "memberOf": [
+                    "stuart"
+                ]
+            },
+            {
+                "definition": "United States pragmatic philosopher and psychologist (1842-1910)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "william james"
+                ],
+                "instanceOf": [
+                    "philosopher",
+                    "psychologist"
+                ]
+            },
+            {
+                "definition": "a New Testament book attributed to Saint James the Apostle",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "epistle of james"
+                ],
+                "instanceOf": [
+                    "epistle"
+                ],
+                "partOf": [
+                    "new testament"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 4.68,
+            "perMillion": 48.21,
+            "diversity": 0.08
+        }
+    },
+    "jannock": {
+        "rhymes": {
+            "all": "-ænək"
+        },
+        "letters": 7,
+        "pronunciation": "'dʒænʌk",
+        "sounds": 6
+    },
+    "janus": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ja",
+                "nus"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒeɪnəs",
+            "simplified": "dʒeɪnəs"
+        },
+        "rhymePatterns": {
+            "all": "-eɪnəs"
+        },
+        "definitions": [
+            {
+                "definition": "(Roman mythology) the Roman god of doorways and passages; is depicted with two faces on opposite sides of his head",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "roman mythology"
+                ],
+                "instanceOf": [
+                    "roman deity"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.24,
+            "perMillion": 0.16,
+            "diversity": 0
+        }
+    },
+    "japura": {
+        "rhymes": {
+            "all": "-ɑ"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "ʒɑpʊRɑ"
+        },
+        "sounds": 6
+    },
+    "jarash": {
+        "rhymes": {
+            "all": "-ærɑʃ"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "dʒærɑʃ"
+        },
+        "sounds": 6
+    },
+    "jargoon": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "jar",
+                "goon"
+            ]
+        },
+        "pronunciation": {
+            "all": "dʒɑr'ɡun",
+            "simplified": "dʒɑrɡun"
+        },
+        "rhymePatterns": {
+            "all": "-un"
+        },
+        "definitions": [
+            {
+                "definition": "a colorless (or pale yellow or smoky) variety of zircon",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "jargon"
+                ],
+                "typeOf": [
+                    "zircon",
+                    "zirconium silicate"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7
+    },
+    "jasmine": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "jas",
+                "mine"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒæzmɪn",
+            "simplified": "dʒæzmɪn"
+        },
+        "rhymePatterns": {
+            "all": "-æzmɪn"
+        },
+        "definitions": [
+            {
+                "definition": "any of several shrubs and vines of the genus Jasminum chiefly native to Asia",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "bush",
+                    "shrub"
+                ],
+                "hasTypes": [
+                    "winter jasmine",
+                    "common jasmine",
+                    "true jasmine",
+                    "arabian jasmine",
+                    "jasminum mesnyi",
+                    "jasminum nudiflorum",
+                    "jasminum officinale",
+                    "jasminum sambac",
+                    "jessamine",
+                    "primrose jasmine"
+                ],
+                "memberOf": [
+                    "jasminum",
+                    "genus jasminum"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.83,
+            "perMillion": 6.72,
+            "diversity": 0.01
+        }
+    },
+    "jasy": {
+        "rhymes": {
+            "all": "-eɪzi"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "dʒeɪzi"
+        },
+        "sounds": 6
+    },
+    "jauregui": {
+        "rhymes": {
+            "all": "-oʊreɪghi"
+        },
+        "letters": 8,
+        "pronunciation": "jaʊ'reɪɡwi",
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "javanese": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "jav",
+                "a",
+                "nese"
+            ]
+        },
+        "pronunciation": {
+            "all": ",dʒævə'niz",
+            "simplified": "dʒævəniz"
+        },
+        "rhymePatterns": {
+            "all": "-iz"
+        },
+        "definitions": [
+            {
+                "definition": "a native or inhabitant of Java",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "javan"
+                ],
+                "typeOf": [
+                    "indonesian"
+                ],
+                "memberOf": [
+                    "java"
+                ]
+            },
+            {
+                "definition": "of or relating to or characteristic of Java or its inhabitants or its language",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "javan"
+                ],
+                "pertainsTo": [
+                    "java"
+                ]
+            },
+            {
+                "definition": "the Indonesian language spoken on Java",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "bahasa",
+                    "bahasa indonesia",
+                    "indonesian"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "jaybird": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "jay",
+                "bird"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒeɪ,bɜrd",
+            "simplified": "dʒeɪbɜrd"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrd"
+        },
+        "definitions": [
+            {
+                "definition": "common jay of eastern North America; bright blue with grey breast",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "blue jay",
+                    "cyanocitta cristata"
+                ],
+                "typeOf": [
+                    "new world jay"
+                ],
+                "memberOf": [
+                    "cyanocitta",
+                    "genus cyanocitta"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.24,
+            "perMillion": 0.16,
+            "diversity": 0
+        }
+    },
+    "jayvee": {
+        "rhymes": {
+            "all": "-i"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "dʒeɪvi"
+        },
+        "sounds": 6
+    },
+    "jean": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "jean"
+            ]
+        },
+        "pronunciation": {
+            "all": "dʒin",
+            "simplified": "dʒin"
+        },
+        "rhymePatterns": {
+            "all": "-in"
+        },
+        "definitions": [
+            {
+                "definition": "a coarse durable twill-weave cotton fabric",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "denim",
+                    "dungaree"
+                ],
+                "typeOf": [
+                    "cloth",
+                    "fabric",
+                    "material",
+                    "textile"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 4.49,
+            "perMillion": 30.69,
+            "diversity": 0.02
+        }
+    },
+    "jean-louis": {
+        "rhymes": {
+            "all": "-i"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ʒæŋlwi"
+        },
+        "sounds": 6
+    },
+    "jefe": {
+        "rhymes": {
+            "all": "-ɛfɛ"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "hɛfɛ"
+        },
+        "sounds": 4,
+        "frequency": {
+            "zipf": 2.77,
+            "perMillion": 0.57,
+            "diversity": 0
+        }
+    },
+    "jeff": {
+        "rhymes": {
+            "all": "-ɛf"
+        },
+        "letters": 4,
+        "pronunciation": "dʒɛf",
+        "sounds": 4,
+        "frequency": {
+            "zipf": 4.3,
+            "perMillion": 19.94,
+            "diversity": 0.02
+        }
+    },
+    "jehoshaphat": {
+        "rhymes": {
+            "all": "-æt"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "dʒɪhɑʃəfæt"
+        },
+        "sounds": 10,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "jelab": {
+        "rhymes": {
+            "all": "-ɑb"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "dʒəlɑb"
+        },
+        "sounds": 6
+    },
+    "jen": {
+        "rhymes": {
+            "all": "-ən"
+        },
+        "letters": 3,
+        "pronunciation": "dʒɛn",
+        "sounds": 3,
+        "frequency": {
+            "zipf": 3.98,
+            "perMillion": 9.5,
+            "diversity": 0.01
+        }
+    },
+    "jena": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "je",
+                "na"
+            ]
+        },
+        "pronunciation": {
+            "all": "'jeɪnɑ",
+            "simplified": "jeɪnɑ"
+        },
+        "rhymePatterns": {
+            "all": "-eɪnɑ"
+        },
+        "definitions": [
+            {
+                "definition": "the battle in 1806 in which Napoleon decisively defeated the Prussians",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "battle of jena"
+                ],
+                "inRegion": [
+                    "deutschland",
+                    "federal republic of germany",
+                    "frg",
+                    "germany"
+                ],
+                "instanceOf": [
+                    "pitched battle"
+                ],
+                "partOf": [
+                    "napoleonic wars"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.69,
+            "perMillion": 0.48,
+            "diversity": 0
+        }
+    },
+    "jen-min-piao": {
+        "rhymes": {
+            "all": "-aʊ"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "ʒənminpjaʊ"
+        },
+        "sounds": 10
+    },
+    "jenin": {
+        "rhymes": {
+            "all": "-in"
+        },
+        "letters": 5,
+        "pronunciation": "'dʒɛnɪn",
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.97,
+            "perMillion": 0.08,
+            "diversity": 0
+        }
+    },
+    "jephte": {
+        "rhymes": {
+            "all": "-ɛftə"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "dʒɛftə"
+        },
+        "sounds": 6
+    },
+    "jeremianic": {
+        "rhymes": {
+            "all": "-ænɪk"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "dʒɛrəmaɪænɪk"
+        },
+        "sounds": 12
+    },
+    "jeremiah": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "jer",
+                "e",
+                "mi",
+                "ah"
+            ]
+        },
+        "pronunciation": {
+            "all": ",dʒɛrə'maɪə",
+            "simplified": "dʒɛrəmaɪə"
+        },
+        "rhymePatterns": {
+            "all": "-aɪə"
+        },
+        "definitions": [
+            {
+                "definition": "a book in the Old Testament containing the oracles of the prophet Jeremiah",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "book of jeremiah"
+                ],
+                "instanceOf": [
+                    "book"
+                ],
+                "partOf": [
+                    "nebiim",
+                    "old testament",
+                    "prophets"
+                ]
+            },
+            {
+                "definition": "(Old Testament) an Israelite prophet who is remembered for his angry lamentations (jeremiads) about the wickedness of his people (circa 626-587 BC)",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "old testament"
+                ],
+                "instanceOf": [
+                    "prophet"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 3.08,
+            "perMillion": 1.19,
+            "diversity": 0
+        }
+    },
+    "jerez": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "je",
+                "rez"
+            ]
+        },
+        "pronunciation": {
+            "all": "hɛ'Rɛθ",
+            "simplified": "hɛRɛθ"
+        },
+        "rhymePatterns": {
+            "all": "-ɛθ"
+        },
+        "definitions": [
+            {
+                "definition": "a city in southwestern Spain that is famous for making sherry",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "jerez de la frontera"
+                ],
+                "instanceOf": [
+                    "city",
+                    "metropolis",
+                    "urban center"
+                ],
+                "partOf": [
+                    "espana",
+                    "kingdom of spain",
+                    "spain"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.33,
+            "perMillion": 0.2,
+            "diversity": 0
+        }
+    },
+    "jericho": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "jer",
+                "i",
+                "cho"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɛrə,koʊ",
+            "simplified": "dʒɛrəkoʊ"
+        },
+        "rhymePatterns": {
+            "all": "-oʊ"
+        },
+        "definitions": [
+            {
+                "definition": "a village in Palestine near the north end of the Dead Sea; in the Old Testament it was the first place taken by the Israelites under Joshua as they entered the Promised Land",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "hamlet",
+                    "village"
+                ],
+                "partOf": [
+                    "west bank"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.4,
+            "perMillion": 2.48,
+            "diversity": 0
+        }
+    },
+    "jerkinhead": {
+        "rhymes": {
+            "all": "-ɛd"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "dʒɜrkɪnhɛd"
+        },
+        "sounds": 10
+    },
+    "jerold": {
+        "rhymes": {
+            "all": "-ɛrəld"
+        },
+        "letters": 6,
+        "pronunciation": "'dʒɛroʊld",
+        "sounds": 7
+    },
+    "jerubbaal": {
+        "rhymes": {
+            "all": "-eɪl"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "dʒɛrəbeɪl"
+        },
+        "sounds": 9
+    },
+    "jes�s": {
+        "rhymes": {
+            "all": "-us"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "hɛsus"
+        },
+        "sounds": 5
+    },
+    "jet-black": {
+        "pronunciation": {
+            "all": "dʒɛt_blæk",
+            "simplified": "dʒɛtblæk"
+        },
+        "rhymePatterns": {
+            "all": "-ɛt_blæk"
+        },
+        "definitions": [
+            {
+                "definition": "of the blackest black; similar to the color of jet or coal",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "coal-black",
+                    "jet",
+                    "pitchy",
+                    "sooty"
+                ],
+                "similarTo": [
+                    "achromatic",
+                    "neutral"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8
+    },
+    "jetliner": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "jet",
+                "lin",
+                "er"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɛt,laɪnər",
+            "simplified": "dʒɛtlaɪnər"
+        },
+        "rhymePatterns": {
+            "all": "-aɪnər"
+        },
+        "definitions": [
+            {
+                "definition": "a large jet plane that carries passengers",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "jet",
+                    "jet-propelled plane",
+                    "jet plane"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "jewellery": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "jew",
+                "el",
+                "ler",
+                "y"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒuəlri",
+            "simplified": "dʒuəlri"
+        },
+        "rhymePatterns": {
+            "all": "-uəlri"
+        },
+        "definitions": [
+            {
+                "definition": "an adornment (as a bracelet or ring or necklace) made of precious metals and set with gems (or imitation gems)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "jewelry"
+                ],
+                "typeOf": [
+                    "adornment"
+                ],
+                "hasTypes": [
+                    "band",
+                    "bangle",
+                    "bead",
+                    "bijou",
+                    "bling",
+                    "bling bling",
+                    "bracelet",
+                    "clip",
+                    "cufflink",
+                    "earring",
+                    "gem",
+                    "tie clip",
+                    "pin",
+                    "precious stone",
+                    "ring",
+                    "jewel",
+                    "necklace"
+                ],
+                "hasParts": [
+                    "gemstone",
+                    "gem",
+                    "stone"
+                ],
+                "derivation": [
+                    "jewel"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.49,
+            "perMillion": 3.08,
+            "diversity": 0.01
+        }
+    },
+    "jezebelish": {
+        "rhymes": {
+            "all": "-ɛlɪʃ"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "dʒɛzəbɛlɪʃ"
+        },
+        "sounds": 10
+    },
+    "jib-header": {
+        "rhymes": {
+            "all": "-ɛdər"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "dʒɪbhɛdər"
+        },
+        "sounds": 9
+    },
+    "jigger": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "jig",
+                "ger"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɪɡər",
+            "simplified": "dʒɪɡər"
+        },
+        "rhymePatterns": {
+            "all": "-ɪɡər"
+        },
+        "definitions": [
+            {
+                "definition": "larval mite that sucks the blood of vertebrates including human beings causing intense irritation",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "chigger",
+                    "harvest mite",
+                    "redbug"
+                ],
+                "typeOf": [
+                    "trombiculid"
+                ],
+                "memberOf": [
+                    "genus trombicula",
+                    "trombicula"
+                ]
+            },
+            {
+                "definition": "a small glass adequate to hold a single swallow of whiskey",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "pony",
+                    "shot glass"
+                ],
+                "typeOf": [
+                    "drinking glass",
+                    "glass"
+                ]
+            },
+            {
+                "definition": "any small mast on a sailing vessel; especially the mizzenmast of a yawl",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "jiggermast"
+                ],
+                "typeOf": [
+                    "mast"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.08,
+            "perMillion": 0.11,
+            "diversity": 0
+        }
+    },
+    "jib-headed": {
+        "rhymes": {
+            "all": "-ɛdɪd"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "dʒɪbhɛdɪd"
+        },
+        "sounds": 9
+    },
+    "jimjams": {
+        "rhymes": {
+            "all": "-æmz"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "dʒɪmdʒæmz"
+        },
+        "sounds": 9,
+        "frequency": 2.02
+    },
+    "jimp": {
+        "rhymes": {
+            "all": "-ɪmp"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "dʒɪmp"
+        },
+        "sounds": 5,
+        "frequency": 2.31
+    },
+    "jitterbug": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "jit",
+                "ter",
+                "bug"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɪtər,bəɡ",
+            "simplified": "dʒɪtərbəɡ"
+        },
+        "rhymePatterns": {
+            "all": "-əɡ"
+        },
+        "definitions": [
+            {
+                "definition": "a jerky American dance that was popular in the 1940s",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "social dancing"
+                ]
+            },
+            {
+                "definition": "do the jitterbug",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "dance",
+                    "trip the light fantastic",
+                    "trip the light fantastic toe"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.17,
+            "perMillion": 0.13,
+            "diversity": 0
+        }
+    },
+    "jittery": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "jit",
+                "ter",
+                "y"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɪtəri",
+            "simplified": "dʒɪtəri"
+        },
+        "rhymePatterns": {
+            "all": "-ɪtəri"
+        },
+        "definitions": [
+            {
+                "definition": "being in a tense state",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "edgy",
+                    "high-strung",
+                    "highly strung",
+                    "jumpy",
+                    "nervy",
+                    "overstrung",
+                    "restive",
+                    "uptight"
+                ],
+                "similarTo": [
+                    "tense"
+                ],
+                "derivation": [
+                    "jitteriness"
+                ]
+            },
+            {
+                "definition": "characterized by jerky movements",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "jitter"
+                ],
+                "derivation": [
+                    "jitter"
+                ],
+                "examples": [
+                    "a jittery ride"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.7,
+            "perMillion": 0.49,
+            "diversity": 0
+        }
+    },
+    "joaquim": {
+        "rhymes": {
+            "all": "-ɔɑkɪm"
+        },
+        "letters": 7,
+        "pronunciation": ",wɑ'kim",
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.17,
+            "perMillion": 1.48,
+            "diversity": 0
+        }
+    },
+    "jobbery": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "job",
+                "ber",
+                "y"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɑbəri",
+            "simplified": "dʒɑbəri"
+        },
+        "rhymePatterns": {
+            "all": "-ɑbəri"
+        },
+        "definitions": [
+            {
+                "definition": "corruptness among public officials",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "corruption",
+                    "corruptness"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7
+    },
+    "jodean": {
+        "rhymes": {
+            "all": "-in"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "dʒoʊdin"
+        },
+        "sounds": 7
+    },
+    "jog-trot": {
+        "rhymes": {
+            "all": "-ɑg_trɑt"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "dʒɑgtrɑt"
+        },
+        "sounds": 8
+    },
+    "johannesburg": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "jo",
+                "han",
+                "nes",
+                "burg"
+            ]
+        },
+        "pronunciation": {
+            "all": "dʒoʊ'hænɪs,bɜrg",
+            "simplified": "dʒoʊhænɪsbɜrg"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrg"
+        },
+        "definitions": [
+            {
+                "definition": "city in the northeastern part of South Africa near Pretoria; commercial center for diamond and gold industries",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "city",
+                    "metropolis",
+                    "urban center"
+                ],
+                "partOf": [
+                    "republic of south africa",
+                    "south africa"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 13,
+        "frequency": {
+            "zipf": 2.75,
+            "perMillion": 0.55,
+            "diversity": 0
+        }
+    },
+    "john-apple": {
+        "rhymes": {
+            "all": "-æpəl"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "dʒɑnæpəl"
+        },
+        "sounds": 8
+    },
+    "johnson": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "john",
+                "son"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɑnsən",
+            "simplified": "dʒɑnsən"
+        },
+        "rhymePatterns": {
+            "all": "-ɑnsən"
+        },
+        "definitions": [
+            {
+                "definition": "17th President of the United States; was elected vice president and succeeded Lincoln when Lincoln was assassinated; was impeached but acquitted by one vote (1808-1875)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "andrew johnson",
+                    "president andrew johnson",
+                    "president johnson"
+                ],
+                "instanceOf": [
+                    "president of the united states",
+                    "united states president",
+                    "chief executive",
+                    "president"
+                ]
+            },
+            {
+                "definition": "36th President of the United States; was elected vice president and succeeded Kennedy when Kennedy was assassinated (1908-1973)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "lbj",
+                    "lyndon baines johnson",
+                    "lyndon johnson",
+                    "president johnson",
+                    "president lyndon johnson"
+                ],
+                "instanceOf": [
+                    "president of the united states",
+                    "united states president",
+                    "president",
+                    "chief executive"
+                ]
+            },
+            {
+                "definition": "English writer and lexicographer (1709-1784)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dr. johnson",
+                    "samuel johnson"
+                ],
+                "instanceOf": [
+                    "writer",
+                    "lexicographer",
+                    "lexicologist",
+                    "author"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 4.19,
+            "perMillion": 15.48,
+            "diversity": 0.04
+        }
+    },
+    "jointweed": {
+        "rhymes": {
+            "all": "-id"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "dʒɔɪntwid"
+        },
+        "sounds": 9
+    },
+    "joist": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "joist"
+            ]
+        },
+        "pronunciation": {
+            "all": "dʒɔɪst",
+            "simplified": "dʒɔɪst"
+        },
+        "rhymePatterns": {
+            "all": "-ɔɪst"
+        },
+        "definitions": [
+            {
+                "definition": "beam used to support floors or roofs",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "beam"
+                ],
+                "hasTypes": [
+                    "floor joist",
+                    "trimmer",
+                    "trimmer joist"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "jolson": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "jol",
+                "son"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒoʊlsən",
+            "simplified": "dʒoʊlsən"
+        },
+        "rhymePatterns": {
+            "all": "-oʊlsən"
+        },
+        "definitions": [
+            {
+                "definition": "United States singer (born in Russia) who appeared in the first full-length talking film (1886-1950)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "al jolson",
+                    "asa yoelson"
+                ],
+                "instanceOf": [
+                    "actor",
+                    "histrion",
+                    "player",
+                    "role player",
+                    "singer",
+                    "thespian",
+                    "vocaliser",
+                    "vocalist",
+                    "vocalizer"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.12,
+            "perMillion": 0.12,
+            "diversity": 0
+        }
+    },
+    "jonathan": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "jon",
+                "a",
+                "than"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɑnəθən",
+            "simplified": "dʒɑnəθən"
+        },
+        "rhymePatterns": {
+            "all": "-ɑnəθən"
+        },
+        "definitions": [
+            {
+                "definition": "red late-ripening apple; primarily eaten raw",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "dessert apple",
+                    "eating apple"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 4.09,
+            "perMillion": 12.17,
+            "diversity": 0.02
+        }
+    },
+    "jonson": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "jon",
+                "son"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɑnsən",
+            "simplified": "dʒɑnsən"
+        },
+        "rhymePatterns": {
+            "all": "-ɑnsən"
+        },
+        "definitions": [
+            {
+                "definition": "English dramatist and poet who was the first real poet laureate of England (1572-1637)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "ben jonson",
+                    "benjamin jonson"
+                ],
+                "instanceOf": [
+                    "dramatist",
+                    "playwright",
+                    "poet"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.27,
+            "perMillion": 0.17,
+            "diversity": 0
+        }
+    },
+    "joseph": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "jo",
+                "seph"
+            ]
+        },
+        "pronunciation": {
+            "all": "'joʊzɛf",
+            "simplified": "joʊzɛf"
+        },
+        "rhymePatterns": {
+            "all": "-oʊzɛf"
+        },
+        "definitions": [
+            {
+                "definition": "leader of the Nez Perce in their retreat from United States troops (1840-1904)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "chief joseph"
+                ],
+                "instanceOf": [
+                    "nez perce",
+                    "indian chief",
+                    "indian chieftain"
+                ]
+            },
+            {
+                "definition": "(New Testament) husband of Mary and (in Christian belief) the foster father of Jesus",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "new testament"
+                ],
+                "instanceOf": [
+                    "carpenter"
+                ]
+            },
+            {
+                "definition": "(Old Testament) the 11th son of Jacob and one of the 12 patriarchs of Israel; Jacob gave Joseph a coat of many colors, which made his brothers jealous and they sold him into slavery in Egypt",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "old testament"
+                ],
+                "instanceOf": [
+                    "patriarch"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 4.32,
+            "perMillion": 20.75,
+            "diversity": 0.04
+        }
+    },
+    "joser": {
+        "rhymes": {
+            "all": "-oʊsər"
+        },
+        "letters": 5,
+        "pronunciation": "'dʒoʊzɝr",
+        "sounds": 7
+    },
+    "jotun": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "jo",
+                "tun"
+            ]
+        },
+        "pronunciation": {
+            "all": "'jɔtʊn",
+            "simplified": "jɔtʊn"
+        },
+        "rhymePatterns": {
+            "all": "-ɔtʊn"
+        },
+        "definitions": [
+            {
+                "definition": "(Norse mythology) one of a group of giants often in conflict with the Aesir",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "jotunn"
+                ],
+                "inCategory": [
+                    "norse mythology"
+                ],
+                "typeOf": [
+                    "giant"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5
+    },
+    "journalism": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "jour",
+                "nal",
+                "ism"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɜr,nəlɪzəm",
+            "simplified": "dʒɜrnəlɪzəm"
+        },
+        "rhymePatterns": {
+            "all": "-əlɪzəm"
+        },
+        "definitions": [
+            {
+                "definition": "newspapers and magazines collectively",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "news media"
+                ],
+                "typeOf": [
+                    "print media"
+                ],
+                "hasTypes": [
+                    "fleet street",
+                    "photojournalism",
+                    "yellow journalism",
+                    "tab",
+                    "tabloid"
+                ],
+                "hasSubstances": [
+                    "copy"
+                ],
+                "derivation": [
+                    "journalist",
+                    "journalistic"
+                ]
+            },
+            {
+                "definition": "the profession of reporting or photographing or editing news stories for one of the media",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "profession"
+                ],
+                "hasTypes": [
+                    "newspapering"
+                ],
+                "derivation": [
+                    "journalist",
+                    "journalistic"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 3.5,
+            "perMillion": 3.17,
+            "diversity": 0.01
+        }
+    },
+    "journeyman": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "jour",
+                "ney",
+                "man"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒɜrnimən",
+            "simplified": "dʒɜrnimən"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrnimən"
+        },
+        "definitions": [
+            {
+                "definition": "a skilled worker who practices some trade or handicraft",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "artificer",
+                    "artisan",
+                    "craftsman"
+                ],
+                "typeOf": [
+                    "skilled workman",
+                    "trained worker",
+                    "skilled worker"
+                ],
+                "hasTypes": [
+                    "bookbinder",
+                    "bricklayer",
+                    "ceramicist",
+                    "ceramist",
+                    "clockmaker",
+                    "clocksmith",
+                    "coachbuilder",
+                    "construction worker",
+                    "cooper",
+                    "coppersmith",
+                    "cosmetician",
+                    "currier",
+                    "die-sinker",
+                    "diemaker",
+                    "diesinker",
+                    "glass-cutter",
+                    "glass cutter",
+                    "glassblower",
+                    "glassworker",
+                    "glazer",
+                    "glazier",
+                    "gold-beater",
+                    "goldbeater",
+                    "hairdresser",
+                    "hairstylist",
+                    "hard hat",
+                    "luthier",
+                    "machinist",
+                    "mason",
+                    "mechanic",
+                    "miller",
+                    "paperer",
+                    "paperhanger",
+                    "pipe fitter",
+                    "plumber",
+                    "potter",
+                    "rigger",
+                    "roofer",
+                    "rope-maker",
+                    "ropemaker",
+                    "roper",
+                    "shop mechanic",
+                    "steamfitter",
+                    "stonemason",
+                    "stuffer",
+                    "styler",
+                    "stylist",
+                    "tanner",
+                    "taxidermist",
+                    "thrower",
+                    "wright",
+                    "barrel maker",
+                    "beautician",
+                    "woodworker",
+                    "animal stuffer",
+                    "upholsterer",
+                    "weaver",
+                    "welder",
+                    "window dresser",
+                    "window trimmer",
+                    "woodman",
+                    "woodsman"
+                ],
+                "hasInstances": [
+                    "morris",
+                    "william morris"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "joy-rapt": {
+        "rhymes": {
+            "all": "-ɔɪ_ræpt"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "dʒɔɪræpt"
+        },
+        "sounds": 8
+    },
+    "juarez": {
+        "pronunciation": {
+            "all": "'wɑrɛz",
+            "simplified": "wɑrɛz"
+        },
+        "rhymePatterns": {
+            "all": "-ɑrɛz"
+        },
+        "definitions": [
+            {
+                "definition": "a city in northern Mexico on the Rio Grande opposite El Paso",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "ciudad juarez"
+                ],
+                "instanceOf": [
+                    "city",
+                    "metropolis",
+                    "urban center"
+                ],
+                "partOf": [
+                    "mexico",
+                    "united mexican states"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.19,
+            "perMillion": 1.52,
+            "diversity": 0
+        }
+    },
+    "jubate": {
+        "rhymes": {
+            "all": "-ubeɪt"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "dʒubeɪt"
+        },
+        "sounds": 7
+    },
+    "jube": {
+        "rhymes": {
+            "all": "-ubi"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "dʒubi"
+        },
+        "sounds": 5,
+        "frequency": 3.52
+    },
+    "jubilantly": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ju",
+                "bi",
+                "lant",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒubələntli",
+            "simplified": "dʒubələntli"
+        },
+        "rhymePatterns": {
+            "all": "-ubələntli"
+        },
+        "definitions": [
+            {
+                "definition": "in a joyous manner",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "blithely",
+                    "gayly",
+                    "happily",
+                    "merrily",
+                    "mirthfully"
+                ],
+                "pertainsTo": [
+                    "jubilant"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 11,
+        "frequency": 1.74
+    },
+    "jubilatory": {
+        "rhymes": {
+            "all": "-oʊri"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "dʒubələtoʊri"
+        },
+        "sounds": 12
+    },
+    "judah": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ju",
+                "dah"
+            ]
+        },
+        "pronunciation": {
+            "all": "'dʒudə",
+            "simplified": "dʒudə"
+        },
+        "rhymePatterns": {
+            "all": "-udə"
+        },
+        "definitions": [
+            {
+                "definition": "an ancient kingdom of southern Palestine with Jerusalem as its center",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "juda"
+                ],
+                "instanceOf": [
+                    "geographical region",
+                    "geographic area",
+                    "geographic region",
+                    "geographical area"
+                ],
+                "partOf": [
+                    "promised land",
+                    "holy land",
+                    "palestine",
+                    "canaan"
+                ]
+            },
+            {
+                "definition": "(Old Testament) the fourth son of Jacob who was forebear of one of the tribes of Israel; one of his descendants was to be the Messiah",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "old testament"
+                ],
+                "instanceOf": [
+                    "patriarch"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.02,
+            "perMillion": 1.04,
+            "diversity": 0
+        }
+    }
+}

@@ -1,0 +1,2096 @@
+{
+    "illegalise": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "il",
+                "le",
+                "gal",
+                "ise"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ'liɡə,laɪz",
+            "simplified": "ɪliɡəlaɪz"
+        },
+        "rhymePatterns": {
+            "all": "-aɪz"
+        },
+        "definitions": [
+            {
+                "definition": "declare illegal; outlaw",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "criminalise",
+                    "criminalize",
+                    "illegalize",
+                    "outlaw"
+                ],
+                "typeOf": [
+                    "veto",
+                    "prohibit",
+                    "proscribe",
+                    "disallow",
+                    "forbid",
+                    "interdict",
+                    "nix"
+                ],
+                "hasTypes": [
+                    "censor",
+                    "ban"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "illegible": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "il",
+                "leg",
+                "i",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ'lɛdʒəbəl",
+            "simplified": "ɪlɛdʒəbəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɛdʒəbəl"
+        },
+        "definitions": [
+            {
+                "definition": "(of handwriting, print, etc.) not legible",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "dirty",
+                    "foul",
+                    "indecipherable",
+                    "marked-up",
+                    "unclear",
+                    "undecipherable",
+                    "unreadable"
+                ],
+                "antonyms": [
+                    "legible"
+                ],
+                "derivation": [
+                    "illegibility"
+                ],
+                "examples": [
+                    "illegible handwriting"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.3,
+            "perMillion": 0.19,
+            "diversity": 0
+        }
+    },
+    "illiquid": {
+        "rhymes": {
+            "all": "-ɪkwɪd"
+        },
+        "letters": 8,
+        "pronunciation": "ɪ'lɪkwɪd",
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "illinois": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "il",
+                "li",
+                "nois"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɪlə'nɔɪ",
+            "simplified": "ɪlənɔɪ"
+        },
+        "rhymePatterns": {
+            "all": "-ɔɪ"
+        },
+        "definitions": [
+            {
+                "definition": "a midwestern state in north-central United States",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "il",
+                    "ill.",
+                    "land of lincoln",
+                    "prairie state"
+                ],
+                "instanceOf": [
+                    "american state"
+                ],
+                "hasParts": [
+                    "windy city",
+                    "carbondale",
+                    "champaign",
+                    "chicago",
+                    "decatur",
+                    "east saint louis",
+                    "illinois river",
+                    "little wabash",
+                    "little wabash river",
+                    "moline",
+                    "peoria",
+                    "rock island",
+                    "rockford",
+                    "springfield",
+                    "urbana",
+                    "cairo",
+                    "capital of illinois"
+                ],
+                "partOf": [
+                    "u.s.",
+                    "u.s.a.",
+                    "middle west",
+                    "midwest",
+                    "midwestern united states",
+                    "united states",
+                    "united states of america",
+                    "america",
+                    "us",
+                    "usa",
+                    "the states"
+                ]
+            },
+            {
+                "definition": "a member of the Algonquian people formerly of Illinois and regions to the west",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "algonquin",
+                    "algonquian"
+                ]
+            },
+            {
+                "definition": "the Algonquian language of the Illinois and Miami",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "algonquian",
+                    "algonquian language",
+                    "algonquin"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.19,
+            "perMillion": 1.55,
+            "diversity": 0.01
+        }
+    },
+    "illness": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ill",
+                "ness"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɪlnɪs",
+            "simplified": "ɪlnɪs"
+        },
+        "rhymePatterns": {
+            "all": "-ɪlnɪs"
+        },
+        "definitions": [
+            {
+                "definition": "impairment of normal physiological function affecting part or all of an organism",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "malady",
+                    "sickness",
+                    "unwellness"
+                ],
+                "typeOf": [
+                    "health problem",
+                    "ill health",
+                    "unhealthiness"
+                ],
+                "hasTypes": [
+                    "amyloidosis",
+                    "anuresis",
+                    "anuria",
+                    "bends",
+                    "caisson disease",
+                    "catastrophic illness",
+                    "collapse",
+                    "condition",
+                    "decompression sickness",
+                    "disease",
+                    "food poisoning",
+                    "gas embolism",
+                    "aeroembolism",
+                    "growth",
+                    "hypermotility",
+                    "indisposition",
+                    "lead poisoning",
+                    "ozone sickness",
+                    "plumbism",
+                    "prostration",
+                    "saturnism",
+                    "toxaemia",
+                    "toxaemia of pregnancy",
+                    "toxemia",
+                    "toxemia of pregnancy",
+                    "gastrointestinal disorder",
+                    "ague",
+                    "air embolism"
+                ],
+                "antonyms": [
+                    "wellness"
+                ],
+                "derivation": [
+                    "ill"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 4.12,
+            "perMillion": 13.13,
+            "diversity": 0.05
+        }
+    },
+    "illogicality": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "il",
+                "log",
+                "i",
+                "cal",
+                "i",
+                "ty"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ,lɑdʒɪ'kælɪti",
+            "simplified": "ɪlɑdʒɪkælɪti"
+        },
+        "rhymePatterns": {
+            "all": "-ælɪti"
+        },
+        "definitions": [
+            {
+                "definition": "invalid or incorrect reasoning",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "illogic",
+                    "illogicalness",
+                    "inconsequence"
+                ],
+                "typeOf": [
+                    "quality"
+                ],
+                "hasTypes": [
+                    "invalidity",
+                    "invalidness"
+                ],
+                "antonyms": [
+                    "logicality"
+                ],
+                "derivation": [
+                    "illogical"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 12
+    },
+    "illuminometer": {
+        "rhymes": {
+            "all": "-ɑmɪtər"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "ɪlumənɑmɪtər"
+        },
+        "sounds": 12
+    },
+    "illusionistic": {
+        "rhymes": {
+            "all": "-ɪstɪk"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "ɪluʒənɪstɪk"
+        },
+        "sounds": 11
+    },
+    "illusory": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "il",
+                "lu",
+                "so",
+                "ry"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ'lusəri",
+            "simplified": "ɪlusəri"
+        },
+        "rhymePatterns": {
+            "all": "-usəri"
+        },
+        "definitions": [
+            {
+                "definition": "based on or having the nature of an illusion",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "illusive"
+                ],
+                "similarTo": [
+                    "unreal"
+                ],
+                "derivation": [
+                    "illusion"
+                ],
+                "examples": [
+                    "Secret activities offer presidents the alluring but often illusory promise that they can achieve foreign policy goals without the bothersome debate and open decision that are staples of democracy"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.12,
+            "perMillion": 0.12,
+            "diversity": 0
+        }
+    },
+    "illustrate": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "il",
+                "lus",
+                "trate"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɪlə,streɪt",
+            "simplified": "ɪləstreɪt"
+        },
+        "rhymePatterns": {
+            "all": "-eɪt"
+        },
+        "definitions": [
+            {
+                "definition": "clarify by giving an example of",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "exemplify",
+                    "instance"
+                ],
+                "typeOf": [
+                    "expatiate",
+                    "enlarge",
+                    "expand",
+                    "lucubrate",
+                    "flesh out",
+                    "expound",
+                    "exposit",
+                    "dilate",
+                    "elaborate"
+                ],
+                "derivation": [
+                    "illustration",
+                    "illustrative"
+                ]
+            },
+            {
+                "definition": "depict with an illustration",
+                "partOfSpeech": "verb",
+                "inCategory": [
+                    "art",
+                    "artistic creation",
+                    "artistic production"
+                ],
+                "typeOf": [
+                    "depict",
+                    "picture",
+                    "render",
+                    "show"
+                ],
+                "derivation": [
+                    "illustrative",
+                    "illustration"
+                ]
+            },
+            {
+                "definition": "supply with illustrations",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "embellish",
+                    "ornament",
+                    "adorn",
+                    "decorate",
+                    "beautify",
+                    "grace"
+                ],
+                "derivation": [
+                    "illustration",
+                    "illustrator"
+                ],
+                "examples": [
+                    "illustrate a book with drawings"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.88,
+            "perMillion": 0.75,
+            "diversity": 0
+        }
+    },
+    "ilokano": {
+        "rhymes": {
+            "all": "-ɑnoʊ"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "iloʊkɑnoʊ"
+        },
+        "sounds": 9
+    },
+    "iloilo": {
+        "rhymes": {
+            "all": "-iloʊ"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "iloʊiloʊ"
+        },
+        "sounds": 8
+    },
+    "imagerially": {
+        "rhymes": {
+            "all": "-iriəlli"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ɪmədʒiriəlli"
+        },
+        "sounds": 12
+    },
+    "imagination": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "im",
+                "ag",
+                "i",
+                "na",
+                "tion"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ,mædʒə'neɪʃən",
+            "simplified": "ɪmædʒəneɪʃən"
+        },
+        "rhymePatterns": {
+            "all": "-eɪʃən"
+        },
+        "definitions": [
+            {
+                "definition": "the ability to form mental images of things or events",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "imagery",
+                    "imaging",
+                    "mental imagery"
+                ],
+                "typeOf": [
+                    "representational process"
+                ],
+                "hasTypes": [
+                    "vision",
+                    "chimaera",
+                    "chimera",
+                    "dream",
+                    "dreaming",
+                    "envisioning",
+                    "evocation",
+                    "make-believe",
+                    "mind's eye",
+                    "picturing",
+                    "pretence",
+                    "pretense"
+                ],
+                "derivation": [
+                    "imagine"
+                ],
+                "examples": [
+                    "he could still hear her in his imagination"
+                ]
+            },
+            {
+                "definition": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "imaginativeness",
+                    "vision"
+                ],
+                "typeOf": [
+                    "creative thinking",
+                    "creativeness",
+                    "creativity"
+                ],
+                "hasTypes": [
+                    "mythical place",
+                    "phantasy",
+                    "fantasy",
+                    "fictitious place",
+                    "imaginary being",
+                    "imaginary creature",
+                    "fancy",
+                    "imaginary place",
+                    "dreaming",
+                    "dream"
+                ],
+                "derivation": [
+                    "imagine"
+                ],
+                "examples": [
+                    "popular imagination created a world of demons",
+                    "imagination reveals what the world could be"
+                ]
+            },
+            {
+                "definition": "the ability to deal resourcefully with unusual problems",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "resource",
+                    "resourcefulness"
+                ],
+                "typeOf": [
+                    "inventiveness",
+                    "ingeniousness",
+                    "ingenuity",
+                    "cleverness"
+                ],
+                "hasTypes": [
+                    "inventory",
+                    "armory",
+                    "armoury"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 12,
+        "frequency": {
+            "zipf": 4.27,
+            "perMillion": 18.73,
+            "diversity": 0.08
+        }
+    },
+    "imagination-proof": {
+        "rhymes": {
+            "all": "-eɪʃən_pruf"
+        },
+        "letters": 17,
+        "pronunciation": {
+            "simplified": "ɪmædʒəneɪʃənpruf"
+        },
+        "sounds": 16
+    },
+    "imamate": {
+        "rhymes": {
+            "all": "-ɑmeɪt"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ɪmɑmeɪt"
+        },
+        "sounds": 7
+    },
+    "imbracery": {
+        "rhymes": {
+            "all": "-eɪsəri"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɪmbreɪsəri"
+        },
+        "sounds": 10
+    },
+    "imbrication": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "im",
+                "bri",
+                "ca",
+                "tion"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɪmbrə'keɪʃən",
+            "simplified": "ɪmbrəkeɪʃən"
+        },
+        "rhymePatterns": {
+            "all": "-eɪʃən"
+        },
+        "definitions": [
+            {
+                "definition": "covering with a design in which one element covers a part of another (as with tiles or shingles)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "lapping",
+                    "overlapping"
+                ],
+                "typeOf": [
+                    "covering"
+                ],
+                "derivation": [
+                    "imbricate"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11
+    },
+    "imbrown": {
+        "rhymes": {
+            "all": "-aʊn"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ɪmbraʊn"
+        },
+        "sounds": 7
+    },
+    "imidazole": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "im",
+                "id",
+                "az",
+                "ole"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɪmɪd'æzoʊl",
+            "simplified": "ɪmɪdæzoʊl"
+        },
+        "rhymePatterns": {
+            "all": "-æzoʊl"
+        },
+        "definitions": [
+            {
+                "definition": "an organic base C3H4N2; a histamine inhibitor",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "glyoxaline",
+                    "iminazole"
+                ],
+                "typeOf": [
+                    "alkali",
+                    "base"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": 2.02
+    },
+    "imidogen": {
+        "rhymes": {
+            "all": "-ɛn"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ɪmɪdədʒɛn"
+        },
+        "sounds": 9
+    },
+    "imitative": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "im",
+                "i",
+                "ta",
+                "tive"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɪmɪ,teɪtɪv",
+            "simplified": "ɪmɪteɪtɪv"
+        },
+        "rhymePatterns": {
+            "all": "-eɪtɪv"
+        },
+        "definitions": [
+            {
+                "definition": "(of words) formed in imitation of a natural sound",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "echoic",
+                    "onomatopoeic",
+                    "onomatopoeical",
+                    "onomatopoetic"
+                ],
+                "examples": [
+                    "onomatopoeic words are imitative of noises"
+                ]
+            },
+            {
+                "definition": "not genuine; imitating something superior",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "counterfeit"
+                ],
+                "also": [
+                    "false",
+                    "artificial",
+                    "unreal",
+                    "insincere"
+                ],
+                "similarTo": [
+                    "fictive",
+                    "forged",
+                    "inauthentic",
+                    "synthetic",
+                    "unauthentic",
+                    "mock",
+                    "ostensible",
+                    "ostensive",
+                    "phoney",
+                    "phony",
+                    "pinchbeck",
+                    "pretended",
+                    "pseudo",
+                    "put on",
+                    "sham",
+                    "spurious",
+                    "assumed",
+                    "bad",
+                    "bastard",
+                    "base",
+                    "bogus",
+                    "fake",
+                    "false",
+                    "fictitious"
+                ],
+                "derivation": [
+                    "imitate"
+                ]
+            },
+            {
+                "definition": "marked by or given to imitation",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "apelike",
+                    "apish",
+                    "mimetic",
+                    "mimic",
+                    "parrotlike",
+                    "simulated"
+                ],
+                "antonyms": [
+                    "nonimitative"
+                ],
+                "derivation": [
+                    "imitate"
+                ],
+                "examples": [
+                    "acting is an imitative art",
+                    "man is an imitative being"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": 1.74
+    },
+    "immaculate": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "im",
+                "mac",
+                "u",
+                "late"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ'mækjəlɪt",
+            "simplified": "ɪmækjəlɪt"
+        },
+        "rhymePatterns": {
+            "all": "-ækjəlɪt"
+        },
+        "definitions": [
+            {
+                "definition": "without fault or error",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "faultless",
+                    "impeccable",
+                    "incorrupted"
+                ],
+                "similarTo": [
+                    "perfect"
+                ],
+                "examples": [
+                    "timing and technique were immaculate",
+                    "an immaculate record"
+                ]
+            },
+            {
+                "definition": "free from stain or blemish",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "undefiled"
+                ],
+                "similarTo": [
+                    "pure"
+                ]
+            },
+            {
+                "definition": "completely neat and clean",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "speckless",
+                    "spic",
+                    "spic-and-span",
+                    "spick",
+                    "spick-and-span",
+                    "spotless"
+                ],
+                "similarTo": [
+                    "clean"
+                ],
+                "derivation": [
+                    "immaculateness"
+                ],
+                "examples": [
+                    "the apartment was immaculate",
+                    "in her immaculate white uniform"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 3.08,
+            "perMillion": 1.19,
+            "diversity": 0.01
+        }
+    },
+    "immaculateness": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "im",
+                "mac",
+                "u",
+                "late",
+                "ness"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ'mækjəlɪtnɛs",
+            "simplified": "ɪmækjəlɪtnɛs"
+        },
+        "rhymePatterns": {
+            "all": "-ækjəlɪtnɛs"
+        },
+        "definitions": [
+            {
+                "definition": "the state of being spotlessly clean",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "spotlessness"
+                ],
+                "typeOf": [
+                    "cleanness"
+                ],
+                "derivation": [
+                    "immaculate"
+                ]
+            }
+        ],
+        "letters": 14,
+        "sounds": 12
+    },
+    "immanently": {
+        "rhymes": {
+            "all": "-ɪmənəntli"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɪmənəntli"
+        },
+        "sounds": 9
+    },
+    "immanent": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "im",
+                "ma",
+                "nent"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɪmənənt",
+            "simplified": "ɪmənənt"
+        },
+        "rhymePatterns": {
+            "all": "-ɪmənənt"
+        },
+        "definitions": [
+            {
+                "definition": "of a mental act performed entirely within the mind",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "subjective"
+                ],
+                "inCategory": [
+                    "philosophy"
+                ],
+                "antonyms": [
+                    "transeunt"
+                ],
+                "examples": [
+                    "a cognition is an immanent act of mind"
+                ]
+            },
+            {
+                "definition": "of qualities that are spread throughout something",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "distributive"
+                ],
+                "derivation": [
+                    "immanence",
+                    "immanency"
+                ],
+                "examples": [
+                    "ambition is immanent in human nature",
+                    "we think of God as immanent in nature"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "immaterialize": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "im",
+                "ma",
+                "te",
+                "ri",
+                "al",
+                "ize"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɪmə'tiriə,laɪz",
+            "simplified": "ɪmətiriəlaɪz"
+        },
+        "rhymePatterns": {
+            "all": "-aɪz"
+        },
+        "definitions": [
+            {
+                "definition": "render immaterial or incorporeal",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "immaterialise",
+                    "unsubstantialise",
+                    "unsubstantialize"
+                ],
+                "typeOf": [
+                    "alter",
+                    "change",
+                    "modify"
+                ],
+                "hasTypes": [
+                    "disincarnate"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 12
+    },
+    "immaterially": {
+        "rhymes": {
+            "all": "-ətiriəlli"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "ɪmətiriəlli"
+        },
+        "sounds": 11
+    },
+    "immemorial": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "im",
+                "me",
+                "mo",
+                "ri",
+                "al"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɪmə'moʊriəl",
+            "simplified": "ɪməmoʊriəl"
+        },
+        "rhymePatterns": {
+            "all": "-oʊriəl"
+        },
+        "definitions": [
+            {
+                "definition": "long past; beyond the limits of memory or tradition or recorded history",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "old"
+                ],
+                "examples": [
+                    "time immemorial"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 2.38,
+            "perMillion": 0.23,
+            "diversity": 0
+        }
+    },
+    "immortalise": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "im",
+                "mor",
+                "tal",
+                "ise"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ'mɔr,təlaɪz",
+            "simplified": "ɪmɔrtəlaɪz"
+        },
+        "rhymePatterns": {
+            "all": "-əlaɪz"
+        },
+        "definitions": [
+            {
+                "definition": "make famous forever",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "eternalise",
+                    "eternalize",
+                    "eternise",
+                    "eternize",
+                    "immortalize"
+                ],
+                "typeOf": [
+                    "alter",
+                    "change",
+                    "modify"
+                ]
+            },
+            {
+                "definition": "be or provide a memorial to a person or an event",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "commemorate",
+                    "immortalize",
+                    "memorialise",
+                    "memorialize"
+                ],
+                "typeOf": [
+                    "remind"
+                ],
+                "hasTypes": [
+                    "monumentalise",
+                    "monumentalize"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 1.97,
+            "perMillion": 0.08,
+            "diversity": 0
+        }
+    },
+    "immortalize": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "im",
+                "mor",
+                "tal",
+                "ize"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ'mɔr,təlaɪz",
+            "simplified": "ɪmɔrtəlaɪz"
+        },
+        "rhymePatterns": {
+            "all": "-əlaɪz"
+        },
+        "definitions": [
+            {
+                "definition": "make famous forever",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "eternalise",
+                    "eternalize",
+                    "eternise",
+                    "eternize",
+                    "immortalise"
+                ],
+                "typeOf": [
+                    "alter",
+                    "change",
+                    "modify"
+                ],
+                "examples": [
+                    "This melody immortalized its composer"
+                ]
+            },
+            {
+                "definition": "be or provide a memorial to a person or an event",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "commemorate",
+                    "immortalise",
+                    "memorialise",
+                    "memorialize"
+                ],
+                "typeOf": [
+                    "remind"
+                ],
+                "hasTypes": [
+                    "monumentalise",
+                    "monumentalize"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 2.24,
+            "perMillion": 0.16,
+            "diversity": 0
+        }
+    },
+    "immovable": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "im",
+                "mov",
+                "a",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ'muvəbəl",
+            "simplified": "ɪmuvəbəl"
+        },
+        "rhymePatterns": {
+            "all": "-uvəbəl"
+        },
+        "definitions": [
+            {
+                "definition": "not able or intended to be moved",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "immoveable",
+                    "stabile",
+                    "unmovable"
+                ],
+                "similarTo": [
+                    "immobile"
+                ],
+                "derivation": [
+                    "immovability",
+                    "immovableness"
+                ],
+                "examples": [
+                    "the immovable hills"
+                ]
+            },
+            {
+                "definition": "property consisting of houses and land",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "real estate",
+                    "real property",
+                    "realty"
+                ],
+                "typeOf": [
+                    "belongings",
+                    "holding",
+                    "property"
+                ],
+                "hasTypes": [
+                    "acres",
+                    "land",
+                    "landed estate",
+                    "mortmain",
+                    "dead hand",
+                    "demesne",
+                    "estate"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.49,
+            "perMillion": 0.29,
+            "diversity": 0
+        }
+    },
+    "immunity": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "im",
+                "mu",
+                "ni",
+                "ty"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ'mjunɪti",
+            "simplified": "ɪmjunɪti"
+        },
+        "rhymePatterns": {
+            "all": "-unɪti"
+        },
+        "definitions": [
+            {
+                "definition": "an act exempting someone",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "exemption",
+                    "granting immunity"
+                ],
+                "typeOf": [
+                    "discharge",
+                    "waiver",
+                    "release"
+                ],
+                "hasTypes": [
+                    "fix",
+                    "sovereign immunity",
+                    "testimonial immunity",
+                    "use immunity",
+                    "official immunity"
+                ],
+                "derivation": [
+                    "immune"
+                ],
+                "examples": [
+                    "he was granted immunity from prosecution"
+                ]
+            },
+            {
+                "definition": "(medicine) the condition in which an organism can resist disease",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "resistance"
+                ],
+                "inCategory": [
+                    "medical specialty",
+                    "medicine"
+                ],
+                "typeOf": [
+                    "status",
+                    "condition"
+                ],
+                "hasTypes": [
+                    "natural immunity",
+                    "innate immunity",
+                    "immunogenicity",
+                    "acquired immunity"
+                ],
+                "derivation": [
+                    "immune"
+                ]
+            },
+            {
+                "definition": "the state of not being susceptible",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "unsusceptibility"
+                ],
+                "typeOf": [
+                    "status",
+                    "condition"
+                ],
+                "hasTypes": [
+                    "exemption",
+                    "freedom"
+                ]
+            },
+            {
+                "definition": "the quality of being unaffected by something",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "invulnerability"
+                ],
+                "derivation": [
+                    "immune"
+                ],
+                "examples": [
+                    "immunity to criticism"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.4,
+            "perMillion": 2.49,
+            "diversity": 0.01
+        }
+    },
+    "immuration": {
+        "rhymes": {
+            "all": "-eɪʃən"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɪmjəreɪʃən"
+        },
+        "sounds": 10
+    },
+    "immutable": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "im",
+                "mu",
+                "ta",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ'mjutəbəl",
+            "simplified": "ɪmjutəbəl"
+        },
+        "rhymePatterns": {
+            "all": "-utəbəl"
+        },
+        "definitions": [
+            {
+                "definition": "not subject or susceptible to change or variation in form or quality or nature",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "changeless"
+                ],
+                "antonyms": [
+                    "mutable"
+                ],
+                "derivation": [
+                    "immutability",
+                    "immutableness"
+                ],
+                "examples": [
+                    "the view of that time was that all species were immutable, created by God"
+                ]
+            },
+            {
+                "definition": "constant and unchanging",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "constant"
+                ],
+                "examples": [
+                    "the immutable laws of nature"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.3,
+            "perMillion": 0.19,
+            "diversity": 0
+        }
+    },
+    "imogene": {
+        "rhymes": {
+            "all": "-in"
+        },
+        "letters": 7,
+        "pronunciation": "'ɪmʌ,dʒin",
+        "sounds": 7
+    },
+    "imp": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "imp"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪmp",
+            "simplified": "ɪmp"
+        },
+        "rhymePatterns": {
+            "all": "-ɪmp"
+        },
+        "definitions": [
+            {
+                "definition": "one who is playfully mischievous",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "monkey",
+                    "rapscallion",
+                    "rascal",
+                    "scalawag",
+                    "scallywag",
+                    "scamp"
+                ],
+                "typeOf": [
+                    "youngster",
+                    "child",
+                    "fry",
+                    "kid",
+                    "minor",
+                    "nestling",
+                    "nipper",
+                    "small fry",
+                    "tiddler",
+                    "tike",
+                    "tyke",
+                    "shaver"
+                ],
+                "hasTypes": [
+                    "little terror",
+                    "terror",
+                    "brat",
+                    "holy terror"
+                ]
+            },
+            {
+                "definition": "(folklore) fairies that are somewhat mischievous",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "brownie",
+                    "elf",
+                    "gremlin",
+                    "hob",
+                    "pixie",
+                    "pixy"
+                ],
+                "inCategory": [
+                    "folklore"
+                ],
+                "typeOf": [
+                    "faery",
+                    "faerie",
+                    "fay",
+                    "sprite",
+                    "fairy"
+                ],
+                "hasTypes": [
+                    "sandman",
+                    "leprechaun"
+                ]
+            }
+        ],
+        "letters": 3,
+        "sounds": 3,
+        "frequency": {
+            "zipf": 2.64,
+            "perMillion": 0.43,
+            "diversity": 0
+        }
+    },
+    "impala": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "im",
+                "pa",
+                "la"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪm'pælə",
+            "simplified": "ɪmpælə"
+        },
+        "rhymePatterns": {
+            "all": "-ælə"
+        },
+        "definitions": [
+            {
+                "definition": "African antelope with ridged curved horns; moves with enormous leaps",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "aepyceros melampus"
+                ],
+                "typeOf": [
+                    "antelope"
+                ],
+                "memberOf": [
+                    "aepyceros",
+                    "genus aepyceros"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.88,
+            "perMillion": 0.75,
+            "diversity": 0
+        }
+    },
+    "impale": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "im",
+                "pale"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪm'peɪl",
+            "simplified": "ɪmpeɪl"
+        },
+        "rhymePatterns": {
+            "all": "-eɪl"
+        },
+        "definitions": [
+            {
+                "definition": "pierce with a sharp stake or point",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "empale",
+                    "spike",
+                    "transfix"
+                ],
+                "typeOf": [
+                    "pierce",
+                    "thrust"
+                ],
+                "hasTypes": [
+                    "pin",
+                    "spear"
+                ],
+                "derivation": [
+                    "impalement"
+                ],
+                "examples": [
+                    "impale a shrimp on a skewer"
+                ]
+            },
+            {
+                "definition": "kill by piercing with a spear or sharp pole",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "stake"
+                ],
+                "entails": [
+                    "pierce"
+                ],
+                "typeOf": [
+                    "kill"
+                ],
+                "derivation": [
+                    "impalement"
+                ],
+                "examples": [
+                    "the enemies were impaled and left to die"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.5,
+            "perMillion": 0.31,
+            "diversity": 0
+        }
+    },
+    "impanator": {
+        "rhymes": {
+            "all": "-eɪtər"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɪmpəneɪtər"
+        },
+        "sounds": 10
+    },
+    "imparisyllabic": {
+        "rhymes": {
+            "all": "-æbɪk"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "ɪmpærəsɪlæbɪk"
+        },
+        "sounds": 13
+    },
+    "impassion": {
+        "rhymes": {
+            "all": "-æʃən"
+        },
+        "letters": 9,
+        "pronunciation": "ɪm'pæʃʌn",
+        "sounds": 7,
+        "frequency": 1.74
+    },
+    "impartible": {
+        "rhymes": {
+            "all": "-ɑrtəbəl"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɪmpɑrtəbəl"
+        },
+        "sounds": 10
+    },
+    "impasto": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "im",
+                "pas",
+                "to"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪm'pæstoʊ",
+            "simplified": "ɪmpæstoʊ"
+        },
+        "rhymePatterns": {
+            "all": "-æstoʊ"
+        },
+        "definitions": [
+            {
+                "definition": "painting that applies the pigment thickly so that brush or palette knife marks are visible",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "painting"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": 2.02
+    },
+    "impaste": {
+        "rhymes": {
+            "all": "-eɪst"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ɪmpeɪst"
+        },
+        "sounds": 7
+    },
+    "impavidly": {
+        "rhymes": {
+            "all": "-ævɪdli"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɪmpævɪdli"
+        },
+        "sounds": 9
+    },
+    "impedimental": {
+        "rhymes": {
+            "all": "-ɛntəl"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "ɪmpɛdəmɛntəl"
+        },
+        "sounds": 12
+    },
+    "impel": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "im",
+                "pel"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪm'pɛl",
+            "simplified": "ɪmpɛl"
+        },
+        "rhymePatterns": {
+            "all": "-ɛl"
+        },
+        "definitions": [
+            {
+                "definition": "urge or force (a person) to an action; constrain or motivate",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "force"
+                ],
+                "typeOf": [
+                    "do",
+                    "make",
+                    "cause"
+                ],
+                "derivation": [
+                    "impulsion",
+                    "impulsive"
+                ]
+            },
+            {
+                "definition": "cause to move forward with force",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "propel"
+                ],
+                "typeOf": [
+                    "move",
+                    "displace"
+                ],
+                "hasTypes": [
+                    "throw",
+                    "catapult",
+                    "rocket",
+                    "send off",
+                    "carry",
+                    "drive",
+                    "flip",
+                    "hit",
+                    "kick",
+                    "launch",
+                    "loft",
+                    "pole",
+                    "project",
+                    "punt"
+                ],
+                "derivation": [
+                    "impellent",
+                    "impeller",
+                    "impulsion"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.03,
+            "perMillion": 0.09,
+            "diversity": 0
+        }
+    },
+    "impellent": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "im",
+                "pel",
+                "lent"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪm'pɛlənt",
+            "simplified": "ɪmpɛlənt"
+        },
+        "rhymePatterns": {
+            "all": "-ɛlənt"
+        },
+        "definitions": [
+            {
+                "definition": "forcing forward or onward; impelling",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "forceful"
+                ],
+                "derivation": [
+                    "impel"
+                ],
+                "examples": [
+                    "an impellent power",
+                    "an impellent cause"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8
+    },
+    "impenetrable": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "im",
+                "pen",
+                "e",
+                "tra",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪm'pɛnɪtrəbəl",
+            "simplified": "ɪmpɛnɪtrəbəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɛnɪtrəbəl"
+        },
+        "definitions": [
+            {
+                "definition": "permitting little if any light to pass through because of denseness of matter",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "dense",
+                    "heavy"
+                ],
+                "similarTo": [
+                    "thick"
+                ],
+                "examples": [
+                    "impenetrable gloom"
+                ]
+            },
+            {
+                "definition": "impossible to understand",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "incomprehensible",
+                    "uncomprehensible"
+                ],
+                "derivation": [
+                    "impenetrableness"
+                ],
+                "examples": [
+                    "impenetrable jargon"
+                ]
+            },
+            {
+                "definition": "not admitting of penetration or passage into or through",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "dense",
+                    "thick"
+                ],
+                "antonyms": [
+                    "penetrable"
+                ],
+                "derivation": [
+                    "impenetrability"
+                ],
+                "examples": [
+                    "an impenetrable fortress",
+                    "impenetrable rain forests"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 12,
+        "frequency": {
+            "zipf": 3.05,
+            "perMillion": 1.11,
+            "diversity": 0.01
+        }
+    },
+    "impenetrability": {
+        "syllables": {
+            "count": 7,
+            "list": [
+                "im",
+                "pen",
+                "e",
+                "tra",
+                "bil",
+                "i",
+                "ty"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪm,pɛnɪtrə'bɪlɪti",
+            "simplified": "ɪmpɛnɪtrəbɪlɪti"
+        },
+        "rhymePatterns": {
+            "all": "-ɪlɪti"
+        },
+        "definitions": [
+            {
+                "definition": "incomprehensibility by virtue of being too dense to understand",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "impenetrableness"
+                ],
+                "typeOf": [
+                    "incomprehensibility"
+                ]
+            },
+            {
+                "definition": "the quality of being impenetrable (by people or light or missiles etc.)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "imperviousness"
+                ],
+                "typeOf": [
+                    "quality"
+                ],
+                "antonyms": [
+                    "penetrability"
+                ],
+                "derivation": [
+                    "impenetrable"
+                ]
+            }
+        ],
+        "letters": 15,
+        "sounds": 15
+    },
+    "imperativally": {
+        "rhymes": {
+            "all": "-aɪvəlli"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "ɪmpɛrətaɪvəlli"
+        },
+        "sounds": 14
+    },
+    "imperial": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "im",
+                "pe",
+                "ri",
+                "al"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪm'piriəl",
+            "simplified": "ɪmpiriəl"
+        },
+        "rhymePatterns": {
+            "all": "-iriəl"
+        },
+        "definitions": [
+            {
+                "definition": "belonging to or befitting a supreme ruler",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "majestic",
+                    "purple",
+                    "regal",
+                    "royal"
+                ],
+                "similarTo": [
+                    "noble"
+                ],
+                "derivation": [
+                    "emperor"
+                ],
+                "examples": [
+                    "golden age of imperial splendor"
+                ]
+            },
+            {
+                "definition": "a small tufted beard worn by Emperor Napoleon III",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "imperial beard"
+                ],
+                "typeOf": [
+                    "beard",
+                    "face fungus",
+                    "whiskers"
+                ]
+            },
+            {
+                "definition": "a piece of luggage carried on top of a coach",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "baggage",
+                    "luggage"
+                ]
+            },
+            {
+                "definition": "relating to or associated with an empire",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "empire"
+                ],
+                "derivation": [
+                    "empire"
+                ],
+                "examples": [
+                    "imperial colony",
+                    "the imperial gallon was standardized legally throughout the British Empire"
+                ]
+            },
+            {
+                "definition": "of or belonging to the British Imperial System of weights and measures",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "british imperial system"
+                ]
+            },
+            {
+                "definition": "befitting or belonging to an emperor or empress",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "emperor"
+                ],
+                "derivation": [
+                    "empire"
+                ],
+                "examples": [
+                    "imperial palace"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.86,
+            "perMillion": 7.24,
+            "diversity": 0.02
+        }
+    }
+}

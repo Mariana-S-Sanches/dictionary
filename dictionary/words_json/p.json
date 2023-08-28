@@ -1,0 +1,2046 @@
+{
+    "parotic": {
+        "rhymes": {
+            "all": "-oʊtɪk"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "pəroʊtɪk"
+        },
+        "sounds": 8
+    },
+    "parry": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "par",
+                "ry"
+            ]
+        },
+        "pronunciation": {
+            "all": "'pæri",
+            "simplified": "pæri"
+        },
+        "rhymePatterns": {
+            "all": "-æri"
+        },
+        "definitions": [
+            {
+                "definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "circumvent",
+                    "dodge",
+                    "duck",
+                    "elude",
+                    "evade",
+                    "fudge",
+                    "hedge",
+                    "put off",
+                    "sidestep",
+                    "skirt"
+                ],
+                "typeOf": [
+                    "avoid"
+                ],
+                "hasTypes": [
+                    "quibble",
+                    "beg"
+                ]
+            },
+            {
+                "definition": "a return punch (especially by a boxer)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "counter",
+                    "counterpunch"
+                ],
+                "typeOf": [
+                    "biff",
+                    "clout",
+                    "lick",
+                    "poke",
+                    "punch",
+                    "slug"
+                ]
+            },
+            {
+                "definition": "impede the movement of (an opponent or a ball)",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "block",
+                    "deflect"
+                ],
+                "typeOf": [
+                    "fence"
+                ]
+            },
+            {
+                "definition": "(fencing) blocking a lunge or deflecting it with a circular motion of the sword",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "fencing"
+                ],
+                "typeOf": [
+                    "blocking",
+                    "block"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 2.88,
+            "perMillion": 0.75,
+            "diversity": 0
+        }
+    },
+    "parsimoniously": {
+        "rhymes": {
+            "all": "-oʊniəsli"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "pɑrsəmoʊniəsli"
+        },
+        "sounds": 14
+    },
+    "part": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "part"
+            ]
+        },
+        "pronunciation": {
+            "all": "pɑrt",
+            "simplified": "pɑrt"
+        },
+        "rhymePatterns": {
+            "all": "-ɑrt"
+        },
+        "definitions": [
+            {
+                "definition": "the effort contributed by a person in bringing about a result",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "contribution",
+                    "share"
+                ],
+                "typeOf": [
+                    "endeavor",
+                    "effort",
+                    "try",
+                    "endeavour",
+                    "attempt"
+                ],
+                "hasTypes": [
+                    "end"
+                ]
+            },
+            {
+                "definition": "the actions and activities assigned to or required or expected of a person or group",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "function",
+                    "office",
+                    "role"
+                ],
+                "typeOf": [
+                    "duty"
+                ],
+                "hasTypes": [
+                    "position",
+                    "second fiddle",
+                    "stead",
+                    "hat",
+                    "portfolio",
+                    "capacity",
+                    "place",
+                    "lieu"
+                ],
+                "examples": [
+                    "the government must do its part"
+                ]
+            },
+            {
+                "definition": "to some extent; in some degree; not wholly",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "in part",
+                    "partially",
+                    "partly"
+                ],
+                "examples": [
+                    "I felt partly to blame",
+                    "He was partially paralyzed"
+                ]
+            },
+            {
+                "definition": "assets belonging to or due to or contributed by an individual person or group",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "percentage",
+                    "portion",
+                    "share"
+                ],
+                "typeOf": [
+                    "assets"
+                ],
+                "hasTypes": [
+                    "allowance",
+                    "split",
+                    "ration",
+                    "allocation",
+                    "interest",
+                    "dole",
+                    "dispensation",
+                    "cut",
+                    "allotment",
+                    "tranche",
+                    "stake",
+                    "profit sharing",
+                    "way",
+                    "slice",
+                    "piece"
+                ],
+                "partOf": [
+                    "profits",
+                    "net profit",
+                    "net income",
+                    "net",
+                    "earnings",
+                    "lucre",
+                    "profit"
+                ]
+            },
+            {
+                "definition": "a portion of a natural object",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "piece"
+                ],
+                "typeOf": [
+                    "thing"
+                ],
+                "hasTypes": [
+                    "cutting",
+                    "fragment",
+                    "segment",
+                    "slice",
+                    "strip",
+                    "stub",
+                    "world",
+                    "body part",
+                    "nub",
+                    "corner",
+                    "corpus",
+                    "craton",
+                    "base",
+                    "lump",
+                    "hunk",
+                    "acicula"
+                ],
+                "hasInstances": [
+                    "south atlantic",
+                    "north atlantic",
+                    "south pacific",
+                    "north pacific"
+                ],
+                "partOf": [
+                    "unit",
+                    "building block"
+                ],
+                "examples": [
+                    "they analyzed the river into three parts"
+                ]
+            },
+            {
+                "definition": "something less than the whole of a human artifact",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "portion"
+                ],
+                "typeOf": [
+                    "physical object",
+                    "object"
+                ],
+                "hasTypes": [
+                    "component",
+                    "appendage",
+                    "backbone",
+                    "bit",
+                    "bottleneck",
+                    "bulb",
+                    "butt",
+                    "constituent",
+                    "cutout",
+                    "element",
+                    "foible",
+                    "fore edge",
+                    "foredge",
+                    "forte",
+                    "fraction",
+                    "heel",
+                    "hub",
+                    "jetsam",
+                    "limb",
+                    "neck",
+                    "peen",
+                    "piece",
+                    "pressing",
+                    "seat",
+                    "section",
+                    "segment",
+                    "shank",
+                    "spine",
+                    "stub",
+                    "toe",
+                    "turnout",
+                    "upstage",
+                    "upstairs",
+                    "waist",
+                    "widening",
+                    "wreckage"
+                ],
+                "partOf": [
+                    "unit",
+                    "whole"
+                ],
+                "derivation": [
+                    "partial"
+                ],
+                "examples": [
+                    "the rear part of the house",
+                    "glue the two parts together"
+                ]
+            },
+            {
+                "definition": "one of the portions into which something is regarded as divided and which together constitute a whole",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "division",
+                    "section"
+                ],
+                "typeOf": [
+                    "construct",
+                    "concept",
+                    "conception"
+                ],
+                "hasTypes": [
+                    "bout",
+                    "frame",
+                    "final period",
+                    "ingredient",
+                    "inning",
+                    "beginning",
+                    "first period",
+                    "factor",
+                    "element",
+                    "constituent",
+                    "half",
+                    "over",
+                    "round",
+                    "period",
+                    "high point",
+                    "component",
+                    "second period",
+                    "chukker",
+                    "end",
+                    "chukka",
+                    "middle",
+                    "turn",
+                    "quarter",
+                    "game"
+                ],
+                "partOf": [
+                    "whole"
+                ],
+                "examples": [
+                    "the written part of the exam"
+                ]
+            },
+            {
+                "definition": "discontinue an association or relation; go different ways",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "break",
+                    "break up",
+                    "separate",
+                    "split",
+                    "split up"
+                ],
+                "hasTypes": [
+                    "secede",
+                    "break apart",
+                    "break",
+                    "break away",
+                    "split up",
+                    "splinter",
+                    "give the gate",
+                    "give the bounce",
+                    "give the axe",
+                    "divorce",
+                    "disunite",
+                    "disunify",
+                    "dissociate",
+                    "disjoint",
+                    "disassociate",
+                    "break with"
+                ],
+                "examples": [
+                    "The business partners broke over a tax question"
+                ]
+            },
+            {
+                "definition": "the melody carried by a particular voice or instrument in polyphonic music",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "voice"
+                ],
+                "typeOf": [
+                    "melodic phrase",
+                    "melodic line",
+                    "strain",
+                    "melody",
+                    "line",
+                    "air",
+                    "tune"
+                ],
+                "hasTypes": [
+                    "backup",
+                    "bass",
+                    "primo",
+                    "bass part",
+                    "support",
+                    "secondo",
+                    "musical accompaniment",
+                    "voice part",
+                    "accompaniment"
+                ],
+                "examples": [
+                    "he tried to sing the tenor part"
+                ]
+            },
+            {
+                "definition": "force, take, or pull apart",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "disunite",
+                    "divide",
+                    "separate"
+                ],
+                "cause": [
+                    "divide",
+                    "separate"
+                ],
+                "typeOf": [
+                    "displace",
+                    "move"
+                ],
+                "hasTypes": [
+                    "sequestrate",
+                    "snap",
+                    "isolate",
+                    "joint",
+                    "break",
+                    "break up",
+                    "keep apart",
+                    "disjoint",
+                    "sequester",
+                    "disjoin",
+                    "disconnect",
+                    "polarise",
+                    "disarticulate",
+                    "polarize",
+                    "rupture",
+                    "cut up",
+                    "cut",
+                    "compartmentalize",
+                    "compartmentalise",
+                    "sever",
+                    "bust",
+                    "set apart",
+                    "tear",
+                    "gin"
+                ],
+                "derivation": [
+                    "partitive"
+                ],
+                "examples": [
+                    "Moses parted the Red Sea"
+                ]
+            },
+            {
+                "definition": "an item that is an instance of some type",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "piece"
+                ],
+                "typeOf": [
+                    "item"
+                ],
+                "examples": [
+                    "my dog swallowed a Lego part"
+                ]
+            },
+            {
+                "definition": "a line of scalp that can be seen when sections of hair are combed in opposite directions",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "parting"
+                ],
+                "typeOf": [
+                    "line"
+                ],
+                "partOf": [
+                    "hair"
+                ],
+                "examples": [
+                    "his part was right in the middle"
+                ]
+            },
+            {
+                "definition": "leave",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "depart",
+                    "set forth",
+                    "set off",
+                    "set out",
+                    "start",
+                    "start out",
+                    "take off"
+                ],
+                "typeOf": [
+                    "go forth",
+                    "go away",
+                    "leave"
+                ],
+                "hasTypes": [
+                    "lift off",
+                    "blaze",
+                    "blaze out",
+                    "take off",
+                    "roar off",
+                    "sally forth",
+                    "sally out"
+                ],
+                "also": [
+                    "part with"
+                ],
+                "derivation": [
+                    "parting"
+                ]
+            },
+            {
+                "definition": "the extended spatial location of something",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "region"
+                ],
+                "typeOf": [
+                    "location"
+                ],
+                "hasTypes": [
+                    "outside",
+                    "nirvana",
+                    "vacuum",
+                    "air",
+                    "aerospace",
+                    "top",
+                    "zodiac",
+                    "zone",
+                    "the pits",
+                    "star sign",
+                    "snake pit",
+                    "sind",
+                    "sign of the zodiac",
+                    "sign",
+                    "side",
+                    "shangri-la",
+                    "radius",
+                    "promised land",
+                    "planetary house",
+                    "paradise",
+                    "papua",
+                    "mare",
+                    "mansion",
+                    "layer",
+                    "kuiper belt",
+                    "ionosphere",
+                    "interstellar space",
+                    "interplanetary space",
+                    "interior",
+                    "intergalactic space",
+                    "inside",
+                    "inferno",
+                    "house",
+                    "hellhole",
+                    "hell on earth",
+                    "hell",
+                    "heliosphere",
+                    "heaven",
+                    "extremity",
+                    "exterior",
+                    "edgeworth-kuiper belt",
+                    "eden",
+                    "distance",
+                    "depths",
+                    "deep space",
+                    "county",
+                    "bottom",
+                    "black hole",
+                    "biosphere",
+                    "belt",
+                    "atmosphere",
+                    "vacuity",
+                    "maria"
+                ],
+                "hasInstances": [
+                    "heaviside layer",
+                    "d region",
+                    "d-layer",
+                    "cynoscephalae",
+                    "transylvania",
+                    "achaea",
+                    "rand",
+                    "appleton layer",
+                    "reef",
+                    "e region",
+                    "kennelly-heaviside layer",
+                    "e layer",
+                    "f layer",
+                    "doris",
+                    "f region",
+                    "witwatersrand"
+                ],
+                "examples": [
+                    "religions in all parts of the world"
+                ]
+            },
+            {
+                "definition": "go one's own way; move apart",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "separate",
+                    "split"
+                ],
+                "typeOf": [
+                    "move"
+                ],
+                "hasTypes": [
+                    "disperse",
+                    "diffract",
+                    "dissipate",
+                    "break up",
+                    "scatter",
+                    "spread out"
+                ],
+                "derivation": [
+                    "parting"
+                ],
+                "examples": [
+                    "The friends separated after the party"
+                ]
+            },
+            {
+                "definition": "something determined in relation to something that includes it",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "component",
+                    "component part",
+                    "constituent",
+                    "portion"
+                ],
+                "typeOf": [
+                    "relation"
+                ],
+                "hasTypes": [
+                    "residual",
+                    "residue",
+                    "residuum",
+                    "rest",
+                    "member",
+                    "detail",
+                    "particular",
+                    "base",
+                    "basis",
+                    "point",
+                    "butt",
+                    "unit",
+                    "substance",
+                    "item",
+                    "subpart",
+                    "balance",
+                    "remainder",
+                    "linguistic unit",
+                    "language unit"
+                ],
+                "partOf": [
+                    "meronymy",
+                    "part to whole relation"
+                ],
+                "derivation": [
+                    "partial"
+                ],
+                "examples": [
+                    "he wanted to feel a part of something bigger than himself"
+                ]
+            },
+            {
+                "definition": "an actor's portrayal of someone in a play",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "character",
+                    "persona",
+                    "role",
+                    "theatrical role"
+                ],
+                "typeOf": [
+                    "personation",
+                    "characterization",
+                    "portrayal",
+                    "enactment"
+                ],
+                "hasTypes": [
+                    "minor role",
+                    "ingenue",
+                    "villain",
+                    "baddie",
+                    "title role",
+                    "heroine",
+                    "hero",
+                    "heavy",
+                    "bit part",
+                    "name part"
+                ],
+                "examples": [
+                    "she played the part of Desdemona"
+                ]
+            },
+            {
+                "definition": "come apart",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "divide",
+                    "separate"
+                ],
+                "typeOf": [
+                    "change"
+                ],
+                "hasTypes": [
+                    "reduce",
+                    "break off",
+                    "polarize",
+                    "section",
+                    "polarise",
+                    "discerp",
+                    "chip off",
+                    "partition off",
+                    "partition",
+                    "disjoin",
+                    "segment",
+                    "break up",
+                    "segregate",
+                    "come off",
+                    "disjoint",
+                    "dismember",
+                    "chip",
+                    "detach",
+                    "subdivide",
+                    "come away",
+                    "take apart",
+                    "gerrymander",
+                    "break away",
+                    "calve"
+                ],
+                "derivation": [
+                    "partitive"
+                ]
+            },
+            {
+                "definition": "that which concerns a person with regard to a particular role or situation",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "concern"
+                ],
+                "examples": [
+                    "it requires vigilance on our part",
+                    "they resisted every effort on his part"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 5.39,
+            "perMillion": 247.46,
+            "diversity": 0.59
+        }
+    },
+    "partes": {
+        "rhymes": {
+            "all": "-ɑrtiz"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "pɑrtiz"
+        },
+        "sounds": 6
+    },
+    "parthenopean": {
+        "rhymes": {
+            "all": "-iən"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "pɑrθənəpiən"
+        },
+        "sounds": 11
+    },
+    "parthenos": {
+        "rhymes": {
+            "all": "-ɑs"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "pɑrθənɑs"
+        },
+        "sounds": 8
+    },
+    "partook": {
+        "rhymes": {
+            "all": "-ʊk"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "pɑrtʊk"
+        },
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "pase": {
+        "rhymes": {
+            "all": "-ɑseɪ"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "pɑseɪ"
+        },
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "pashm": {
+        "rhymes": {
+            "all": "-əʃəm"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "pəʃəm"
+        },
+        "sounds": 5
+    },
+    "pasqualina": {
+        "rhymes": {
+            "all": "-inə"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "pæskwəlinə"
+        },
+        "sounds": 10
+    },
+    "passant": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "pas",
+                "sant"
+            ]
+        },
+        "pronunciation": {
+            "all": "'pæsənt",
+            "simplified": "pæsənt"
+        },
+        "rhymePatterns": {
+            "all": "-æsənt"
+        },
+        "definitions": [
+            {
+                "definition": "in walking position with right foreleg raised",
+                "partOfSpeech": "adjective",
+                "inCategory": [
+                    "heraldry"
+                ],
+                "similarTo": [
+                    "erect",
+                    "upright",
+                    "vertical"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "passional": {
+        "rhymes": {
+            "all": "-æʃənəl"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "pæʃənəl"
+        },
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "passionist": {
+        "rhymes": {
+            "all": "-æʃənɪst"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "pæʃənɪst"
+        },
+        "sounds": 8
+    },
+    "past": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "past"
+            ]
+        },
+        "pronunciation": {
+            "all": "pæst",
+            "simplified": "pæst"
+        },
+        "rhymePatterns": {
+            "all": "-æst"
+        },
+        "definitions": [
+            {
+                "definition": "a verb tense that expresses actions or states in the past",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "past tense"
+                ],
+                "typeOf": [
+                    "tense"
+                ],
+                "hasTypes": [
+                    "preterit",
+                    "preterite"
+                ]
+            },
+            {
+                "definition": "the time that has elapsed",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "past times",
+                    "yesteryear"
+                ],
+                "typeOf": [
+                    "time"
+                ],
+                "hasTypes": [
+                    "time out of mind",
+                    "old",
+                    "langsyne",
+                    "water under the bridge",
+                    "old times",
+                    "yore",
+                    "auld langsyne",
+                    "history",
+                    "good old days",
+                    "bygone",
+                    "yesterday",
+                    "time immemorial"
+                ],
+                "antonyms": [
+                    "future"
+                ],
+                "examples": [
+                    "forget the past"
+                ]
+            },
+            {
+                "definition": "so as to pass a given point",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "by"
+                ],
+                "examples": [
+                    "every hour a train goes past"
+                ]
+            },
+            {
+                "definition": "of a person who has held and relinquished a position or office",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "preceding",
+                    "retiring"
+                ],
+                "similarTo": [
+                    "outgoing"
+                ]
+            },
+            {
+                "definition": "a earlier period in someone's life (especially one that they have reason to keep secret)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "period of time",
+                    "period",
+                    "time period"
+                ],
+                "partOf": [
+                    "life"
+                ],
+                "examples": [
+                    "reporters dug into the candidate's past"
+                ]
+            },
+            {
+                "definition": "earlier than the present time; no longer current",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "noncurrent",
+                    "old",
+                    "outgoing"
+                ],
+                "attribute": [
+                    "timing"
+                ],
+                "similarTo": [
+                    "ultimo",
+                    "old",
+                    "olden",
+                    "one-time",
+                    "onetime",
+                    "other",
+                    "prehistoric",
+                    "prehistorical",
+                    "previous",
+                    "quondam",
+                    "recent",
+                    "sometime",
+                    "then",
+                    "ult",
+                    "ago",
+                    "agone",
+                    "ancient",
+                    "bygone",
+                    "bypast",
+                    "chivalric",
+                    "departed",
+                    "early",
+                    "erstwhile",
+                    "foregone",
+                    "former",
+                    "gone",
+                    "historic",
+                    "historical",
+                    "knightly",
+                    "last",
+                    "late",
+                    "medieval"
+                ],
+                "antonyms": [
+                    "future",
+                    "present"
+                ],
+                "derivation": [
+                    "pastness"
+                ],
+                "examples": [
+                    "time past",
+                    "his youth is past",
+                    "this past Thursday",
+                    "the past year"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 5.12,
+            "perMillion": 132.9,
+            "diversity": 0.43
+        }
+    },
+    "pasteurise": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "pas",
+                "teur",
+                "ise"
+            ]
+        },
+        "pronunciation": {
+            "all": "'pæsʧə,raɪz",
+            "simplified": "pæsʧəraɪz"
+        },
+        "rhymePatterns": {
+            "all": "-aɪz"
+        },
+        "definitions": [
+            {
+                "definition": "heat food in order to kill harmful microorganisms",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "pasteurize"
+                ],
+                "cause": [
+                    "condense",
+                    "distil",
+                    "distill"
+                ],
+                "typeOf": [
+                    "change integrity"
+                ],
+                "derivation": [
+                    "pasteur",
+                    "pasteurisation"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10
+    },
+    "pastorate": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "pas",
+                "tor",
+                "ate"
+            ]
+        },
+        "pronunciation": {
+            "all": "'pæstərɪt",
+            "simplified": "pæstərɪt"
+        },
+        "rhymePatterns": {
+            "all": "-æstərɪt"
+        },
+        "definitions": [
+            {
+                "definition": "the position of pastor",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "pastorship"
+                ],
+                "typeOf": [
+                    "billet",
+                    "office",
+                    "place",
+                    "position",
+                    "post",
+                    "situation",
+                    "berth",
+                    "spot"
+                ]
+            },
+            {
+                "definition": "pastors collectively",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "clergy"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8
+    },
+    "pat-a-cake": {
+        "rhymes": {
+            "all": "-eɪk"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "pætəkeɪk"
+        },
+        "sounds": 8
+    },
+    "patball": {
+        "rhymes": {
+            "all": "-ætbɑl"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "pætbɑl"
+        },
+        "sounds": 6
+    },
+    "patchogue": {
+        "rhymes": {
+            "all": "-ættʃɔɡ"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "pætʧɔɡ"
+        },
+        "sounds": 7
+    },
+    "patent": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "pa",
+                "tent"
+            ]
+        },
+        "pronunciation": {
+            "all": "'pætənt",
+            "simplified": "pætənt"
+        },
+        "rhymePatterns": {
+            "all": "-ætənt"
+        },
+        "definitions": [
+            {
+                "definition": "clearly revealed to the mind or the senses or judgment",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "apparent",
+                    "evident",
+                    "manifest",
+                    "palpable",
+                    "plain",
+                    "unmistakable"
+                ],
+                "similarTo": [
+                    "obvious"
+                ],
+                "derivation": [
+                    "patency"
+                ],
+                "examples": [
+                    "patent advantages"
+                ]
+            },
+            {
+                "definition": "an official document granting a right or privilege",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "letters patent"
+                ],
+                "inCategory": [
+                    "law",
+                    "jurisprudence"
+                ],
+                "typeOf": [
+                    "legal instrument",
+                    "official document",
+                    "instrument",
+                    "legal document"
+                ]
+            },
+            {
+                "definition": "a document granting an inventor sole rights to an invention",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "patent of invention"
+                ],
+                "typeOf": [
+                    "document",
+                    "papers",
+                    "written document"
+                ]
+            },
+            {
+                "definition": "grant rights to; grant a patent for",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "register"
+                ],
+                "derivation": [
+                    "patentee"
+                ]
+            },
+            {
+                "definition": "make open to sight or notice",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "modify",
+                    "alter",
+                    "change"
+                ],
+                "derivation": [
+                    "patency"
+                ],
+                "examples": [
+                    "His behavior has patented an embarrassing fact about him"
+                ]
+            },
+            {
+                "definition": "obtain a patent for",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "secure",
+                    "procure"
+                ],
+                "derivation": [
+                    "patentee"
+                ],
+                "examples": [
+                    "Should I patent this invention?"
+                ]
+            },
+            {
+                "definition": "(of a bodily tube or passageway) open; affording free passage",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "unobstructed"
+                ],
+                "derivation": [
+                    "patency"
+                ],
+                "examples": [
+                    "patent ductus arteriosus"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.35,
+            "perMillion": 2.23,
+            "diversity": 0.01
+        }
+    },
+    "paterson": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "pat",
+                "er",
+                "son"
+            ]
+        },
+        "pronunciation": {
+            "all": "'pætərsən",
+            "simplified": "pætərsən"
+        },
+        "rhymePatterns": {
+            "all": "-ætərsən"
+        },
+        "definitions": [
+            {
+                "definition": "American Revolutionary leader (born in Ireland) who was a member of the Constitutional Convention (1745-1806)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "william patterson"
+                ],
+                "instanceOf": [
+                    "american revolutionary leader"
+                ]
+            },
+            {
+                "definition": "a city of northeastern New Jersey",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "urban center",
+                    "city",
+                    "metropolis"
+                ],
+                "partOf": [
+                    "jersey",
+                    "n.j.",
+                    "new jersey",
+                    "nj",
+                    "garden state"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.12,
+            "perMillion": 0.12,
+            "diversity": 0
+        }
+    },
+    "pathognomy": {
+        "rhymes": {
+            "all": "-ɑgnəmi"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "pəθɑgnəmi"
+        },
+        "sounds": 9
+    },
+    "pathway": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "path",
+                "way"
+            ]
+        },
+        "pronunciation": {
+            "all": "'pæθ,weɪ",
+            "simplified": "pæθweɪ"
+        },
+        "rhymePatterns": {
+            "all": "-eɪ"
+        },
+        "definitions": [
+            {
+                "definition": "a trodden path",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "footpath"
+                ],
+                "typeOf": [
+                    "path"
+                ]
+            },
+            {
+                "definition": "a bundle of myelinated nerve fibers following a path through the brain",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "nerve pathway",
+                    "nerve tract",
+                    "tract"
+                ],
+                "typeOf": [
+                    "white matter",
+                    "substantia alba"
+                ],
+                "hasTypes": [
+                    "optic radiation",
+                    "cerebral peduncle",
+                    "radiatio optica",
+                    "peduncle",
+                    "commissure"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.77,
+            "perMillion": 0.57,
+            "diversity": 0
+        }
+    },
+    "patina": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "pat",
+                "i",
+                "na"
+            ]
+        },
+        "pronunciation": {
+            "all": "'pætənə",
+            "simplified": "pætənə"
+        },
+        "rhymePatterns": {
+            "all": "-ætənə"
+        },
+        "definitions": [
+            {
+                "definition": "a fine coating of oxide (produced by oxidation over a long period of time) on the surface of a metal (particularly copper)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "coating",
+                    "coat"
+                ],
+                "hasTypes": [
+                    "verdigris"
+                ],
+                "derivation": [
+                    "patinate",
+                    "patinize"
+                ]
+            },
+            {
+                "definition": "a gloss or sheen on wooden furniture produced by age, polishing, or handling",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "coat",
+                    "coating"
+                ]
+            },
+            {
+                "definition": "an acquired change in the appearance of something (other than metal or wood)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "coating",
+                    "coat"
+                ],
+                "examples": [
+                    "a patina of frost",
+                    "a patina of good breeding"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "patio": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "pa",
+                "ti",
+                "o"
+            ]
+        },
+        "pronunciation": {
+            "all": "'pæti,oʊ",
+            "simplified": "pætioʊ"
+        },
+        "rhymePatterns": {
+            "all": "-oʊ"
+        },
+        "definitions": [
+            {
+                "definition": "usually paved outdoor area adjoining a residence",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "terrace"
+                ],
+                "typeOf": [
+                    "area"
+                ],
+                "hasTypes": [
+                    "solar trap",
+                    "suntrap"
+                ],
+                "partOf": [
+                    "garden"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.25,
+            "perMillion": 1.75,
+            "diversity": 0.01
+        }
+    },
+    "patonce": {
+        "rhymes": {
+            "all": "-ɑns"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "pətɑns"
+        },
+        "sounds": 6
+    },
+    "paton": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "pa",
+                "ton"
+            ]
+        },
+        "pronunciation": {
+            "all": "'peɪtən",
+            "simplified": "peɪtən"
+        },
+        "rhymePatterns": {
+            "all": "-eɪtən"
+        },
+        "definitions": [
+            {
+                "definition": "South African writer (1903-1988)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "alan paton",
+                    "alan stewart paton"
+                ],
+                "instanceOf": [
+                    "author",
+                    "writer"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 6
+    },
+    "patriarch": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "pa",
+                "tri",
+                "arch"
+            ]
+        },
+        "pronunciation": {
+            "all": "'peɪtri,ɑrk",
+            "simplified": "peɪtriɑrk"
+        },
+        "rhymePatterns": {
+            "all": "-ɑrk"
+        },
+        "definitions": [
+            {
+                "definition": "the male head of family or tribe",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "paterfamilias"
+                ],
+                "typeOf": [
+                    "man",
+                    "head of household",
+                    "adult male"
+                ],
+                "derivation": [
+                    "patriarchal"
+                ]
+            },
+            {
+                "definition": "a man who is older and higher in rank than yourself",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "methuselah",
+                    "graybeard",
+                    "old man",
+                    "greybeard"
+                ],
+                "derivation": [
+                    "patriarchal"
+                ]
+            },
+            {
+                "definition": "any of the early biblical characters regarded as fathers of the human race",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "sire",
+                    "father",
+                    "forefather"
+                ],
+                "hasTypes": [
+                    "antediluvian",
+                    "jacob",
+                    "simeon",
+                    "antediluvian patriarch"
+                ],
+                "hasInstances": [
+                    "abraham",
+                    "benjamin",
+                    "ibrahim",
+                    "isaac",
+                    "ishmael",
+                    "issachar",
+                    "joseph",
+                    "judah",
+                    "methuselah",
+                    "noah",
+                    "reuben"
+                ]
+            },
+            {
+                "definition": "title for the heads of the Eastern Orthodox Churches (in Istanbul and Alexandria and Moscow and Jerusalem)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "spiritual leader"
+                ],
+                "hasInstances": [
+                    "photius",
+                    "nestorius"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.74,
+            "perMillion": 0.53,
+            "diversity": 0
+        }
+    },
+    "patricide": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "pat",
+                "ri",
+                "cide"
+            ]
+        },
+        "pronunciation": {
+            "all": "'pætrɪ,saɪd",
+            "simplified": "pætrɪsaɪd"
+        },
+        "rhymePatterns": {
+            "all": "-aɪd"
+        },
+        "definitions": [
+            {
+                "definition": "a person who murders their father",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "parricide"
+                ]
+            },
+            {
+                "definition": "the murder of your father",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "parricide"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.3,
+            "perMillion": 0.19,
+            "diversity": 0
+        }
+    },
+    "patriliny": {
+        "rhymes": {
+            "all": "-aɪni"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "pætrəlaɪni"
+        },
+        "sounds": 10
+    },
+    "patriot": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "pa",
+                "tri",
+                "ot"
+            ]
+        },
+        "pronunciation": {
+            "all": "'peɪtriət",
+            "simplified": "peɪtriət"
+        },
+        "rhymePatterns": {
+            "all": "-eɪtriət"
+        },
+        "definitions": [
+            {
+                "definition": "one who loves and defends his or her country",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "nationalist"
+                ],
+                "typeOf": [
+                    "national",
+                    "subject"
+                ],
+                "hasTypes": [
+                    "jingoist",
+                    "patrioteer",
+                    "flag-waver",
+                    "hundred-percenter",
+                    "chauvinist",
+                    "jingo"
+                ],
+                "hasInstances": [
+                    "mazzini",
+                    "tadeusz andrzej bonawentura kosciuszko",
+                    "thaddeus kosciusko",
+                    "garibaldi",
+                    "giuseppe garibaldi",
+                    "giuseppe mazzini",
+                    "gonne",
+                    "kosciusko",
+                    "kosciuszko",
+                    "maud gonne"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.46,
+            "perMillion": 2.85,
+            "diversity": 0.01
+        }
+    },
+    "patriotism": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "pa",
+                "tri",
+                "ot",
+                "ism"
+            ]
+        },
+        "pronunciation": {
+            "all": "'peɪtriə,tɪzəm",
+            "simplified": "peɪtriətɪzəm"
+        },
+        "rhymePatterns": {
+            "all": "-ɪzəm"
+        },
+        "definitions": [
+            {
+                "definition": "love of country and willingness to sacrifice for it",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "nationalism"
+                ],
+                "typeOf": [
+                    "loyalty",
+                    "trueness"
+                ],
+                "hasTypes": [
+                    "jingoism",
+                    "americanism",
+                    "superpatriotism",
+                    "ultranationalism",
+                    "chauvinism"
+                ],
+                "derivation": [
+                    "patriotic"
+                ],
+                "examples": [
+                    "they rode the same wave of popular patriotism"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 12,
+        "frequency": {
+            "zipf": 3.2,
+            "perMillion": 1.56,
+            "diversity": 0.01
+        }
+    },
+    "patronage": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "pat",
+                "ron",
+                "age"
+            ]
+        },
+        "pronunciation": {
+            "all": "'pætrənɪdʒ",
+            "simplified": "pætrənɪdʒ"
+        },
+        "rhymePatterns": {
+            "all": "-ætrənɪdʒ"
+        },
+        "definitions": [
+            {
+                "definition": "a communication that indicates lack of respect by patronizing the recipient",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "condescension",
+                    "disdain"
+                ],
+                "typeOf": [
+                    "derogation",
+                    "depreciation",
+                    "disparagement"
+                ]
+            },
+            {
+                "definition": "be a regular customer or client of",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "keep going",
+                    "patronise",
+                    "patronize",
+                    "support"
+                ],
+                "typeOf": [
+                    "foster",
+                    "nurture"
+                ],
+                "verbGroup": [
+                    "run on",
+                    "keep going"
+                ]
+            },
+            {
+                "definition": "the act of providing approval and support",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "backing",
+                    "backup",
+                    "championship"
+                ],
+                "typeOf": [
+                    "approval",
+                    "blessing",
+                    "approving"
+                ]
+            },
+            {
+                "definition": "the business given to a commercial establishment by its customers",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "trade"
+                ],
+                "typeOf": [
+                    "business"
+                ],
+                "hasTypes": [
+                    "custom"
+                ],
+                "examples": [
+                    "even before noon there was a considerable patronage"
+                ]
+            },
+            {
+                "definition": "customers collectively",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "business",
+                    "clientele"
+                ],
+                "typeOf": [
+                    "people"
+                ]
+            },
+            {
+                "definition": "(politics) granting favors or giving contracts or making appointments to office in return for political support",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "politics",
+                    "government",
+                    "political science"
+                ],
+                "typeOf": [
+                    "social control"
+                ],
+                "hasTypes": [
+                    "nomenklatura"
+                ]
+            },
+            {
+                "definition": "support by being a patron of",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "sustain",
+                    "keep",
+                    "maintain"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.74,
+            "perMillion": 0.53,
+            "diversity": 0
+        }
+    },
+    "patsy": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "pat",
+                "sy"
+            ]
+        },
+        "pronunciation": {
+            "all": "'pætsi",
+            "simplified": "pætsi"
+        },
+        "rhymePatterns": {
+            "all": "-ætsi"
+        },
+        "definitions": [
+            {
+                "definition": "a person who is gullible and easy to take advantage of",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "chump",
+                    "fall guy",
+                    "fool",
+                    "gull",
+                    "mark",
+                    "mug",
+                    "soft touch",
+                    "sucker"
+                ],
+                "typeOf": [
+                    "dupe",
+                    "victim"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.15,
+            "perMillion": 1.4,
+            "diversity": 0
+        }
+    },
+    "pavilion": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "pa",
+                "vil",
+                "ion"
+            ]
+        },
+        "pronunciation": {
+            "all": "pə'vɪljən",
+            "simplified": "pəvɪljən"
+        },
+        "rhymePatterns": {
+            "all": "-ɪljən"
+        },
+        "definitions": [
+            {
+                "definition": "large and often sumptuous tent",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "marquee"
+                ],
+                "typeOf": [
+                    "collapsible shelter",
+                    "tent"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.23,
+            "perMillion": 1.67,
+            "diversity": 0
+        }
+    }
+}

@@ -1,0 +1,2029 @@
+{
+    "legroom": {
+        "rhymes": {
+            "all": "-um"
+        },
+        "letters": 7,
+        "pronunciation": "lʌɡ'rum",
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.97,
+            "perMillion": 0.08,
+            "diversity": 0
+        }
+    },
+    "leicester": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "leices",
+                "ter"
+            ]
+        },
+        "pronunciation": {
+            "all": "'lɛstər",
+            "simplified": "lɛstər"
+        },
+        "rhymePatterns": {
+            "all": "-ɛstər"
+        },
+        "definitions": [
+            {
+                "definition": "a largely agricultural county in central England",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "leicestershire"
+                ],
+                "regionOf": [
+                    "bosworth field"
+                ],
+                "instanceOf": [
+                    "county"
+                ],
+                "partOf": [
+                    "england"
+                ]
+            },
+            {
+                "definition": "an industrial city in Leicestershire in central England; built on the site of a Roman settlement",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "urban center",
+                    "city",
+                    "metropolis"
+                ],
+                "partOf": [
+                    "leicestershire",
+                    "england"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.91,
+            "perMillion": 0.8,
+            "diversity": 0
+        }
+    },
+    "leitus": {
+        "rhymes": {
+            "all": "-iɪtəs"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "liɪtəs"
+        },
+        "sounds": 6
+    },
+    "lemming": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "lem",
+                "ming"
+            ]
+        },
+        "pronunciation": {
+            "all": "'lɛmɪŋ",
+            "simplified": "lɛmɪŋ"
+        },
+        "rhymePatterns": {
+            "all": "-ɛmɪŋ"
+        },
+        "definitions": [
+            {
+                "definition": "any of various short-tailed furry-footed rodents of circumpolar distribution",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "rodent",
+                    "gnawer"
+                ],
+                "hasTypes": [
+                    "synaptomys cooperi",
+                    "european lemming",
+                    "synaptomys borealis",
+                    "brown lemming",
+                    "gray lemming",
+                    "grey lemming",
+                    "lemmus lemmus",
+                    "lemmus trimucronatus",
+                    "northern bog lemming",
+                    "pied lemming",
+                    "red-backed lemming",
+                    "southern bog lemming"
+                ],
+                "memberOf": [
+                    "family cricetidae",
+                    "cricetidae"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.49,
+            "perMillion": 0.29,
+            "diversity": 0
+        }
+    },
+    "lemniscate": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "lem",
+                "nis",
+                "cate"
+            ]
+        },
+        "pronunciation": {
+            "all": "lɛm'nɪskɪt",
+            "simplified": "lɛmnɪskɪt"
+        },
+        "rhymePatterns": {
+            "all": "-ɪskɪt"
+        },
+        "definitions": [
+            {
+                "definition": "any of several plane algebraic curves in the shape of a figure eight",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "geometry"
+                ],
+                "typeOf": [
+                    "curve",
+                    "curved shape"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "lemur": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "le",
+                "mur"
+            ]
+        },
+        "pronunciation": {
+            "all": "'limər",
+            "simplified": "limər"
+        },
+        "rhymePatterns": {
+            "all": "-imər"
+        },
+        "definitions": [
+            {
+                "definition": "large-eyed arboreal prosimian having foxy faces and long furry tails",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "primate"
+                ],
+                "hasTypes": [
+                    "arctocebus calabarensis",
+                    "avahi laniger",
+                    "aye-aye",
+                    "bush baby",
+                    "bushbaby",
+                    "daubentonia madagascariensis",
+                    "galago",
+                    "golden potto",
+                    "indri",
+                    "indri brevicaudatus",
+                    "indri indri",
+                    "indris",
+                    "kinkajou",
+                    "lemur catta",
+                    "loris gracilis",
+                    "madagascar cat",
+                    "nycticebus pygmaeus",
+                    "nycticebus tardigradua",
+                    "perodicticus potto",
+                    "potto",
+                    "woolly indris",
+                    "slow loris",
+                    "angwantibo",
+                    "ring-tailed lemur",
+                    "slender loris"
+                ],
+                "memberOf": [
+                    "lemuroidea",
+                    "suborder lemuroidea"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.52,
+            "perMillion": 0.32,
+            "diversity": 0
+        }
+    },
+    "lemuria": {
+        "rhymes": {
+            "all": "-ʊriə"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "lɛmjʊriə"
+        },
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.27,
+            "perMillion": 0.17,
+            "diversity": 0
+        }
+    },
+    "lena": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "le",
+                "na"
+            ]
+        },
+        "pronunciation": {
+            "all": "'linə",
+            "simplified": "linə"
+        },
+        "rhymePatterns": {
+            "all": "-inə"
+        },
+        "definitions": [
+            {
+                "definition": "a Russian river in Siberia; flows northward into the Laptev Sea",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "lena river"
+                ],
+                "instanceOf": [
+                    "river"
+                ],
+                "partOf": [
+                    "siberia"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.93,
+            "perMillion": 8.57,
+            "diversity": 0.01
+        }
+    },
+    "lenaeus": {
+        "rhymes": {
+            "all": "-iəs"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ləniəs"
+        },
+        "sounds": 6
+    },
+    "lenca": {
+        "rhymes": {
+            "all": "-ɛŋkə"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "lɛŋkə"
+        },
+        "sounds": 5
+    },
+    "length": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "length"
+            ]
+        },
+        "pronunciation": {
+            "all": "lɛŋkθ",
+            "simplified": "lɛŋkθ"
+        },
+        "rhymePatterns": {
+            "all": "-ɛŋkθ"
+        },
+        "definitions": [
+            {
+                "definition": "continuance in time",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "duration"
+                ],
+                "attribute": [
+                    "long",
+                    "short"
+                ],
+                "typeOf": [
+                    "temporal property"
+                ],
+                "hasTypes": [
+                    "continuation",
+                    "transience",
+                    "endlessness",
+                    "shortness",
+                    "brevity",
+                    "impermanence",
+                    "impermanency",
+                    "briefness",
+                    "lengthiness",
+                    "longness",
+                    "permanence",
+                    "permanency",
+                    "protraction",
+                    "prolongation"
+                ],
+                "derivation": [
+                    "lengthy"
+                ],
+                "examples": [
+                    "he complained about the length of time required"
+                ]
+            },
+            {
+                "definition": "size of the gap between two places",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "distance"
+                ],
+                "typeOf": [
+                    "size"
+                ],
+                "hasTypes": [
+                    "wingspread",
+                    "arm's length",
+                    "gauge",
+                    "leg",
+                    "light time",
+                    "skip distance",
+                    "wingspan",
+                    "altitude"
+                ],
+                "examples": [
+                    "he determined the length of the shortest line segment joining the two points"
+                ]
+            },
+            {
+                "definition": "a section of something that is long and narrow",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "section",
+                    "segment"
+                ],
+                "examples": [
+                    "a length of timber",
+                    "a length of tubing"
+                ]
+            },
+            {
+                "definition": "the linear extent in space from one end to the other; the longest dimension of something that is fixed in place",
+                "partOfSpeech": "noun",
+                "attribute": [
+                    "short",
+                    "long"
+                ],
+                "typeOf": [
+                    "fundamental quantity",
+                    "fundamental measure",
+                    "dimension",
+                    "physical property"
+                ],
+                "hasTypes": [
+                    "radius",
+                    "diameter",
+                    "circumference",
+                    "shortness",
+                    "longness",
+                    "r",
+                    "diam"
+                ],
+                "examples": [
+                    "the length of the table was 5 feet"
+                ]
+            },
+            {
+                "definition": "the property of being the extent of something from beginning to end",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "extent"
+                ],
+                "examples": [
+                    "the editor limited the length of my article to 500 words"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.87,
+            "perMillion": 7.48,
+            "diversity": 0.03
+        }
+    },
+    "lengthy": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "length",
+                "y"
+            ]
+        },
+        "pronunciation": {
+            "all": "'lɛŋkθi",
+            "simplified": "lɛŋkθi"
+        },
+        "rhymePatterns": {
+            "all": "-ɛŋkθi"
+        },
+        "definitions": [
+            {
+                "definition": "relatively long in duration; tediously protracted",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "drawn-out",
+                    "extended",
+                    "prolonged",
+                    "protracted"
+                ],
+                "similarTo": [
+                    "long"
+                ],
+                "derivation": [
+                    "length",
+                    "lengthiness"
+                ],
+                "examples": [
+                    "a lengthy visit from her mother-in-law"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.9,
+            "perMillion": 0.79,
+            "diversity": 0
+        }
+    },
+    "lennox": {
+        "rhymes": {
+            "all": "-ɛnəks"
+        },
+        "letters": 6,
+        "pronunciation": "'lɛnʌks",
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.03,
+            "perMillion": 1.07,
+            "diversity": 0
+        }
+    },
+    "lens-shaped": {
+        "rhymes": {
+            "all": "-ɛnz_ʃeɪpt"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "lɛnzʃeɪpt"
+        },
+        "sounds": 9
+    },
+    "lentigo": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "len",
+                "ti",
+                "go"
+            ]
+        },
+        "pronunciation": {
+            "all": "lɛn'taɪɡoʊ",
+            "simplified": "lɛntaɪɡoʊ"
+        },
+        "rhymePatterns": {
+            "all": "-aɪɡoʊ"
+        },
+        "definitions": [
+            {
+                "definition": "a small brownish spot (of the pigment melanin) on the skin",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "freckle"
+                ],
+                "typeOf": [
+                    "macula",
+                    "macule"
+                ],
+                "partOf": [
+                    "cutis",
+                    "skin",
+                    "tegument"
+                ],
+                "derivation": [
+                    "lentiginous"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 9
+    },
+    "lentissimo": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "len",
+                "tis",
+                "si",
+                "mo"
+            ]
+        },
+        "pronunciation": {
+            "all": "lɛn'tɪsə,moʊ",
+            "simplified": "lɛntɪsəmoʊ"
+        },
+        "rhymePatterns": {
+            "all": "-oʊ"
+        },
+        "definitions": [
+            {
+                "definition": "(of tempo) very slow",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "slow"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10
+    },
+    "leonie": {
+        "rhymes": {
+            "all": "-iəni"
+        },
+        "letters": 6,
+        "pronunciation": "'lɛni",
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.81,
+            "perMillion": 0.64,
+            "diversity": 0
+        }
+    },
+    "leonora": {
+        "rhymes": {
+            "all": "-oʊrə"
+        },
+        "letters": 7,
+        "pronunciation": ",liʌ'nɔrʌ",
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.33,
+            "perMillion": 0.2,
+            "diversity": 0
+        }
+    },
+    "leotine": {
+        "rhymes": {
+            "all": "-aɪn"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "liətaɪn"
+        },
+        "sounds": 7
+    },
+    "leptodactyl": {
+        "rhymes": {
+            "all": "-æktɪl"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "lɛptoʊdæktɪl"
+        },
+        "sounds": 12
+    },
+    "leptospira": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "lep",
+                "to",
+                "spi",
+                "ra"
+            ]
+        },
+        "pronunciation": {
+            "all": ",lɛptə'spaɪrə",
+            "simplified": "lɛptəspaɪrə"
+        },
+        "rhymePatterns": {
+            "all": "-aɪrə"
+        },
+        "definitions": [
+            {
+                "definition": "important pathogens causing Weil's disease or canicola fever",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "spirochaete",
+                    "spirochete"
+                ],
+                "memberOf": [
+                    "genus leptospira"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 11
+    },
+    "lerwick": {
+        "rhymes": {
+            "all": "-ɪk"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "lɜrwɪk"
+        },
+        "sounds": 6
+    },
+    "lesche": {
+        "rhymes": {
+            "all": "-ɛski"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "lɛski"
+        },
+        "sounds": 5
+    },
+    "lest": {
+        "rhymes": {
+            "all": "-ɛst"
+        },
+        "letters": 4,
+        "pronunciation": "lɛst",
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.27,
+            "perMillion": 1.84,
+            "diversity": 0.01
+        }
+    },
+    "let's": {
+        "rhymes": {
+            "all": "-ets"
+        },
+        "letters": 5,
+        "pronunciation": "lɛts",
+        "sounds": 4
+    },
+    "leta": {
+        "rhymes": {
+            "all": "-itə"
+        },
+        "letters": 4,
+        "pronunciation": "'lɛtʌ",
+        "sounds": 4
+    },
+    "lethargy": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "leth",
+                "ar",
+                "gy"
+            ]
+        },
+        "pronunciation": {
+            "all": "'lɛθərdʒi",
+            "simplified": "lɛθərdʒi"
+        },
+        "rhymePatterns": {
+            "all": "-ɛθərdʒi"
+        },
+        "definitions": [
+            {
+                "definition": "weakness characterized by a lack of vitality or energy",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "inanition",
+                    "lassitude",
+                    "slackness"
+                ],
+                "typeOf": [
+                    "weakness"
+                ]
+            },
+            {
+                "definition": "a state of comatose torpor (as found in sleeping sickness)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "lassitude",
+                    "sluggishness"
+                ],
+                "typeOf": [
+                    "torpidity",
+                    "torpor"
+                ],
+                "hasTypes": [
+                    "hebetude"
+                ]
+            },
+            {
+                "definition": "inactivity; showing an unusual lack of energy",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "flatness",
+                    "languor",
+                    "phlegm",
+                    "sluggishness"
+                ],
+                "typeOf": [
+                    "inertia",
+                    "inactiveness",
+                    "inactivity"
+                ],
+                "derivation": [
+                    "lethargic"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.27,
+            "perMillion": 0.17,
+            "diversity": 0
+        }
+    },
+    "letitia": {
+        "rhymes": {
+            "all": "-ɪʃə"
+        },
+        "letters": 7,
+        "pronunciation": "lɪ'tɪʃiʌ",
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.64,
+            "perMillion": 0.43,
+            "diversity": 0
+        }
+    },
+    "letter-learned": {
+        "rhymes": {
+            "all": "-ɛtər_lɜrnd"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "lɛtərlɜrnd"
+        },
+        "sounds": 10
+    },
+    "lettice": {
+        "rhymes": {
+            "all": "-ɛtɪs"
+        },
+        "letters": 7,
+        "pronunciation": "'lɛtɪs",
+        "sounds": 5
+    },
+    "leucas": {
+        "rhymes": {
+            "all": "-ukəs"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "lukəs"
+        },
+        "sounds": 5
+    },
+    "leucoderma": {
+        "rhymes": {
+            "all": "-ə"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "lukədɜrmə"
+        },
+        "sounds": 9
+    },
+    "leucoline": {
+        "rhymes": {
+            "all": "-in"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "lukəlin"
+        },
+        "sounds": 7
+    },
+    "leucopenia": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "leu",
+                "co",
+                "pe",
+                "ni",
+                "a"
+            ]
+        },
+        "pronunciation": {
+            "all": ",lukə'piniə",
+            "simplified": "lukəpiniə"
+        },
+        "rhymePatterns": {
+            "all": "-iniə"
+        },
+        "definitions": [
+            {
+                "definition": "an abnormal lowering of the white blood cell count",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "leukopenia"
+                ],
+                "typeOf": [
+                    "blood disease",
+                    "blood disorder"
+                ],
+                "hasTypes": [
+                    "neutropenia"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "leuconostoc": {
+        "rhymes": {
+            "all": "-ɑstɑk"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "lukənɑstɑk"
+        },
+        "sounds": 10
+    },
+    "leucoplast": {
+        "rhymes": {
+            "all": "-æst"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "lukəplæst"
+        },
+        "sounds": 9
+    },
+    "leucorrhoea": {
+        "rhymes": {
+            "all": "-iə"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "lukəriə"
+        },
+        "sounds": 7
+    },
+    "leucotic": {
+        "rhymes": {
+            "all": "-ɑtɪk"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "lukɑtɪk"
+        },
+        "sounds": 7
+    },
+    "leucothoe": {
+        "pronunciation": {
+            "all": "lu'kɑθoʊ,i",
+            "simplified": "lukɑθoʊi"
+        },
+        "rhymePatterns": {
+            "all": "-i"
+        },
+        "definitions": [
+            {
+                "definition": "any plant of the genus Leucothoe; grown for their beautiful white flowers; glossy foliage contains a poisonous substance similar to that found in genus Kalmia",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "bush",
+                    "shrub"
+                ],
+                "memberOf": [
+                    "genus leucothoe"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8
+    },
+    "leukemia": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "leu",
+                "ke",
+                "mi",
+                "a"
+            ]
+        },
+        "pronunciation": {
+            "all": "lu'kimiə",
+            "simplified": "lukimiə"
+        },
+        "rhymePatterns": {
+            "all": "-imiə"
+        },
+        "definitions": [
+            {
+                "definition": "malignant neoplasm of blood-forming tissues; characterized by abnormal proliferation of leukocytes; one of the four major types of cancer",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "cancer of the blood",
+                    "leucaemia",
+                    "leukaemia"
+                ],
+                "typeOf": [
+                    "cancer",
+                    "malignant neoplastic disease"
+                ],
+                "hasTypes": [
+                    "granulocytic leukemia",
+                    "histiocytic leukaemia",
+                    "histiocytic leukemia",
+                    "lymphocytic leukemia",
+                    "monoblastic leukaemia",
+                    "monoblastic leukemia",
+                    "monocytic leukaemia",
+                    "monocytic leukemia",
+                    "myeloblastic leukemia",
+                    "acute leukemia",
+                    "myelocytic leukemia",
+                    "chronic leukemia"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.09,
+            "perMillion": 1.23,
+            "diversity": 0.01
+        }
+    },
+    "leukocidin": {
+        "rhymes": {
+            "all": "-aɪdən"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "lukəsaɪdən"
+        },
+        "sounds": 10
+    },
+    "leukocythemia": {
+        "rhymes": {
+            "all": "-imiə"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "lukoʊsaɪθimiə"
+        },
+        "sounds": 13
+    },
+    "leukoderma": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "leu",
+                "ko",
+                "der",
+                "ma"
+            ]
+        },
+        "pronunciation": {
+            "all": ",lukə'dɜrmə",
+            "simplified": "lukədɜrmə"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrmə"
+        },
+        "definitions": [
+            {
+                "definition": "a congenital skin condition characterized by spots or bands of unpigmented skin",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "disease of the skin",
+                    "skin disease",
+                    "skin disorder"
+                ],
+                "hasParts": [
+                    "hypopigmentation"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "leukopoietic": {
+        "rhymes": {
+            "all": "-ɛtɪk"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "lukoʊpɔɪɛtɪk"
+        },
+        "sounds": 12
+    },
+    "leveret": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "lev",
+                "er",
+                "et"
+            ]
+        },
+        "pronunciation": {
+            "all": "'lɛvərɪt",
+            "simplified": "lɛvərɪt"
+        },
+        "rhymePatterns": {
+            "all": "-ɛvərɪt"
+        },
+        "definitions": [
+            {
+                "definition": "a young hare especially one in its first year",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "hare"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.03,
+            "perMillion": 0.09,
+            "diversity": 0
+        }
+    },
+    "leviable": {
+        "rhymes": {
+            "all": "-ɛviəbəl"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "lɛviəbəl"
+        },
+        "sounds": 8
+    },
+    "leverhulme": {
+        "rhymes": {
+            "all": "-um"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "livərhjum"
+        },
+        "sounds": 9
+    },
+    "leviratic": {
+        "rhymes": {
+            "all": "-ætɪk"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "lɛvərætɪk"
+        },
+        "sounds": 9
+    },
+    "levity": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "lev",
+                "i",
+                "ty"
+            ]
+        },
+        "pronunciation": {
+            "all": "'lɛvɪti",
+            "simplified": "lɛvɪti"
+        },
+        "rhymePatterns": {
+            "all": "-ɛvɪti"
+        },
+        "definitions": [
+            {
+                "definition": "a manner lacking seriousness",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "frivolity",
+                    "frivolousness"
+                ],
+                "hasTypes": [
+                    "merriness",
+                    "humorousness",
+                    "jocoseness",
+                    "light-mindedness",
+                    "jocosity",
+                    "flippancy"
+                ]
+            },
+            {
+                "definition": "feeling an inappropriate lack of seriousness",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "feeling"
+                ],
+                "hasTypes": [
+                    "gaiety",
+                    "playfulness"
+                ],
+                "antonyms": [
+                    "gravity"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.45,
+            "perMillion": 0.27,
+            "diversity": 0
+        }
+    },
+    "levorotary": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "le",
+                "vo",
+                "ro",
+                "ta",
+                "ry"
+            ]
+        },
+        "pronunciation": {
+            "all": ",livoʊ'roʊtəri",
+            "simplified": "livoʊroʊtəri"
+        },
+        "rhymePatterns": {
+            "all": "-oʊtəri"
+        },
+        "definitions": [
+            {
+                "definition": "rotating to the left",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "left-handed",
+                    "levorotatory"
+                ],
+                "similarTo": [
+                    "anticlockwise",
+                    "contraclockwise",
+                    "counterclockwise"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 12
+    },
+    "levorotation": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "le",
+                "vo",
+                "ro",
+                "ta",
+                "tion"
+            ]
+        },
+        "pronunciation": {
+            "all": ",livoʊroʊ'teɪʃən",
+            "simplified": "livoʊroʊteɪʃən"
+        },
+        "rhymePatterns": {
+            "all": "-eɪʃən"
+        },
+        "definitions": [
+            {
+                "definition": "rotation to the left",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "counterclockwise rotation"
+                ],
+                "typeOf": [
+                    "gyration",
+                    "revolution",
+                    "rotation"
+                ],
+                "antonyms": [
+                    "dextrorotation"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 14
+    },
+    "lewis": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "lew",
+                "is"
+            ]
+        },
+        "pronunciation": {
+            "all": "'luɪs",
+            "simplified": "luɪs"
+        },
+        "rhymePatterns": {
+            "all": "-uɪs"
+        },
+        "definitions": [
+            {
+                "definition": "United States novelist who satirized middle-class America in his novel Main Street (1885-1951)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "harry sinclair lewis",
+                    "sinclair lewis"
+                ],
+                "instanceOf": [
+                    "writer",
+                    "author"
+                ]
+            },
+            {
+                "definition": "United States explorer and soldier who lead led an expedition from St. Louis to the mouth of the Columbia River (1774-1809)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "meriwether lewis"
+                ],
+                "instanceOf": [
+                    "adventurer",
+                    "explorer"
+                ]
+            },
+            {
+                "definition": "United States labor leader who was president of the United Mine Workers of America from 1920 to 1960 and president of the Congress of Industrial Organizations from 1935 to 1940 (1880-1969)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "john l. lewis",
+                    "john llewelly lewis"
+                ],
+                "instanceOf": [
+                    "labor leader"
+                ]
+            },
+            {
+                "definition": "United States athlete who won gold medals at the Olympics for his skill in sprinting and jumping (born in 1961)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "carl lewis",
+                    "frederick carleton lewis"
+                ],
+                "instanceOf": [
+                    "jumper",
+                    "sprinter"
+                ]
+            },
+            {
+                "definition": "United States rock star singer and pianist (born in 1935)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "jerry lee lewis"
+                ],
+                "instanceOf": [
+                    "pianist",
+                    "piano player",
+                    "rock star"
+                ]
+            },
+            {
+                "definition": "English critic and novelist; author of theological works and of books for children (1898-1963)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "c. s. lewis",
+                    "clive staples lewis"
+                ],
+                "instanceOf": [
+                    "author",
+                    "writer"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 4.07,
+            "perMillion": 11.65,
+            "diversity": 0.02
+        }
+    },
+    "lewisite": {
+        "rhymes": {
+            "all": "-aɪt"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "luɪsaɪt"
+        },
+        "sounds": 7
+    },
+    "lexicography": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "lex",
+                "i",
+                "cog",
+                "ra",
+                "phy"
+            ]
+        },
+        "pronunciation": {
+            "all": ",lɛksə'kɑgrəfi",
+            "simplified": "lɛksəkɑgrəfi"
+        },
+        "rhymePatterns": {
+            "all": "-ɑgrəfi"
+        },
+        "definitions": [
+            {
+                "definition": "the act of writing dictionaries",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "authorship",
+                    "composition",
+                    "penning",
+                    "writing"
+                ],
+                "derivation": [
+                    "lexicographer",
+                    "lexicographical"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 12
+    },
+    "leyland": {
+        "rhymes": {
+            "all": "-ilən"
+        },
+        "letters": 7,
+        "pronunciation": "'leɪlʌnd",
+        "sounds": 5
+    },
+    "li-sao": {
+        "rhymes": {
+            "all": "-aʊ"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "lisaʊ"
+        },
+        "sounds": 5
+    },
+    "leyton": {
+        "rhymes": {
+            "all": "-eɪtən"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "leɪtən"
+        },
+        "sounds": 6
+    },
+    "lia": {
+        "rhymes": {
+            "all": "-aɪə"
+        },
+        "letters": 3,
+        "pronunciation": "'liʌ",
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.03,
+            "perMillion": 1.07,
+            "diversity": 0
+        }
+    },
+    "liane": {
+        "rhymes": {
+            "all": "-ɑn"
+        },
+        "letters": 5,
+        "pronunciation": "li'æn",
+        "sounds": 4,
+        "frequency": {
+            "zipf": 2.03,
+            "perMillion": 0.09,
+            "diversity": 0
+        }
+    },
+    "lias": {
+        "rhymes": {
+            "all": "-aɪəs"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "laɪəs"
+        },
+        "sounds": 5
+    },
+    "libation-bearers": {
+        "rhymes": {
+            "all": "-ərz"
+        },
+        "letters": 16,
+        "pronunciation": {
+            "simplified": "laɪbeɪʃənbɜrərz"
+        },
+        "sounds": 15
+    },
+    "libby": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "lib",
+                "by"
+            ]
+        },
+        "pronunciation": {
+            "all": "'lɪbi",
+            "simplified": "lɪbi"
+        },
+        "rhymePatterns": {
+            "all": "-ɪbi"
+        },
+        "definitions": [
+            {
+                "definition": "United States chemist who developed a method of radiocarbon dating (1908-1980)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "willard frank libby"
+                ],
+                "instanceOf": [
+                    "chemist"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.36,
+            "perMillion": 2.29,
+            "diversity": 0
+        }
+    },
+    "libeccio": {
+        "rhymes": {
+            "all": "-ɛttʃɔ"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "libɛtʧɔ"
+        },
+        "sounds": 8
+    },
+    "libellist": {
+        "rhymes": {
+            "all": "-aɪbəlɪst"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "laɪbəlɪst"
+        },
+        "sounds": 9
+    },
+    "liberate": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "lib",
+                "er",
+                "ate"
+            ]
+        },
+        "pronunciation": {
+            "all": "'lɪbə,reɪt",
+            "simplified": "lɪbəreɪt"
+        },
+        "rhymePatterns": {
+            "all": "-eɪt"
+        },
+        "definitions": [
+            {
+                "definition": "grant freedom to",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "set free"
+                ],
+                "typeOf": [
+                    "free",
+                    "discharge"
+                ],
+                "hasTypes": [
+                    "decolonise",
+                    "decolonize",
+                    "manumit",
+                    "enfranchise",
+                    "affranchise",
+                    "emancipate"
+                ],
+                "derivation": [
+                    "liberator",
+                    "liberty",
+                    "liberation"
+                ],
+                "examples": [
+                    "The students liberated their slaves upon graduating from the university"
+                ]
+            },
+            {
+                "definition": "grant freedom to; free from confinement",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "free",
+                    "loose",
+                    "release",
+                    "unloose",
+                    "unloosen"
+                ],
+                "hasTypes": [
+                    "unspell",
+                    "bail",
+                    "bail out",
+                    "parole",
+                    "run",
+                    "unchain"
+                ],
+                "derivation": [
+                    "liberty",
+                    "liberation",
+                    "liberator"
+                ]
+            },
+            {
+                "definition": "release (gas or energy) as a result of a chemical reaction or physical decomposition",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "free",
+                    "release"
+                ],
+                "inCategory": [
+                    "chemical science",
+                    "chemistry"
+                ],
+                "typeOf": [
+                    "generate",
+                    "bring forth"
+                ]
+            },
+            {
+                "definition": "give equal rights to; of women and minorities",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "emancipate"
+                ],
+                "typeOf": [
+                    "change state",
+                    "turn"
+                ],
+                "derivation": [
+                    "liberty",
+                    "liberation"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.41,
+            "perMillion": 2.57,
+            "diversity": 0.01
+        }
+    },
+    "libertas": {
+        "rhymes": {
+            "all": "-əs"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "lɪbɜrtəs"
+        },
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "libertinage": {
+        "rhymes": {
+            "all": "-inɪdʒ"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "lɪbərtinɪdʒ"
+        },
+        "sounds": 11
+    },
+    "libidinal": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "li",
+                "bid",
+                "i",
+                "nal"
+            ]
+        },
+        "pronunciation": {
+            "all": "lɪ'bɪdənəl",
+            "simplified": "lɪbɪdənəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɪdənəl"
+        },
+        "definitions": [
+            {
+                "definition": "belonging to the libido",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "libido"
+                ],
+                "derivation": [
+                    "libido"
+                ],
+                "examples": [
+                    "libidinal impulses",
+                    "libidinal gratification"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "librarian": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "li",
+                "brar",
+                "i",
+                "an"
+            ]
+        },
+        "pronunciation": {
+            "all": "laɪ'brɜriən",
+            "simplified": "laɪbrɜriən"
+        },
+        "rhymePatterns": {
+            "all": "-ɜriən"
+        },
+        "definitions": [
+            {
+                "definition": "a professional person trained in library science and engaged in library services",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "bibliothec"
+                ],
+                "typeOf": [
+                    "professional",
+                    "professional person"
+                ],
+                "hasTypes": [
+                    "cataloguer",
+                    "cataloger"
+                ],
+                "hasInstances": [
+                    "melvil dewey",
+                    "dewey",
+                    "melville louis kossuth dewey"
+                ],
+                "derivation": [
+                    "librarianship"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 3.37,
+            "perMillion": 2.33,
+            "diversity": 0.01
+        }
+    },
+    "libretto-writing": {
+        "rhymes": {
+            "all": "-aɪtɪŋ"
+        },
+        "letters": 16,
+        "pronunciation": {
+            "simplified": "lɪbrɛtoʊraɪtɪŋ"
+        },
+        "sounds": 14
+    },
+    "licentiousness": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "li",
+                "cen",
+                "tious",
+                "ness"
+            ]
+        },
+        "pronunciation": {
+            "all": "laɪ'sɛnʃəsnɛs",
+            "simplified": "laɪsɛnʃəsnɛs"
+        },
+        "rhymePatterns": {
+            "all": "-ɛnʃəsnɛs"
+        },
+        "definitions": [
+            {
+                "definition": "dissolute indulgence in sensual pleasure",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dissipation",
+                    "dissolution",
+                    "looseness",
+                    "profligacy"
+                ],
+                "typeOf": [
+                    "intemperance",
+                    "intemperateness",
+                    "self-indulgence"
+                ],
+                "derivation": [
+                    "licentious"
+                ]
+            },
+            {
+                "definition": "the quality of being lewd and lascivious",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "wantonness"
+                ],
+                "typeOf": [
+                    "immorality"
+                ],
+                "derivation": [
+                    "licentious"
+                ]
+            }
+        ],
+        "letters": 14,
+        "sounds": 12,
+        "frequency": {
+            "zipf": 2.08,
+            "perMillion": 0.11,
+            "diversity": 0
+        }
+    },
+    "lichenologic": {
+        "rhymes": {
+            "all": "-ɑdʒɪk"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "laɪkənoʊlɑdʒɪk"
+        },
+        "sounds": 14
+    },
+    "lichi": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "li",
+                "chi"
+            ]
+        },
+        "pronunciation": {
+            "all": "'liʧi",
+            "simplified": "liʧi"
+        },
+        "rhymePatterns": {
+            "all": "-itʃi"
+        },
+        "definitions": [
+            {
+                "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "leechee",
+                    "lichee",
+                    "litchee",
+                    "litchi",
+                    "litchi nut",
+                    "lychee"
+                ],
+                "typeOf": [
+                    "edible fruit"
+                ],
+                "partOf": [
+                    "lichee",
+                    "litchi",
+                    "litchi chinensis",
+                    "litchi tree",
+                    "nephelium litchi"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5
+    },
+    "licht": {
+        "rhymes": {
+            "all": "-ɪxt"
+        },
+        "letters": 5,
+        "pronunciation": "lɪkt",
+        "sounds": 4,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "lick-dish": {
+        "rhymes": {
+            "all": "-ɪk_dɪʃ"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "lɪkdɪʃ"
+        },
+        "sounds": 6
+    },
+    "lid": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "lid"
+            ]
+        },
+        "pronunciation": {
+            "all": "lɪd",
+            "simplified": "lɪd"
+        },
+        "rhymePatterns": {
+            "all": "-ɪd"
+        },
+        "definitions": [
+            {
+                "definition": "headdress that protects the head from bad weather; has shaped crown and usually a brim",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "chapeau",
+                    "hat"
+                ],
+                "typeOf": [
+                    "headgear",
+                    "headdress"
+                ],
+                "hasTypes": [
+                    "fedora",
+                    "felt hat",
+                    "fool's cap",
+                    "fur hat",
+                    "high hat",
+                    "homburg",
+                    "leghorn",
+                    "millinery",
+                    "opera hat",
+                    "panama",
+                    "panama hat",
+                    "plug hat",
+                    "poke bonnet",
+                    "woman's hat",
+                    "beaver",
+                    "boater",
+                    "bonnet",
+                    "bowler",
+                    "bowler hat",
+                    "busby",
+                    "campaign hat",
+                    "cavalier hat",
+                    "cocked hat",
+                    "cowboy hat",
+                    "deerstalker",
+                    "derby",
+                    "derby hat",
+                    "dress hat",
+                    "dunce's cap",
+                    "dunce cap",
+                    "trilby",
+                    "tyrolean",
+                    "bearskin",
+                    "sailor",
+                    "shako",
+                    "shovel hat",
+                    "silk hat",
+                    "skimmer",
+                    "slouch hat",
+                    "snap-brim hat",
+                    "sombrero",
+                    "sou'wester",
+                    "stetson",
+                    "stovepipe",
+                    "straw hat",
+                    "sun hat",
+                    "sunhat",
+                    "ten-gallon hat",
+                    "tirolean",
+                    "titfer",
+                    "top hat",
+                    "topper",
+                    "toque"
+                ],
+                "hasParts": [
+                    "hatband",
+                    "brim",
+                    "crown"
+                ]
+            },
+            {
+                "definition": "either of two folds of skin that can be moved to cover or open the eye",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "eyelid",
+                    "palpebra"
+                ],
+                "typeOf": [
+                    "protective fold"
+                ],
+                "hasParts": [
+                    "eyelash",
+                    "cilium",
+                    "conjunctiva",
+                    "lash"
+                ],
+                "partOf": [
+                    "oculus",
+                    "eye",
+                    "optic"
+                ],
+                "examples": [
+                    "his lids would stay open no longer"
+                ]
+            },
+            {
+                "definition": "a movable top or cover (hinged or separate) for closing the opening at the top of a box, chest, jar, pan, etc.",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "cover",
+                    "top"
+                ],
+                "hasTypes": [
+                    "trunk lid"
+                ],
+                "hasParts": [
+                    "lock"
+                ],
+                "partOf": [
+                    "jar",
+                    "chest",
+                    "box"
+                ],
+                "examples": [
+                    "he raised the piano lid"
+                ]
+            }
+        ],
+        "letters": 3,
+        "sounds": 3,
+        "frequency": {
+            "zipf": 3.69,
+            "perMillion": 4.93,
+            "diversity": 0.02
+        }
+    },
+    "lienectomy": {
+        "rhymes": {
+            "all": "-ɛktəmi"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "laɪənɛktəmi"
+        },
+        "sounds": 11
+    }
+}

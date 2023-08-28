@@ -1,0 +1,582 @@
+{
+    "60": {
+        "definitions": [
+            {
+                "definition": "being ten more than fifty",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "lx",
+                    "sixty",
+                    "threescore"
+                ],
+                "similarTo": [
+                    "cardinal"
+                ]
+            },
+            {
+                "definition": "the cardinal number that is the product of ten and six",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "lx",
+                    "sixty"
+                ],
+                "typeOf": [
+                    "large integer"
+                ]
+            }
+        ],
+        "letters": 2
+    },
+    
+    
+    "78": {
+        "definitions": [
+            {
+                "definition": "being eight more than seventy",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "lxxviii",
+                    "seventy-eight"
+                ],
+                "similarTo": [
+                    "cardinal"
+                ]
+            },
+            {
+                "definition": "the cardinal number that is the sum of seventy and eight",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "lxxviii",
+                    "seventy-eight"
+                ],
+                "typeOf": [
+                    "large integer"
+                ]
+            },
+            {
+                "definition": "a shellac based phonograph record that played at 78 revolutions per minute",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "seventy-eight"
+                ],
+                "typeOf": [
+                    "disc",
+                    "disk",
+                    "platter",
+                    "record",
+                    "phonograph record",
+                    "phonograph recording"
+                ]
+            }
+        ],
+        "letters": 2
+    },
+    "80": {
+        "definitions": [
+            {
+                "definition": "being ten more than seventy",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "eighty",
+                    "fourscore",
+                    "lxxx"
+                ],
+                "similarTo": [
+                    "cardinal"
+                ]
+            },
+            {
+                "definition": "the cardinal number that is the product of ten and eight",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "eighty",
+                    "fourscore",
+                    "lxxx"
+                ],
+                "typeOf": [
+                    "large integer"
+                ]
+            }
+        ],
+        "letters": 2
+    },
+    "84": {
+        "definitions": [
+            {
+                "definition": "being four more than eighty",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "eighty-four",
+                    "lxxxiv"
+                ],
+                "similarTo": [
+                    "cardinal"
+                ]
+            }
+        ],
+        "letters": 2
+    },
+    "94": {
+        "definitions": [
+            {
+                "definition": "being four more than ninety",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "ninety-four",
+                    "xciv"
+                ],
+                "similarTo": [
+                    "cardinal"
+                ]
+            }
+        ],
+        "letters": 2
+    },
+    "100": {
+        "definitions": [
+            {
+                "definition": "ten 10s",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "c",
+                    "century",
+                    "hundred",
+                    "one c"
+                ],
+                "typeOf": [
+                    "large integer"
+                ]
+            },
+            {
+                "definition": "being ten more than ninety",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "c",
+                    "hundred",
+                    "one hundred"
+                ],
+                "similarTo": [
+                    "cardinal"
+                ]
+            }
+        ],
+        "letters": 3
+    },
+    "110": {
+        "definitions": [
+            {
+                "definition": "being ten more than one hundred",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "cx",
+                    "one hundred ten"
+                ],
+                "similarTo": [
+                    "cardinal"
+                ]
+            }
+        ],
+        "letters": 3
+    },
+    "170": {
+        "definitions": [
+            {
+                "definition": "being ten more than one hundred sixty",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "clxx",
+                    "one hundred seventy"
+                ],
+                "similarTo": [
+                    "cardinal"
+                ]
+            }
+        ],
+        "letters": 3
+    },
+    "175": {
+        "definitions": [
+            {
+                "definition": "being five more than one hundred seventy",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "clxxv",
+                    "one hundred seventy-five"
+                ],
+                "similarTo": [
+                    "cardinal"
+                ]
+            }
+        ],
+        "letters": 3
+    },
+    "1000": {
+        "definitions": [
+            {
+                "definition": "denoting a quantity consisting of 1,000 items or units",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "k",
+                    "m",
+                    "one thousand",
+                    "thousand"
+                ],
+                "similarTo": [
+                    "cardinal"
+                ]
+            },
+            {
+                "definition": "the cardinal number that is the product of 10 and 100",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "chiliad",
+                    "g",
+                    "grand",
+                    "k",
+                    "m",
+                    "one thousand",
+                    "thou",
+                    "thousand",
+                    "yard"
+                ],
+                "typeOf": [
+                    "large integer"
+                ],
+                "hasTypes": [
+                    "millenary"
+                ]
+            }
+        ],
+        "letters": 4
+    },
+    "1000000": {
+        "definitions": [
+            {
+                "definition": "the number that is represented as a one followed by 6 zeros",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "meg",
+                    "million",
+                    "one thousand thousand"
+                ],
+                "typeOf": [
+                    "large integer"
+                ]
+            }
+        ],
+        "letters": 7
+    },
+    ".22-caliber": {
+        "definitions": [
+            {
+                "definition": "of or relating to the bore of a gun (or its ammunition) that measures twenty-two hundredths of an inch in diameter",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    ".22-calibre",
+                    ".22 caliber",
+                    ".22 calibre"
+                ],
+                "pertainsTo": [
+                    "caliber"
+                ]
+            }
+        ],
+        "letters": 11
+    },
+    "150th": {
+        "definitions": [
+            {
+                "definition": "the ordinal number of one hundred fifty in counting order",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "hundred-and-fiftieth"
+                ],
+                "similarTo": [
+                    "ordinal"
+                ]
+            }
+        ],
+        "letters": 5
+    },
+    "155th": {
+        "definitions": [
+            {
+                "definition": "the ordinal number of one hundred fifty-five in counting order",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "hundred-and-fifty-fifth"
+                ],
+                "similarTo": [
+                    "ordinal"
+                ]
+            }
+        ],
+        "letters": 5,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "16th": {
+        "definitions": [
+            {
+                "definition": "coming next after the fifteenth in position",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "sixteenth"
+                ],
+                "similarTo": [
+                    "ordinal"
+                ]
+            }
+        ],
+        "letters": 4,
+        "frequency": {
+            "zipf": 3.58,
+            "perMillion": 3.75,
+            "diversity": 0.02
+        }
+    },
+    "1850s": {
+        "definitions": [
+            {
+                "definition": "the decade from 1850 to 1859",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "decade",
+                    "decennary",
+                    "decennium"
+                ]
+            }
+        ],
+        "letters": 5,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "1890s": {
+        "definitions": [
+            {
+                "definition": "the decade from 1890 to 1899",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "nineties"
+                ],
+                "typeOf": [
+                    "decade",
+                    "decennary",
+                    "decennium"
+                ]
+            }
+        ],
+        "letters": 5,
+        "frequency": {
+            "zipf": 2.17,
+            "perMillion": 0.13,
+            "diversity": 0
+        }
+    },
+    "1930s": {
+        "definitions": [
+            {
+                "definition": "the decade from 1930 to 1939",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "thirties"
+                ],
+                "typeOf": [
+                    "decade",
+                    "decennary",
+                    "decennium"
+                ]
+            }
+        ],
+        "letters": 5,
+        "frequency": {
+            "zipf": 2.99,
+            "perMillion": 0.96,
+            "diversity": 0
+        }
+    },
+    "1st earl of balfour": {
+        "definitions": [
+            {
+                "definition": "English statesman; member of the Conservative Party (1848-1930)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "arthur james balfour",
+                    "balfour"
+                ],
+                "instanceOf": [
+                    "national leader",
+                    "solon",
+                    "statesman"
+                ]
+            }
+        ],
+        "letters": 16
+    },
+    "2-hydroxybenzoic acid": {
+        "definitions": [
+            {
+                "definition": "a white crystalline substance with a bitter aftertaste; used as a fungicide or in making aspirin or dyes or perfumes",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "salicylic acid"
+                ],
+                "typeOf": [
+                    "hydroxy acid"
+                ],
+                "substanceOf": [
+                    "aspirin",
+                    "bayer",
+                    "diflunisal",
+                    "dolobid",
+                    "empirin",
+                    "acetylsalicylic acid",
+                    "st. joseph"
+                ]
+            }
+        ],
+        "letters": 20
+    },
+    "24-hour interval": {
+        "definitions": [
+            {
+                "definition": "time for Earth to make a complete rotation on its axis",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "day",
+                    "mean solar day",
+                    "solar day",
+                    "twenty-four hour period",
+                    "twenty-four hours"
+                ],
+                "typeOf": [
+                    "unit of time",
+                    "time unit"
+                ],
+                "hasTypes": [
+                    "eve",
+                    "morrow",
+                    "today",
+                    "tomorrow",
+                    "day of the month",
+                    "date",
+                    "yesterday"
+                ],
+                "hasParts": [
+                    "nighttime",
+                    "noon",
+                    "noonday",
+                    "noontide",
+                    "twelve noon",
+                    "midday",
+                    "dark",
+                    "day",
+                    "daylight",
+                    "daytime",
+                    "high noon",
+                    "hour",
+                    "hr",
+                    "60 minutes",
+                    "night"
+                ]
+            }
+        ],
+        "letters": 15
+    },
+    "2nd lieutenant": {
+        "definitions": [
+            {
+                "definition": "a commissioned officer in the Army or Air Force or Marine Corps holding the lowest rank",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "second lieutenant"
+                ],
+                "typeOf": [
+                    "lieutenant"
+                ]
+            }
+        ],
+        "letters": 13
+    },
+    "32nd": {
+        "definitions": [
+            {
+                "definition": "the ordinal number of thirty-two in counting order",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "thirty-second"
+                ],
+                "similarTo": [
+                    "ordinal"
+                ]
+            }
+        ],
+        "letters": 4,
+        "frequency": {
+            "zipf": 2.52,
+            "perMillion": 0.32,
+            "diversity": 0
+        }
+    },
+    "6-membered": {
+        "definitions": [
+            {
+                "definition": "of a chemical compound having a ring with six members",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "six-membered"
+                ],
+                "similarTo": [
+                    "membered"
+                ]
+            }
+        ],
+        "letters": 10
+    },
+    "60th": {
+        "definitions": [
+            {
+                "definition": "the ordinal number of sixty in counting order",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "sixtieth"
+                ],
+                "similarTo": [
+                    "ordinal"
+                ]
+            }
+        ],
+        "letters": 4,
+        "frequency": {
+            "zipf": 2.78,
+            "perMillion": 0.59,
+            "diversity": 0
+        }
+    },
+    "6th": {
+        "definitions": [
+            {
+                "definition": "coming next after the fifth and just before the seventh in position",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "sixth"
+                ],
+                "similarTo": [
+                    "ordinal"
+                ]
+            }
+        ],
+        "letters": 3,
+        "frequency": {
+            "zipf": 3.66,
+            "perMillion": 4.6,
+            "diversity": 0.02
+        }
+    }
+}

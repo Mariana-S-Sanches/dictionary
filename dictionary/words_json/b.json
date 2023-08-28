@@ -1,0 +1,1983 @@
+{
+    "babbitt metal": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "bab",
+                "bitt met",
+                "al"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bæbɪt_'mɛtəl",
+            "simplified": "bæbɪtmɛtəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɛtəl"
+        },
+        "definitions": [
+            {
+                "definition": "an alloy of tin with some copper and antimony; a lining for bearings that reduces friction",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "babbitt"
+                ],
+                "typeOf": [
+                    "alloy",
+                    "metal"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 10
+    },
+    "babbitt": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "bab",
+                "bitt"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bæbɪt",
+            "simplified": "bæbɪt"
+        },
+        "rhymePatterns": {
+            "all": "-æbɪt"
+        },
+        "definitions": [
+            {
+                "definition": "an alloy of tin with some copper and antimony; a lining for bearings that reduces friction",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "babbitt metal"
+                ],
+                "typeOf": [
+                    "alloy",
+                    "metal"
+                ]
+            },
+            {
+                "definition": "line with a Babbitt metal",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "line"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.62,
+            "perMillion": 0.4,
+            "diversity": 0
+        }
+    },
+    "bachelor": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "bach",
+                "e",
+                "lor's"
+            ]
+        },
+        "rhymes": {
+            "all": "-atʃələrz"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "all": "'bæʧʌlɝrz",
+            "simplified": "'bæʧʌlɝrz"
+        },
+        "sounds": 9
+    },
+    "back-pedalling": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "back-ped",
+                "al",
+                "ling"
+            ]
+        },
+        "letters": 14
+    },
+    "back-alley": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "back-al",
+                "ley"
+            ]
+        },
+        "rhymes": {
+            "all": "-æli"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "bækæli"
+        },
+        "sounds": 6
+    },
+    "back-pedaling": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "back-ped",
+                "al",
+                "ing"
+            ]
+        },
+        "letters": 13
+    },
+    "backbitten": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "back",
+                "bit",
+                "ten"
+            ]
+        },
+        "letters": 10
+    },
+    "backboned": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "back",
+                "boned"
+            ]
+        },
+        "letters": 9,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "backdrop": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "back",
+                "drop"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bæk,drɑp",
+            "simplified": "bækdrɑp"
+        },
+        "rhymePatterns": {
+            "all": "-ɑp"
+        },
+        "definitions": [
+            {
+                "definition": "scenery hung at back of stage",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "backcloth",
+                    "background"
+                ],
+                "typeOf": [
+                    "scene",
+                    "scenery"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.94,
+            "perMillion": 0.87,
+            "diversity": 0
+        }
+    },
+    "backcloth": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "back",
+                "cloth"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bækklɑθ",
+            "simplified": "bækklɑθ"
+        },
+        "rhymePatterns": {
+            "all": "-ækklɑθ"
+        },
+        "definitions": [
+            {
+                "definition": "scenery hung at back of stage",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "backdrop",
+                    "background"
+                ],
+                "typeOf": [
+                    "scene",
+                    "scenery"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7
+    },
+    "backers-up": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "back",
+                "ers-up"
+            ]
+        },
+        "letters": 10
+    },
+    "backhandedly": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "back",
+                "hand",
+                "ed",
+                "ly"
+            ]
+        },
+        "rhymes": {
+            "all": "-ændɪdli"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "bækhændɪdli"
+        },
+        "sounds": 11
+    },
+    "backscratcher": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "back",
+                "scratch",
+                "er"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bæk,skrætʃər",
+            "simplified": "bækskrætʃər"
+        },
+        "rhymePatterns": {
+            "all": "-ætʃər"
+        },
+        "definitions": [
+            {
+                "definition": "a long-handled scratcher for scratching your back",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "scratcher"
+                ]
+            },
+            {
+                "definition": "someone who is willing to trade favors or services for mutual advantage",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "opportunist",
+                    "self-seeker"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 11,
+        "frequency": 2.4
+    },
+    "backmost": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "back",
+                "most"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bækmoʊst",
+            "simplified": "bækmoʊst"
+        },
+        "rhymePatterns": {
+            "all": "-ækmoʊst"
+        },
+        "definitions": [
+            {
+                "definition": "located farthest to the rear",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "hindermost",
+                    "hindmost",
+                    "rearmost"
+                ],
+                "similarTo": [
+                    "back"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8
+    },
+    "backshish": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "back",
+                "shish"
+            ]
+        },
+        "letters": 9
+    },
+    "backspace": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "back",
+                "space"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bæk,speɪs",
+            "simplified": "bækspeɪs"
+        },
+        "rhymePatterns": {
+            "all": "-eɪs"
+        },
+        "definitions": [
+            {
+                "definition": "the typewriter key used for back spacing",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "backspace key",
+                    "backspacer"
+                ],
+                "typeOf": [
+                    "key"
+                ],
+                "partOf": [
+                    "typewriter keyboard"
+                ]
+            },
+            {
+                "definition": "hit the backspace key on a computer or typewriter keyboard",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "type",
+                    "typewrite"
+                ],
+                "derivation": [
+                    "backspacer"
+                ],
+                "examples": [
+                    "To erase, you must backspace"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "backsplice": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "back",
+                "splice"
+            ]
+        },
+        "rhymes": {
+            "all": "-aɪs"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "bæksplaɪs"
+        },
+        "sounds": 9
+    },
+    "backstabber": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "back",
+                "stab",
+                "ber"
+            ]
+        },
+        "letters": 11,
+        "frequency": {
+            "zipf": 2.43,
+            "perMillion": 0.25,
+            "diversity": 0
+        }
+    },
+    "backstitch": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "back",
+                "stitch"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bæk,stɪʧ",
+            "simplified": "bækstɪʧ"
+        },
+        "rhymePatterns": {
+            "all": "-ɪtʃ"
+        },
+        "definitions": [
+            {
+                "definition": "an overlapping stitch made by starting the next stitch at the middle of the preceding one",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "embroidery stitch",
+                    "sewing stitch"
+                ]
+            },
+            {
+                "definition": "do backstitches",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "run up",
+                    "sew",
+                    "sew together",
+                    "stitch"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 8
+    },
+    "backswept": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "back",
+                "swept"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bæk,swɛpt",
+            "simplified": "bækswɛpt"
+        },
+        "rhymePatterns": {
+            "all": "-ɛpt"
+        },
+        "definitions": [
+            {
+                "definition": "used of hair",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "sweptback"
+                ],
+                "similarTo": [
+                    "backward"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": 1.74
+    },
+    "backswimmer": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "back",
+                "swim",
+                "mer"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bæk,swɪmər",
+            "simplified": "bækswɪmər"
+        },
+        "rhymePatterns": {
+            "all": "-ɪmər"
+        },
+        "definitions": [
+            {
+                "definition": "predaceous aquatic insect that swims on its back and may inflict painful bites",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "notonecta undulata"
+                ],
+                "typeOf": [
+                    "bug",
+                    "hemipteran",
+                    "hemipteron",
+                    "hemipterous insect"
+                ],
+                "memberOf": [
+                    "genus notonecta",
+                    "notonecta"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 9
+    },
+    "backwood": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "back",
+                "wood"
+            ]
+        },
+        "letters": 8
+    },
+    "backwinded": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "back",
+                "wind",
+                "ed"
+            ]
+        },
+        "letters": 10
+    },
+    "bacchantes": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "bac",
+                "chan",
+                "tes"
+            ]
+        },
+        "letters": 10
+    },
+    "bacchante": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "bac",
+                "chan",
+                "te"
+            ]
+        },
+        "pronunciation": {
+            "all": "bə'kænti",
+            "simplified": "bəkænti"
+        },
+        "rhymePatterns": {
+            "all": "-ænti"
+        },
+        "definitions": [
+            {
+                "definition": "(classical mythology) a priestess or votary of Bacchus",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "greek mythology",
+                    "roman mythology"
+                ],
+                "typeOf": [
+                    "votary"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7
+    },
+    "bacchanalia": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "bac",
+                "cha",
+                "na",
+                "li",
+                "a"
+            ]
+        },
+        "pronunciation": {
+            "all": ",bækə'neɪljə",
+            "simplified": "bækəneɪljə"
+        },
+        "rhymePatterns": {
+            "all": "-eɪljə"
+        },
+        "definitions": [
+            {
+                "definition": "an orgiastic festival in ancient Greece in honor of Dionysus (= Bacchus)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dionysia"
+                ],
+                "typeOf": [
+                    "festival",
+                    "fete"
+                ]
+            },
+            {
+                "definition": "a wild gathering involving excessive drinking and promiscuity",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "bacchanal",
+                    "debauch",
+                    "debauchery",
+                    "drunken revelry",
+                    "orgy",
+                    "riot",
+                    "saturnalia"
+                ],
+                "typeOf": [
+                    "revel",
+                    "revelry"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10,
+        "frequency": 2.02
+    },
+    "baccio": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "Bac",
+                "cio"
+            ]
+        },
+        "letters": 6
+    },
+    "bacchii": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "bac",
+                "chi",
+                "i"
+            ]
+        },
+        "letters": 7
+    },
+    "bacterized": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "bac",
+                "ter",
+                "ized"
+            ]
+        },
+        "letters": 10
+    },
+    "bacterial plaque": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "bac",
+                "te",
+                "ri",
+                "al plaque"
+            ]
+        },
+        "definitions": [
+            {
+                "definition": "a film of mucus and bacteria deposited on the teeth that encourages the development of dental caries",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dental plaque"
+                ],
+                "typeOf": [
+                    "plaque"
+                ]
+            }
+        ],
+        "letters": 15
+    },
+    "bacterioscopy": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "bac",
+                "te",
+                "ri",
+                "os",
+                "co",
+                "py"
+            ]
+        },
+        "rhymes": {
+            "all": "-ɑskəpi"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "bæktiriɑskəpi"
+        },
+        "sounds": 13
+    },
+    "bacteriophage": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "bac",
+                "te",
+                "ri",
+                "o",
+                "phage"
+            ]
+        },
+        "pronunciation": {
+            "all": "bæk'tiriə,feɪdʒ",
+            "simplified": "bæktiriəfeɪdʒ"
+        },
+        "rhymePatterns": {
+            "all": "-eɪdʒ"
+        },
+        "definitions": [
+            {
+                "definition": "a virus that is parasitic (reproduces itself) in bacteria",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "phage"
+                ],
+                "typeOf": [
+                    "virus"
+                ],
+                "hasTypes": [
+                    "coliphage",
+                    "typhoid bacteriophage"
+                ],
+                "derivation": [
+                    "bacteriophagic",
+                    "bacteriophagous"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 13,
+        "frequency": 1.74
+    },
+    "bacterioscopically": {
+        "syllables": {
+            "count": 8,
+            "list": [
+                "bac",
+                "te",
+                "ri",
+                "o",
+                "scop",
+                "i",
+                "cal",
+                "ly"
+            ]
+        },
+        "letters": 18
+    },
+    "baculitic": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "bac",
+                "u",
+                "lit",
+                "ic"
+            ]
+        },
+        "rhymes": {
+            "all": "-ɪtɪk"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "bækjəlɪtɪk"
+        },
+        "sounds": 10
+    },
+    "bacteriological": {
+        "syllables": {
+            "count": 7,
+            "list": [
+                "bac",
+                "te",
+                "ri",
+                "o",
+                "log",
+                "i",
+                "cal"
+            ]
+        },
+        "pronunciation": {
+            "all": "bæk,tiriə'lɑdʒɪkəl",
+            "simplified": "bæktiriəlɑdʒɪkəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɑdʒɪkəl"
+        },
+        "definitions": [
+            {
+                "definition": "of or relating to bacteriology",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "bacteriologic"
+                ],
+                "pertainsTo": [
+                    "bacteriology"
+                ],
+                "derivation": [
+                    "bacteriology"
+                ]
+            }
+        ],
+        "letters": 15,
+        "sounds": 16,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "bacterioscopic": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "bac",
+                "te",
+                "ri",
+                "o",
+                "scop",
+                "ic"
+            ]
+        },
+        "rhymes": {
+            "all": "-ɑpɪk"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "bæktiriəskɑpɪk"
+        },
+        "sounds": 14
+    },
+    "badger": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "badg",
+                "er"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bædʒər",
+            "simplified": "bædʒər"
+        },
+        "rhymePatterns": {
+            "all": "-ædʒər"
+        },
+        "definitions": [
+            {
+                "definition": "annoy persistently",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "beleaguer",
+                    "bug",
+                    "pester",
+                    "tease"
+                ],
+                "typeOf": [
+                    "torment",
+                    "bedevil",
+                    "crucify",
+                    "dun",
+                    "frustrate",
+                    "rag"
+                ],
+                "derivation": [
+                    "badgerer"
+                ]
+            },
+            {
+                "definition": "a native or resident of Wisconsin",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "wisconsinite"
+                ],
+                "typeOf": [
+                    "american"
+                ]
+            },
+            {
+                "definition": "persuade through constant efforts",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "persuade"
+                ]
+            },
+            {
+                "definition": "sturdy carnivorous burrowing mammal with strong claws; widely distributed in the northern hemisphere",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "musteline",
+                    "musteline mammal",
+                    "mustelid"
+                ],
+                "hasTypes": [
+                    "arctonyx collaris",
+                    "eurasian badger",
+                    "ferret badger",
+                    "hog-nosed badger",
+                    "meles meles",
+                    "hog badger",
+                    "sand badger",
+                    "taxidea taxus",
+                    "american badger"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.28,
+            "perMillion": 1.91,
+            "diversity": 0.01
+        }
+    },
+    "baddeleyite": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "bad",
+                "de",
+                "ley",
+                "ite"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bædəli,aɪt",
+            "simplified": "bædəliaɪt"
+        },
+        "rhymePatterns": {
+            "all": "-aɪt"
+        },
+        "definitions": [
+            {
+                "definition": "a mineral consisting of zirconium oxide",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "mineral"
+                ],
+                "hasSubstances": [
+                    "atomic number 40",
+                    "zirconium",
+                    "zr"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 9
+    },
+    "baffler": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "baf",
+                "fler"
+            ]
+        },
+        "rhymes": {
+            "all": "-æflər"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "bæflər"
+        },
+        "sounds": 6
+    },
+    "bags": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "bags"
+            ]
+        },
+        "letters": 4,
+        "frequency": {
+            "zipf": 4.45,
+            "perMillion": 28.33,
+            "diversity": 0.12
+        },
+        "pronunciation": {
+            "simplified": "bæɡz"
+        }
+    },
+    "baggagemaster": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "bag",
+                "gage",
+                "mas",
+                "ter"
+            ]
+        },
+        "rhymes": {
+            "all": "-æstər"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "bæɡɪdʒmæstər"
+        },
+        "sounds": 12
+    },
+    "bag-flower": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "bag-flow",
+                "er"
+            ]
+        },
+        "rhymes": {
+            "all": "-aʊər"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "bægflaʊər"
+        },
+        "sounds": 9
+    },
+    "baggywrinkle": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "bag",
+                "gy",
+                "wrin",
+                "kle"
+            ]
+        },
+        "rhymes": {
+            "all": "-ɪŋkəl"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "bæɡirɪŋkəl"
+        },
+        "sounds": 10
+    },
+    "bagpipe": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "bag",
+                "pipe"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bæɡ,paɪp",
+            "simplified": "bæɡpaɪp"
+        },
+        "rhymePatterns": {
+            "all": "-aɪp"
+        },
+        "definitions": [
+            {
+                "definition": "a tubular wind instrument; the player blows air into a bag and squeezes it out through the drone",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "pipe"
+                ],
+                "hasTypes": [
+                    "musette",
+                    "shepherd's pipe"
+                ],
+                "hasParts": [
+                    "drone pipe",
+                    "bourdon",
+                    "melody pipe",
+                    "chanter",
+                    "drone"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.52,
+            "perMillion": 0.32,
+            "diversity": 0
+        }
+    },
+    "bagpiping": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "bag",
+                "pip",
+                "ing"
+            ]
+        },
+        "letters": 9
+    },
+    "bagwig": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "bag",
+                "wig"
+            ]
+        },
+        "rhymes": {
+            "all": "-ɪɡ"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "bæɡwɪɡ"
+        },
+        "sounds": 6
+    },
+    "bahru": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "Bah",
+                "ru"
+            ]
+        },
+        "letters": 5
+    },
+    "baht": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "baht"
+            ]
+        },
+        "pronunciation": {
+            "all": "bɑt",
+            "simplified": "bɑt"
+        },
+        "rhymePatterns": {
+            "all": "-ɑt"
+        },
+        "definitions": [
+            {
+                "definition": "the basic unit of money in Thailand",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "tical"
+                ],
+                "typeOf": [
+                    "thai monetary unit"
+                ],
+                "hasParts": [
+                    "satang"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 3,
+        "frequency": {
+            "zipf": 3.56,
+            "perMillion": 3.59,
+            "diversity": 0.01
+        }
+    },
+    "bailable": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "bail",
+                "a",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "'beɪləbəl",
+            "simplified": "beɪləbəl"
+        },
+        "rhymePatterns": {
+            "all": "-eɪləbəl"
+        },
+        "definitions": [
+            {
+                "definition": "admitting of bail",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "permissive"
+                ],
+                "derivation": [
+                    "bail"
+                ],
+                "examples": [
+                    "a bailable offense"
+                ]
+            },
+            {
+                "definition": "eligible for bail",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "eligible"
+                ],
+                "examples": [
+                    "a bailable defendant"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "bailey": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "bai",
+                "ley"
+            ]
+        },
+        "pronunciation": {
+            "all": "'beɪli",
+            "simplified": "beɪli"
+        },
+        "rhymePatterns": {
+            "all": "-eɪli"
+        },
+        "definitions": [
+            {
+                "definition": "United States singer (1918-1990)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "pearl bailey",
+                    "pearl mae bailey"
+                ],
+                "instanceOf": [
+                    "vocaliser",
+                    "vocalist",
+                    "vocalizer",
+                    "singer"
+                ]
+            },
+            {
+                "definition": "English lexicographer who was the first to treat etymology consistently; his work was used as a reference by Samuel Johnson (died in 1742)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "nathan bailey",
+                    "nathaniel bailey"
+                ],
+                "instanceOf": [
+                    "lexicologist",
+                    "lexicographer"
+                ]
+            },
+            {
+                "definition": "the outer courtyard of a castle",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "court",
+                    "courtyard"
+                ]
+            },
+            {
+                "definition": "the outer defensive wall that surrounds the outer courtyard of a castle",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "wall",
+                    "rampart",
+                    "bulwark"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.61,
+            "perMillion": 4.04,
+            "diversity": 0.01
+        }
+    },
+    "bakemeat": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "bake",
+                "meat"
+            ]
+        },
+        "rhymes": {
+            "all": "-it"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "beɪkmit"
+        },
+        "sounds": 7
+    },
+    "bakeware": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "bake",
+                "ware"
+            ]
+        },
+        "rhymes": {
+            "all": "-eɪk,wɜr"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "'beɪk,wɛr"
+        },
+        "sounds": 7
+    },
+    "baldness": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "bald",
+                "ness"
+            ]
+        },
+        "definitions": [
+            {
+                "definition": "the condition of having no hair on the top of the head",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "phalacrosis"
+                ],
+                "typeOf": [
+                    "depilation",
+                    "hairlessness"
+                ],
+                "hasTypes": [
+                    "alopecia",
+                    "male-patterned baldness",
+                    "male pattern baldness"
+                ],
+                "derivation": [
+                    "bald"
+                ]
+            }
+        ],
+        "letters": 8,
+        "frequency": {
+            "zipf": 2.49,
+            "perMillion": 0.29,
+            "diversity": 0
+        },
+        "pronunciation": {
+            "simplified": "'bɔldnʌs"
+        }
+    },
+    "bal": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "bal"
+            ]
+        },
+        "rhymes": {
+            "all": "-æl"
+        },
+        "letters": 3,
+        "pronunciation": {
+            "simplified": "bæl"
+        },
+        "sounds": 3,
+        "frequency": {
+            "zipf": 2.49,
+            "perMillion": 0.29,
+            "diversity": 0
+        }
+    },
+    "baldish": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "bald",
+                "ish"
+            ]
+        },
+        "letters": 7
+    },
+    "baleful": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "bale",
+                "ful"
+            ]
+        },
+        "pronunciation": {
+            "all": "'beɪlfəl",
+            "simplified": "beɪlfəl"
+        },
+        "rhymePatterns": {
+            "all": "-eɪlfəl"
+        },
+        "definitions": [
+            {
+                "definition": "deadly or sinister",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "baneful"
+                ],
+                "similarTo": [
+                    "maleficent"
+                ],
+                "derivation": [
+                    "balefulness"
+                ],
+                "examples": [
+                    "the Florida eagles have a fierce baleful look"
+                ]
+            },
+            {
+                "definition": "threatening or foreshadowing evil or tragic developments",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "forbidding",
+                    "menacing",
+                    "minacious",
+                    "minatory",
+                    "ominous",
+                    "sinister",
+                    "threatening"
+                ],
+                "similarTo": [
+                    "alarming"
+                ],
+                "derivation": [
+                    "balefulness"
+                ],
+                "examples": [
+                    "a baleful look"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "ball-carrier": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ball-car",
+                "ri",
+                "er"
+            ]
+        },
+        "rhymes": {
+            "all": "-æriər"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "bɔlkæriər"
+        },
+        "sounds": 9
+    },
+    "ballflower": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ball",
+                "flow",
+                "er"
+            ]
+        },
+        "rhymes": {
+            "all": "-aʊər"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "bɔlflaʊər"
+        },
+        "sounds": 9
+    },
+    "ballroom": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ball",
+                "room"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bɔl,rum",
+            "simplified": "bɔlrum"
+        },
+        "rhymePatterns": {
+            "all": "-um"
+        },
+        "definitions": [
+            {
+                "definition": "large room used mainly for dancing",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dance hall",
+                    "dance palace"
+                ],
+                "typeOf": [
+                    "room"
+                ],
+                "hasTypes": [
+                    "disco",
+                    "discotheque"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.39,
+            "perMillion": 2.47,
+            "diversity": 0.01
+        }
+    },
+    "balboa": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "bal",
+                "bo",
+                "a"
+            ]
+        },
+        "pronunciation": {
+            "all": "bæl'boʊə",
+            "simplified": "bælboʊə"
+        },
+        "rhymePatterns": {
+            "all": "-oʊə"
+        },
+        "definitions": [
+            {
+                "definition": "Spanish explorer who in 1513 crossed the Isthmus of Darien and became the first European to see the eastern shores of the Pacific Ocean (1475-1519)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "vasco nunez de balboa"
+                ],
+                "instanceOf": [
+                    "navigator"
+                ]
+            },
+            {
+                "definition": "the basic unit of money in Panama; equal to 100 centesimos",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "panamanian monetary unit"
+                ],
+                "hasParts": [
+                    "centesimo"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.57,
+            "perMillion": 0.36,
+            "diversity": 0
+        }
+    },
+    "balaklava": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "Bal",
+                "a",
+                "kla",
+                "va"
+            ]
+        },
+        "rhymes": {
+            "all": "-ɑvə"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "bæləklɑvə"
+        },
+        "sounds": 9
+    },
+    "balconette": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "bal",
+                "co",
+                "nette"
+            ]
+        },
+        "letters": 10
+    },
+    "baldomero": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "Bal",
+                "do",
+                "me",
+                "ro"
+            ]
+        },
+        "letters": 9,
+        "frequency": {
+            "zipf": 2.45,
+            "perMillion": 0.27,
+            "diversity": 0
+        }
+    },
+    "baldrick": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "bal",
+                "drick"
+            ]
+        },
+        "definitions": [
+            {
+                "definition": "a wide (ornamented) belt worn over the right shoulder to support a sword or bugle by the left hip",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "baldric"
+                ],
+                "typeOf": [
+                    "belt"
+                ]
+            }
+        ],
+        "letters": 8,
+        "frequency": {
+            "zipf": 2.78,
+            "perMillion": 0.59,
+            "diversity": 0
+        }
+    },
+    "balfour": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "bal",
+                "four"
+            ]
+        },
+        "pronunciation": {
+            "all": "'bælfʊr",
+            "simplified": "bælfʊr"
+        },
+        "rhymePatterns": {
+            "all": "-ælfʊr"
+        },
+        "definitions": [
+            {
+                "definition": "English statesman; member of the Conservative Party (1848-1930)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "1st earl of balfour",
+                    "arthur james balfour"
+                ],
+                "instanceOf": [
+                    "national leader",
+                    "solon",
+                    "statesman"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.12,
+            "perMillion": 0.12,
+            "diversity": 0
+        }
+    },
+    "balkis": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "Bal",
+                "kis"
+            ]
+        },
+        "letters": 6
+    },
+    "ballad stanza": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "bal",
+                "lad",
+                "stan",
+                "za"
+            ]
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "bælədstænzə"
+        },
+        "sounds": 11
+    },
+    "balkanized": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "Bal",
+                "kan",
+                "ized"
+            ]
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "'bɔlkʌ,naɪzd"
+        }
+    },
+    "ballad metre": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "bal",
+                "lad",
+                "me",
+                "tre"
+            ]
+        },
+        "letters": 11
+    },
+    "balladeer": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "bal",
+                "lad",
+                "eer"
+            ]
+        },
+        "pronunciation": {
+            "all": ",bælə'dir",
+            "simplified": "bælədir"
+        },
+        "rhymePatterns": {
+            "all": "-ir"
+        },
+        "definitions": [
+            {
+                "definition": "a singer of popular ballads",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "crooner"
+                ],
+                "typeOf": [
+                    "singer",
+                    "vocaliser",
+                    "vocalist",
+                    "vocalizer"
+                ],
+                "hasInstances": [
+                    "harry lillis crosby",
+                    "bing crosby",
+                    "sinatra",
+                    "crosby",
+                    "francis albert sinatra",
+                    "frank sinatra"
+                ],
+                "derivation": [
+                    "ballad"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "balladist": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "bal",
+                "lad",
+                "ist"
+            ]
+        },
+        "rhymes": {
+            "all": "-ælədɪst"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "bælədɪst"
+        },
+        "sounds": 8
+    },
+    "balladmongering": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "bal",
+                "lad",
+                "mon",
+                "ger",
+                "ing"
+            ]
+        },
+        "letters": 15
+    },
+    "ballerina": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "bal",
+                "le",
+                "ri",
+                "na"
+            ]
+        },
+        "pronunciation": {
+            "all": ",bælə'rinə",
+            "simplified": "bælərinə"
+        },
+        "rhymePatterns": {
+            "all": "-inə"
+        },
+        "definitions": [
+            {
+                "definition": "a female ballet dancer",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "danseuse"
+                ],
+                "typeOf": [
+                    "ballet dancer"
+                ],
+                "hasTypes": [
+                    "prima ballerina"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.32,
+            "perMillion": 2.05,
+            "diversity": 0.01
+        }
+    },
+    "ballistocardiogram": {
+        "syllables": {
+            "count": 7,
+            "list": [
+                "bal",
+                "lis",
+                "to",
+                "car",
+                "di",
+                "o",
+                "gram"
+            ]
+        },
+        "pronunciation": {
+            "all": "bə,lɪstoʊ'kɑrdiə,græm",
+            "simplified": "bəlɪstoʊkɑrdiəgræm"
+        },
+        "rhymePatterns": {
+            "all": "-æm"
+        },
+        "definitions": [
+            {
+                "definition": "a graphical recording made by a ballistocardiograph",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "graphical recording",
+                    "graph",
+                    "graphical record"
+                ],
+                "partOf": [
+                    "medical checkup",
+                    "medical exam",
+                    "checkup",
+                    "medical examination",
+                    "health check",
+                    "medical"
+                ]
+            }
+        ],
+        "letters": 18,
+        "sounds": 18
+    },
+    "bamboozlement": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "bam",
+                "boo",
+                "zle",
+                "ment"
+            ]
+        },
+        "letters": 13
+    },
+    "bambino": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "bam",
+                "bi",
+                "no"
+            ]
+        },
+        "pronunciation": {
+            "all": "bæm'binoʊ",
+            "simplified": "bæmbinoʊ"
+        },
+        "rhymePatterns": {
+            "all": "-inoʊ"
+        },
+        "definitions": [
+            {
+                "definition": "a young child",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "toddler",
+                    "tot",
+                    "yearling"
+                ],
+                "typeOf": [
+                    "child",
+                    "fry",
+                    "kid",
+                    "minor",
+                    "nestling",
+                    "nipper",
+                    "shaver",
+                    "small fry",
+                    "tiddler",
+                    "tike",
+                    "tyke",
+                    "youngster"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.49,
+            "perMillion": 0.29,
+            "diversity": 0
+        }
+    }
+}

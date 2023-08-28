@@ -1,0 +1,2000 @@
+{
+    "obclavate": {
+        "rhymes": {
+            "all": "-eɪveɪt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɑbkleɪveɪt"
+        },
+        "sounds": 10
+    },
+    "obeisance": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "o",
+                "bei",
+                "sance"
+            ]
+        },
+        "pronunciation": {
+            "all": "oʊ'beɪsəns",
+            "simplified": "oʊbeɪsəns"
+        },
+        "rhymePatterns": {
+            "all": "-eɪsəns"
+        },
+        "definitions": [
+            {
+                "definition": "bending the head or body or knee as a sign of reverence or submission or shame or greeting",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "bow",
+                    "bowing"
+                ],
+                "typeOf": [
+                    "reverence",
+                    "gesture",
+                    "motion"
+                ],
+                "hasTypes": [
+                    "kotow",
+                    "kowtow",
+                    "salaam",
+                    "scraping",
+                    "scrape",
+                    "genuflection",
+                    "genuflexion"
+                ]
+            },
+            {
+                "definition": "the act of obeying; dutiful or submissive behavior with respect to another person",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "obedience"
+                ],
+                "typeOf": [
+                    "compliance",
+                    "submission"
+                ],
+                "hasTypes": [
+                    "truckling"
+                ],
+                "derivation": [
+                    "obey"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.36,
+            "perMillion": 0.21,
+            "diversity": 0
+        }
+    },
+    "obelize": {
+        "rhymes": {
+            "all": "-aɪz"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ɑbəlaɪz"
+        },
+        "sounds": 7
+    },
+    "oberhausen": {
+        "rhymes": {
+            "all": "-aʊzən"
+        },
+        "letters": 10,
+        "pronunciation": "'oʊbɝr,haʊzʌn",
+        "sounds": 11
+    },
+    "oberon": {
+        "rhymes": {
+            "all": "-ɑn"
+        },
+        "letters": 6,
+        "pronunciation": "'oʊbɝr,ɑn",
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.73,
+            "perMillion": 0.52,
+            "diversity": 0
+        }
+    },
+    "obfuscate": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ob",
+                "fus",
+                "cate"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɑb'fəskeɪt",
+            "simplified": "ɑbfəskeɪt"
+        },
+        "rhymePatterns": {
+            "all": "-əskeɪt"
+        },
+        "definitions": [
+            {
+                "definition": "make obscure or unclear",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "alter",
+                    "change",
+                    "modify"
+                ],
+                "antonyms": [
+                    "clarify"
+                ],
+                "derivation": [
+                    "obfuscation"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "objectival": {
+        "rhymes": {
+            "all": "-aɪvəl"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɑbdʒɛktaɪvəl"
+        },
+        "sounds": 12
+    },
+    "obligation": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ob",
+                "li",
+                "ga",
+                "tion"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɑblə'ɡəʃən",
+            "simplified": "ɑbləɡəʃən"
+        },
+        "rhymePatterns": {
+            "all": "-əʃən"
+        },
+        "definitions": [
+            {
+                "definition": "a personal relation in which one is indebted for a service or favor",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "indebtedness"
+                ],
+                "typeOf": [
+                    "personal relationship",
+                    "personal relation"
+                ],
+                "derivation": [
+                    "oblige"
+                ]
+            },
+            {
+                "definition": "a written promise to repay a debt",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "certificate of indebtedness",
+                    "debt instrument"
+                ],
+                "typeOf": [
+                    "document"
+                ],
+                "hasTypes": [
+                    "bond",
+                    "bond certificate",
+                    "cash equivalent",
+                    "cd",
+                    "certificate of deposit",
+                    "floater",
+                    "note",
+                    "note of hand",
+                    "promissory note"
+                ]
+            },
+            {
+                "definition": "the social force that binds you to the courses of action demanded by that force",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "duty",
+                    "responsibility"
+                ],
+                "typeOf": [
+                    "social control"
+                ],
+                "hasTypes": [
+                    "imperative",
+                    "incumbency",
+                    "job",
+                    "keeping",
+                    "legal duty",
+                    "white man's burden",
+                    "requirement",
+                    "safekeeping",
+                    "demand",
+                    "filial duty",
+                    "line of duty",
+                    "moral obligation",
+                    "noblesse oblige",
+                    "guardianship",
+                    "civic responsibility",
+                    "civic duty",
+                    "prerequisite",
+                    "burden of proof"
+                ],
+                "derivation": [
+                    "oblige",
+                    "obligate"
+                ],
+                "examples": [
+                    "every right implies a responsibility; every opportunity, an obligation; every possession, a duty"
+                ]
+            },
+            {
+                "definition": "a legal agreement specifying a payment or action and the penalty for failure to comply",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "written agreement"
+                ],
+                "hasTypes": [
+                    "debt"
+                ],
+                "derivation": [
+                    "oblige",
+                    "obligate"
+                ]
+            },
+            {
+                "definition": "the state of being obligated to do or pay something",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "state"
+                ],
+                "hasTypes": [
+                    "liability",
+                    "financial obligation",
+                    "indebtedness"
+                ],
+                "derivation": [
+                    "obligate"
+                ],
+                "examples": [
+                    "he is under an obligation to finish the job"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 3.68,
+            "perMillion": 4.79,
+            "diversity": 0.02
+        }
+    },
+    "obligor": {
+        "rhymes": {
+            "all": "-ɔr"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ɑbləɡɔr"
+        },
+        "sounds": 7
+    },
+    "oblique-angled": {
+        "pronunciation": {
+            "all": "ə'blik_'æŋɡəld",
+            "simplified": "əblikæŋɡəld"
+        },
+        "rhymePatterns": {
+            "all": "-æŋɡəld"
+        },
+        "definitions": [
+            {
+                "definition": "having oblique angles",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "oblique"
+                ]
+            }
+        ],
+        "letters": 14,
+        "sounds": 11
+    },
+    "oblivion": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "o",
+                "bliv",
+                "i",
+                "on"
+            ]
+        },
+        "pronunciation": {
+            "all": "ə'blɪviən",
+            "simplified": "əblɪviən"
+        },
+        "rhymePatterns": {
+            "all": "-ɪviən"
+        },
+        "definitions": [
+            {
+                "definition": "the state of being disregarded or forgotten",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "limbo"
+                ],
+                "typeOf": [
+                    "obscurity"
+                ]
+            },
+            {
+                "definition": "total forgetfulness",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "obliviousness"
+                ],
+                "typeOf": [
+                    "forgetfulness"
+                ],
+                "derivation": [
+                    "oblivious"
+                ],
+                "examples": [
+                    "he sought the great oblivion of sleep"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.28,
+            "perMillion": 1.89,
+            "diversity": 0.01
+        }
+    },
+    "obnoxiousness": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ob",
+                "nox",
+                "ious",
+                "ness"
+            ]
+        },
+        "pronunciation": {
+            "all": "əb'nɑkʃəsnɛs",
+            "simplified": "əbnɑkʃəsnɛs"
+        },
+        "rhymePatterns": {
+            "all": "-ɑkʃəsnɛs"
+        },
+        "definitions": [
+            {
+                "definition": "the quality of being hateful",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hatefulness",
+                    "objectionableness"
+                ],
+                "typeOf": [
+                    "distastefulness",
+                    "odiousness",
+                    "offensiveness"
+                ],
+                "derivation": [
+                    "obnoxious"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "obreption": {
+        "rhymes": {
+            "all": "-ɛpʃən"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɑbrɛpʃən"
+        },
+        "sounds": 8
+    },
+    "obscurity": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ob",
+                "scu",
+                "ri",
+                "ty"
+            ]
+        },
+        "pronunciation": {
+            "all": "əb'skjʊrɪti",
+            "simplified": "əbskjʊrɪti"
+        },
+        "rhymePatterns": {
+            "all": "-ʊrɪti"
+        },
+        "definitions": [
+            {
+                "definition": "the state of being indistinct or indefinite for lack of adequate illumination",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "obscureness"
+                ],
+                "typeOf": [
+                    "semidarkness"
+                ]
+            },
+            {
+                "definition": "the quality of being unclear or abstruse and hard to understand",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "abstruseness",
+                    "obscureness",
+                    "reconditeness"
+                ],
+                "typeOf": [
+                    "incomprehensibility"
+                ],
+                "antonyms": [
+                    "clarity"
+                ],
+                "derivation": [
+                    "obscure"
+                ]
+            },
+            {
+                "definition": "an obscure and unimportant standing; not well known",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "standing"
+                ],
+                "hasTypes": [
+                    "humbleness",
+                    "limbo",
+                    "lowliness",
+                    "namelessness",
+                    "nowhere",
+                    "oblivion",
+                    "obscureness",
+                    "unimportance",
+                    "anonymity"
+                ],
+                "antonyms": [
+                    "prominence"
+                ],
+                "derivation": [
+                    "obscure"
+                ],
+                "examples": [
+                    "he worked in obscurity for many years"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 2.83,
+            "perMillion": 0.67,
+            "diversity": 0
+        }
+    },
+    "obsequent": {
+        "rhymes": {
+            "all": "-ɑbsəkwənt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɑbsəkwənt"
+        },
+        "sounds": 9
+    },
+    "obsequy": {
+        "pronunciation": {
+            "all": "'ɑbsəkwi",
+            "simplified": "ɑbsəkwi"
+        },
+        "rhymePatterns": {
+            "all": "-ɑbsəkwi"
+        },
+        "definitions": [
+            {
+                "definition": "a ceremony at which a dead person is buried or cremated",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "funeral"
+                ],
+                "typeOf": [
+                    "ceremony",
+                    "observance",
+                    "ceremonial",
+                    "ceremonial occasion"
+                ],
+                "hasTypes": [
+                    "sepulture",
+                    "burial",
+                    "sky burial",
+                    "entombment",
+                    "inhumation",
+                    "interment"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7
+    },
+    "obsolete": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ob",
+                "so",
+                "lete"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɑbsə'lit",
+            "simplified": "ɑbsəlit"
+        },
+        "rhymePatterns": {
+            "all": "-it"
+        },
+        "definitions": [
+            {
+                "definition": "no longer in use",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "disused"
+                ],
+                "similarTo": [
+                    "noncurrent"
+                ],
+                "derivation": [
+                    "obsoleteness"
+                ],
+                "examples": [
+                    "obsolete words"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.1,
+            "perMillion": 1.25,
+            "diversity": 0.01
+        }
+    },
+    "obstructivity": {
+        "rhymes": {
+            "all": "-ɪvɪti"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "ɑbstrəktɪvɪti"
+        },
+        "sounds": 13
+    },
+    "obtain": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ob",
+                "tain"
+            ]
+        },
+        "pronunciation": {
+            "all": "əb'teɪn",
+            "simplified": "əbteɪn"
+        },
+        "rhymePatterns": {
+            "all": "-eɪn"
+        },
+        "definitions": [
+            {
+                "definition": "be valid, applicable, or true",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "hold",
+                    "prevail"
+                ],
+                "typeOf": [
+                    "exist",
+                    "be"
+                ]
+            },
+            {
+                "definition": "receive a specified treatment (abstract)",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "find",
+                    "get",
+                    "incur",
+                    "receive"
+                ],
+                "typeOf": [
+                    "change"
+                ],
+                "hasTypes": [
+                    "take"
+                ],
+                "verbGroup": [
+                    "get",
+                    "acquire"
+                ]
+            },
+            {
+                "definition": "come into possession of",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "acquire",
+                    "get"
+                ],
+                "hasTypes": [
+                    "derive",
+                    "dig up",
+                    "eke out",
+                    "excavate",
+                    "extort",
+                    "extract",
+                    "gain",
+                    "wring from",
+                    "bum",
+                    "cadge",
+                    "carry",
+                    "sponge",
+                    "squeeze out",
+                    "take out",
+                    "turn up",
+                    "get in",
+                    "get into",
+                    "grab",
+                    "grub",
+                    "kite",
+                    "mooch",
+                    "procure",
+                    "secure",
+                    "shop",
+                    "snag",
+                    "source"
+                ],
+                "derivation": [
+                    "obtainable",
+                    "obtainment",
+                    "obtention"
+                ],
+                "examples": [
+                    "How did you obtain the visa?"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.8,
+            "perMillion": 6.27,
+            "diversity": 0.03
+        }
+    },
+    "obtect": {
+        "rhymes": {
+            "all": "-ɛkt"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "ɑbtɛkt"
+        },
+        "sounds": 6
+    },
+    "obtrusively": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ob",
+                "tru",
+                "sive",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "əb'trusɪvli",
+            "simplified": "əbtrusɪvli"
+        },
+        "rhymePatterns": {
+            "all": "-usɪvli"
+        },
+        "definitions": [
+            {
+                "definition": "in an obtrusive manner",
+                "partOfSpeech": null,
+                "antonyms": [
+                    "unobtrusively"
+                ],
+                "pertainsTo": [
+                    "obtrusive"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10
+    },
+    "obvert": {
+        "rhymes": {
+            "all": "-ɑb'vɜrt"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "ɑbvɜrt"
+        },
+        "sounds": 6
+    },
+    "obwalden": {
+        "rhymes": {
+            "all": "-ɑldən"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ɔpvɑldən"
+        },
+        "sounds": 8
+    },
+    "occidentalize": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "oc",
+                "ci",
+                "den",
+                "tal",
+                "ize"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɑksɪ'dɛn,təlaɪz",
+            "simplified": "ɑksɪdɛntəlaɪz"
+        },
+        "rhymePatterns": {
+            "all": "-əlaɪz"
+        },
+        "definitions": [
+            {
+                "definition": "make western in character",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "occidentalise",
+                    "westernise",
+                    "westernize"
+                ],
+                "typeOf": [
+                    "alter",
+                    "change",
+                    "modify"
+                ],
+                "antonyms": [
+                    "orientalize"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 13
+    },
+    "occipital": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "oc",
+                "cip",
+                "i",
+                "tal"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɑk'sɪpɪtəl",
+            "simplified": "ɑksɪpɪtəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɪpɪtəl"
+        },
+        "definitions": [
+            {
+                "definition": "of or relating to the occiput",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "occiput"
+                ],
+                "derivation": [
+                    "occiput"
+                ],
+                "examples": [
+                    "occipital bone"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.68,
+            "perMillion": 0.47,
+            "diversity": 0
+        }
+    },
+    "occiput": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "oc",
+                "ci",
+                "put"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɑksə,pət",
+            "simplified": "ɑksəpət"
+        },
+        "rhymePatterns": {
+            "all": "-ət"
+        },
+        "definitions": [
+            {
+                "definition": "back part of the head or skull",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "bone",
+                    "os"
+                ],
+                "partOf": [
+                    "human head"
+                ],
+                "derivation": [
+                    "occipital"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": 2.02
+    },
+    "occitan": {
+        "pronunciation": {
+            "all": "'ɑksɪtən",
+            "simplified": "ɑksɪtən"
+        },
+        "rhymePatterns": {
+            "all": "-ɑksɪtən"
+        },
+        "definitions": [
+            {
+                "definition": "the medieval dialects of Langue d'oc (southern France)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "provencal"
+                ],
+                "typeOf": [
+                    "langue d'oc",
+                    "langue d'oc french"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "occupier": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "oc",
+                "cu",
+                "pi",
+                "er"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɑkjʊ,paɪər",
+            "simplified": "ɑkjʊpaɪər"
+        },
+        "rhymePatterns": {
+            "all": "-aɪər"
+        },
+        "definitions": [
+            {
+                "definition": "someone who lives at a particular place for a prolonged period or who was born there",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "occupant",
+                    "resident"
+                ],
+                "typeOf": [
+                    "habitant",
+                    "dweller",
+                    "indweller",
+                    "inhabitant",
+                    "denizen"
+                ],
+                "hasTypes": [
+                    "townsman",
+                    "metropolitan",
+                    "coaster",
+                    "colonial",
+                    "dalesman",
+                    "housemate",
+                    "inmate",
+                    "alexandrian",
+                    "outlier",
+                    "owner-occupier",
+                    "sojourner",
+                    "stater",
+                    "suburbanite",
+                    "tenant",
+                    "towner"
+                ],
+                "derivation": [
+                    "occupy"
+                ]
+            },
+            {
+                "definition": "a member of a military force who is residing in a conquered foreign country",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "war machine",
+                    "military machine",
+                    "armed services",
+                    "armed forces",
+                    "military"
+                ],
+                "typeOf": [
+                    "serviceman",
+                    "military man",
+                    "military personnel",
+                    "man"
+                ],
+                "derivation": [
+                    "occupy"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.27,
+            "perMillion": 0.17,
+            "diversity": 0
+        }
+    },
+    "oceanarium": {
+        "rhymes": {
+            "all": "-iəm"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "oʊʃənɜriəm"
+        },
+        "sounds": 10,
+        "frequency": 2.31
+    },
+    "oceanography": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "o",
+                "ce",
+                "a",
+                "nog",
+                "ra",
+                "phy"
+            ]
+        },
+        "pronunciation": {
+            "all": ",oʊʃiə'nɑgrəfi",
+            "simplified": "oʊʃiənɑgrəfi"
+        },
+        "rhymePatterns": {
+            "all": "-ɑgrəfi"
+        },
+        "definitions": [
+            {
+                "definition": "the branch of science dealing with physical and biological aspects of the oceans",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "oceanology"
+                ],
+                "hasCategories": [
+                    "el nino"
+                ],
+                "typeOf": [
+                    "earth science"
+                ],
+                "hasTypes": [
+                    "hydrography"
+                ],
+                "derivation": [
+                    "oceanographer"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 12,
+        "frequency": {
+            "zipf": 2.2,
+            "perMillion": 0.15,
+            "diversity": 0
+        }
+    },
+    "oceanport": {
+        "rhymes": {
+            "all": "-oʊrt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "oʊʃənpoʊrt"
+        },
+        "sounds": 10
+    },
+    "ocreae": {
+        "rhymes": {
+            "all": "-i"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "ɑkrii"
+        },
+        "sounds": 5
+    },
+    "octarchy": {
+        "rhymes": {
+            "all": "-ɑktɑrki"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ɑktɑrki"
+        },
+        "sounds": 7
+    },
+    "octastylos": {
+        "rhymes": {
+            "all": "-aɪlɑs"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɑktəstaɪlɑs"
+        },
+        "sounds": 11
+    },
+    "octonary": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "oc",
+                "to",
+                "nar",
+                "y"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɑktə,nɛri",
+            "simplified": "ɑktənɛri"
+        },
+        "rhymePatterns": {
+            "all": "-ɛri"
+        },
+        "definitions": [
+            {
+                "definition": "the cardinal number that is the sum of seven and one",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "8",
+                    "eight",
+                    "eighter",
+                    "eighter from decatur",
+                    "octad",
+                    "octet",
+                    "ogdoad",
+                    "viii"
+                ],
+                "typeOf": [
+                    "digit",
+                    "figure"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8
+    },
+    "ocularist": {
+        "rhymes": {
+            "all": "-ɑkjʊlərist"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɑkjʊlərist"
+        },
+        "sounds": 10
+    },
+    "oculist": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "oc",
+                "u",
+                "list"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɑkjʊlɪst",
+            "simplified": "ɑkjʊlɪst"
+        },
+        "rhymePatterns": {
+            "all": "-ɑkjʊlɪst"
+        },
+        "definitions": [
+            {
+                "definition": "a medical doctor specializing in the diagnosis and treatment of diseases of the eye",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "eye doctor",
+                    "ophthalmologist"
+                ],
+                "typeOf": [
+                    "medical specialist",
+                    "specialist"
+                ],
+                "hasInstances": [
+                    "snellen",
+                    "hermann snellen"
+                ]
+            },
+            {
+                "definition": "a person skilled in testing for defects of vision in order to prescribe corrective glasses",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "optometrist"
+                ],
+                "typeOf": [
+                    "specialiser",
+                    "specialist",
+                    "specializer"
+                ],
+                "derivation": [
+                    "oculus"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "odalisque": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "o",
+                "da",
+                "lisque"
+            ]
+        },
+        "pronunciation": {
+            "all": "'oʊdəlɪsk",
+            "simplified": "oʊdəlɪsk"
+        },
+        "rhymePatterns": {
+            "all": "-oʊdəlɪsk"
+        },
+        "definitions": [
+            {
+                "definition": "a woman slave in a harem",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "concubine",
+                    "courtesan",
+                    "doxy",
+                    "paramour"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "odense": {
+        "rhymes": {
+            "all": "-oʊðənsə"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "oʊðənsə"
+        },
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.12,
+            "perMillion": 0.12,
+            "diversity": 0
+        }
+    },
+    "odoacer": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "o",
+                "do",
+                "a",
+                "cer"
+            ]
+        },
+        "pronunciation": {
+            "all": ",oʊdoʊ'eɪsər",
+            "simplified": "oʊdoʊeɪsər"
+        },
+        "rhymePatterns": {
+            "all": "-eɪsər"
+        },
+        "definitions": [
+            {
+                "definition": "Germanic barbarian leader who ended the Western Roman Empire in 476 and became the first barbarian ruler of Italy (434-493)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "odovacar",
+                    "odovakar"
+                ],
+                "instanceOf": [
+                    "barbarian",
+                    "savage"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 10
+    },
+    "odontography": {
+        "rhymes": {
+            "all": "-ɑgrəfi"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "oʊdɑntɑgrəfi"
+        },
+        "sounds": 12
+    },
+    "odyl": {
+        "rhymes": {
+            "all": "-ɑdɪl"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "ɑdɪl"
+        },
+        "sounds": 4
+    },
+    "oeci": {
+        "rhymes": {
+            "all": "-isaɪ"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "isaɪ"
+        },
+        "sounds": 4
+    },
+    "oedema": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "oe",
+                "de",
+                "ma"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ'dimə",
+            "simplified": "ɪdimə"
+        },
+        "rhymePatterns": {
+            "all": "-imə"
+        },
+        "definitions": [
+            {
+                "definition": "swelling from excessive accumulation of watery fluid in cells, tissues, or serous cavities",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dropsy",
+                    "edema",
+                    "hydrops"
+                ],
+                "typeOf": [
+                    "swelling",
+                    "lump",
+                    "puffiness"
+                ],
+                "hasTypes": [
+                    "brain edema",
+                    "cerebral edema",
+                    "chemosis",
+                    "cystoid macular edema",
+                    "giant hives",
+                    "scleredema",
+                    "lymphedema",
+                    "papilledema",
+                    "periodic edema",
+                    "anasarca",
+                    "quincke's edema",
+                    "angioedema",
+                    "atrophedema"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.24,
+            "perMillion": 0.16,
+            "diversity": 0
+        }
+    },
+    "oenochoe": {
+        "rhymes": {
+            "all": "-əlɑdʒɪkəl"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "inəlɑdʒɪkəl"
+        },
+        "sounds": 11
+    },
+    "oenone": {
+        "rhymes": {
+            "all": "-oʊni"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "inoʊni"
+        },
+        "sounds": 6
+    },
+    "oestrone": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "oes",
+                "trone"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɛstroʊn",
+            "simplified": "ɛstroʊn"
+        },
+        "rhymePatterns": {
+            "all": "-ɛstroʊn"
+        },
+        "definitions": [
+            {
+                "definition": "a naturally occurring weak estrogenic hormone secreted by the mammalian ovary; synthesized (trade name Estronol) and used to treat estrogen deficiency",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "estrone",
+                    "estronol",
+                    "theelin"
+                ],
+                "typeOf": [
+                    "estrogen",
+                    "ketosteroid",
+                    "oestrogen"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7
+    },
+    "oeuvres": {
+        "rhymes": {
+            "all": "-yvRə"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "yvRə"
+        },
+        "sounds": 4,
+        "frequency": {
+            "zipf": 2.8,
+            "perMillion": 0.61,
+            "diversity": 0
+        }
+    },
+    "off-chance": {
+        "rhymes": {
+            "all": "-ɔf_tʃæns"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɔfʧæns"
+        },
+        "sounds": 7
+    },
+    "off-fall": {
+        "rhymes": {
+            "all": "-ɔf_fɔl"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ɔffɔl"
+        },
+        "sounds": 5
+    },
+    "off-go": {
+        "rhymes": {
+            "all": "-ɔf_goʊ"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "ɔfgoʊ"
+        },
+        "sounds": 5
+    },
+    "off-season": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "off-sea",
+                "son"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɔf_'sizən",
+            "simplified": "ɔfsizən"
+        },
+        "rhymePatterns": {
+            "all": "-izən"
+        },
+        "definitions": [
+            {
+                "definition": "the season when travel is least active and rates are lowest",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "season"
+                ],
+                "antonyms": [
+                    "high season"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 7
+    },
+    "officer": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "of",
+                "fic",
+                "er"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɔfɪsər",
+            "simplified": "ɔfɪsər"
+        },
+        "rhymePatterns": {
+            "all": "-ɔfɪsər"
+        },
+        "definitions": [
+            {
+                "definition": "any person in the armed services who holds a position of authority or command",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "military officer"
+                ],
+                "inCategory": [
+                    "war machine",
+                    "armed services",
+                    "military",
+                    "military machine",
+                    "armed forces"
+                ],
+                "typeOf": [
+                    "man",
+                    "military personnel",
+                    "serviceman",
+                    "military man"
+                ],
+                "hasTypes": [
+                    "adjutant",
+                    "aide",
+                    "aide-de-camp",
+                    "army officer",
+                    "brass hat",
+                    "chief of staff",
+                    "commandant",
+                    "commander",
+                    "commanding officer",
+                    "commissioned officer",
+                    "desk officer",
+                    "enlisted officer",
+                    "executive officer",
+                    "grigori aleksandrovich potemkin",
+                    "grigori potemkin",
+                    "grigori potyokin",
+                    "inspector general",
+                    "military adviser",
+                    "military advisor",
+                    "naval officer",
+                    "noncom",
+                    "noncommissioned officer",
+                    "potemkin",
+                    "potyokin",
+                    "warrant officer"
+                ],
+                "examples": [
+                    "an officer is responsible for the lives of his men"
+                ]
+            },
+            {
+                "definition": "someone who is appointed or elected to an office and who holds a position of trust",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "officeholder"
+                ],
+                "typeOf": [
+                    "official",
+                    "functionary",
+                    "holder"
+                ],
+                "hasTypes": [
+                    "serjeant-at-arms",
+                    "probation officer",
+                    "sergeant at arms"
+                ],
+                "examples": [
+                    "he is an officer of the court",
+                    "the club elected its officers for the coming year"
+                ]
+            },
+            {
+                "definition": "a person authorized to serve in a position of authority on a vessel",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "ship's officer"
+                ],
+                "typeOf": [
+                    "sea dog",
+                    "seafarer",
+                    "seaman",
+                    "tar",
+                    "jack",
+                    "gob",
+                    "mariner",
+                    "old salt",
+                    "jack-tar"
+                ],
+                "hasTypes": [
+                    "navigator",
+                    "captain",
+                    "privateer",
+                    "privateersman",
+                    "purser",
+                    "sailing master",
+                    "sea captain",
+                    "master",
+                    "skipper",
+                    "steward",
+                    "supercargo",
+                    "first mate",
+                    "mate"
+                ],
+                "examples": [
+                    "he is the officer in charge of the ship's engines"
+                ]
+            },
+            {
+                "definition": "a member of a police force",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "police officer",
+                    "policeman"
+                ],
+                "typeOf": [
+                    "lawman",
+                    "peace officer",
+                    "law officer"
+                ],
+                "hasTypes": [
+                    "policewoman",
+                    "cop",
+                    "trooper",
+                    "fuzz",
+                    "gendarme",
+                    "traffic cop",
+                    "bull",
+                    "captain",
+                    "tec",
+                    "inspector",
+                    "constable",
+                    "investigator",
+                    "state trooper",
+                    "speed cop",
+                    "shoofly",
+                    "motorcycle cop",
+                    "motorcycle policeman",
+                    "mountie",
+                    "copper",
+                    "police matron",
+                    "detective",
+                    "police detective",
+                    "pig",
+                    "police captain",
+                    "police chief",
+                    "police constable",
+                    "bobby"
+                ],
+                "memberOf": [
+                    "police force",
+                    "police",
+                    "law",
+                    "constabulary"
+                ],
+                "examples": [
+                    "it was an accident, officer"
+                ]
+            },
+            {
+                "definition": "direct or command as an officer",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "command"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 4.96,
+            "perMillion": 90.28,
+            "diversity": 0.2
+        }
+    },
+    "official": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "of",
+                "fi",
+                "cial"
+            ]
+        },
+        "pronunciation": {
+            "all": "ə'fɪʃəl",
+            "simplified": "əfɪʃəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɪʃəl"
+        },
+        "definitions": [
+            {
+                "definition": "conforming to set usage, procedure, or discipline",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "prescribed"
+                ],
+                "similarTo": [
+                    "regular"
+                ],
+                "derivation": [
+                    "office"
+                ]
+            },
+            {
+                "definition": "a worker who holds or is invested with an office",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "functionary"
+                ],
+                "typeOf": [
+                    "skilled worker",
+                    "skilled workman",
+                    "trained worker"
+                ],
+                "hasTypes": [
+                    "apparatchik",
+                    "appointee",
+                    "bailiff",
+                    "beadle",
+                    "bureaucrat",
+                    "caretaker",
+                    "censor",
+                    "census taker",
+                    "church officer",
+                    "city father",
+                    "civil servant",
+                    "commissar",
+                    "comptroller general",
+                    "comptroller of the currency",
+                    "diplomat",
+                    "diplomatist",
+                    "doorkeeper",
+                    "elected official",
+                    "enumerator",
+                    "equerry",
+                    "federal agent",
+                    "fire marshall",
+                    "fire warden",
+                    "weigher",
+                    "forest fire fighter",
+                    "hangover",
+                    "hearing examiner",
+                    "hearing officer",
+                    "holdover",
+                    "incumbent",
+                    "inquisitor",
+                    "invalidator",
+                    "judge",
+                    "jurist",
+                    "justice",
+                    "licenser",
+                    "vote counter",
+                    "mace",
+                    "macebearer",
+                    "macer",
+                    "mandarin",
+                    "notary",
+                    "notary public",
+                    "noticer",
+                    "nullifier",
+                    "officeholder",
+                    "officer",
+                    "political commissar",
+                    "postmaster general",
+                    "proconsul",
+                    "prosecuting attorney",
+                    "prosecuting officer",
+                    "prosecutor",
+                    "provincial",
+                    "public prosecutor",
+                    "quaestor",
+                    "ranger",
+                    "record-keeper",
+                    "recorder",
+                    "recruiter",
+                    "voider",
+                    "vizier",
+                    "registrar",
+                    "regulator",
+                    "returning officer",
+                    "usher",
+                    "town clerk",
+                    "administrative official",
+                    "agent",
+                    "sealer",
+                    "searcher",
+                    "teller"
+                ],
+                "derivation": [
+                    "officialdom"
+                ]
+            },
+            {
+                "definition": "having official authority or sanction",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "authorised",
+                    "authorized"
+                ],
+                "similarTo": [
+                    "semiofficial",
+                    "authorised",
+                    "authoritative",
+                    "authorized",
+                    "ex officio",
+                    "formal",
+                    "formalised",
+                    "formalized"
+                ],
+                "antonyms": [
+                    "unofficial"
+                ],
+                "derivation": [
+                    "office"
+                ],
+                "examples": [
+                    "official permission",
+                    "an official representative"
+                ]
+            },
+            {
+                "definition": "(of a church) given official status as a national or state institution",
+                "partOfSpeech": "adjective",
+                "inCategory": [
+                    "church",
+                    "church service"
+                ],
+                "similarTo": [
+                    "established",
+                    "constituted"
+                ]
+            },
+            {
+                "definition": "someone who administers the rules of a game or sport",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "adjudicator"
+                ],
+                "hasTypes": [
+                    "referee",
+                    "ref",
+                    "linesman",
+                    "football official",
+                    "dispatcher",
+                    "scorekeeper",
+                    "timekeeper",
+                    "timer",
+                    "starter",
+                    "scorer",
+                    "ump",
+                    "umpire"
+                ],
+                "examples": [
+                    "the golfer asked for an official who could give him a ruling"
+                ]
+            },
+            {
+                "definition": "verified officially",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "confirmed"
+                ],
+                "examples": [
+                    "the election returns are now official"
+                ]
+            },
+            {
+                "definition": "of or relating to an office",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "office"
+                ],
+                "derivation": [
+                    "office"
+                ],
+                "examples": [
+                    "official privileges"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 4.43,
+            "perMillion": 27.03,
+            "diversity": 0.11
+        }
+    },
+    "officialdom": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "of",
+                "fi",
+                "cial",
+                "dom"
+            ]
+        },
+        "pronunciation": {
+            "all": "ə'fɪʃəldəm",
+            "simplified": "əfɪʃəldəm"
+        },
+        "rhymePatterns": {
+            "all": "-ɪʃəldəm"
+        },
+        "definitions": [
+            {
+                "definition": "people elected or appointed to administer a government",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "government officials"
+                ],
+                "typeOf": [
+                    "administration",
+                    "brass",
+                    "establishment",
+                    "governance",
+                    "governing body",
+                    "organisation",
+                    "organization"
+                ],
+                "hasTypes": [
+                    "bureaucracy",
+                    "bureaucratism",
+                    "civil service"
+                ],
+                "memberOf": [
+                    "authorities",
+                    "government",
+                    "regime"
+                ],
+                "derivation": [
+                    "official"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "officialize": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "of",
+                "fi",
+                "cial",
+                "ize"
+            ]
+        },
+        "pronunciation": {
+            "all": "ə'fɪʃə,laɪz",
+            "simplified": "əfɪʃəlaɪz"
+        },
+        "rhymePatterns": {
+            "all": "-aɪz"
+        },
+        "definitions": [
+            {
+                "definition": "make official",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "officialise"
+                ],
+                "typeOf": [
+                    "alter",
+                    "change",
+                    "modify"
+                ],
+                "examples": [
+                    "We officialized our relationship"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 9
+    }
+}

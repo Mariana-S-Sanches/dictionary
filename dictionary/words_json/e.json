@@ -1,0 +1,2141 @@
+{
+    "entrechat": {
+        "rhymes": {
+            "all": "-ɑ"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɑNtRəʃɑ"
+        },
+        "sounds": 7,
+        "frequency": 1.74
+    },
+    "enumclaw": {
+        "rhymes": {
+            "all": "-ɔ"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "inəmklɔ"
+        },
+        "sounds": 7
+    },
+    "enunciation": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "e",
+                "nun",
+                "ci",
+                "a",
+                "tion"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ,nənsi'eɪʃən",
+            "simplified": "ɪnənsieɪʃən"
+        },
+        "rhymePatterns": {
+            "all": "-eɪʃən"
+        },
+        "definitions": [
+            {
+                "definition": "the articulation of speech regarded from the point of view of its intelligibility to the audience",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "diction"
+                ],
+                "typeOf": [
+                    "articulation"
+                ],
+                "hasTypes": [
+                    "mumbling"
+                ],
+                "derivation": [
+                    "enunciate"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "envelopment": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "en",
+                "vel",
+                "op",
+                "ment"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɛn'vɛləpmənt",
+            "simplified": "ɛnvɛləpmənt"
+        },
+        "rhymePatterns": {
+            "all": "-ɛləpmənt"
+        },
+        "definitions": [
+            {
+                "definition": "the act of enclosing something inside something else",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "enclosing",
+                    "enclosure",
+                    "inclosure"
+                ],
+                "typeOf": [
+                    "insertion",
+                    "introduction",
+                    "intromission"
+                ],
+                "hasTypes": [
+                    "boxing",
+                    "packing",
+                    "encasement",
+                    "incasement"
+                ],
+                "derivation": [
+                    "envelop"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11
+    },
+    "environment": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "en",
+                "vi",
+                "ron",
+                "ment"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɛn'vaɪrənmənt",
+            "simplified": "ɛnvaɪrənmənt"
+        },
+        "rhymePatterns": {
+            "all": "-aɪrənmənt"
+        },
+        "definitions": [
+            {
+                "definition": "the area in which something exists or lives",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "environs",
+                    "surround",
+                    "surroundings"
+                ],
+                "typeOf": [
+                    "geographic region",
+                    "geographic area",
+                    "geographical area",
+                    "geographical region"
+                ],
+                "hasTypes": [
+                    "parts",
+                    "scene",
+                    "setting",
+                    "ambiance",
+                    "medium",
+                    "melting pot",
+                    "ambience",
+                    "element",
+                    "home ground",
+                    "habitat"
+                ]
+            },
+            {
+                "definition": "the totality of surrounding conditions",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "situation",
+                    "state of affairs"
+                ],
+                "hasTypes": [
+                    "street",
+                    "surroundings",
+                    "area",
+                    "arena",
+                    "background",
+                    "circumstance",
+                    "context",
+                    "domain",
+                    "ecology",
+                    "field",
+                    "home",
+                    "milieu",
+                    "orbit",
+                    "scope",
+                    "setting",
+                    "sphere"
+                ],
+                "derivation": [
+                    "environmental"
+                ],
+                "examples": [
+                    "he longed for the comfortable environment of his living room"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 12,
+        "frequency": {
+            "zipf": 4.23,
+            "perMillion": 16.9,
+            "diversity": 0.06
+        }
+    },
+    "environs": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "en",
+                "vi",
+                "rons"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɛn'vaɪrənz",
+            "simplified": "ɛnvaɪrənz"
+        },
+        "rhymePatterns": {
+            "all": "-aɪrənz"
+        },
+        "definitions": [
+            {
+                "definition": "an outer adjacent area of any place",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "purlieu"
+                ],
+                "typeOf": [
+                    "geographical region",
+                    "geographic area",
+                    "geographic region",
+                    "geographical area"
+                ]
+            },
+            {
+                "definition": "the area in which something exists or lives",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "environment",
+                    "surround",
+                    "surroundings"
+                ],
+                "typeOf": [
+                    "geographical region",
+                    "geographic area",
+                    "geographical area",
+                    "geographic region"
+                ],
+                "hasTypes": [
+                    "scene",
+                    "ambiance",
+                    "setting",
+                    "ambience",
+                    "element",
+                    "habitat",
+                    "home ground",
+                    "medium",
+                    "melting pot",
+                    "parts"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.3,
+            "perMillion": 0.19,
+            "diversity": 0
+        }
+    },
+    "enyo": {
+        "rhymes": {
+            "all": "-aɪoʊ"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "ɪnaɪoʊ"
+        },
+        "sounds": 6
+    },
+    "epagogic": {
+        "rhymes": {
+            "all": "-ɑdʒɪk"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ɛpəɡɑdʒɪk"
+        },
+        "sounds": 9
+    },
+    "epeirogeny": {
+        "rhymes": {
+            "all": "-ɑdʒəni"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɛpaɪrɑdʒəni"
+        },
+        "sounds": 11
+    },
+    "epenthetic": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ep",
+                "en",
+                "thet",
+                "ic"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɛpən'θɛtɪk",
+            "simplified": "ɛpənθɛtɪk"
+        },
+        "rhymePatterns": {
+            "all": "-ɛtɪk"
+        },
+        "definitions": [
+            {
+                "definition": "of or pertaining to epenthesis",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "parasitic"
+                ],
+                "pertainsTo": [
+                    "epenthesis"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "ephebeion": {
+        "rhymes": {
+            "all": "-aɪɑn"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɛfəbaɪɑn"
+        },
+        "sounds": 8
+    },
+    "ephemerist": {
+        "rhymes": {
+            "all": "-ɛmərist"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɪfɛmərist"
+        },
+        "sounds": 9
+    },
+    "ephemeron": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "e",
+                "phem",
+                "er",
+                "on"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ'fɛmə,rɑn",
+            "simplified": "ɪfɛmərɑn"
+        },
+        "rhymePatterns": {
+            "all": "-ɑn"
+        },
+        "definitions": [
+            {
+                "definition": "anything short-lived, as an insect that lives only for a day in its winged form",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "ephemeral"
+                ],
+                "typeOf": [
+                    "insect"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8
+    },
+    "epicondylar": {
+        "rhymes": {
+            "all": "-ɑndələr"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ɛpəkɑndələr"
+        },
+        "sounds": 11
+    },
+    "epictetian": {
+        "rhymes": {
+            "all": "-iʃən"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɛpɪktiʃən"
+        },
+        "sounds": 9
+    },
+    "epidemiological": {
+        "syllables": {
+            "count": 8,
+            "list": [
+                "ep",
+                "i",
+                "de",
+                "mi",
+                "o",
+                "log",
+                "i",
+                "cal"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɛpɪ,dimiə'lɑdʒɪkəl",
+            "simplified": "ɛpɪdimiəlɑdʒɪkəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɑdʒɪkəl"
+        },
+        "definitions": [
+            {
+                "definition": "of or relating to epidemiology",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "epidemiologic"
+                ],
+                "pertainsTo": [
+                    "epidemiology"
+                ],
+                "derivation": [
+                    "epidemiology"
+                ],
+                "examples": [
+                    "epidemiological studies"
+                ]
+            }
+        ],
+        "letters": 15,
+        "sounds": 16,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "epidictic": {
+        "rhymes": {
+            "all": "-ɪktɪk"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɛpɪdɪktɪk"
+        },
+        "sounds": 9
+    },
+    "epidermoid": {
+        "rhymes": {
+            "all": "-ɔɪd"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɛpɪdɜrmɔɪd"
+        },
+        "sounds": 10
+    },
+    "epiklesis": {
+        "rhymes": {
+            "all": "-iklisis"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɛpiklisis"
+        },
+        "sounds": 9
+    },
+    "epinasty": {
+        "rhymes": {
+            "all": "-æsti"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ɛpənæsti"
+        },
+        "sounds": 8
+    },
+    "epinaos": {
+        "rhymes": {
+            "all": "-eɪɑs"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ɛpəneɪɑs"
+        },
+        "sounds": 8
+    },
+    "epipaleolithic": {
+        "syllables": {
+            "count": 7,
+            "list": [
+                "ep",
+                "i",
+                "pa",
+                "le",
+                "o",
+                "lith",
+                "ic"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɛpə,peɪliə'lɪθɪk",
+            "simplified": "ɛpəpeɪliəlɪθɪk"
+        },
+        "rhymePatterns": {
+            "all": "-ɪθɪk"
+        },
+        "definitions": [
+            {
+                "definition": "middle part of the Stone Age beginning about 15,000 years ago",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "mesolithic",
+                    "mesolithic age"
+                ],
+                "instanceOf": [
+                    "period",
+                    "period of time",
+                    "time period"
+                ],
+                "partOf": [
+                    "stone age"
+                ]
+            }
+        ],
+        "letters": 14,
+        "sounds": 14
+    },
+    "epipastic": {
+        "rhymes": {
+            "all": "-æstɪk"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɛpəpæstɪk"
+        },
+        "sounds": 9
+    },
+    "epiphylline": {
+        "rhymes": {
+            "all": "-ɪlin"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ɛpəfɪlin"
+        },
+        "sounds": 8
+    },
+    "epiphyte": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ep",
+                "i",
+                "phyte"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɛpə,faɪt",
+            "simplified": "ɛpəfaɪt"
+        },
+        "rhymePatterns": {
+            "all": "-aɪt"
+        },
+        "definitions": [
+            {
+                "definition": "plant that derives moisture and nutrients from the air and rain; usually grows on another plant but not parasitic on it",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "aerophyte",
+                    "air plant",
+                    "epiphytic plant"
+                ],
+                "typeOf": [
+                    "flora",
+                    "plant",
+                    "plant life"
+                ],
+                "hasTypes": [
+                    "hemiepiphyte",
+                    "long moss",
+                    "old man's beard",
+                    "semiepiphyte",
+                    "spanish moss",
+                    "strangler",
+                    "strangler tree",
+                    "tillandsia usneoides",
+                    "aeschynanthus",
+                    "waxflower",
+                    "black moss",
+                    "clusia insignis"
+                ],
+                "derivation": [
+                    "epiphytic"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": 1.74
+    },
+    "episcopise": {
+        "rhymes": {
+            "all": "-aɪz"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɪpɪskəpaɪz"
+        },
+        "sounds": 10
+    },
+    "episepalous": {
+        "rhymes": {
+            "all": "-ɛpələs"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ɛpɪsɛpələs"
+        },
+        "sounds": 10
+    },
+    "episiotomy": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "ep",
+                "i",
+                "si",
+                "ot",
+                "o",
+                "my"
+            ]
+        },
+        "pronunciation": {
+            "all": "ə,pizi'ɑtəmi",
+            "simplified": "əpiziɑtəmi"
+        },
+        "rhymePatterns": {
+            "all": "-ɑtəmi"
+        },
+        "definitions": [
+            {
+                "definition": "surgical incision of the perineum to enlarge the vagina and so facilitate delivery during childbirth",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "perineotomy"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "episodic": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ep",
+                "i",
+                "sod",
+                "ic"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɛpɪ'sɑdɪk",
+            "simplified": "ɛpɪsɑdɪk"
+        },
+        "rhymePatterns": {
+            "all": "-ɑdɪk"
+        },
+        "definitions": [
+            {
+                "definition": "occurring or appearing at usually irregular intervals",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "occasional"
+                ],
+                "similarTo": [
+                    "unpredictable"
+                ],
+                "examples": [
+                    "episodic in his affections"
+                ]
+            },
+            {
+                "definition": "limited in duration to a single episode",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "impermanent",
+                    "temporary"
+                ],
+                "examples": [
+                    "an account concerned primarily with episodic events such as the succession of rulers"
+                ]
+            },
+            {
+                "definition": "of writing or narration; divided into or composed of episodes",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "divided"
+                ],
+                "examples": [
+                    "the book is episodic and the incidents don't always hang together"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "epistrophe": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "e",
+                "pis",
+                "tro",
+                "phe"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ'pɪstrəfi",
+            "simplified": "ɪpɪstrəfi"
+        },
+        "rhymePatterns": {
+            "all": "-ɪstrəfi"
+        },
+        "definitions": [
+            {
+                "definition": "repetition of the ends of two or more successive sentences, verses, etc.",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "epiphora"
+                ],
+                "typeOf": [
+                    "repetition"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "episyllogism": {
+        "rhymes": {
+            "all": "-ɪzəm"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "ɛpɪsɪlədʒɪzəm"
+        },
+        "sounds": 13
+    },
+    "epithalamic": {
+        "rhymes": {
+            "all": "-æmɪk"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ɛpəθəlæmɪk"
+        },
+        "sounds": 10
+    },
+    "epithalamium": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "ep",
+                "i",
+                "tha",
+                "la",
+                "mi",
+                "um"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɛpəθə'leɪmiəm",
+            "simplified": "ɛpəθəleɪmiəm"
+        },
+        "rhymePatterns": {
+            "all": "-eɪmiəm"
+        },
+        "definitions": [
+            {
+                "definition": "an ode honoring a bride and bridegroom",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "ode"
+                ],
+                "hasTypes": [
+                    "prothalamion",
+                    "prothalamium"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 12,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "epitrachelion": {
+        "rhymes": {
+            "all": "-iliɔn"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "ɛpitRɑxiliɔn"
+        },
+        "sounds": 12
+    },
+    "epizooty": {
+        "rhymes": {
+            "all": "-oʊəti"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ɛpɪzoʊəti"
+        },
+        "sounds": 9
+    },
+    "epode": {
+        "rhymes": {
+            "all": "-ɛpoʊd"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "ɛpoʊd"
+        },
+        "sounds": 5
+    },
+    "eponym": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ep",
+                "o",
+                "nym"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɛpənɪm",
+            "simplified": "ɛpənɪm"
+        },
+        "rhymePatterns": {
+            "all": "-ɛpənɪm"
+        },
+        "definitions": [
+            {
+                "definition": "the name derived from a person (real or imaginary)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "name"
+                ],
+                "derivation": [
+                    "eponymic",
+                    "eponymous"
+                ],
+                "examples": [
+                    "Down's syndrome is an eponym for the English physician John Down"
+                ]
+            },
+            {
+                "definition": "the person for whom something is named",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "name"
+                ],
+                "derivation": [
+                    "eponymic",
+                    "eponymous"
+                ],
+                "examples": [
+                    "Constantine I is the eponym for Constantinople"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6
+    },
+    "epos": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ep",
+                "os"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɛpɑs",
+            "simplified": "ɛpɑs"
+        },
+        "rhymePatterns": {
+            "all": "-ɛpɑs"
+        },
+        "definitions": [
+            {
+                "definition": "a long narrative poem telling of a hero's deeds",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "epic",
+                    "epic poem",
+                    "heroic poem"
+                ],
+                "typeOf": [
+                    "poem",
+                    "verse form"
+                ],
+                "hasTypes": [
+                    "heroic meter",
+                    "heroic verse",
+                    "chanson de geste",
+                    "heroic",
+                    "rhapsody"
+                ],
+                "hasInstances": [
+                    "nibelungenlied",
+                    "divina commedia",
+                    "divine comedy",
+                    "iliad",
+                    "aeneid",
+                    "odyssey"
+                ],
+                "derivation": [
+                    "epic"
+                ]
+            },
+            {
+                "definition": "a body of poetry that conveys the traditions of a society by treating some epic theme",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "verse",
+                    "poesy",
+                    "poetry"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4
+    },
+    "epoxide": {
+        "rhymes": {
+            "all": "-ɑksaɪd"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ɪpɑksaɪd"
+        },
+        "sounds": 8,
+        "frequency": 1.74
+    },
+    "equableness": {
+        "rhymes": {
+            "all": "-ɛkwəbəlnɛs"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ɛkwəbəlnɛs"
+        },
+        "sounds": 10
+    },
+    "equal-balanced": {
+        "rhymes": {
+            "all": "-ælənst"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "ikwəlbælənst"
+        },
+        "sounds": 12
+    },
+    "equally": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "e",
+                "qual",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ikwəli",
+            "simplified": "ikwəli"
+        },
+        "rhymePatterns": {
+            "all": "-ikwəli"
+        },
+        "definitions": [
+            {
+                "definition": "in equal amounts or shares; in a balanced or impartial way",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "evenly"
+                ],
+                "antonyms": [
+                    "unequally"
+                ],
+                "pertainsTo": [
+                    "equal"
+                ],
+                "examples": [
+                    "they split their winnings equally",
+                    "deal equally with rich and poor"
+                ]
+            },
+            {
+                "definition": "to the same degree (often followed by `as')",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "as",
+                    "every bit"
+                ],
+                "pertainsTo": [
+                    "equal"
+                ],
+                "examples": [
+                    "they were equally beautiful"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.79,
+            "perMillion": 6.21,
+            "diversity": 0.03
+        }
+    },
+    "equidistance": {
+        "rhymes": {
+            "all": "-ɪstəns"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "ikwɪdɪstəns"
+        },
+        "sounds": 11
+    },
+    "equinely": {
+        "rhymes": {
+            "all": "-ikwaɪnli"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ikwaɪnli"
+        },
+        "sounds": 8
+    },
+    "equiprobabilism": {
+        "rhymes": {
+            "all": "-ɪzəm"
+        },
+        "letters": 15,
+        "pronunciation": {
+            "simplified": "ikwəprɑbəbəlɪzəm"
+        },
+        "sounds": 16
+    },
+    "equivoque": {
+        "rhymes": {
+            "all": "-oʊk"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɛkwəvoʊk"
+        },
+        "sounds": 8
+    },
+    "era": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "e",
+                "ra"
+            ]
+        },
+        "pronunciation": {
+            "all": "'irə",
+            "simplified": "irə"
+        },
+        "rhymePatterns": {
+            "all": "-irə"
+        },
+        "definitions": [
+            {
+                "definition": "a period marked by distinctive character or reckoned from a fixed point or event",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "epoch"
+                ],
+                "typeOf": [
+                    "period",
+                    "time period",
+                    "period of time"
+                ],
+                "hasTypes": [
+                    "day",
+                    "historic period",
+                    "modern era",
+                    "age"
+                ],
+                "hasInstances": [
+                    "caliphate",
+                    "christian era",
+                    "common era"
+                ]
+            },
+            {
+                "definition": "a major division of geological time; an era is usually divided into two or more periods",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "geological era"
+                ],
+                "typeOf": [
+                    "geologic time",
+                    "geological time"
+                ],
+                "hasInstances": [
+                    "age of reptiles",
+                    "paleozoic era",
+                    "paleozoic",
+                    "mesozoic",
+                    "cenozoic",
+                    "cenozoic era",
+                    "mesozoic era",
+                    "age of mammals"
+                ],
+                "hasParts": [
+                    "period",
+                    "geological period"
+                ],
+                "partOf": [
+                    "aeon",
+                    "eon"
+                ]
+            },
+            {
+                "definition": "(baseball) a measure of a pitcher's effectiveness; calculated as the average number of earned runs allowed by the pitcher for every nine innings pitched",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "earned run average"
+                ],
+                "inCategory": [
+                    "baseball game",
+                    "baseball",
+                    "ball"
+                ],
+                "typeOf": [
+                    "touchstone",
+                    "standard",
+                    "measure",
+                    "criterion"
+                ]
+            }
+        ],
+        "letters": 3,
+        "sounds": 3,
+        "frequency": {
+            "zipf": 4.05,
+            "perMillion": 11.16,
+            "diversity": 0.05
+        }
+    },
+    "erectility": {
+        "rhymes": {
+            "all": "-ɪlɪti"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɪrɛktɪlɪti"
+        },
+        "sounds": 10
+    },
+    "erective": {
+        "rhymes": {
+            "all": "-ɛktɪv"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ɪrɛktɪv"
+        },
+        "sounds": 7
+    },
+    "eremophyte": {
+        "rhymes": {
+            "all": "-aɪt"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɛrəmoʊfaɪt"
+        },
+        "sounds": 10
+    },
+    "erewhon": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "er",
+                "e",
+                "whon"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɛrə,hwɑn",
+            "simplified": "ɛrəhwɑn"
+        },
+        "rhymePatterns": {
+            "all": "-ɑn"
+        },
+        "definitions": [
+            {
+                "definition": "a satirical novel written by Samuel Butler (1872) describing a fictitious land",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "book"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7
+    },
+    "ergotamine": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "er",
+                "got",
+                "a",
+                "mine"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɜr'ɡɑtə,min",
+            "simplified": "ɜrɡɑtəmin"
+        },
+        "rhymePatterns": {
+            "all": "-in"
+        },
+        "definitions": [
+            {
+                "definition": "an alkaloid derived from ergot that is less toxic than ergot; causes constriction of blood vessels and is used to treat migraine",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "alkaloid"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "ergotism": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "er",
+                "got",
+                "ism"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɜrgə,tɪzəm",
+            "simplified": "ɜrgətɪzəm"
+        },
+        "rhymePatterns": {
+            "all": "-ɪzəm"
+        },
+        "definitions": [
+            {
+                "definition": "poisoning by ingestion of ergot-infected grain products; characterized by thirst and diarrhea and nausea and cramping and vomiting and abnormal cardiac rhythms; in severe cases it can cause seizures and gangrene of the limbs",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "intoxication",
+                    "poisoning",
+                    "toxic condition"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9,
+        "frequency": 1.74
+    },
+    "ergotoxine": {
+        "rhymes": {
+            "all": "-ɑksin"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɜrgətɑksin"
+        },
+        "sounds": 10
+    },
+    "ergotrate": {
+        "rhymes": {
+            "all": "-eɪt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɜrgətreɪt"
+        },
+        "sounds": 9
+    },
+    "erhard": {
+        "rhymes": {
+            "all": "-ɑrt"
+        },
+        "letters": 6,
+        "pronunciation": "'ɛrhɑrd",
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.4,
+            "perMillion": 0.24,
+            "diversity": 0
+        }
+    },
+    "erigena": {
+        "rhymes": {
+            "all": "-ɪdʒənə"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ɛrɪdʒənə"
+        },
+        "sounds": 8
+    },
+    "erika": {
+        "rhymes": {
+            "all": "-ɛrɪkə"
+        },
+        "letters": 5,
+        "pronunciation": "'ɛrɪkʌ",
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.48,
+            "perMillion": 3.01,
+            "diversity": 0
+        }
+    },
+    "erk": {
+        "rhymes": {
+            "all": "-k"
+        },
+        "letters": 3,
+        "pronunciation": "ɝrk",
+        "sounds": 3,
+        "frequency": {
+            "zipf": 2.66,
+            "perMillion": 0.44,
+            "diversity": 0
+        }
+    },
+    "erlene": {
+        "rhymes": {
+            "all": "-in"
+        },
+        "letters": 6,
+        "pronunciation": "'ɝrlin",
+        "sounds": 5
+    },
+    "erlking": {
+        "rhymes": {
+            "all": "-ɪŋ"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ɜrlkɪŋ"
+        },
+        "sounds": 6
+    },
+    "ermentrude": {
+        "rhymes": {
+            "all": "-ud"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ɜrməntrud"
+        },
+        "sounds": 9
+    },
+    "erotes": {
+        "rhymes": {
+            "all": "-oʊtiz"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "əroʊtiz"
+        },
+        "sounds": 7
+    },
+    "erotomaniac": {
+        "rhymes": {
+            "all": "-æk"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ɪroʊtəmeɪniæk"
+        },
+        "sounds": 13,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "error-prone": {
+        "pronunciation": {
+            "all": "'ɛrər_proʊn",
+            "simplified": "ɛrərproʊn"
+        },
+        "rhymePatterns": {
+            "all": "-ɛrər_proʊn"
+        },
+        "definitions": [
+            {
+                "definition": "capable of making an error",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "erring"
+                ],
+                "similarTo": [
+                    "fallible"
+                ],
+                "examples": [
+                    "all men are error-prone"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 9
+    },
+    "erudite": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "er",
+                "u",
+                "dite"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɛrjʊ,daɪt",
+            "simplified": "ɛrjʊdaɪt"
+        },
+        "rhymePatterns": {
+            "all": "-aɪt"
+        },
+        "definitions": [
+            {
+                "definition": "having or showing profound knowledge",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "learned"
+                ],
+                "similarTo": [
+                    "scholarly"
+                ],
+                "derivation": [
+                    "eruditeness"
+                ],
+                "examples": [
+                    "an erudite professor"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.47,
+            "perMillion": 0.28,
+            "diversity": 0
+        }
+    },
+    "eruditeness": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "er",
+                "u",
+                "dite",
+                "ness"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɛrjʊ,daɪtnɛs",
+            "simplified": "ɛrjʊdaɪtnɛs"
+        },
+        "rhymePatterns": {
+            "all": "-aɪtnɛs"
+        },
+        "definitions": [
+            {
+                "definition": "profound scholarly knowledge",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "encyclopaedism",
+                    "encyclopedism",
+                    "erudition",
+                    "learnedness",
+                    "learning",
+                    "scholarship"
+                ],
+                "typeOf": [
+                    "education"
+                ],
+                "hasTypes": [
+                    "letters"
+                ],
+                "derivation": [
+                    "erudite"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11
+    },
+    "erumpent": {
+        "rhymes": {
+            "all": "-əmpənt"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ɪrəmpənt"
+        },
+        "sounds": 8
+    },
+    "erysipelatous": {
+        "rhymes": {
+            "all": "-ɛlətəs"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "ɛrɪsɪpɛlətəs"
+        },
+        "sounds": 12
+    },
+    "erythroblastosis": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "e",
+                "ryth",
+                "ro",
+                "blas",
+                "to",
+                "sis"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɪ,rɪθroʊblæ'stoʊsɪs",
+            "simplified": "ɪrɪθroʊblæstoʊsɪs"
+        },
+        "rhymePatterns": {
+            "all": "-oʊsɪs"
+        },
+        "definitions": [
+            {
+                "definition": "a blood disease characterized by the abnormal presence of erythroblasts in the blood",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "blood disease",
+                    "blood disorder"
+                ]
+            }
+        ],
+        "letters": 16,
+        "sounds": 17,
+        "frequency": 1.74
+    },
+    "escalade": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "es",
+                "ca",
+                "lade"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɛskə'leɪd",
+            "simplified": "ɛskəleɪd"
+        },
+        "rhymePatterns": {
+            "all": "-eɪd"
+        },
+        "definitions": [
+            {
+                "definition": "an act of scaling by the use of ladders (especially the walls of a fortification)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "scaling"
+                ]
+            },
+            {
+                "definition": "climb up and over",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "climb",
+                    "climb up",
+                    "go up",
+                    "mount"
+                ],
+                "derivation": [
+                    "escalader"
+                ],
+                "examples": [
+                    "They had to escalade canyons to reach their destination"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.77,
+            "perMillion": 0.57,
+            "diversity": 0
+        }
+    },
+    "escadrille": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "es",
+                "ca",
+                "drille"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɛskə'drɪl",
+            "simplified": "ɛskədrɪl"
+        },
+        "rhymePatterns": {
+            "all": "-ɪl"
+        },
+        "definitions": [
+            {
+                "definition": "an air force squadron typically containing six airplanes (as in France during World War I)",
+                "partOfSpeech": "noun",
+                "inRegion": [
+                    "france",
+                    "french republic"
+                ],
+                "typeOf": [
+                    "squadron"
+                ]
+            },
+            {
+                "definition": "a small squadron",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "squadron"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.08,
+            "perMillion": 0.11,
+            "diversity": 0
+        }
+    },
+    "escalate": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "es",
+                "ca",
+                "late"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɛskə,leɪt",
+            "simplified": "ɛskəleɪt"
+        },
+        "rhymePatterns": {
+            "all": "-eɪt"
+        },
+        "definitions": [
+            {
+                "definition": "increase in extent or intensity",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "intensify",
+                    "step up"
+                ],
+                "typeOf": [
+                    "increase"
+                ],
+                "hasTypes": [
+                    "redouble"
+                ],
+                "antonyms": [
+                    "de-escalate"
+                ],
+                "derivation": [
+                    "escalation"
+                ],
+                "examples": [
+                    "The Allies escalated the bombing"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.81,
+            "perMillion": 0.64,
+            "diversity": 0
+        }
+    },
+    "escalope": {
+        "rhymes": {
+            "all": "-ɑp"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ɛskəlɑp"
+        },
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "escapeway": {
+        "rhymes": {
+            "all": "-eɪ"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɛskeɪpweɪ"
+        },
+        "sounds": 9
+    },
+    "eschar": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "es",
+                "char"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɛskɑr",
+            "simplified": "ɛskɑr"
+        },
+        "rhymePatterns": {
+            "all": "-ɛskɑr"
+        },
+        "definitions": [
+            {
+                "definition": "a dry scab formed on the skin following a burn or cauterization of the skin",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "scab"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": 1.74
+    },
+    "escuage": {
+        "rhymes": {
+            "all": "-ɛskjuɪdʒ"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ɛskjuɪdʒ"
+        },
+        "sounds": 8
+    },
+    "eskimo-aleut": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "es",
+                "ki",
+                "mo-al",
+                "e",
+                "ut"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɛskə,moʊ_'æli,ut",
+            "simplified": "ɛskəmoʊæliut"
+        },
+        "rhymePatterns": {
+            "all": "-ut"
+        },
+        "definitions": [
+            {
+                "definition": "the family of languages that includes Eskimo and Aleut",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "eskimo-aleut language"
+                ],
+                "typeOf": [
+                    "natural language",
+                    "tongue"
+                ],
+                "hasTypes": [
+                    "aleut",
+                    "eskimo",
+                    "esquimau"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 12
+    },
+    "esme": {
+        "rhymes": {
+            "all": "-ɛzmi"
+        },
+        "letters": 4,
+        "pronunciation": "ɛzm",
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.12,
+            "perMillion": 1.31,
+            "diversity": 0
+        }
+    },
+    "esmeralda": {
+        "rhymes": {
+            "all": "-ældə"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɛzmərældə"
+        },
+        "sounds": 9,
+        "frequency": {
+            "zipf": 3.03,
+            "perMillion": 1.05,
+            "diversity": 0
+        }
+    },
+    "esnecy": {
+        "rhymes": {
+            "all": "-ɛsnɪsi"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "ɛsnɪsi"
+        },
+        "sounds": 6
+    },
+    "espionage": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "es",
+                "pi",
+                "o",
+                "nage"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ɛspiə,nɑʒ",
+            "simplified": "ɛspiənɑʒ"
+        },
+        "rhymePatterns": {
+            "all": "-ɑʒ"
+        },
+        "definitions": [
+            {
+                "definition": "the systematic use of spies to get military or political secrets",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "spying",
+                    "undercover work"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.07,
+            "perMillion": 1.16,
+            "diversity": 0.01
+        }
+    },
+    "espieglerie": {
+        "rhymes": {
+            "all": "-i"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ɛspjɛgləRi"
+        },
+        "sounds": 10
+    },
+    "ess": {
+        "rhymes": {
+            "all": "-ɛs"
+        },
+        "letters": 3,
+        "pronunciation": "ɛs",
+        "sounds": 2,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "essenic": {
+        "rhymes": {
+            "all": "-ɛnɪk"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ɛsɛnɪk"
+        },
+        "sounds": 6
+    },
+    "essequibo": {
+        "rhymes": {
+            "all": "-iboʊ"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ɛsəkwiboʊ"
+        },
+        "sounds": 9
+    },
+    "establishment": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "es",
+                "tab",
+                "lish",
+                "ment"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɛ'stæblɪʃmənt",
+            "simplified": "ɛstæblɪʃmənt"
+        },
+        "rhymePatterns": {
+            "all": "-æblɪʃmənt"
+        },
+        "definitions": [
+            {
+                "definition": "the persons (or committees or departments etc.) who make up a body for the purpose of administering something",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "administration",
+                    "brass",
+                    "governance",
+                    "governing body",
+                    "organisation",
+                    "organization"
+                ],
+                "typeOf": [
+                    "body"
+                ],
+                "hasTypes": [
+                    "judiciary",
+                    "management",
+                    "government officials",
+                    "officialdom",
+                    "executive",
+                    "curia",
+                    "county council",
+                    "top brass",
+                    "bench"
+                ],
+                "hasMembers": [
+                    "advisory board",
+                    "planning board"
+                ],
+                "hasParts": [
+                    "hierarchy",
+                    "power structure",
+                    "pecking order"
+                ],
+                "partOf": [
+                    "government",
+                    "regime",
+                    "authorities"
+                ],
+                "examples": [
+                    "he quickly became recognized as a member of the establishment"
+                ]
+            },
+            {
+                "definition": "an organization founded and united for a specific purpose",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "institution"
+                ],
+                "typeOf": [
+                    "organisation",
+                    "organization"
+                ],
+                "hasTypes": [
+                    "issuer",
+                    "honorary society",
+                    "vicarship",
+                    "vicariate",
+                    "charity",
+                    "religion",
+                    "organized religion",
+                    "company",
+                    "educational institution",
+                    "faith",
+                    "financial institution",
+                    "financial organisation",
+                    "financial organization",
+                    "academy",
+                    "medical institution"
+                ]
+            },
+            {
+                "definition": "the cognitive process of establishing a valid proof",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "validation"
+                ],
+                "typeOf": [
+                    "proof",
+                    "cogent evidence"
+                ],
+                "derivation": [
+                    "establish"
+                ]
+            },
+            {
+                "definition": "(ecology) the process by which a plant or animal becomes established in a new habitat",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "ecesis"
+                ],
+                "inCategory": [
+                    "bionomics",
+                    "environmental science",
+                    "ecology"
+                ],
+                "typeOf": [
+                    "natural process",
+                    "action",
+                    "activity",
+                    "natural action"
+                ]
+            },
+            {
+                "definition": "the act of forming or establishing something",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "constitution",
+                    "formation",
+                    "organisation",
+                    "organization"
+                ],
+                "typeOf": [
+                    "commencement",
+                    "beginning",
+                    "start"
+                ],
+                "hasTypes": [
+                    "settlement",
+                    "unionisation",
+                    "collectivization",
+                    "collectivisation",
+                    "communisation",
+                    "colonization",
+                    "colonisation",
+                    "federation",
+                    "communization",
+                    "unionization"
+                ],
+                "derivation": [
+                    "establish"
+                ],
+                "examples": [
+                    "it was the establishment of his reputation"
+                ]
+            },
+            {
+                "definition": "any large organization",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "organisation",
+                    "organization"
+                ]
+            },
+            {
+                "definition": "a public or private structure (business or governmental or educational) including buildings and equipment for business or residence",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "business",
+                    "business enterprise",
+                    "commercial enterprise"
+                ],
+                "typeOf": [
+                    "structure",
+                    "construction"
+                ],
+                "hasTypes": [
+                    "poorhouse",
+                    "university",
+                    "business establishment",
+                    "academy",
+                    "place of business",
+                    "phrontistery",
+                    "perfumery",
+                    "institution",
+                    "winery",
+                    "wine maker",
+                    "school system"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 12,
+        "frequency": {
+            "zipf": 3.74,
+            "perMillion": 5.51,
+            "diversity": 0.02
+        }
+    }
+}

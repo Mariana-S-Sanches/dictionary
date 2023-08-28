@@ -1,0 +1,2069 @@
+{
+    "macroscopic": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "mac",
+                "ro",
+                "scop",
+                "ic"
+            ]
+        },
+        "pronunciation": {
+            "all": ",mækrə'skɑpɪk",
+            "simplified": "mækrəskɑpɪk"
+        },
+        "rhymePatterns": {
+            "all": "-ɑpɪk"
+        },
+        "definitions": [
+            {
+                "definition": "visible to the naked eye; using the naked eye",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "macroscopical"
+                ],
+                "similarTo": [
+                    "seeable",
+                    "visible"
+                ]
+            },
+            {
+                "definition": "large enough to be visible with the naked eye",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "macroscopical"
+                ],
+                "similarTo": [
+                    "big",
+                    "large"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "macruran": {
+        "rhymes": {
+            "all": "-ʊrən"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "məkrʊrən"
+        },
+        "sounds": 8
+    },
+    "madeira": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ma",
+                "dei",
+                "ra"
+            ]
+        },
+        "pronunciation": {
+            "all": "mə'diərə",
+            "simplified": "mədiərə"
+        },
+        "rhymePatterns": {
+            "all": "-iərə"
+        },
+        "definitions": [
+            {
+                "definition": "a Brazilian river; tributary of the Amazon River",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "madeira river"
+                ],
+                "instanceOf": [
+                    "river"
+                ],
+                "partOf": [
+                    "brazil",
+                    "federative republic of brazil",
+                    "brasil"
+                ]
+            },
+            {
+                "definition": "an amber dessert wine from the Madeira Islands",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "fortified wine"
+                ],
+                "hasTypes": [
+                    "malmsey"
+                ]
+            },
+            {
+                "definition": "an island in the Atlantic Ocean off the coast of Africa; the largest of the Madeira Islands",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "island"
+                ],
+                "partOf": [
+                    "madeira islands",
+                    "madeiras"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.5,
+            "perMillion": 0.31,
+            "diversity": 0
+        }
+    },
+    "mademoiselle": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "mad",
+                "e",
+                "moi",
+                "selle"
+            ]
+        },
+        "pronunciation": {
+            "all": "mAdmwA'zɛl",
+            "simplified": "mAdmwAzɛl"
+        },
+        "rhymePatterns": {
+            "all": "-ɛl"
+        },
+        "definitions": [
+            {
+                "definition": "small silvery drumfish often mistaken for white perch; found along coasts of United States from New York to Mexico",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "bairdiella chrysoura",
+                    "silver perch"
+                ],
+                "typeOf": [
+                    "drum",
+                    "drumfish"
+                ],
+                "memberOf": [
+                    "bairdiella",
+                    "genus bairdiella"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 3.67,
+            "perMillion": 4.69,
+            "diversity": 0.01
+        }
+    },
+    "madlyn": {
+        "rhymes": {
+            "all": "-ædlɪn"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "mædlɪn"
+        },
+        "sounds": 6
+    },
+    "madness": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "mad",
+                "ness"
+            ]
+        },
+        "pronunciation": {
+            "all": "'mædnɪs",
+            "simplified": "mædnɪs"
+        },
+        "rhymePatterns": {
+            "all": "-ædnɪs"
+        },
+        "definitions": [
+            {
+                "definition": "an acute viral disease of the nervous system of warm-blooded animals (usually transmitted by the bite of a rabid animal); rabies is fatal if the virus reaches the brain",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hydrophobia",
+                    "lyssa",
+                    "rabies"
+                ],
+                "typeOf": [
+                    "zoonosis",
+                    "zoonotic disease"
+                ]
+            },
+            {
+                "definition": "unrestrained excitement or enthusiasm",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "rabidity",
+                    "rabidness"
+                ],
+                "typeOf": [
+                    "ebullience",
+                    "exuberance",
+                    "enthusiasm"
+                ],
+                "derivation": [
+                    "mad"
+                ],
+                "examples": [
+                    "poetry is a sort of divine madness"
+                ]
+            },
+            {
+                "definition": "obsolete terms for legal insanity",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "insaneness",
+                    "lunacy"
+                ],
+                "typeOf": [
+                    "insanity"
+                ],
+                "derivation": [
+                    "mad"
+                ]
+            },
+            {
+                "definition": "a feeling of intense anger",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "fury",
+                    "rage"
+                ],
+                "typeOf": [
+                    "anger",
+                    "choler",
+                    "ire"
+                ],
+                "hasTypes": [
+                    "wrath",
+                    "lividity"
+                ],
+                "derivation": [
+                    "mad"
+                ]
+            },
+            {
+                "definition": "the quality of being rash and foolish",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "craziness",
+                    "folly",
+                    "foolishness"
+                ],
+                "typeOf": [
+                    "stupidity"
+                ],
+                "derivation": [
+                    "mad"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 4.16,
+            "perMillion": 14.3,
+            "diversity": 0.06
+        }
+    },
+    "madonna": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ma",
+                "don",
+                "na"
+            ]
+        },
+        "pronunciation": {
+            "all": "mə'dɑnə",
+            "simplified": "mədɑnə"
+        },
+        "rhymePatterns": {
+            "all": "-ɑnə"
+        },
+        "definitions": [
+            {
+                "definition": "United States pop singer and sex symbol during the 1980s (born in 1958)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "madonna louise ciccone"
+                ],
+                "instanceOf": [
+                    "singer",
+                    "vocaliser",
+                    "vocalist",
+                    "vocalizer"
+                ]
+            },
+            {
+                "definition": "the mother of Jesus; Christians refer to her as the Virgin Mary; she is especially honored by Roman Catholics",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "blessed virgin",
+                    "mary",
+                    "the virgin",
+                    "virgin mary"
+                ],
+                "instanceOf": [
+                    "female parent",
+                    "jewess",
+                    "mother"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.65,
+            "perMillion": 4.51,
+            "diversity": 0.01
+        }
+    },
+    "madoera": {
+        "rhymes": {
+            "all": "-uRɑ"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "mɑduRɑ"
+        },
+        "sounds": 6
+    },
+    "madrid": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ma",
+                "drid"
+            ]
+        },
+        "pronunciation": {
+            "all": "mə'drɪd",
+            "simplified": "mədrɪd"
+        },
+        "rhymePatterns": {
+            "all": "-ɪd"
+        },
+        "definitions": [
+            {
+                "definition": "the capital and largest city situated centrally in Spain; home of an outstanding art museum",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "capital of spain",
+                    "spanish capital"
+                ],
+                "instanceOf": [
+                    "national capital"
+                ],
+                "partOf": [
+                    "espana",
+                    "kingdom of spain",
+                    "spain"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.95,
+            "perMillion": 8.85,
+            "diversity": 0.02
+        }
+    },
+    "mael": {
+        "rhymes": {
+            "all": "-eɪl"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "meɪl"
+        },
+        "sounds": 4,
+        "frequency": {
+            "zipf": 2.45,
+            "perMillion": 0.27,
+            "diversity": 0
+        }
+    },
+    "maebelle": {
+        "rhymes": {
+            "all": "-ɛl"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "meɪbɛl"
+        },
+        "sounds": 6
+    },
+    "maenalus": {
+        "rhymes": {
+            "all": "-ɛnələs"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "mɛnələs"
+        },
+        "sounds": 7
+    },
+    "maestro": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "maes",
+                "tro"
+            ]
+        },
+        "pronunciation": {
+            "all": "'maɪstroʊ",
+            "simplified": "maɪstroʊ"
+        },
+        "rhymePatterns": {
+            "all": "-aɪstroʊ"
+        },
+        "definitions": [
+            {
+                "definition": "an artist of consummate skill",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "master"
+                ],
+                "typeOf": [
+                    "artist",
+                    "creative person"
+                ],
+                "hasTypes": [
+                    "old master"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.7,
+            "perMillion": 4.96,
+            "diversity": 0.01
+        }
+    },
+    "magazinist": {
+        "rhymes": {
+            "all": "-inɪst"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "mæɡəzinɪst"
+        },
+        "sounds": 10
+    },
+    "maggot": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "mag",
+                "got"
+            ]
+        },
+        "pronunciation": {
+            "all": "'mæɡət",
+            "simplified": "mæɡət"
+        },
+        "rhymePatterns": {
+            "all": "-æɡət"
+        },
+        "definitions": [
+            {
+                "definition": "the larva of the housefly and blowfly commonly found in decaying organic matter",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "grub"
+                ],
+                "derivation": [
+                    "maggoty"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.14,
+            "perMillion": 1.37,
+            "diversity": 0
+        }
+    },
+    "magical": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "mag",
+                "i",
+                "cal"
+            ]
+        },
+        "pronunciation": {
+            "all": "'mædʒɪkəl",
+            "simplified": "mædʒɪkəl"
+        },
+        "rhymePatterns": {
+            "all": "-ædʒɪkəl"
+        },
+        "definitions": [
+            {
+                "definition": "possessing or using or characteristic of or appropriate to supernatural powers",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "charming",
+                    "magic",
+                    "sorcerous",
+                    "witching",
+                    "wizard",
+                    "wizardly"
+                ],
+                "similarTo": [
+                    "supernatural"
+                ],
+                "derivation": [
+                    "magic"
+                ],
+                "examples": [
+                    "a magical spell"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 4.06,
+            "perMillion": 11.56,
+            "diversity": 0.05
+        }
+    },
+    "magistral": {
+        "rhymes": {
+            "all": "-ædʒɪstrəl"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "mædʒɪstrəl"
+        },
+        "sounds": 10
+    },
+    "maglemosean": {
+        "rhymes": {
+            "all": "-oʊsiən"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "mægləmoʊsiən"
+        },
+        "sounds": 12
+    },
+    "magnalium": {
+        "rhymes": {
+            "all": "-eɪliəm"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "mæɡneɪliəm"
+        },
+        "sounds": 10
+    },
+    "magnanimous": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "mag",
+                "nan",
+                "i",
+                "mous"
+            ]
+        },
+        "pronunciation": {
+            "all": "mæɡ'nænəməs",
+            "simplified": "mæɡnænəməs"
+        },
+        "rhymePatterns": {
+            "all": "-ænəməs"
+        },
+        "definitions": [
+            {
+                "definition": "generous and understanding and tolerant",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "big",
+                    "large"
+                ],
+                "similarTo": [
+                    "generous"
+                ],
+                "derivation": [
+                    "magnanimity",
+                    "magnanimousness"
+                ],
+                "examples": [
+                    "magnanimous toward his enemies"
+                ]
+            },
+            {
+                "definition": "noble and generous in spirit",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "greathearted"
+                ],
+                "similarTo": [
+                    "noble"
+                ],
+                "derivation": [
+                    "magnanimousness"
+                ],
+                "examples": [
+                    "a magnanimous conqueror"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 2.67,
+            "perMillion": 0.45,
+            "diversity": 0
+        }
+    },
+    "magnetograph": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "mag",
+                "ne",
+                "to",
+                "graph"
+            ]
+        },
+        "pronunciation": {
+            "all": "mæɡ'nitə,græf",
+            "simplified": "mæɡnitəgræf"
+        },
+        "rhymePatterns": {
+            "all": "-æf"
+        },
+        "definitions": [
+            {
+                "definition": "a scientific instrument that registers magnetic variations (especially variations of the earth's magnetic field)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "scientific instrument"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 11
+    },
+    "magnetostriction": {
+        "rhymes": {
+            "all": "-ɪkʃən"
+        },
+        "letters": 16,
+        "pronunciation": {
+            "simplified": "mæɡnitoʊstrɪkʃən"
+        },
+        "sounds": 16
+    },
+    "magnetron": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "mag",
+                "ne",
+                "tron"
+            ]
+        },
+        "pronunciation": {
+            "all": "'mægnɪ,trɑn",
+            "simplified": "mægnɪtrɑn"
+        },
+        "rhymePatterns": {
+            "all": "-ɑn"
+        },
+        "definitions": [
+            {
+                "definition": "a diode vacuum tube in which the flow of electrons from a central cathode to a cylindrical anode is controlled by crossed magnetic and electric fields; used mainly in microwave oscillators",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "electron tube",
+                    "thermionic tube",
+                    "thermionic vacuum tube",
+                    "thermionic valve",
+                    "tube",
+                    "vacuum tube"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9
+    },
+    "magnificence": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "mag",
+                "nif",
+                "i",
+                "cence"
+            ]
+        },
+        "pronunciation": {
+            "all": "mæɡ'nɪfɪsəns",
+            "simplified": "mæɡnɪfɪsəns"
+        },
+        "rhymePatterns": {
+            "all": "-ɪfɪsəns"
+        },
+        "definitions": [
+            {
+                "definition": "splendid or imposing in size or appearance",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "grandness",
+                    "impressiveness",
+                    "richness"
+                ],
+                "typeOf": [
+                    "excellence"
+                ],
+                "hasTypes": [
+                    "stateliness",
+                    "loftiness",
+                    "majesty",
+                    "expansiveness",
+                    "expansivity"
+                ],
+                "derivation": [
+                    "magnificent"
+                ]
+            },
+            {
+                "definition": "the quality of being magnificent or splendid or grand",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "brilliance",
+                    "grandeur",
+                    "grandness",
+                    "splendor",
+                    "splendour"
+                ],
+                "typeOf": [
+                    "elegance"
+                ],
+                "hasTypes": [
+                    "eclat"
+                ],
+                "derivation": [
+                    "magnificent"
+                ],
+                "examples": [
+                    "for magnificence and personal service there is the Queen's hotel"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 2.77,
+            "perMillion": 0.57,
+            "diversity": 0
+        }
+    },
+    "magniloquently": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "mag",
+                "nil",
+                "o",
+                "quent",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "mæɡ'nɪləkwəntli",
+            "simplified": "mæɡnɪləkwəntli"
+        },
+        "rhymePatterns": {
+            "all": "-ɪləkwəntli"
+        },
+        "definitions": [
+            {
+                "definition": "in a rhetorically grandiloquent manner",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "grandiloquently"
+                ],
+                "pertainsTo": [
+                    "magniloquent"
+                ],
+                "examples": [
+                    "the orator spoke magniloquently"
+                ]
+            }
+        ],
+        "letters": 14,
+        "sounds": 14
+    },
+    "mah-jong": {
+        "rhymes": {
+            "all": "-ɑŋ"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "mɑdʒɑŋ"
+        },
+        "sounds": 6
+    },
+    "maharishi": {
+        "rhymes": {
+            "all": "-iʃi"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "mɑrhəriʃi"
+        },
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "mahendra": {
+        "rhymes": {
+            "all": "-ɑ"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "mɑhɛndrɑ"
+        },
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.08,
+            "perMillion": 0.11,
+            "diversity": 0
+        }
+    },
+    "mahayanist": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ma",
+                "ha",
+                "ya",
+                "nist"
+            ]
+        },
+        "pronunciation": {
+            "all": ",mɑhə'jɑnɪst",
+            "simplified": "mɑhəjɑnɪst"
+        },
+        "rhymePatterns": {
+            "all": "-ɑnɪst"
+        },
+        "definitions": [
+            {
+                "definition": "an adherent of Mahayana Buddhism",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "adherent",
+                    "disciple"
+                ],
+                "memberOf": [
+                    "mahayana"
+                ],
+                "derivation": [
+                    "mahayana"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10
+    },
+    "mahound": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ma",
+                "hound"
+            ]
+        },
+        "pronunciation": {
+            "all": "mə'haʊnd",
+            "simplified": "məhaʊnd"
+        },
+        "rhymePatterns": {
+            "all": "-aʊnd"
+        },
+        "definitions": [
+            {
+                "definition": "the Arab prophet who, according to Islam, was the last messenger of Allah (570-632)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "mahomet",
+                    "mohammad",
+                    "mohammed",
+                    "muhammad"
+                ],
+                "instanceOf": [
+                    "prophet"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7
+    },
+    "maidenhead": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "maid",
+                "en",
+                "head"
+            ]
+        },
+        "pronunciation": {
+            "all": "'meɪdən,hɛd",
+            "simplified": "meɪdənhɛd"
+        },
+        "rhymePatterns": {
+            "all": "-ɛd"
+        },
+        "definitions": [
+            {
+                "definition": "a fold of tissue that partly covers the entrance to the vagina of a virgin",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hymen",
+                    "virginal membrane"
+                ],
+                "typeOf": [
+                    "mucosa",
+                    "mucous membrane"
+                ],
+                "hasTypes": [
+                    "imperforate hymen"
+                ],
+                "partOf": [
+                    "vagina"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "maidservant": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "maid",
+                "ser",
+                "vant"
+            ]
+        },
+        "pronunciation": {
+            "all": "'meɪd,sɜrvənt",
+            "simplified": "meɪdsɜrvənt"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrvənt"
+        },
+        "definitions": [
+            {
+                "definition": "a female domestic",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "amah",
+                    "housemaid",
+                    "maid"
+                ],
+                "typeOf": [
+                    "domestic help",
+                    "domestic",
+                    "house servant"
+                ],
+                "hasTypes": [
+                    "handmaiden",
+                    "lady's maid",
+                    "parlormaid",
+                    "chambermaid",
+                    "parlourmaid",
+                    "fille de chambre",
+                    "handmaid"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 2.3,
+            "perMillion": 0.19,
+            "diversity": 0
+        }
+    },
+    "maigre": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "mai",
+                "gre"
+            ]
+        },
+        "pronunciation": {
+            "all": "'meɪɡər",
+            "simplified": "meɪɡər"
+        },
+        "rhymePatterns": {
+            "all": "-eɪɡər"
+        },
+        "definitions": [
+            {
+                "definition": "large European marine food fish",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "maiger",
+                    "sciaena aquila"
+                ],
+                "typeOf": [
+                    "sciaenid",
+                    "sciaenid fish"
+                ],
+                "memberOf": [
+                    "genus sciaena",
+                    "sciaena"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6
+    },
+    "maihem": {
+        "rhymes": {
+            "all": "-eɪhɛm"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "meɪhɛm"
+        },
+        "sounds": 6
+    },
+    "mainsail": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "main",
+                "sail"
+            ]
+        },
+        "pronunciation": {
+            "all": "'meɪn,seɪl",
+            "simplified": "meɪnseɪl"
+        },
+        "rhymePatterns": {
+            "all": "-eɪl"
+        },
+        "definitions": [
+            {
+                "definition": "the lowermost sail on the mainmast",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "canvas",
+                    "canvass",
+                    "sail",
+                    "sheet"
+                ],
+                "hasTypes": [
+                    "main course"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.24,
+            "perMillion": 0.16,
+            "diversity": 0
+        }
+    },
+    "mainsheet": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "main",
+                "sheet"
+            ]
+        },
+        "pronunciation": {
+            "all": "'meɪn,ʃit",
+            "simplified": "meɪnʃit"
+        },
+        "rhymePatterns": {
+            "all": "-it"
+        },
+        "definitions": [
+            {
+                "definition": "(nautical) a line (rope or chain) that regulates the angle at which a sail is set in relation to the wind",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "sheet",
+                    "shroud",
+                    "tack",
+                    "weather sheet"
+                ],
+                "inCategory": [
+                    "navigation",
+                    "sailing",
+                    "seafaring"
+                ],
+                "typeOf": [
+                    "line"
+                ],
+                "hasTypes": [
+                    "futtock shroud"
+                ],
+                "partOf": [
+                    "ship"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7,
+        "frequency": 1.74
+    },
+    "mainstream": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "main",
+                "stream"
+            ]
+        },
+        "pronunciation": {
+            "all": "'meɪn,strim",
+            "simplified": "meɪnstrim"
+        },
+        "rhymePatterns": {
+            "all": "-im"
+        },
+        "definitions": [
+            {
+                "definition": "the prevailing current of thought",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "thought"
+                ],
+                "examples": [
+                    "his thinking was in the American mainstream"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 3.41,
+            "perMillion": 2.57,
+            "diversity": 0.01
+        }
+    },
+    "maintop": {
+        "rhymes": {
+            "all": "-ɑp"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "meɪntɑp"
+        },
+        "sounds": 7,
+        "frequency": 1.74
+    },
+    "mair": {
+        "rhymes": {
+            "all": "-eɪR"
+        },
+        "letters": 4,
+        "pronunciation": "mɛr",
+        "sounds": 4,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "majerle": {
+        "rhymes": {
+            "all": "-ærli"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "mærli"
+        },
+        "sounds": 5
+    },
+    "make-sport": {
+        "rhymes": {
+            "all": "-eɪk_spoʊrt"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "meɪkspoʊrt"
+        },
+        "sounds": 10
+    },
+    "make-shame": {
+        "rhymes": {
+            "all": "-eɪk_ʃeɪm"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "meɪkʃeɪm"
+        },
+        "sounds": 8
+    },
+    "making": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "mak",
+                "ing"
+            ]
+        },
+        "pronunciation": {
+            "all": "'meɪkɪŋ",
+            "simplified": "meɪkɪŋ"
+        },
+        "rhymePatterns": {
+            "all": "-eɪkɪŋ"
+        },
+        "definitions": [
+            {
+                "definition": "the act that results in something coming to be",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "devising",
+                    "fashioning"
+                ],
+                "typeOf": [
+                    "production"
+                ],
+                "hasTypes": [
+                    "cartography",
+                    "movie making",
+                    "moviemaking",
+                    "film making",
+                    "mapmaking"
+                ],
+                "derivation": [
+                    "make"
+                ],
+                "examples": [
+                    "the making of measurements",
+                    "it was already in the making"
+                ]
+            },
+            {
+                "definition": "an attribute that must be met or complied with and that fits a person for something",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "qualification"
+                ],
+                "typeOf": [
+                    "fittingness",
+                    "fitness"
+                ],
+                "hasTypes": [
+                    "eligibility",
+                    "ineligibility"
+                ],
+                "derivation": [
+                    "make"
+                ],
+                "examples": [
+                    "she has the makings of fine musician"
+                ]
+            },
+            {
+                "definition": "(usually plural) the components needed for making or doing something",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "element",
+                    "constituent",
+                    "component"
+                ],
+                "derivation": [
+                    "make"
+                ],
+                "examples": [
+                    "the recipe listed all the makings for a chocolate cake"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 5.32,
+            "perMillion": 208.52,
+            "diversity": 0.58
+        }
+    },
+    "maladminister": {
+        "rhymes": {
+            "all": "-ɪnɪstər"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "mælədmɪnɪstər"
+        },
+        "sounds": 13
+    },
+    "malaise": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ma",
+                "laise"
+            ]
+        },
+        "pronunciation": {
+            "all": "mæ'leɪz",
+            "simplified": "mæleɪz"
+        },
+        "rhymePatterns": {
+            "all": "-eɪz"
+        },
+        "definitions": [
+            {
+                "definition": "physical discomfort (as mild sickness or depression)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "unease",
+                    "uneasiness"
+                ],
+                "typeOf": [
+                    "discomfort",
+                    "uncomfortableness"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.4,
+            "perMillion": 0.24,
+            "diversity": 0
+        }
+    },
+    "malefactor": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "mal",
+                "e",
+                "fac",
+                "tor"
+            ]
+        },
+        "pronunciation": {
+            "all": "'mælə,fæktər",
+            "simplified": "mæləfæktər"
+        },
+        "rhymePatterns": {
+            "all": "-æktər"
+        },
+        "definitions": [
+            {
+                "definition": "someone who has committed a crime or has been legally convicted of a crime",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "criminal",
+                    "crook",
+                    "felon",
+                    "outlaw"
+                ],
+                "typeOf": [
+                    "principal"
+                ],
+                "hasTypes": [
+                    "accessary",
+                    "accessory",
+                    "arsonist",
+                    "blackmailer",
+                    "raper",
+                    "suborner",
+                    "thief",
+                    "thug",
+                    "tough",
+                    "toughie",
+                    "traitor",
+                    "treasonist",
+                    "violator",
+                    "bootlegger",
+                    "briber",
+                    "coconspirator",
+                    "conspirator",
+                    "contrabandist",
+                    "desperado",
+                    "desperate criminal",
+                    "drug dealer",
+                    "drug peddler",
+                    "drug trafficker",
+                    "extortioner",
+                    "extortionist",
+                    "firebug",
+                    "fugitive",
+                    "fugitive from justice",
+                    "gangster",
+                    "gangster's moll",
+                    "gaolbird",
+                    "goon",
+                    "gun moll",
+                    "habitual criminal",
+                    "highbinder",
+                    "highjacker",
+                    "hijacker",
+                    "hood",
+                    "hoodlum",
+                    "incendiary",
+                    "jail bird",
+                    "jailbird",
+                    "kidnaper",
+                    "kidnapper",
+                    "law offender",
+                    "lawbreaker",
+                    "liquidator",
+                    "machinator",
+                    "mafioso",
+                    "manslayer",
+                    "mobster",
+                    "moll",
+                    "moon-curser",
+                    "moon curser",
+                    "moonshiner",
+                    "murderer",
+                    "parolee",
+                    "peddler",
+                    "plotter",
+                    "probationer",
+                    "punk",
+                    "pusher",
+                    "racketeer",
+                    "abductor",
+                    "rapist",
+                    "recidivist",
+                    "repeater",
+                    "runner",
+                    "scofflaw",
+                    "smuggler",
+                    "snatcher",
+                    "stealer",
+                    "strong-armer"
+                ],
+                "hasInstances": [
+                    "bonney",
+                    "rob roy",
+                    "james",
+                    "jesse james",
+                    "macgregor",
+                    "billie the kid",
+                    "robert macgregor",
+                    "william h. bonney"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "malelk": {
+        "rhymes": {
+            "all": "-ælɪk"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "mælɪk"
+        },
+        "sounds": 5
+    },
+    "malevolent": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ma",
+                "lev",
+                "o",
+                "lent"
+            ]
+        },
+        "pronunciation": {
+            "all": "mə'lɛvələnt",
+            "simplified": "məlɛvələnt"
+        },
+        "rhymePatterns": {
+            "all": "-ɛvələnt"
+        },
+        "definitions": [
+            {
+                "definition": "having or exerting a malignant influence",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "evil",
+                    "malefic",
+                    "malign"
+                ],
+                "similarTo": [
+                    "maleficent"
+                ],
+                "derivation": [
+                    "malevolence",
+                    "malevolency"
+                ],
+                "examples": [
+                    "malevolent stars"
+                ]
+            },
+            {
+                "definition": "wishing or appearing to wish evil to others; arising from intense ill will or hatred",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "malicious"
+                ],
+                "derivation": [
+                    "malevolence"
+                ],
+                "examples": [
+                    "a gossipy malevolent old woman",
+                    "failure made him malevolent toward those who were successful"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 2.47,
+            "perMillion": 0.28,
+            "diversity": 0
+        }
+    },
+    "malformed": {
+        "pronunciation": {
+            "all": "mæl'fɔrmd",
+            "simplified": "mælfɔrmd"
+        },
+        "rhymePatterns": {
+            "all": "-ɔrmd"
+        },
+        "definitions": [
+            {
+                "definition": "so badly formed or out of shape as to be ugly",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "deformed",
+                    "distorted",
+                    "ill-shapen",
+                    "misshapen"
+                ],
+                "similarTo": [
+                    "unshapely"
+                ],
+                "examples": [
+                    "a limp caused by a malformed foot"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.27,
+            "perMillion": 0.17,
+            "diversity": 0
+        }
+    },
+    "mallarme": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "mal",
+                "lar",
+                "me"
+            ]
+        },
+        "pronunciation": {
+            "all": "mAlAR'meɪ",
+            "simplified": "mAlARmeɪ"
+        },
+        "rhymePatterns": {
+            "all": "-eɪ"
+        },
+        "definitions": [
+            {
+                "definition": "French symbolist poet noted for his free verse (1842-1898)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "stephane mallarme"
+                ],
+                "instanceOf": [
+                    "poet"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "mallet": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "mal",
+                "let"
+            ]
+        },
+        "pronunciation": {
+            "all": "'mælɪt",
+            "simplified": "mælɪt"
+        },
+        "rhymePatterns": {
+            "all": "-ælɪt"
+        },
+        "definitions": [
+            {
+                "definition": "a tool resembling a hammer but with a large head (usually wooden); used to drive wedges or ram down paving stones or for crushing or beating or flattening or smoothing",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "beetle"
+                ],
+                "typeOf": [
+                    "hammer"
+                ],
+                "hasTypes": [
+                    "gavel",
+                    "carpenter's mallet"
+                ]
+            },
+            {
+                "definition": "a light drumstick with a rounded head that is used to strike such percussion instruments as chimes, kettledrums, marimbas, glockenspiels, etc.",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hammer"
+                ],
+                "typeOf": [
+                    "drumstick"
+                ],
+                "partOf": [
+                    "percussion instrument",
+                    "percussive instrument"
+                ]
+            },
+            {
+                "definition": "a sports implement with a long handle and a head like a hammer; used in sports (polo or croquet) to hit a ball",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "sports implement"
+                ],
+                "hasTypes": [
+                    "croquet mallet",
+                    "polo mallet",
+                    "polo stick"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.73,
+            "perMillion": 0.52,
+            "diversity": 0
+        }
+    },
+    "malpractitioner": {
+        "rhymes": {
+            "all": "-ɪʃənər"
+        },
+        "letters": 15,
+        "pronunciation": {
+            "simplified": "mælpræktɪʃənər"
+        },
+        "sounds": 14
+    },
+    "malvina": {
+        "rhymes": {
+            "all": "-aɪnə"
+        },
+        "letters": 7,
+        "pronunciation": "mɑl'vinʌ",
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.56,
+            "perMillion": 0.35,
+            "diversity": 0
+        }
+    },
+    "mamallapuram": {
+        "rhymes": {
+            "all": "-ʊrəm"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "məmɑləpʊrəm"
+        },
+        "sounds": 11
+    },
+    "mama": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ma",
+                "ma"
+            ]
+        },
+        "pronunciation": {
+            "all": "'mɑmə",
+            "simplified": "mɑmə"
+        },
+        "rhymePatterns": {
+            "all": "-ɑmə"
+        },
+        "definitions": [
+            {
+                "definition": "informal terms for a mother",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "ma",
+                    "mamma",
+                    "mammy",
+                    "mom",
+                    "momma",
+                    "mommy",
+                    "mum",
+                    "mummy"
+                ],
+                "typeOf": [
+                    "female parent",
+                    "mother"
+                ]
+            },
+            {
+                "definition": "a name under which Ninkhursag was worshipped",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "semitic deity"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 4.94,
+            "perMillion": 87.51,
+            "diversity": 0.13
+        }
+    },
+    "mamillary": {
+        "rhymes": {
+            "all": "-æmɪləri"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "mæmɪləri"
+        },
+        "sounds": 8
+    },
+    "mamma": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "mam",
+                "ma"
+            ]
+        },
+        "pronunciation": {
+            "all": "'mɑmə",
+            "simplified": "mɑmə"
+        },
+        "rhymePatterns": {
+            "all": "-ɑmə"
+        },
+        "definitions": [
+            {
+                "definition": "milk-secreting organ of female mammals",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "mammary gland"
+                ],
+                "typeOf": [
+                    "exocrine",
+                    "exocrine gland",
+                    "duct gland"
+                ],
+                "hasTypes": [
+                    "knocker",
+                    "udder",
+                    "boob",
+                    "bosom",
+                    "breast",
+                    "dug",
+                    "tit",
+                    "titty",
+                    "bag"
+                ],
+                "hasParts": [
+                    "nipple",
+                    "pap",
+                    "teat",
+                    "tit",
+                    "mamilla",
+                    "mammilla"
+                ],
+                "partOf": [
+                    "female mammal"
+                ],
+                "derivation": [
+                    "mammary"
+                ]
+            },
+            {
+                "definition": "informal terms for a mother",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "ma",
+                    "mama",
+                    "mammy",
+                    "mom",
+                    "momma",
+                    "mommy",
+                    "mum",
+                    "mummy"
+                ],
+                "typeOf": [
+                    "mother",
+                    "female parent"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.73,
+            "perMillion": 5.39,
+            "diversity": 0.01
+        }
+    },
+    "mammalian": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "mam",
+                "ma",
+                "li",
+                "an"
+            ]
+        },
+        "pronunciation": {
+            "all": "mə'meɪliən",
+            "simplified": "məmeɪliən"
+        },
+        "rhymePatterns": {
+            "all": "-eɪliən"
+        },
+        "definitions": [
+            {
+                "definition": "any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small subclass of monotremes and nourished with milk",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "mammal"
+                ],
+                "hasCategories": [
+                    "allantois",
+                    "amnion",
+                    "amnios",
+                    "amniota",
+                    "amniotic sac",
+                    "biauriculate heart",
+                    "chorion",
+                    "mount",
+                    "ride",
+                    "anestrous",
+                    "digitigrade",
+                    "estrous",
+                    "plantigrade",
+                    "weaned"
+                ],
+                "typeOf": [
+                    "craniate",
+                    "vertebrate"
+                ],
+                "hasTypes": [
+                    "fossorial mammal",
+                    "metatherian",
+                    "placental mammal",
+                    "prototherian",
+                    "tusker",
+                    "eutherian",
+                    "eutherian mammal",
+                    "female mammal",
+                    "placental"
+                ],
+                "memberOf": [
+                    "class mammalia",
+                    "mammalia"
+                ],
+                "hasParts": [
+                    "pilus",
+                    "coat",
+                    "hair",
+                    "pelage"
+                ]
+            },
+            {
+                "definition": "of or relating to the class Mammalia",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "mammalia"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.24,
+            "perMillion": 0.16,
+            "diversity": 0
+        }
+    },
+    "mammae": {
+        "rhymes": {
+            "all": "-æmi"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "mæmi"
+        },
+        "sounds": 4
+    },
+    "mammee": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "mam",
+                "mee"
+            ]
+        },
+        "pronunciation": {
+            "all": "mæ'mi",
+            "simplified": "mæmi"
+        },
+        "rhymePatterns": {
+            "all": "-i"
+        },
+        "definitions": [
+            {
+                "definition": "brown oval fruit flesh makes excellent sherbet",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "marmalade plum",
+                    "sapote"
+                ],
+                "typeOf": [
+                    "edible fruit"
+                ],
+                "partOf": [
+                    "pouteria zapota",
+                    "marmalade tree",
+                    "calocarpum zapota",
+                    "sapote"
+                ]
+            },
+            {
+                "definition": "globular or ovoid tropical fruit with thick russet leathery rind and juicy yellow or reddish flesh",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "mamey",
+                    "mammee apple"
+                ],
+                "typeOf": [
+                    "edible fruit"
+                ],
+                "partOf": [
+                    "mammee apple",
+                    "mammee tree",
+                    "mamey",
+                    "mammea americana"
+                ]
+            },
+            {
+                "definition": "tropical American tree having wood like mahogany and sweet edible egg-shaped fruit; in some classifications placed in the genus Calocarpum",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "calocarpum zapota",
+                    "marmalade tree",
+                    "pouteria zapota",
+                    "sapote"
+                ],
+                "typeOf": [
+                    "tree"
+                ],
+                "memberOf": [
+                    "pouteria",
+                    "genus pouteria"
+                ],
+                "hasParts": [
+                    "marmalade plum",
+                    "sapote"
+                ]
+            },
+            {
+                "definition": "tropical American tree having edible fruit with a leathery rind",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "mamey",
+                    "mammea americana",
+                    "mammee apple",
+                    "mammee tree"
+                ],
+                "typeOf": [
+                    "fruit tree"
+                ],
+                "memberOf": [
+                    "mammea",
+                    "genus mammea"
+                ],
+                "hasParts": [
+                    "mamey",
+                    "mammee apple"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 4,
+        "frequency": 1.74
+    }
+}

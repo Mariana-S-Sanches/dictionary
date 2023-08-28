@@ -1,0 +1,1963 @@
+{
+    "filleting": {
+        "rhymes": {
+            "all": "-ɪlɪtɪŋ"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "fɪlɪtɪŋ"
+        },
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "fillip": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "fil",
+                "lip"
+            ]
+        },
+        "pronunciation": {
+            "all": "'fɪləp",
+            "simplified": "fɪləp"
+        },
+        "rhymePatterns": {
+            "all": "-ɪləp"
+        },
+        "definitions": [
+            {
+                "definition": "anything that tends to arouse",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "bonus"
+                ],
+                "typeOf": [
+                    "positive stimulus"
+                ],
+                "examples": [
+                    "his approval was an added fillip"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "fils": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "fils"
+            ]
+        },
+        "pronunciation": {
+            "all": "fis",
+            "simplified": "fis"
+        },
+        "rhymePatterns": {
+            "all": "-is"
+        },
+        "definitions": [
+            {
+                "definition": "100 Yemeni fils are worth one Yemeni rial",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "yemeni fils"
+                ],
+                "typeOf": [
+                    "yemeni monetary unit"
+                ]
+            },
+            {
+                "definition": "a fractional monetary unit in Bahrain and Iraq and Jordan and Kuwait; equal to one thousandth of a dinar",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "fractional monetary unit",
+                    "subunit"
+                ],
+                "partOf": [
+                    "dinar",
+                    "dirham",
+                    "bahrain dinar",
+                    "iraqi dinar",
+                    "jordanian dinar",
+                    "kuwaiti dirham"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 3,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "fin-fold": {
+        "rhymes": {
+            "all": "-ɪn_foʊld"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "fɪnfoʊld"
+        },
+        "sounds": 8
+    },
+    "fin-footed": {
+        "rhymes": {
+            "all": "-ʊtɪd"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "fɪnfʊtɪd"
+        },
+        "sounds": 8
+    },
+    "finable": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "fin",
+                "a",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "'faɪnəbəl",
+            "simplified": "faɪnəbəl"
+        },
+        "rhymePatterns": {
+            "all": "-aɪnəbəl"
+        },
+        "definitions": [
+            {
+                "definition": "liable to a fine",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "fineable"
+                ],
+                "similarTo": [
+                    "guilty"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8
+    },
+    "finalist": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "fi",
+                "nal",
+                "ist"
+            ]
+        },
+        "pronunciation": {
+            "all": "'faɪnəlɪst",
+            "simplified": "faɪnəlɪst"
+        },
+        "rhymePatterns": {
+            "all": "-aɪnəlɪst"
+        },
+        "definitions": [
+            {
+                "definition": "a contestant who reaches the final stages of a competition",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "challenger",
+                    "competition",
+                    "competitor",
+                    "contender",
+                    "rival"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.73,
+            "perMillion": 0.52,
+            "diversity": 0
+        }
+    },
+    "finality": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "fi",
+                "nal",
+                "i",
+                "ty"
+            ]
+        },
+        "pronunciation": {
+            "all": "faɪ'nælɪti",
+            "simplified": "faɪnælɪti"
+        },
+        "rhymePatterns": {
+            "all": "-ælɪti"
+        },
+        "definitions": [
+            {
+                "definition": "the quality of being final or definitely settled",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "conclusiveness",
+                    "decisiveness"
+                ],
+                "attribute": [
+                    "conclusive",
+                    "inconclusive"
+                ],
+                "typeOf": [
+                    "definiteness",
+                    "determinateness"
+                ],
+                "derivation": [
+                    "final"
+                ],
+                "examples": [
+                    "the finality of death"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.3,
+            "perMillion": 0.19,
+            "diversity": 0
+        }
+    },
+    "finding-out": {
+        "rhymes": {
+            "all": "-aɪndɪŋ_aʊt"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "faɪndɪŋaʊt"
+        },
+        "sounds": 10
+    },
+    "fine-feeling": {
+        "rhymes": {
+            "all": "-ilɪŋ"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "finfilɪŋ"
+        },
+        "sounds": 8
+    },
+    "fine-furred": {
+        "rhymes": {
+            "all": "-in_fɜrd"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "finfɜrd"
+        },
+        "sounds": 7
+    },
+    "fine-headed": {
+        "rhymes": {
+            "all": "-ɛdɪd"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "finhɛdɪd"
+        },
+        "sounds": 8
+    },
+    "finitude": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "fin",
+                "i",
+                "tude"
+            ]
+        },
+        "pronunciation": {
+            "all": "'fɪnɪ,tud",
+            "simplified": "fɪnɪtud"
+        },
+        "rhymePatterns": {
+            "all": "-ud"
+        },
+        "definitions": [
+            {
+                "definition": "the quality of being finite",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "boundedness",
+                    "finiteness"
+                ],
+                "typeOf": [
+                    "quality"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "finlander": {
+        "rhymes": {
+            "all": "-ɪnləndər"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "fɪnləndər"
+        },
+        "sounds": 9
+    },
+    "finletter": {
+        "rhymes": {
+            "all": "-ɛtər"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "fɪnlɛtər"
+        },
+        "sounds": 8
+    },
+    "finny": {
+        "rhymes": {
+            "all": "-ɪni"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "fɪni"
+        },
+        "sounds": 4,
+        "frequency": 2.02
+    },
+    "fipple": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "fip",
+                "ple"
+            ]
+        },
+        "pronunciation": {
+            "all": "'fɪpəl",
+            "simplified": "fɪpəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɪpəl"
+        },
+        "definitions": [
+            {
+                "definition": "a wooden plug forming a flue pipe (as the mouthpiece of a recorder)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "plug",
+                    "stopper",
+                    "stopple"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5
+    },
+    "firdausi": {
+        "rhymes": {
+            "all": "-aʊsi"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "firdaʊsi"
+        },
+        "sounds": 8
+    },
+    "fire-endurance": {
+        "rhymes": {
+            "all": "-ʊrəns"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "faɪərɛndʊrəns"
+        },
+        "sounds": 13
+    },
+    "fire-polish": {
+        "rhymes": {
+            "all": "-ɑlɪʃ"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "faɪərpɑlɪʃ"
+        },
+        "sounds": 10
+    },
+    "firebrand": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "fire",
+                "brand"
+            ]
+        },
+        "pronunciation": {
+            "all": "'faɪər,brænd",
+            "simplified": "faɪərbrænd"
+        },
+        "rhymePatterns": {
+            "all": "-ænd"
+        },
+        "definitions": [
+            {
+                "definition": "a piece of wood that has been burned or is burning",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "brand"
+                ],
+                "typeOf": [
+                    "firewood"
+                ]
+            },
+            {
+                "definition": "someone who deliberately foments trouble",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "inciter",
+                    "instigant",
+                    "instigator",
+                    "provoker"
+                ],
+                "typeOf": [
+                    "troubler",
+                    "mischief-maker",
+                    "bad hat",
+                    "trouble maker",
+                    "troublemaker"
+                ],
+                "hasTypes": [
+                    "ringleader"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 2.33,
+            "perMillion": 0.2,
+            "diversity": 0
+        }
+    },
+    "firecrest": {
+        "rhymes": {
+            "all": "-ɛst"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "faɪərkrɛst"
+        },
+        "sounds": 10
+    },
+    "firenze": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "fi",
+                "ren",
+                "ze"
+            ]
+        },
+        "pronunciation": {
+            "all": "fi'Rɛndzɛ",
+            "simplified": "fiRɛndzɛ"
+        },
+        "rhymePatterns": {
+            "all": "-ɛndzɛ"
+        },
+        "definitions": [
+            {
+                "definition": "a city in central Italy on the Arno; provincial capital of Tuscany; center of the Italian Renaissance from 14th to 16th centuries",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "florence"
+                ],
+                "instanceOf": [
+                    "city",
+                    "metropolis",
+                    "urban center"
+                ],
+                "hasMembers": [
+                    "florentine"
+                ],
+                "partOf": [
+                    "toscana",
+                    "tuscany"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.17,
+            "perMillion": 0.13,
+            "diversity": 0
+        }
+    },
+    "firestop": {
+        "rhymes": {
+            "all": "-ɑp"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "faɪərstɑp"
+        },
+        "sounds": 9
+    },
+    "firework": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "fire",
+                "work"
+            ]
+        },
+        "pronunciation": {
+            "all": "'faɪər,wɜrk",
+            "simplified": "faɪərwɜrk"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrk"
+        },
+        "definitions": [
+            {
+                "definition": "(usually plural) a device with an explosive that burns at a low rate and with colored flames; can be used to illuminate areas or send signals etc.",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "pyrotechnic"
+                ],
+                "usageOf": [
+                    "plural",
+                    "plural form"
+                ],
+                "typeOf": [
+                    "low explosive"
+                ],
+                "hasTypes": [
+                    "firecracker",
+                    "fizgig",
+                    "maroon",
+                    "pinwheel",
+                    "rocket",
+                    "roman candle",
+                    "serpent",
+                    "skyrocket",
+                    "sparkler",
+                    "squib",
+                    "banger",
+                    "torpedo",
+                    "catherine wheel",
+                    "cracker"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.68,
+            "perMillion": 0.47,
+            "diversity": 0
+        }
+    },
+    "fireworks": {
+        "rhymes": {
+            "all": "-aɪərwɜrks"
+        },
+        "letters": 9,
+        "pronunciation": "'faɪr,wɝrks",
+        "sounds": 10,
+        "frequency": {
+            "zipf": 3.92,
+            "perMillion": 8.33,
+            "diversity": 0.03
+        }
+    },
+    "first-cause": {
+        "rhymes": {
+            "all": "-ɔz"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "fɜrstkɔz"
+        },
+        "sounds": 8
+    },
+    "first-degree": {
+        "rhymes": {
+            "all": "-i"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "fɜrstdɪgri"
+        },
+        "sounds": 10
+    },
+    "first-night": {
+        "rhymes": {
+            "all": "-aɪt"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "fɜrstnaɪt"
+        },
+        "sounds": 9
+    },
+    "firstling": {
+        "rhymes": {
+            "all": "-ɪŋ"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "fɜrstlɪŋ"
+        },
+        "sounds": 8,
+        "frequency": 1.74
+    },
+    "fish-belly": {
+        "rhymes": {
+            "all": "-ɛli"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "fɪʃbɛli"
+        },
+        "sounds": 7
+    },
+    "fishworm": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "fish",
+                "worm"
+            ]
+        },
+        "pronunciation": {
+            "all": "'fɪʃ,wɜrm",
+            "simplified": "fɪʃwɜrm"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrm"
+        },
+        "definitions": [
+            {
+                "definition": "terrestrial worm that burrows into and helps aerate soil; often surfaces when the ground is cool or wet; used as bait by anglers",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "angleworm",
+                    "crawler",
+                    "dew worm",
+                    "earthworm",
+                    "fishing worm",
+                    "nightcrawler",
+                    "nightwalker",
+                    "red worm",
+                    "wiggler"
+                ],
+                "typeOf": [
+                    "oligochaete",
+                    "oligochaete worm"
+                ],
+                "memberOf": [
+                    "class oligochaeta",
+                    "oligochaeta"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7
+    },
+    "fissirostral": {
+        "rhymes": {
+            "all": "-ɑstrəl"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "fɪsərɑstrəl"
+        },
+        "sounds": 11
+    },
+    "fist": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "fist"
+            ]
+        },
+        "pronunciation": {
+            "all": "fɪst",
+            "simplified": "fɪst"
+        },
+        "rhymePatterns": {
+            "all": "-ɪst"
+        },
+        "definitions": [
+            {
+                "definition": "a hand with the fingers clenched in the palm (as for hitting)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "clenched fist"
+                ],
+                "typeOf": [
+                    "hand",
+                    "manus",
+                    "mitt",
+                    "paw"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 4.02,
+            "perMillion": 10.38,
+            "diversity": 0.04
+        }
+    },
+    "fitchee": {
+        "rhymes": {
+            "all": "-ɪtʃi"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "fɪʧi"
+        },
+        "sounds": 5,
+        "frequency": 2.19
+    },
+    "fittingly": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "fit",
+                "ting",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "'fɪtɪŋli",
+            "simplified": "fɪtɪŋli"
+        },
+        "rhymePatterns": {
+            "all": "-ɪtɪŋli"
+        },
+        "definitions": [
+            {
+                "definition": "in accordance with what is appropriate or suitable for the circumstances",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "appropriately",
+                    "befittingly",
+                    "duly",
+                    "fitly",
+                    "properly",
+                    "suitably"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "five-foot": {
+        "rhymes": {
+            "all": "-aɪv_fʊt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "faɪvfʊt"
+        },
+        "sounds": 7
+    },
+    "five-spot": {
+        "pronunciation": {
+            "all": "faɪv_spɑt",
+            "simplified": "faɪvspɑt"
+        },
+        "rhymePatterns": {
+            "all": "-aɪv_spɑt"
+        },
+        "definitions": [
+            {
+                "definition": "California annual having white flowers with a deep purple blotch on each petal",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "nemophila maculata"
+                ],
+                "typeOf": [
+                    "nemophila"
+                ]
+            },
+            {
+                "definition": "a playing card or a domino or a die whose upward face shows five pips",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "five"
+                ],
+                "typeOf": [
+                    "dice",
+                    "die",
+                    "domino",
+                    "spot"
+                ]
+            },
+            {
+                "definition": "a United States bill worth 5 dollars",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "five dollar bill",
+                    "fiver"
+                ],
+                "typeOf": [
+                    "bill",
+                    "bank bill",
+                    "government note",
+                    "greenback",
+                    "federal reserve note",
+                    "bank note",
+                    "banker's bill",
+                    "banknote",
+                    "note"
+                ],
+                "hasTypes": [
+                    "nickel note",
+                    "nickel"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8
+    },
+    "five-story": {
+        "rhymes": {
+            "all": "-oʊri"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "faɪvstoʊri"
+        },
+        "sounds": 10
+    },
+    "fives": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "fives"
+            ]
+        },
+        "pronunciation": {
+            "all": "faɪvz",
+            "simplified": "faɪvz"
+        },
+        "rhymePatterns": {
+            "all": "-aɪvz"
+        },
+        "definitions": [
+            {
+                "definition": "a game resembling handball; played on a court with a front wall and two side walls",
+                "partOfSpeech": "noun",
+                "inRegion": [
+                    "u.k.",
+                    "united kingdom of great britain and northern ireland",
+                    "great britain",
+                    "britain",
+                    "uk",
+                    "united kingdom"
+                ],
+                "typeOf": [
+                    "court game"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.07,
+            "perMillion": 1.16,
+            "diversity": 0.01
+        }
+    },
+    "fixatif": {
+        "rhymes": {
+            "all": "-ɪksətɪv"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "fɪksətɪv"
+        },
+        "sounds": 8
+    },
+    "fixation": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "fix",
+                "a",
+                "tion"
+            ]
+        },
+        "pronunciation": {
+            "all": "fɪk'seɪʃən",
+            "simplified": "fɪkseɪʃən"
+        },
+        "rhymePatterns": {
+            "all": "-eɪʃən"
+        },
+        "definitions": [
+            {
+                "definition": "(histology) the preservation and hardening of a tissue sample to retain as nearly as possible the same relations they had in the living body",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "fixing"
+                ],
+                "inCategory": [
+                    "histology"
+                ],
+                "typeOf": [
+                    "preservation"
+                ],
+                "partOf": [
+                    "plastination"
+                ],
+                "derivation": [
+                    "fixate"
+                ]
+            },
+            {
+                "definition": "an abnormal state in which development has stopped prematurely",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "arrested development",
+                    "infantile fixation",
+                    "regression"
+                ],
+                "typeOf": [
+                    "abnormalcy",
+                    "abnormality"
+                ]
+            },
+            {
+                "definition": "an unhealthy and compulsive preoccupation with something or someone",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "obsession"
+                ],
+                "typeOf": [
+                    "preoccupation"
+                ],
+                "derivation": [
+                    "fixate"
+                ]
+            },
+            {
+                "definition": "the activity of fastening something firmly in position",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "fastening",
+                    "attachment"
+                ],
+                "derivation": [
+                    "fixate"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.9,
+            "perMillion": 0.77,
+            "diversity": 0
+        }
+    },
+    "fixed": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "fixed"
+            ]
+        },
+        "pronunciation": {
+            "all": "fɪkst",
+            "simplified": "fɪkst"
+        },
+        "rhymePatterns": {
+            "all": "-ɪkst"
+        },
+        "definitions": [
+            {
+                "definition": "fixed and unmoving",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "rigid",
+                    "set"
+                ],
+                "similarTo": [
+                    "unmoving",
+                    "nonmoving"
+                ],
+                "derivation": [
+                    "fixedness",
+                    "fixity"
+                ],
+                "examples": [
+                    "with eyes set in a fixed glassy stare"
+                ]
+            },
+            {
+                "definition": "incapable of being changed or moved or undone; e.g.",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "frozen"
+                ],
+                "similarTo": [
+                    "unchangeable"
+                ],
+                "derivation": [
+                    "fixity"
+                ],
+                "examples": [
+                    "living on fixed incomes"
+                ]
+            },
+            {
+                "definition": "(of a number) having a fixed and unchanging value",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "determinate"
+                ],
+                "derivation": [
+                    "fixedness"
+                ]
+            },
+            {
+                "definition": "securely placed or fastened or set",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "secure"
+                ],
+                "similarTo": [
+                    "immobile",
+                    "leaded",
+                    "stationary",
+                    "taped",
+                    "unadjustable",
+                    "firm",
+                    "fast",
+                    "geostationary",
+                    "geosynchronous"
+                ],
+                "antonyms": [
+                    "unfixed"
+                ],
+                "derivation": [
+                    "fixity",
+                    "fixedness"
+                ],
+                "examples": [
+                    "a fixed piece of wood",
+                    "a fixed resistor"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 4.5,
+            "perMillion": 31.87,
+            "diversity": 0.14
+        }
+    },
+    "fixedly": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "fix",
+                "ed",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "fɪkstli",
+            "simplified": "fɪkstli"
+        },
+        "rhymePatterns": {
+            "all": "-ɪkstli"
+        },
+        "definitions": [
+            {
+                "definition": "in a fixed manner",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "fixed"
+                ],
+                "examples": [
+                    "he stared at me fixedly"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "fixt": {
+        "rhymes": {
+            "all": "-ɪkst"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "fɪkst"
+        },
+        "sounds": 5
+    },
+    "flabby": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "flab",
+                "by"
+            ]
+        },
+        "pronunciation": {
+            "all": "'flæbi",
+            "simplified": "flæbi"
+        },
+        "rhymePatterns": {
+            "all": "-æbi"
+        },
+        "definitions": [
+            {
+                "definition": "out of condition; not strong or robust; incapable of exertion or endurance",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "flaccid",
+                    "soft"
+                ],
+                "similarTo": [
+                    "unfit"
+                ],
+                "derivation": [
+                    "flab",
+                    "flabbiness"
+                ],
+                "examples": [
+                    "flabby around the middle"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.85,
+            "perMillion": 0.69,
+            "diversity": 0
+        }
+    },
+    "flagellate": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "flag",
+                "el",
+                "late"
+            ]
+        },
+        "pronunciation": {
+            "all": "'flædʒə,leɪt",
+            "simplified": "flædʒəleɪt"
+        },
+        "rhymePatterns": {
+            "all": "-eɪt"
+        },
+        "definitions": [
+            {
+                "definition": "whip",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "scourge"
+                ],
+                "typeOf": [
+                    "flog",
+                    "lash",
+                    "lather",
+                    "slash",
+                    "strap",
+                    "trounce",
+                    "welt",
+                    "whip"
+                ],
+                "derivation": [
+                    "flagellant",
+                    "flagellum",
+                    "flagellation"
+                ],
+                "examples": [
+                    "The religious fanatics flagellated themselves"
+                ]
+            },
+            {
+                "definition": "a usually nonphotosynthetic free-living protozoan with whiplike appendages; some are pathogens of humans and other animals",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "flagellate protozoan",
+                    "flagellated protozoan",
+                    "mastigophoran",
+                    "mastigophore"
+                ],
+                "typeOf": [
+                    "protozoon",
+                    "protozoan"
+                ],
+                "hasTypes": [
+                    "zooflagellate",
+                    "zoomastigote",
+                    "dinoflagellate",
+                    "costia",
+                    "genus leishmania",
+                    "giardia",
+                    "hypermastigote",
+                    "leishmania",
+                    "costia necatrix",
+                    "polymastigote",
+                    "trichomonad"
+                ],
+                "memberOf": [
+                    "class flagellata",
+                    "class mastigophora",
+                    "flagellata",
+                    "mastigophora"
+                ],
+                "derivation": [
+                    "flagellum"
+                ]
+            },
+            {
+                "definition": "having or resembling a lash or whip (as does a flagellum)",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "flagellated",
+                    "lash-like",
+                    "whiplike"
+                ],
+                "pertainsTo": [
+                    "flagellum"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "flageolet": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "fla",
+                "geo",
+                "let"
+            ]
+        },
+        "pronunciation": {
+            "all": "flAʒoʊ'lɛ",
+            "simplified": "flAʒoʊlɛ"
+        },
+        "rhymePatterns": {
+            "all": "-ɛ"
+        },
+        "definitions": [
+            {
+                "definition": "a small fipple flute with four finger holes and two thumb holes",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "shepherd's pipe",
+                    "treble recorder"
+                ],
+                "typeOf": [
+                    "fipple flute",
+                    "fipple pipe",
+                    "recorder",
+                    "vertical flute"
+                ],
+                "hasTypes": [
+                    "tabor pipe"
+                ]
+            },
+            {
+                "definition": "a French bean variety with light-colored seeds; usually dried",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "haricot"
+                ],
+                "typeOf": [
+                    "common bean"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": 1.74
+    },
+    "flaggy": {
+        "rhymes": {
+            "all": "-æɡi"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "flæɡi"
+        },
+        "sounds": 5
+    },
+    "flagrantly": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "fla",
+                "grant",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "'fleɪgrəntli",
+            "simplified": "fleɪgrəntli"
+        },
+        "rhymePatterns": {
+            "all": "-eɪgrəntli"
+        },
+        "definitions": [
+            {
+                "definition": "in a flagrant manner",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "flagrant"
+                ],
+                "examples": [
+                    "he is flagrantly disregarding the law"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 11,
+        "frequency": 2.31
+    },
+    "flagstaff": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "flag",
+                "staff"
+            ]
+        },
+        "pronunciation": {
+            "all": "'flæɡ,stæf",
+            "simplified": "flæɡstæf"
+        },
+        "rhymePatterns": {
+            "all": "-æf"
+        },
+        "definitions": [
+            {
+                "definition": "a tall staff or pole on which a flag is raised",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "flagpole"
+                ],
+                "typeOf": [
+                    "staff"
+                ]
+            },
+            {
+                "definition": "a town in north central Arizona; site of an important observatory",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "town"
+                ],
+                "partOf": [
+                    "arizona",
+                    "az",
+                    "grand canyon state"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.4,
+            "perMillion": 0.24,
+            "diversity": 0
+        }
+    },
+    "flak": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "flak"
+            ]
+        },
+        "pronunciation": {
+            "all": "flæk",
+            "simplified": "flæk"
+        },
+        "rhymePatterns": {
+            "all": "-æk"
+        },
+        "definitions": [
+            {
+                "definition": "artillery designed to shoot upward at airplanes",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "ack-ack",
+                    "ack-ack gun",
+                    "antiaircraft",
+                    "antiaircraft gun",
+                    "flack",
+                    "pom-pom"
+                ],
+                "typeOf": [
+                    "gun"
+                ],
+                "hasTypes": [
+                    "bofors gun"
+                ],
+                "hasParts": [
+                    "predictor"
+                ]
+            },
+            {
+                "definition": "a slick spokesperson who can turn any criticism to the advantage of their employer",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "flack",
+                    "flack catcher",
+                    "flak catcher"
+                ],
+                "typeOf": [
+                    "interpreter",
+                    "representative",
+                    "spokesperson",
+                    "voice"
+                ]
+            },
+            {
+                "definition": "intense adverse criticism",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "attack",
+                    "blast",
+                    "fire",
+                    "flack"
+                ],
+                "typeOf": [
+                    "criticism",
+                    "unfavorable judgment"
+                ],
+                "examples": [
+                    "don't give me any flak"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 2.77,
+            "perMillion": 0.57,
+            "diversity": 0
+        }
+    },
+    "flaky": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "flak",
+                "y"
+            ]
+        },
+        "pronunciation": {
+            "all": "'fleɪki",
+            "simplified": "fleɪki"
+        },
+        "rhymePatterns": {
+            "all": "-eɪki"
+        },
+        "definitions": [
+            {
+                "definition": "made of or resembling flakes",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "flakey"
+                ],
+                "pertainsTo": [
+                    "flake"
+                ],
+                "derivation": [
+                    "flake"
+                ],
+                "examples": [
+                    "flaky soap"
+                ]
+            },
+            {
+                "definition": "conspicuously or grossly unconventional or unusual",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "bizarre",
+                    "eccentric",
+                    "flakey",
+                    "freakish",
+                    "freaky",
+                    "gonzo",
+                    "off-the-wall",
+                    "outlandish",
+                    "outre"
+                ],
+                "similarTo": [
+                    "unconventional"
+                ],
+                "derivation": [
+                    "flakiness"
+                ]
+            },
+            {
+                "definition": "made of or easily forming flakes",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "flakey"
+                ],
+                "similarTo": [
+                    "tender"
+                ],
+                "derivation": [
+                    "flakiness"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.77,
+            "perMillion": 0.57,
+            "diversity": 0
+        }
+    },
+    "flambeed": {
+        "rhymes": {
+            "all": "-eɪd"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "flɑmbeɪd"
+        },
+        "sounds": 8
+    },
+    "flameproof": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "flame",
+                "proof"
+            ]
+        },
+        "pronunciation": {
+            "all": "'fleɪm,pruf",
+            "simplified": "fleɪmpruf"
+        },
+        "rhymePatterns": {
+            "all": "-uf"
+        },
+        "definitions": [
+            {
+                "definition": "resistant to catching fire",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "flame-retardant"
+                ],
+                "similarTo": [
+                    "incombustible",
+                    "noncombustible"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "flaminius": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "fla",
+                "min",
+                "i",
+                "us"
+            ]
+        },
+        "pronunciation": {
+            "all": "flə'mɪniəs",
+            "simplified": "fləmɪniəs"
+        },
+        "rhymePatterns": {
+            "all": "-ɪniəs"
+        },
+        "definitions": [
+            {
+                "definition": "Roman statesman and general who built the Flaminian Way; died when he was defeated by Hannibal (died 217 BC)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "gaius flaminius"
+                ],
+                "instanceOf": [
+                    "full general",
+                    "general",
+                    "national leader",
+                    "solon",
+                    "statesman"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9
+    },
+    "flanch": {
+        "rhymes": {
+            "all": "-æntʃ"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "flænʧ"
+        },
+        "sounds": 6
+    },
+    "flannelleaf": {
+        "rhymes": {
+            "all": "-if"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "flænəllif"
+        },
+        "sounds": 9
+    },
+    "flap-eared": {
+        "rhymes": {
+            "all": "-æp_ird"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "flæpird"
+        },
+        "sounds": 7
+    },
+    "flask": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "flask"
+            ]
+        },
+        "pronunciation": {
+            "all": "flæsk",
+            "simplified": "flæsk"
+        },
+        "rhymePatterns": {
+            "all": "-æsk"
+        },
+        "definitions": [
+            {
+                "definition": "the quantity a flask will hold",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "flaskful"
+                ],
+                "typeOf": [
+                    "containerful"
+                ]
+            },
+            {
+                "definition": "bottle that has a narrow neck",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "bottle"
+                ],
+                "hasTypes": [
+                    "canteen",
+                    "vacuum flask",
+                    "ampulla",
+                    "erlenmeyer flask",
+                    "hipflask",
+                    "pocket flask",
+                    "round-bottom flask",
+                    "vacuum bottle"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.2,
+            "perMillion": 1.56,
+            "diversity": 0.01
+        }
+    },
+    "flat-beaked": {
+        "rhymes": {
+            "all": "-æt_bikt"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "flætbikt"
+        },
+        "sounds": 8
+    },
+    "flat-bed": {
+        "rhymes": {
+            "all": "-æt_bɛd"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "flætbɛd"
+        },
+        "sounds": 7
+    },
+    "flat-hat": {
+        "pronunciation": {
+            "all": "flæt_hæt",
+            "simplified": "flæthæt"
+        },
+        "rhymePatterns": {
+            "all": "-æt_hæt"
+        },
+        "definitions": [
+            {
+                "definition": "fly very close to the ground",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "hedgehop"
+                ],
+                "typeOf": [
+                    "aviate",
+                    "fly",
+                    "pilot"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7
+    },
+    "flat-footed": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "flat-foot",
+                "ed"
+            ]
+        },
+        "pronunciation": {
+            "all": "flæt_'fʊtɪd",
+            "simplified": "flætfʊtɪd"
+        },
+        "rhymePatterns": {
+            "all": "-ʊtɪd"
+        },
+        "definitions": [
+            {
+                "definition": "having broad flat feet that usually turn outward",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "flatfooted"
+                ],
+                "similarTo": [
+                    "splayfoot",
+                    "splayfooted"
+                ],
+                "examples": [
+                    "a slow flat-footed walk"
+                ]
+            },
+            {
+                "definition": "with feet flat on the ground; not tiptoe",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "flatfooted"
+                ],
+                "similarTo": [
+                    "footed"
+                ]
+            },
+            {
+                "definition": "unprepared and unable to react quickly",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "flatfooted"
+                ],
+                "similarTo": [
+                    "unready"
+                ],
+                "examples": [
+                    "the new product caught their competitors flat-footed"
+                ]
+            },
+            {
+                "definition": "forthright and explicit",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "flatfooted"
+                ],
+                "usageOf": [
+                    "colloquialism"
+                ],
+                "similarTo": [
+                    "direct"
+                ],
+                "examples": [
+                    "a flat-footed refusal"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 9
+    },
+    "flat-saw": {
+        "rhymes": {
+            "all": "-æt_sɔ"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "flætsɔ"
+        },
+        "sounds": 6
+    },
+    "flatmate": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "flat",
+                "mate"
+            ]
+        },
+        "pronunciation": {
+            "all": "'flætmeɪt",
+            "simplified": "flætmeɪt"
+        },
+        "rhymePatterns": {
+            "all": "-ætmeɪt"
+        },
+        "definitions": [
+            {
+                "definition": "an associate who shares an apartment with you",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "friend"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.7,
+            "perMillion": 0.49,
+            "diversity": 0
+        }
+    },
+    "flatter-blind": {
+        "rhymes": {
+            "all": "-ætər_blaɪnd"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "flætərblaɪnd"
+        },
+        "sounds": 12
+    },
+    "flatulent": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "flat",
+                "u",
+                "lent"
+            ]
+        },
+        "pronunciation": {
+            "all": "'flæʧələnt",
+            "simplified": "flæʧələnt"
+        },
+        "rhymePatterns": {
+            "all": "-ætʃələnt"
+        },
+        "definitions": [
+            {
+                "definition": "suffering from excessive gas in the alimentary canal",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "colicky",
+                    "gassy"
+                ],
+                "similarTo": [
+                    "unhealthy"
+                ],
+                "derivation": [
+                    "flatulence",
+                    "flatulency"
+                ]
+            },
+            {
+                "definition": "generating excessive gas in the alimentary canal",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "indigestible"
+                ],
+                "derivation": [
+                    "flatulence",
+                    "flatulency"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 2.2,
+            "perMillion": 0.15,
+            "diversity": 0
+        }
+    },
+    "flaunch": {
+        "rhymes": {
+            "all": "-ɔntʃ"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "flɔnʧ"
+        },
+        "sounds": 6
+    }
+}

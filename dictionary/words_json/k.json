@@ -1,0 +1,2047 @@
+{
+    "khaddar": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "khad",
+                "dar"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kɑdər",
+            "simplified": "kɑdər"
+        },
+        "rhymePatterns": {
+            "all": "-ɑdər"
+        },
+        "definitions": [
+            {
+                "definition": "a coarse homespun cotton cloth made in India",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "khadi"
+                ],
+                "typeOf": [
+                    "cloth",
+                    "fabric",
+                    "material",
+                    "textile"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 5
+    },
+    "khalkis": {
+        "rhymes": {
+            "all": "-is"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "xɑlkis"
+        },
+        "sounds": 6
+    },
+    "khartoum": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "khar",
+                "toum"
+            ]
+        },
+        "pronunciation": {
+            "all": "kɑr'tum",
+            "simplified": "kɑrtum"
+        },
+        "rhymePatterns": {
+            "all": "-um"
+        },
+        "definitions": [
+            {
+                "definition": "the capital of Sudan located at the confluence of the Blue Nile and White Nile",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "capital of sudan"
+                ],
+                "instanceOf": [
+                    "national capital"
+                ],
+                "partOf": [
+                    "republic of the sudan",
+                    "soudan",
+                    "sudan"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.33,
+            "perMillion": 0.2,
+            "diversity": 0
+        }
+    },
+    "kharkov": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "khar",
+                "kov"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kɑrkɑf",
+            "simplified": "kɑrkɑf"
+        },
+        "rhymePatterns": {
+            "all": "-ɑrkɑf"
+        },
+        "definitions": [
+            {
+                "definition": "a city in northeastern Ukraine; former capital of the Ukraine",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "kharkiv"
+                ],
+                "instanceOf": [
+                    "city",
+                    "metropolis",
+                    "urban center"
+                ],
+                "partOf": [
+                    "ukraine",
+                    "ukrayina"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.97,
+            "perMillion": 0.08,
+            "diversity": 0
+        }
+    },
+    "kherson": {
+        "rhymes": {
+            "all": "-ɔn"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "xɛRsɔn"
+        },
+        "sounds": 6
+    },
+    "khoisan": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "khoi",
+                "san"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kɔɪsɑn",
+            "simplified": "kɔɪsɑn"
+        },
+        "rhymePatterns": {
+            "all": "-ɔɪsɑn"
+        },
+        "definitions": [
+            {
+                "definition": "a family of languages spoken in southern Africa",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "khoisan language"
+                ],
+                "typeOf": [
+                    "natural language",
+                    "tongue"
+                ],
+                "hasTypes": [
+                    "hottentot",
+                    "khoikhoi",
+                    "khoikhoin"
+                ]
+            },
+            {
+                "definition": "nomadic hunters and gatherers who live in southern Africa",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "bushman"
+                ],
+                "typeOf": [
+                    "nomad"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6
+    },
+    "khotan": {
+        "rhymes": {
+            "all": "-ɑn"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "xoʊtɑn"
+        },
+        "sounds": 6
+    },
+    "kiang": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ki",
+                "ang"
+            ]
+        },
+        "pronunciation": {
+            "all": "ki'æŋ",
+            "simplified": "kiæŋ"
+        },
+        "rhymePatterns": {
+            "all": "-æŋ"
+        },
+        "definitions": [
+            {
+                "definition": "wild ass of Tibet and Mongolia",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "equus kiang"
+                ],
+                "typeOf": [
+                    "wild ass"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 2.33,
+            "perMillion": 0.2,
+            "diversity": 0
+        }
+    },
+    "kiangsi": {
+        "rhymes": {
+            "all": "-aɪæŋsə"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "kaɪæŋsə"
+        },
+        "sounds": 7
+    },
+    "kibitz": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "kib",
+                "itz"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kɪbɪts",
+            "simplified": "kɪbɪts"
+        },
+        "rhymePatterns": {
+            "all": "-ɪbɪts"
+        },
+        "definitions": [
+            {
+                "definition": "make unwanted and intrusive comments",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "kibbitz"
+                ],
+                "typeOf": [
+                    "comment",
+                    "notice",
+                    "point out",
+                    "remark"
+                ],
+                "derivation": [
+                    "kibitzer"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": 2.78
+    },
+    "kichisaburo": {
+        "rhymes": {
+            "all": "-ɔ"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "kiʧisɑbuRɔ"
+        },
+        "sounds": 11
+    },
+    "kick-start": {
+        "pronunciation": {
+            "all": "'kɪkstɑrt",
+            "simplified": "kɪkstɑrt"
+        },
+        "rhymePatterns": {
+            "all": "-ɪkstɑrt"
+        },
+        "definitions": [
+            {
+                "definition": "start (a motorcycle) by means of a kick starter",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "start",
+                    "start up"
+                ],
+                "derivation": [
+                    "kick start",
+                    "kick starter"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 8
+    },
+    "kickboard": {
+        "rhymes": {
+            "all": "-oʊrd"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "kɪkboʊrd"
+        },
+        "sounds": 8
+    },
+    "kickstand": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "kick",
+                "stand"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kɪk,stænd",
+            "simplified": "kɪkstænd"
+        },
+        "rhymePatterns": {
+            "all": "-ænd"
+        },
+        "definitions": [
+            {
+                "definition": "a swiveling metal rod attached to a bicycle or motorcycle or other two-wheeled vehicle; the rod lies horizontally when not in use but can be kicked into a vertical position as a support to hold the vehicle upright when it is not being ridden",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "rod"
+                ],
+                "partOf": [
+                    "bike",
+                    "bicycle",
+                    "motorcycle",
+                    "wheel",
+                    "cycle"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "kickwheel": {
+        "rhymes": {
+            "all": "-il"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "kɪkhwil"
+        },
+        "sounds": 7
+    },
+    "kidnap": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "kid",
+                "nap"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kɪdnæp",
+            "simplified": "kɪdnæp"
+        },
+        "rhymePatterns": {
+            "all": "-ɪdnæp"
+        },
+        "definitions": [
+            {
+                "definition": "take away to an undisclosed location against their will and usually in order to extract a ransom",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "abduct",
+                    "nobble",
+                    "snatch"
+                ],
+                "inCategory": [
+                    "law-breaking",
+                    "criminal offence",
+                    "criminal offense",
+                    "crime"
+                ],
+                "typeOf": [
+                    "seize"
+                ],
+                "hasTypes": [
+                    "impress",
+                    "shanghai"
+                ],
+                "derivation": [
+                    "kidnaper",
+                    "kidnapper",
+                    "kidnapping"
+                ],
+                "examples": [
+                    "The industrialist's son was kidnapped"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.94,
+            "perMillion": 8.61,
+            "diversity": 0.03
+        }
+    },
+    "kidron": {
+        "rhymes": {
+            "all": "-idrən"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "kidrən"
+        },
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "kiehn": {
+        "rhymes": {
+            "all": "-in"
+        },
+        "letters": 5,
+        "pronunciation": "kin",
+        "sounds": 3
+    },
+    "kif": {
+        "rhymes": {
+            "all": "-ɪf"
+        },
+        "letters": 3,
+        "pronunciation": {
+            "simplified": "kɪf"
+        },
+        "sounds": 3,
+        "frequency": {
+            "zipf": 2.64,
+            "perMillion": 0.43,
+            "diversity": 0
+        }
+    },
+    "kike": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "kike"
+            ]
+        },
+        "pronunciation": {
+            "all": "kaɪk",
+            "simplified": "kaɪk"
+        },
+        "rhymePatterns": {
+            "all": "-aɪk"
+        },
+        "definitions": [
+            {
+                "definition": "(ethnic slur) offensive term for a Jew",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hymie",
+                    "sheeny",
+                    "yid"
+                ],
+                "usageOf": [
+                    "argot",
+                    "cant",
+                    "depreciation",
+                    "derogation",
+                    "disparagement",
+                    "ethnic slur",
+                    "patois",
+                    "slang",
+                    "vernacular",
+                    "jargon",
+                    "lingo"
+                ],
+                "typeOf": [
+                    "hebrew",
+                    "israelite",
+                    "jew"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.03,
+            "perMillion": 1.07,
+            "diversity": 0
+        }
+    },
+    "kilauea": {
+        "rhymes": {
+            "all": "-eɪə"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "kɪləweɪə"
+        },
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "kilij": {
+        "rhymes": {
+            "all": "-ɪlɪʒ"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "kɪlɪʒ"
+        },
+        "sounds": 5
+    },
+    "kilkenny": {
+        "rhymes": {
+            "all": "-ɛni"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "kɪlkɛni"
+        },
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "kill-crazy": {
+        "rhymes": {
+            "all": "-eɪzi"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "kɪlkreɪzi"
+        },
+        "sounds": 9
+    },
+    "killiecrankie": {
+        "rhymes": {
+            "all": "-æŋki"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "kɪlikræŋki"
+        },
+        "sounds": 10
+    },
+    "killilea": {
+        "rhymes": {
+            "all": "-ɪllæleɪ"
+        },
+        "letters": 8,
+        "pronunciation": "kɪlɪ'liʌ",
+        "sounds": 8
+    },
+    "kilmer": {
+        "rhymes": {
+            "all": "-ɪlmər"
+        },
+        "letters": 6,
+        "pronunciation": "'kɪlmɝr",
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "kilocycle": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "kil",
+                "o",
+                "cy",
+                "cle"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kɪlə,saɪkəl",
+            "simplified": "kɪləsaɪkəl"
+        },
+        "rhymePatterns": {
+            "all": "-aɪkəl"
+        },
+        "definitions": [
+            {
+                "definition": "one thousand periods per second",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "kc",
+                    "khz",
+                    "kilocycle per second",
+                    "kilohertz"
+                ],
+                "typeOf": [
+                    "rate"
+                ],
+                "hasParts": [
+                    "cycle",
+                    "cycle per second",
+                    "cycles/second",
+                    "hertz",
+                    "hz",
+                    "cps"
+                ],
+                "partOf": [
+                    "megacycle",
+                    "megacycle per second",
+                    "megahertz",
+                    "mhz",
+                    "mc"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 10
+    },
+    "kilocalorie": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "kil",
+                "o",
+                "cal",
+                "o",
+                "rie"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kɪlə,kæləri",
+            "simplified": "kɪləkæləri"
+        },
+        "rhymePatterns": {
+            "all": "-æləri"
+        },
+        "definitions": [
+            {
+                "definition": "a unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure; used by nutritionists to characterize the energy-producing potential in food",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "calorie",
+                    "kilogram calorie",
+                    "large calorie",
+                    "nutritionist's calorie"
+                ],
+                "typeOf": [
+                    "energy unit",
+                    "heat unit",
+                    "work unit"
+                ],
+                "hasParts": [
+                    "calorie",
+                    "gram calorie",
+                    "small calorie"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10
+    },
+    "kilopoise": {
+        "rhymes": {
+            "all": "-ɔɪz"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "kɪləpɔɪz"
+        },
+        "sounds": 8
+    },
+    "kilovar-hour": {
+        "rhymes": {
+            "all": "-aʊr"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "kɪləvɑraʊr"
+        },
+        "sounds": 10
+    },
+    "kilpatrick": {
+        "rhymes": {
+            "all": "-ætrɪk"
+        },
+        "letters": 10,
+        "pronunciation": ",kɪl'pætrɪk",
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "kilt": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "kilt"
+            ]
+        },
+        "pronunciation": {
+            "all": "kɪlt",
+            "simplified": "kɪlt"
+        },
+        "rhymePatterns": {
+            "all": "-ɪlt"
+        },
+        "definitions": [
+            {
+                "definition": "a knee-length pleated tartan skirt worn by men as part of the traditional dress in the Highlands of northern Scotland",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "skirt"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 2.67,
+            "perMillion": 0.45,
+            "diversity": 0
+        }
+    },
+    "kim": {
+        "rhymes": {
+            "all": "-ɪm"
+        },
+        "letters": 3,
+        "pronunciation": "kɪm",
+        "sounds": 3,
+        "frequency": {
+            "zipf": 4.64,
+            "perMillion": 43.28,
+            "diversity": 0.05
+        }
+    },
+    "kind-mannered": {
+        "rhymes": {
+            "all": "-ænərd"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "kaɪndmænərd"
+        },
+        "sounds": 11
+    },
+    "kindheartedness": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "kind",
+                "heart",
+                "ed",
+                "ness"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kaɪnd'hɑrtɪdnɛs",
+            "simplified": "kaɪndhɑrtɪdnɛs"
+        },
+        "rhymePatterns": {
+            "all": "-ɑrtɪdnɛs"
+        },
+        "definitions": [
+            {
+                "definition": "sympathy arising from a kind heart",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "kind-heartedness"
+                ],
+                "typeOf": [
+                    "fellow feeling",
+                    "sympathy"
+                ],
+                "derivation": [
+                    "kindhearted"
+                ]
+            }
+        ],
+        "letters": 15,
+        "sounds": 14
+    },
+    "king": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "king"
+            ]
+        },
+        "pronunciation": {
+            "all": "kɪŋ",
+            "simplified": "kɪŋ"
+        },
+        "rhymePatterns": {
+            "all": "-ɪŋ"
+        },
+        "definitions": [
+            {
+                "definition": "a male sovereign; ruler of a kingdom",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "male monarch",
+                    "rex"
+                ],
+                "typeOf": [
+                    "monarch",
+                    "crowned head",
+                    "sovereign"
+                ],
+                "hasTypes": [
+                    "king of the germans",
+                    "king of great britain",
+                    "king of france",
+                    "king of england"
+                ],
+                "hasInstances": [
+                    "attila the hun",
+                    "bruce",
+                    "carl xvi gustaf",
+                    "carl xvi gustav",
+                    "clovis",
+                    "clovis i",
+                    "pepin the short",
+                    "akhenaten",
+                    "akhenaton",
+                    "alaric",
+                    "alfred",
+                    "alfred the great",
+                    "amenhotep iv",
+                    "artaxerxes",
+                    "artaxerxes i",
+                    "artaxerxes ii",
+                    "ashurbanipal",
+                    "assurbanipal",
+                    "asurbanipal",
+                    "athelstan",
+                    "attila",
+                    "philip ii",
+                    "philip ii of macedon",
+                    "philip ii of spain",
+                    "philip of valois",
+                    "philip v",
+                    "philip vi",
+                    "ptolemy i",
+                    "ptolemy ii",
+                    "pyrrhus",
+                    "rameses",
+                    "ramesses",
+                    "ramses",
+                    "robert i",
+                    "robert the bruce",
+                    "saint olaf",
+                    "saint olav",
+                    "saul",
+                    "scourge of god",
+                    "scourge of the gods",
+                    "sennacherib",
+                    "solomon",
+                    "st. olaf",
+                    "st. olav",
+                    "tarquin",
+                    "tarquin the proud",
+                    "tarquinius",
+                    "tarquinius superbus",
+                    "victor emanuel ii",
+                    "victor emanuel iii",
+                    "xerxes i",
+                    "xerxes the great",
+                    "croesus",
+                    "cyrus ii",
+                    "cyrus the elder",
+                    "cyrus the great",
+                    "darius i",
+                    "darius iii",
+                    "darius the great",
+                    "david",
+                    "edmund i",
+                    "edmund ii",
+                    "edmund ironside",
+                    "edward the elder",
+                    "edwin",
+                    "egbert",
+                    "ethelbert",
+                    "ethelred",
+                    "ethelred i",
+                    "ethelred ii",
+                    "ethelred the unready",
+                    "ezekias",
+                    "fahd",
+                    "fahd ibn abdel aziz al-saud",
+                    "faisal",
+                    "faisal ibn abdel aziz al-saud",
+                    "farouk i",
+                    "faruk i",
+                    "ferdinand",
+                    "ferdinand i",
+                    "ferdinand of aragon",
+                    "ferdinand the catholic",
+                    "ferdinand the great",
+                    "ferdinand v",
+                    "frederick i",
+                    "frederick ii",
+                    "frederick the great",
+                    "frederick william i",
+                    "frederick william ii",
+                    "frederick william iii",
+                    "frederick william iv",
+                    "gaiseric",
+                    "genseric",
+                    "gilgamesh",
+                    "gordius",
+                    "gustavus",
+                    "gustavus adolphus",
+                    "gustavus i",
+                    "gustavus ii",
+                    "gustavus iii",
+                    "gustavus iv",
+                    "gustavus v",
+                    "gustavus vi",
+                    "hammurabi",
+                    "hammurapi",
+                    "herod",
+                    "herod the great",
+                    "hezekiah",
+                    "husain",
+                    "husayn",
+                    "hussein",
+                    "ibn talal hussein",
+                    "ikhanaton",
+                    "james",
+                    "james iv",
+                    "jeroboam",
+                    "jeroboam i",
+                    "juan carlos",
+                    "juan carlos victor maria de borbon y borbon",
+                    "kamehameha i",
+                    "kamehameha the great",
+                    "king ferdinand",
+                    "king hussein",
+                    "leonidas",
+                    "lucius tarquinius superbus",
+                    "macbeth",
+                    "messiah",
+                    "mithridates",
+                    "mithridates the great",
+                    "mithridates vi",
+                    "nebuchadnezzar",
+                    "nebuchadnezzar ii",
+                    "nebuchadrezzar",
+                    "nebuchadrezzar ii",
+                    "olaf ii",
+                    "olav ii",
+                    "pepin",
+                    "pepin iii",
+                    "ahab",
+                    "philip augustus"
+                ],
+                "memberOf": [
+                    "royalty",
+                    "royal family",
+                    "royal house",
+                    "royal line"
+                ],
+                "antonyms": [
+                    "queen"
+                ],
+                "derivation": [
+                    "kingdom",
+                    "kingly",
+                    "kingship"
+                ]
+            },
+            {
+                "definition": "a competitor who holds a preeminent position",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "queen",
+                    "world-beater"
+                ],
+                "typeOf": [
+                    "contender",
+                    "rival",
+                    "challenger",
+                    "competition",
+                    "competitor"
+                ]
+            },
+            {
+                "definition": "a very wealthy or powerful businessman",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "baron",
+                    "big businessman",
+                    "business leader",
+                    "magnate",
+                    "mogul",
+                    "power",
+                    "top executive",
+                    "tycoon"
+                ],
+                "typeOf": [
+                    "businessman",
+                    "man of affairs"
+                ],
+                "hasTypes": [
+                    "oil tycoon"
+                ]
+            },
+            {
+                "definition": "United States guitar player and singer of the blues (born in 1925)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "b. b. king",
+                    "riley b king"
+                ],
+                "instanceOf": [
+                    "vocalist",
+                    "guitarist",
+                    "singer",
+                    "guitar player",
+                    "vocaliser",
+                    "vocalizer"
+                ]
+            },
+            {
+                "definition": "United States woman tennis player (born in 1943)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "billie jean king",
+                    "billie jean moffitt king"
+                ],
+                "instanceOf": [
+                    "tennis player"
+                ]
+            },
+            {
+                "definition": "United States charismatic civil rights leader and Baptist minister who campaigned against the segregation of Blacks (1929-1968)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "martin luther king",
+                    "martin luther king jr."
+                ],
+                "instanceOf": [
+                    "reverend",
+                    "civil rights worker",
+                    "civil rights activist",
+                    "man of the cloth",
+                    "civil rights leader",
+                    "clergyman"
+                ]
+            },
+            {
+                "definition": "a checker that has been moved to the opponent's first row where it is promoted to a piece that is free to move either forward or backward",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "draughts",
+                    "checkers"
+                ],
+                "typeOf": [
+                    "checker",
+                    "chequer"
+                ]
+            },
+            {
+                "definition": "(chess) the weakest but the most important piece",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "chess game",
+                    "chess"
+                ],
+                "typeOf": [
+                    "chess piece",
+                    "chessman"
+                ]
+            },
+            {
+                "definition": "one of the four playing cards in a deck bearing the picture of a king",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "court card",
+                    "picture card",
+                    "face card"
+                ]
+            },
+            {
+                "definition": "preeminence in a particular category or group or field",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "note",
+                    "distinction",
+                    "preeminence",
+                    "eminence"
+                ],
+                "examples": [
+                    "the lion is the king of beasts"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 3,
+        "frequency": {
+            "zipf": 5.16,
+            "perMillion": 144.6,
+            "diversity": 0.22
+        }
+    },
+    "king-ridden": {
+        "rhymes": {
+            "all": "-ɪdən"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "kɪŋrɪdən"
+        },
+        "sounds": 8
+    },
+    "kingbolt": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "king",
+                "bolt"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kɪŋ,boʊlt",
+            "simplified": "kɪŋboʊlt"
+        },
+        "rhymePatterns": {
+            "all": "-oʊlt"
+        },
+        "definitions": [
+            {
+                "definition": "bolt that provides a steering joint in a motor vehicle",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "kingpin",
+                    "swivel pin"
+                ],
+                "typeOf": [
+                    "bolt"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8
+    },
+    "king-whiting": {
+        "rhymes": {
+            "all": "-aɪtɪŋ"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "kɪŋhwaɪtɪŋ"
+        },
+        "sounds": 10
+    },
+    "kinin": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ki",
+                "nin"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kaɪnɪn",
+            "simplified": "kaɪnɪn"
+        },
+        "rhymePatterns": {
+            "all": "-aɪnɪn"
+        },
+        "definitions": [
+            {
+                "definition": "any of a class of plant hormones that promote cell division and delay the senescence of leaves",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "cytokinin"
+                ],
+                "typeOf": [
+                    "growth regulator",
+                    "phytohormone",
+                    "plant hormone"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 6
+    },
+    "kinship": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "kin",
+                "ship"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kɪnʃɪp",
+            "simplified": "kɪnʃɪp"
+        },
+        "rhymePatterns": {
+            "all": "-ɪnʃɪp"
+        },
+        "definitions": [
+            {
+                "definition": "(anthropology) relatedness or connection by blood or marriage or adoption",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "family relationship",
+                    "relationship"
+                ],
+                "inCategory": [
+                    "anthropology"
+                ],
+                "typeOf": [
+                    "relation"
+                ],
+                "hasTypes": [
+                    "consanguinity",
+                    "descent",
+                    "fatherhood",
+                    "filiation",
+                    "line of descent",
+                    "lineage",
+                    "affinity",
+                    "marital relationship",
+                    "maternity",
+                    "motherhood",
+                    "parentage",
+                    "paternity",
+                    "phylogenetic relation",
+                    "sisterhood",
+                    "sistership",
+                    "marital bed",
+                    "birth",
+                    "blood kinship",
+                    "brotherhood",
+                    "cognation"
+                ],
+                "derivation": [
+                    "kin"
+                ]
+            },
+            {
+                "definition": "a close connection marked by community of interests or similarity in nature or character",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "affinity"
+                ],
+                "typeOf": [
+                    "relation"
+                ],
+                "hasTypes": [
+                    "resonance",
+                    "rapport",
+                    "sympathy"
+                ],
+                "examples": [
+                    "felt a deep kinship with the other students",
+                    "anthropology's kinship with the humanities"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.66,
+            "perMillion": 0.44,
+            "diversity": 0
+        }
+    },
+    "kipuka": {
+        "rhymes": {
+            "all": "-ukɑ"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "kipukɑ"
+        },
+        "sounds": 6
+    },
+    "kirilenko": {
+        "rhymes": {
+            "all": "-ɛŋkɑ"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "kɪRɪlɛŋkɑ"
+        },
+        "sounds": 9
+    },
+    "kirillin": {
+        "rhymes": {
+            "all": "-ilin"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "kirilin"
+        },
+        "sounds": 7
+    },
+    "kirin": {
+        "rhymes": {
+            "all": "-ɪn"
+        },
+        "letters": 5,
+        "pronunciation": "'kɪrɪn",
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.73,
+            "perMillion": 0.52,
+            "diversity": 0
+        }
+    },
+    "kiss": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "kiss"
+            ]
+        },
+        "pronunciation": {
+            "all": "kɪs",
+            "simplified": "kɪs"
+        },
+        "rhymePatterns": {
+            "all": "-ɪs"
+        },
+        "definitions": [
+            {
+                "definition": "the act of caressing with the lips (or an instance thereof)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "buss",
+                    "osculation"
+                ],
+                "typeOf": [
+                    "touching",
+                    "touch"
+                ],
+                "hasTypes": [
+                    "smack",
+                    "deep kiss",
+                    "french kiss",
+                    "smooch",
+                    "soul kiss"
+                ]
+            },
+            {
+                "definition": "touch with the lips or press the lips (against someone's mouth or other body part) as an expression of love, greeting, etc.",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "buss",
+                    "osculate",
+                    "snog"
+                ],
+                "typeOf": [
+                    "touch"
+                ],
+                "hasTypes": [
+                    "peck",
+                    "smack"
+                ],
+                "derivation": [
+                    "kisser",
+                    "kissing"
+                ],
+                "examples": [
+                    "The newly married couple kissed",
+                    "She kissed her grandfather on the forehead when she entered the room"
+                ]
+            },
+            {
+                "definition": "any of several bite-sized candies",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "candy kiss"
+                ],
+                "typeOf": [
+                    "confect",
+                    "candy"
+                ],
+                "hasTypes": [
+                    "chocolate kiss",
+                    "meringue kiss",
+                    "molasses kiss",
+                    "scotch kiss"
+                ]
+            },
+            {
+                "definition": "a cookie made of egg whites and sugar",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "cooky",
+                    "cookie",
+                    "biscuit"
+                ]
+            },
+            {
+                "definition": "a light glancing touch",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "touch",
+                    "touching"
+                ],
+                "examples": [
+                    "there was a brief kiss of their hands in passing"
+                ]
+            },
+            {
+                "definition": "touch lightly or gently",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "touch"
+                ],
+                "examples": [
+                    "the blossoms were kissed by the soft rain"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 3,
+        "frequency": {
+            "zipf": 5.08,
+            "perMillion": 120.88,
+            "diversity": 0.32
+        }
+    },
+    "kitbag": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "kit",
+                "bag"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kɪtbæɡ",
+            "simplified": "kɪtbæɡ"
+        },
+        "rhymePatterns": {
+            "all": "-ɪtbæɡ"
+        },
+        "definitions": [
+            {
+                "definition": "a knapsack (usually for a soldier)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "kit bag"
+                ],
+                "typeOf": [
+                    "back pack",
+                    "backpack",
+                    "haversack",
+                    "knapsack",
+                    "packsack",
+                    "rucksack"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": 1.74
+    },
+    "kithara": {
+        "rhymes": {
+            "all": "-ɪθərə"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "kɪθərə"
+        },
+        "sounds": 6
+    },
+    "kitts-nevis-anguilla": {
+        "rhymes": {
+            "all": "-ɪlə"
+        },
+        "letters": 20,
+        "pronunciation": {
+            "simplified": "kɪtsnivɪsæŋgwɪlə"
+        },
+        "sounds": 16
+    },
+    "klaxon": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "klax",
+                "on"
+            ]
+        },
+        "pronunciation": {
+            "all": "'klæksən",
+            "simplified": "klæksən"
+        },
+        "rhymePatterns": {
+            "all": "-æksən"
+        },
+        "definitions": [
+            {
+                "definition": "a kind of loud horn formerly used on motor vehicles",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "claxon"
+                ],
+                "typeOf": [
+                    "horn"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.36,
+            "perMillion": 0.21,
+            "diversity": 0
+        }
+    },
+    "klein": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "klein"
+            ]
+        },
+        "pronunciation": {
+            "all": "klaɪn",
+            "simplified": "klaɪn"
+        },
+        "rhymePatterns": {
+            "all": "-aɪn"
+        },
+        "definitions": [
+            {
+                "definition": "German mathematician who created the Klein bottle (1849-1925)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "felix klein"
+                ],
+                "instanceOf": [
+                    "mathematician"
+                ]
+            },
+            {
+                "definition": "United States psychoanalyst (born in Austria) who was the first to specialize in the psychoanalysis of small children (1882-1960)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "melanie klein"
+                ],
+                "instanceOf": [
+                    "analyst",
+                    "psychoanalyst"
+                ]
+            },
+            {
+                "definition": "United States fashion designer noted for understated fashions (born in 1942)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "calvin klein",
+                    "calvin richard klein"
+                ],
+                "instanceOf": [
+                    "clothes designer",
+                    "couturier",
+                    "fashion designer",
+                    "designer"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.61,
+            "perMillion": 4.08,
+            "diversity": 0.01
+        }
+    },
+    "kline": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "kline"
+            ]
+        },
+        "pronunciation": {
+            "all": "klaɪn",
+            "simplified": "klaɪn"
+        },
+        "rhymePatterns": {
+            "all": "-aɪn"
+        },
+        "definitions": [
+            {
+                "definition": "United States abstract expressionist painter (1910-1962)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "franz joseph kline",
+                    "franz kline"
+                ],
+                "instanceOf": [
+                    "painter"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.63,
+            "perMillion": 0.41,
+            "diversity": 0
+        }
+    },
+    "kluck": {
+        "rhymes": {
+            "all": "-ʊk"
+        },
+        "letters": 5,
+        "pronunciation": "klʌk",
+        "sounds": 4,
+        "frequency": 2.31
+    },
+    "kluang": {
+        "rhymes": {
+            "all": "-uɑŋ"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "kluɑŋ"
+        },
+        "sounds": 5
+    },
+    "knaidlach": {
+        "rhymes": {
+            "all": "-eɪdləx"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "kneɪdləx"
+        },
+        "sounds": 8
+    },
+    "knar": {
+        "rhymes": {
+            "all": "-ɑr"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "nɑr"
+        },
+        "sounds": 3
+    },
+    "knebel": {
+        "rhymes": {
+            "all": "-iboʊl"
+        },
+        "letters": 6,
+        "pronunciation": "'nɛbʌl",
+        "sounds": 8
+    },
+    "knee-high": {
+        "pronunciation": {
+            "all": "ni_haɪ",
+            "simplified": "nihaɪ"
+        },
+        "rhymePatterns": {
+            "all": "-i_haɪ"
+        },
+        "definitions": [
+            {
+                "definition": "up to the knees",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "knee-deep"
+                ]
+            },
+            {
+                "definition": "a sock or stocking that reaches up to just below the knees",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "knee-hi"
+                ],
+                "typeOf": [
+                    "sock",
+                    "stocking"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 5
+    },
+    "kneeler": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "kneel",
+                "er"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nilər",
+            "simplified": "nilər"
+        },
+        "rhymePatterns": {
+            "all": "-ilər"
+        },
+        "definitions": [
+            {
+                "definition": "a board (sometimes cushioned) for someone to kneel on",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "board"
+                ],
+                "derivation": [
+                    "kneel"
+                ]
+            },
+            {
+                "definition": "a person in a kneeling position",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "individual",
+                    "mortal",
+                    "person",
+                    "somebody",
+                    "someone",
+                    "soul"
+                ],
+                "derivation": [
+                    "kneel"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 5,
+        "frequency": 2.02
+    },
+    "knife-edge": {
+        "pronunciation": {
+            "all": "naɪf_ɛdʒ",
+            "simplified": "naɪfɛdʒ"
+        },
+        "rhymePatterns": {
+            "all": "-aɪf_ɛdʒ"
+        },
+        "definitions": [
+            {
+                "definition": "a narrow boundary",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "bound",
+                    "boundary",
+                    "limit"
+                ],
+                "examples": [
+                    "he lived on a knife-edge between genius and insanity"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 7
+    },
+    "knobble": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "knob",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nɑbəl",
+            "simplified": "nɑbəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɑbəl"
+        },
+        "definitions": [
+            {
+                "definition": "a small knob",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "boss",
+                    "knob"
+                ],
+                "derivation": [
+                    "knobbly"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 5
+    },
+    "knocker-off": {
+        "rhymes": {
+            "all": "-ɑkər_ɔf"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "nɑkərɔf"
+        },
+        "sounds": 7
+    },
+    "knotwork": {
+        "rhymes": {
+            "all": "-ɑtwɜrk"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "nɑtwɜrk"
+        },
+        "sounds": 7
+    },
+    "know-it-all": {
+        "pronunciation": {
+            "all": "'noʊɪt_,ɔl",
+            "simplified": "noʊɪtɔl"
+        },
+        "rhymePatterns": {
+            "all": "-ɔl"
+        },
+        "definitions": [
+            {
+                "definition": "someone who thinks he knows everything and refuses to accept advice or information from others",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "know-all"
+                ],
+                "usageOf": [
+                    "colloquialism"
+                ],
+                "typeOf": [
+                    "egoist",
+                    "egotist",
+                    "swellhead"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 7
+    },
+    "know-nothing": {
+        "rhymes": {
+            "all": "-əθɪŋ"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "noʊnəθɪŋ"
+        },
+        "sounds": 8
+    },
+    "knuckleduster": {
+        "rhymes": {
+            "all": "-əstər"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "nəkəldəstər"
+        },
+        "sounds": 11
+    },
+    "kochkin": {
+        "rhymes": {
+            "all": "-ɑtʃkɪn"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "kɑʧkɪn"
+        },
+        "sounds": 7
+    },
+    "kolacky": {
+        "rhymes": {
+            "all": "-ɑtʃi"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "kəlɑʧi"
+        },
+        "sounds": 7
+    },
+    "koldewey": {
+        "rhymes": {
+            "all": "-aɪ"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "kɔldəvaɪ"
+        },
+        "sounds": 8
+    },
+    "kolima": {
+        "rhymes": {
+            "all": "-ɑ"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "kɑlɪmɑ"
+        },
+        "sounds": 6
+    },
+    "kollias": {
+        "rhymes": {
+            "all": "-oʊliɑs"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "koʊliɑs"
+        },
+        "sounds": 7
+    },
+    "kolwezi": {
+        "rhymes": {
+            "all": "-ɛzi"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "koʊlwɛzi"
+        },
+        "sounds": 8
+    },
+    "konakri": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ko",
+                "na",
+                "kri"
+            ]
+        },
+        "pronunciation": {
+            "all": "kɔnA'kRi",
+            "simplified": "kɔnAkRi"
+        },
+        "rhymePatterns": {
+            "all": "-i"
+        },
+        "definitions": [
+            {
+                "definition": "a port and the capital of Guinea",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "capital of guinea",
+                    "conakry"
+                ],
+                "instanceOf": [
+                    "national capital",
+                    "port"
+                ],
+                "partOf": [
+                    "french guinea",
+                    "guinea",
+                    "republic of guinea"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7
+    },
+    "konig": {
+        "rhymes": {
+            "all": "-oʊnɪɡ"
+        },
+        "letters": 5,
+        "pronunciation": "'kɑnɪɡ",
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.36,
+            "perMillion": 0.21,
+            "diversity": 0
+        }
+    },
+    "konoye": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ko",
+                "no",
+                "ye"
+            ]
+        },
+        "pronunciation": {
+            "all": "'kɔnɔ'jɛ",
+            "simplified": "kɔnɔjɛ"
+        },
+        "rhymePatterns": {
+            "all": "-ɛ"
+        },
+        "definitions": [
+            {
+                "definition": "Japanese statesman who set Japan's expansionist policies and formed an alliance with Germany and Italy (1891-1945)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "fumimaro konoe",
+                    "fumimaro konoye",
+                    "konoe",
+                    "prince fumimaro konoe",
+                    "prince fumimaro konoye"
+                ],
+                "instanceOf": [
+                    "national leader",
+                    "solon",
+                    "statesman"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6
+    },
+    "kopis": {
+        "rhymes": {
+            "all": "-oʊpɪs"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "koʊpɪs"
+        },
+        "sounds": 6
+    }
+}

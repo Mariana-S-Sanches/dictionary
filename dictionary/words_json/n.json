@@ -1,0 +1,2115 @@
+{
+    "nacelle": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "na",
+                "celle"
+            ]
+        },
+        "pronunciation": {
+            "all": "nə'sɛl",
+            "simplified": "nəsɛl"
+        },
+        "rhymePatterns": {
+            "all": "-ɛl"
+        },
+        "definitions": [
+            {
+                "definition": "a streamlined enclosure for an aircraft engine",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "enclosure"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "nacreous": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "na",
+                "cre",
+                "ous"
+            ]
+        },
+        "pronunciation": {
+            "all": "'neɪkriəs",
+            "simplified": "neɪkriəs"
+        },
+        "rhymePatterns": {
+            "all": "-eɪkriəs"
+        },
+        "definitions": [
+            {
+                "definition": "having a play of lustrous rainbow colors",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "iridescent",
+                    "opalescent",
+                    "opaline",
+                    "pearlescent"
+                ],
+                "similarTo": [
+                    "bright"
+                ],
+                "examples": [
+                    "nacreous (or pearlescent) clouds looking like mother-of-pearl"
+                ]
+            },
+            {
+                "definition": "consisting of or resembling mother-of-pearl",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "nacre"
+                ],
+                "derivation": [
+                    "nacre"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8
+    },
+    "nae": {
+        "rhymes": {
+            "all": "-eɪ"
+        },
+        "letters": 3,
+        "pronunciation": {
+            "simplified": "neɪ"
+        },
+        "sounds": 3,
+        "frequency": {
+            "zipf": 2.57,
+            "perMillion": 0.36,
+            "diversity": 0
+        }
+    },
+    "nahum": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "na",
+                "hum"
+            ]
+        },
+        "pronunciation": {
+            "all": "'neɪəm",
+            "simplified": "neɪəm"
+        },
+        "rhymePatterns": {
+            "all": "-eɪəm"
+        },
+        "definitions": [
+            {
+                "definition": "an Old Testament book telling Nahum's prophecy of the fall of Nineveh",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "book of nahum"
+                ],
+                "instanceOf": [
+                    "book"
+                ],
+                "partOf": [
+                    "nebiim",
+                    "old testament",
+                    "prophets"
+                ]
+            },
+            {
+                "definition": "a Hebrew minor prophet of the 7th century BC",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "prophet"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "nail-bearing": {
+        "rhymes": {
+            "all": "-ɪŋ"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "neɪlbɜrɪŋ"
+        },
+        "sounds": 9
+    },
+    "nail-shaped": {
+        "rhymes": {
+            "all": "-eɪl_ʃeɪpt"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "neɪlʃeɪpt"
+        },
+        "sounds": 9
+    },
+    "nail-sick": {
+        "rhymes": {
+            "all": "-eɪl_sɪk"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "neɪlsɪk"
+        },
+        "sounds": 7
+    },
+    "nailer": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "nail",
+                "er"
+            ]
+        },
+        "pronunciation": {
+            "all": "'neɪlər",
+            "simplified": "neɪlər"
+        },
+        "rhymePatterns": {
+            "all": "-eɪlər"
+        },
+        "definitions": [
+            {
+                "definition": "a worker who attaches something by nailing it",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "worker"
+                ],
+                "derivation": [
+                    "nail"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "nairn": {
+        "rhymes": {
+            "all": "-n"
+        },
+        "letters": 5,
+        "pronunciation": "nɛrn",
+        "sounds": 4
+    },
+    "naiskos": {
+        "rhymes": {
+            "all": "-ɪskɑs"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "neɪɪskɑs"
+        },
+        "sounds": 8
+    },
+    "nairobi": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "nai",
+                "ro",
+                "bi"
+            ]
+        },
+        "pronunciation": {
+            "all": "naɪ'roʊbi",
+            "simplified": "naɪroʊbi"
+        },
+        "rhymePatterns": {
+            "all": "-oʊbi"
+        },
+        "definitions": [
+            {
+                "definition": "the capital and largest city of Kenya; a center for tourist safaris",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "capital of kenya"
+                ],
+                "instanceOf": [
+                    "national capital"
+                ],
+                "partOf": [
+                    "kenya",
+                    "republic of kenya"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.79,
+            "perMillion": 0.6,
+            "diversity": 0
+        }
+    },
+    "namaste": {
+        "rhymes": {
+            "all": "-eɪ"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "nəməsteɪ"
+        },
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.24,
+            "perMillion": 1.73,
+            "diversity": 0
+        }
+    },
+    "namely": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "name",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "'neɪmli",
+            "simplified": "neɪmli"
+        },
+        "rhymePatterns": {
+            "all": "-eɪmli"
+        },
+        "definitions": [
+            {
+                "definition": "as follows",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "that is to say",
+                    "to wit",
+                    "videlicet",
+                    "viz."
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.24,
+            "perMillion": 1.73,
+            "diversity": 0.01
+        }
+    },
+    "nana": {
+        "rhymes": {
+            "all": "-A"
+        },
+        "letters": 4,
+        "pronunciation": "'nænʌ",
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.85,
+            "perMillion": 7.13,
+            "diversity": 0.01
+        }
+    },
+    "nansen": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "nan",
+                "sen"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nænsən",
+            "simplified": "nænsən"
+        },
+        "rhymePatterns": {
+            "all": "-ænsən"
+        },
+        "definitions": [
+            {
+                "definition": "Norwegian explorer of the Arctic and director of the League of Nations relief program for refugees of World War I (1861-1930)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "fridtjof nansen"
+                ],
+                "instanceOf": [
+                    "adventurer",
+                    "explorer",
+                    "national leader",
+                    "solon",
+                    "statesman"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.52,
+            "perMillion": 0.32,
+            "diversity": 0
+        }
+    },
+    "naprapathy": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "na",
+                "prap",
+                "a",
+                "thy"
+            ]
+        },
+        "pronunciation": {
+            "all": "nə'præpəθi",
+            "simplified": "nəpræpəθi"
+        },
+        "rhymePatterns": {
+            "all": "-æpəθi"
+        },
+        "definitions": [
+            {
+                "definition": "a drugless method of treatment based on the belief that disease symptoms arise from problems with ligaments and connective tissues",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "intervention",
+                    "treatment"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "narbonne": {
+        "rhymes": {
+            "all": "-ɔn"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "nARbɔn"
+        },
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "narcotise": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "nar",
+                "co",
+                "tise"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nɑrkə,taɪz",
+            "simplified": "nɑrkətaɪz"
+        },
+        "rhymePatterns": {
+            "all": "-aɪz"
+        },
+        "definitions": [
+            {
+                "definition": "administer narcotics to",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "narcotize"
+                ],
+                "typeOf": [
+                    "dose",
+                    "drug"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9
+    },
+    "nard": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "nard"
+            ]
+        },
+        "pronunciation": {
+            "all": "nɑrd",
+            "simplified": "nɑrd"
+        },
+        "rhymePatterns": {
+            "all": "-ɑrd"
+        },
+        "definitions": [
+            {
+                "definition": "an aromatic ointment used in antiquity",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "spikenard"
+                ],
+                "typeOf": [
+                    "cream",
+                    "emollient",
+                    "ointment"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "narine": {
+        "rhymes": {
+            "all": "-ɪn"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "nɜrɪn"
+        },
+        "sounds": 5
+    },
+    "narrate": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "nar",
+                "rate"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nærreɪt",
+            "simplified": "nærreɪt"
+        },
+        "rhymePatterns": {
+            "all": "-ærreɪt"
+        },
+        "definitions": [
+            {
+                "definition": "narrate or give a detailed account of",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "recite",
+                    "recount",
+                    "tell"
+                ],
+                "typeOf": [
+                    "inform"
+                ],
+                "hasTypes": [
+                    "relate",
+                    "yarn",
+                    "crack",
+                    "rhapsodise",
+                    "rhapsodize"
+                ],
+                "derivation": [
+                    "narration",
+                    "narrator",
+                    "narrative"
+                ]
+            },
+            {
+                "definition": "provide commentary for a film, for example",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "inform"
+                ],
+                "derivation": [
+                    "narration"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.9,
+            "perMillion": 0.77,
+            "diversity": 0
+        }
+    },
+    "narrow-fisted": {
+        "rhymes": {
+            "all": "-ɪstɪd"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "næroʊfɪstɪd"
+        },
+        "sounds": 11
+    },
+    "narrow-spiritedness": {
+        "rhymes": {
+            "all": "-ɪrɪtɪdnɛs"
+        },
+        "letters": 19,
+        "pronunciation": {
+            "simplified": "næroʊspɪrɪtɪdnɛs"
+        },
+        "sounds": 16
+    },
+    "narva": {
+        "rhymes": {
+            "all": "-ɑRvɑ"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "nɑRvɑ"
+        },
+        "sounds": 5
+    },
+    "narvaez": {
+        "rhymes": {
+            "all": "-ɑɛθ"
+        },
+        "letters": 7,
+        "pronunciation": "nɑr'vɑɛz",
+        "sounds": 7
+    },
+    "nasal": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "na",
+                "sal"
+            ]
+        },
+        "pronunciation": {
+            "all": "'neɪzəl",
+            "simplified": "neɪzəl"
+        },
+        "rhymePatterns": {
+            "all": "-eɪzəl"
+        },
+        "definitions": [
+            {
+                "definition": "sounding as if the nose were pinched",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "adenoidal",
+                    "pinched"
+                ],
+                "similarTo": [
+                    "high-pitched",
+                    "high"
+                ],
+                "derivation": [
+                    "nasality"
+                ],
+                "examples": [
+                    "a whining nasal voice"
+                ]
+            },
+            {
+                "definition": "of or in or relating to the nose",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "rhinal"
+                ],
+                "pertainsTo": [
+                    "nose"
+                ],
+                "examples": [
+                    "nasal passages"
+                ]
+            },
+            {
+                "definition": "an elongated rectangular bone that forms the bridge of the nose",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "nasal bone",
+                    "os nasale"
+                ],
+                "typeOf": [
+                    "os",
+                    "bone"
+                ],
+                "hasParts": [
+                    "rhinion"
+                ],
+                "partOf": [
+                    "bridge"
+                ]
+            },
+            {
+                "definition": "a consonant produced through the nose with the mouth closed",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "nasal consonant"
+                ],
+                "typeOf": [
+                    "consonant"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3,
+            "perMillion": 0.99,
+            "diversity": 0
+        }
+    },
+    "nasby": {
+        "rhymes": {
+            "all": "-æzbi"
+        },
+        "letters": 5,
+        "pronunciation": "'næsbi",
+        "sounds": 5
+    },
+    "nascent": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "nas",
+                "cent"
+            ]
+        },
+        "pronunciation": {
+            "all": "'næsənt",
+            "simplified": "næsənt"
+        },
+        "rhymePatterns": {
+            "all": "-æsənt"
+        },
+        "definitions": [
+            {
+                "definition": "being born or beginning",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "dissilient",
+                    "emergent",
+                    "emerging",
+                    "parturient"
+                ],
+                "antonyms": [
+                    "dying"
+                ],
+                "derivation": [
+                    "nascency"
+                ],
+                "examples": [
+                    "the nascent chicks",
+                    "a nascent insurgency"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "naso-frontal": {
+        "rhymes": {
+            "all": "-əntəl"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "neɪzoʊfrəntəl"
+        },
+        "sounds": 13
+    },
+    "nasopharynx": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "na",
+                "so",
+                "phar",
+                "ynx"
+            ]
+        },
+        "pronunciation": {
+            "all": ",neɪzoʊ'færɪŋks",
+            "simplified": "neɪzoʊfærɪŋks"
+        },
+        "rhymePatterns": {
+            "all": "-ærɪŋks"
+        },
+        "definitions": [
+            {
+                "definition": "cavity forming the upper part of the pharynx",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "cavity",
+                    "cavum",
+                    "bodily cavity"
+                ],
+                "hasParts": [
+                    "tonsilla",
+                    "faucial tonsil",
+                    "palatine tonsil",
+                    "tonsil"
+                ],
+                "partOf": [
+                    "pharynx",
+                    "throat"
+                ],
+                "derivation": [
+                    "nasopharyngeal"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 13,
+        "frequency": 2.02
+    },
+    "nathanael": {
+        "rhymes": {
+            "all": "-æniəl"
+        },
+        "letters": 9,
+        "pronunciation": "'næθʌ,neɪl",
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "naught": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "naught"
+            ]
+        },
+        "pronunciation": {
+            "all": "nɑt",
+            "simplified": "nɑt"
+        },
+        "rhymePatterns": {
+            "all": "-ɑt"
+        },
+        "definitions": [
+            {
+                "definition": "a quantity of no importance",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "aught",
+                    "cipher",
+                    "cypher",
+                    "goose egg",
+                    "nada",
+                    "nil",
+                    "nix",
+                    "nothing",
+                    "null",
+                    "zero",
+                    "zilch",
+                    "zip",
+                    "zippo"
+                ],
+                "typeOf": [
+                    "relative quantity"
+                ],
+                "hasTypes": [
+                    "fanny adams",
+                    "bugger all",
+                    "nihil",
+                    "fuck all",
+                    "sweet fanny adams"
+                ],
+                "examples": [
+                    "it was all for naught"
+                ]
+            },
+            {
+                "definition": "complete failure",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "failure"
+                ],
+                "examples": [
+                    "all my efforts led to naught"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 3,
+        "frequency": {
+            "zipf": 2.96,
+            "perMillion": 0.91,
+            "diversity": 0
+        }
+    },
+    "nauseous": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "nau",
+                "se",
+                "ous"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nɔʃəs",
+            "simplified": "nɔʃəs"
+        },
+        "rhymePatterns": {
+            "all": "-ɔʃəs"
+        },
+        "definitions": [
+            {
+                "definition": "causing or able to cause nausea",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "loathsome",
+                    "nauseating",
+                    "noisome",
+                    "offensive",
+                    "queasy",
+                    "sickening",
+                    "vile"
+                ],
+                "similarTo": [
+                    "unwholesome"
+                ],
+                "derivation": [
+                    "nausea"
+                ],
+                "examples": [
+                    "nauseous offal"
+                ]
+            },
+            {
+                "definition": "feeling nausea; feeling about to vomit",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "nauseated",
+                    "queasy",
+                    "sick",
+                    "sickish"
+                ],
+                "similarTo": [
+                    "ill",
+                    "sick"
+                ],
+                "derivation": [
+                    "nausea"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.39,
+            "perMillion": 2.45,
+            "diversity": 0.01
+        }
+    },
+    "nautophone": {
+        "rhymes": {
+            "all": "-oʊn"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "nɔtəfoʊn"
+        },
+        "sounds": 8
+    },
+    "naval": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "na",
+                "val"
+            ]
+        },
+        "pronunciation": {
+            "all": "'neɪvəl",
+            "simplified": "neɪvəl"
+        },
+        "rhymePatterns": {
+            "all": "-eɪvəl"
+        },
+        "definitions": [
+            {
+                "definition": "connected with or belonging to or used in a navy",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "navy"
+                ],
+                "derivation": [
+                    "navy"
+                ],
+                "examples": [
+                    "naval history",
+                    "naval commander",
+                    "naval vessels"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.53,
+            "perMillion": 3.39,
+            "diversity": 0.01
+        }
+    },
+    "nave": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "na",
+                "",
+                "ve"
+            ]
+        },
+        "pronunciation": {
+            "all": "neɪv",
+            "simplified": "neɪv"
+        },
+        "rhymePatterns": {
+            "all": "-eɪv"
+        },
+        "definitions": [
+            {
+                "definition": "the central area of a church",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "area"
+                ],
+                "partOf": [
+                    "church",
+                    "church building"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 2.73,
+            "perMillion": 0.52,
+            "diversity": 0
+        }
+    },
+    "naysay": {
+        "rhymes": {
+            "all": "-eɪseɪ"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "neɪseɪ"
+        },
+        "sounds": 6,
+        "frequency": 1.74
+    },
+    "nazareth": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "naz",
+                "a",
+                "reth"
+            ]
+        },
+        "pronunciation": {
+            "all": "'næzərəθ",
+            "simplified": "næzərəθ"
+        },
+        "rhymePatterns": {
+            "all": "-æzərəθ"
+        },
+        "definitions": [
+            {
+                "definition": "a historic town in northern Israel that is mentioned in the Gospels as the home of Joseph and Mary",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "town"
+                ],
+                "partOf": [
+                    "galilee"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.34,
+            "perMillion": 2.17,
+            "diversity": 0
+        }
+    },
+    "nearside": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "near",
+                "side"
+            ]
+        },
+        "pronunciation": {
+            "all": "'niərsaɪd",
+            "simplified": "niərsaɪd"
+        },
+        "rhymePatterns": {
+            "all": "-iərsaɪd"
+        },
+        "definitions": [
+            {
+                "definition": "the side of a vehicle nearest the kerb",
+                "partOfSpeech": "noun",
+                "inRegion": [
+                    "u.k.",
+                    "great britain",
+                    "united kingdom of great britain and northern ireland",
+                    "britain",
+                    "uk",
+                    "united kingdom"
+                ],
+                "typeOf": [
+                    "side"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": 1.74
+    },
+    "nearly": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "near",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nirli",
+            "simplified": "nirli"
+        },
+        "rhymePatterns": {
+            "all": "-irli"
+        },
+        "definitions": [
+            {
+                "definition": "in a close manner",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "closely",
+                    "intimately"
+                ],
+                "examples": [
+                    "the person most nearly concerned"
+                ]
+            },
+            {
+                "definition": "(of actions or states) slightly short of or not quite accomplished; all but",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "about",
+                    "almost",
+                    "most",
+                    "near",
+                    "nigh",
+                    "virtually",
+                    "well-nigh"
+                ],
+                "examples": [
+                    "he nearly fainted"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 4.58,
+            "perMillion": 37.78,
+            "diversity": 0.16
+        }
+    },
+    "nearsighted": {
+        "pronunciation": {
+            "all": "niər'saɪtɪd",
+            "simplified": "niərsaɪtɪd"
+        },
+        "rhymePatterns": {
+            "all": "-aɪtɪd"
+        },
+        "definitions": [
+            {
+                "definition": "unable to see distant objects clearly",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "myopic",
+                    "shortsighted"
+                ],
+                "antonyms": [
+                    "farsighted"
+                ],
+                "derivation": [
+                    "nearsightedness"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 2.27,
+            "perMillion": 0.17,
+            "diversity": 0
+        }
+    },
+    "neat-limbed": {
+        "rhymes": {
+            "all": "-it_lɪmd"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "nitlɪmd"
+        },
+        "sounds": 7
+    },
+    "nebulous": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "neb",
+                "u",
+                "lous"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nɛbjələs",
+            "simplified": "nɛbjələs"
+        },
+        "rhymePatterns": {
+            "all": "-ɛbjələs"
+        },
+        "definitions": [
+            {
+                "definition": "of or relating to or resembling a nebula",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "nebular"
+                ],
+                "inCategory": [
+                    "astronomy",
+                    "uranology"
+                ],
+                "pertainsTo": [
+                    "nebula"
+                ],
+                "derivation": [
+                    "nebula"
+                ]
+            },
+            {
+                "definition": "lacking definition or definite content",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unfixed"
+                ],
+                "similarTo": [
+                    "indefinite"
+                ],
+                "examples": [
+                    "nebulous reasons"
+                ]
+            },
+            {
+                "definition": "lacking definite form or limits",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "cloudy",
+                    "nebulose"
+                ],
+                "similarTo": [
+                    "indistinct"
+                ],
+                "examples": [
+                    "nebulous distinction between pride and conceit"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "neck-deep": {
+        "pronunciation": {
+            "all": "nɛk_dip",
+            "simplified": "nɛkdip"
+        },
+        "rhymePatterns": {
+            "all": "-ɛk_dip"
+        },
+        "definitions": [
+            {
+                "definition": "deeply involved",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "up to her neck",
+                    "up to his neck",
+                    "up to my neck",
+                    "up to our necks",
+                    "up to their necks",
+                    "up to your neck"
+                ],
+                "similarTo": [
+                    "involved"
+                ],
+                "examples": [
+                    "neck-deep in work"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 6
+    },
+    "neck-cracking": {
+        "rhymes": {
+            "all": "-ækɪŋ"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "nɛkkrækɪŋ"
+        },
+        "sounds": 9
+    },
+    "neckline": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "neck",
+                "line"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nɛk,laɪn",
+            "simplified": "nɛklaɪn"
+        },
+        "rhymePatterns": {
+            "all": "-aɪn"
+        },
+        "definitions": [
+            {
+                "definition": "the line formed by the edge of a garment around the neck",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "neck",
+                    "neck opening"
+                ],
+                "hasTypes": [
+                    "crew neckline",
+                    "decolletage",
+                    "crew neck"
+                ],
+                "partOf": [
+                    "sweater",
+                    "dress",
+                    "frock",
+                    "jumper",
+                    "blouse"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.6,
+            "perMillion": 0.39,
+            "diversity": 0
+        }
+    },
+    "necrotomic": {
+        "rhymes": {
+            "all": "-ɑmɪk"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "nɛkrətɑmɪk"
+        },
+        "sounds": 10
+    },
+    "nectarine": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "nec",
+                "tar",
+                "ine"
+            ]
+        },
+        "pronunciation": {
+            "all": ",nɛktə'rin",
+            "simplified": "nɛktərin"
+        },
+        "rhymePatterns": {
+            "all": "-in"
+        },
+        "definitions": [
+            {
+                "definition": "variety or mutation of the peach bearing fruit with smooth skin and (usually) yellow flesh",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "nectarine tree",
+                    "prunus persica nectarina"
+                ],
+                "typeOf": [
+                    "fruit tree"
+                ],
+                "memberOf": [
+                    "genus prunus",
+                    "prunus"
+                ]
+            },
+            {
+                "definition": "a variety or mutation of the peach that has a smooth skin",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "edible fruit"
+                ],
+                "partOf": [
+                    "prunus persica nectarina",
+                    "nectarine tree"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "needs": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "needs"
+            ]
+        },
+        "pronunciation": {
+            "all": "nidz",
+            "simplified": "nidz"
+        },
+        "rhymePatterns": {
+            "all": "-idz"
+        },
+        "definitions": [
+            {
+                "definition": "in such a manner as could not be otherwise",
+                "partOfSpeech": "adverb",
+                "synonyms": [
+                    "inevitably",
+                    "necessarily",
+                    "of necessity"
+                ],
+                "examples": [
+                    "we must needs by objective"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 5.19,
+            "perMillion": 156.35,
+            "diversity": 0.49
+        }
+    },
+    "negative": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "neg",
+                "a",
+                "tive"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nɛɡətɪv",
+            "simplified": "nɛɡətɪv"
+        },
+        "rhymePatterns": {
+            "all": "-ɛɡətɪv"
+        },
+        "definitions": [
+            {
+                "definition": "designed or tending to discredit, especially without positive or helpful suggestions",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "damaging"
+                ],
+                "similarTo": [
+                    "destructive"
+                ],
+                "examples": [
+                    "negative criticism"
+                ]
+            },
+            {
+                "definition": "not indicating the presence of microorganisms or disease or a specific condition",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "disconfirming"
+                ],
+                "inCategory": [
+                    "medicine",
+                    "medical specialty"
+                ],
+                "similarTo": [
+                    "gram-negative"
+                ],
+                "antonyms": [
+                    "positive"
+                ],
+                "examples": [
+                    "the HIV test was negative"
+                ]
+            },
+            {
+                "definition": "involving disadvantage or harm",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "minus"
+                ],
+                "similarTo": [
+                    "disadvantageous",
+                    "unfavourable",
+                    "unfavorable"
+                ],
+                "examples": [
+                    "minus (or negative) factors"
+                ]
+            },
+            {
+                "definition": "vote against; refuse to endorse; refuse to assent",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "blackball",
+                    "veto"
+                ],
+                "entails": [
+                    "vote"
+                ],
+                "typeOf": [
+                    "oppose",
+                    "contradict",
+                    "controvert"
+                ],
+                "hasTypes": [
+                    "vote out",
+                    "shoot down",
+                    "kill",
+                    "defeat",
+                    "vote down"
+                ]
+            },
+            {
+                "definition": "having a negative charge",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "electronegative",
+                    "negatively charged"
+                ],
+                "similarTo": [
+                    "charged"
+                ],
+                "examples": [
+                    "electrons are negative"
+                ]
+            },
+            {
+                "definition": "a piece of photographic film showing an image with light and shade or colors reversed",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "film",
+                    "photographic film"
+                ]
+            },
+            {
+                "definition": "a reply of denial",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "denial"
+                ],
+                "hasTypes": [
+                    "nay",
+                    "double negative",
+                    "no"
+                ],
+                "antonyms": [
+                    "affirmative"
+                ],
+                "examples": [
+                    "he answered in the negative"
+                ]
+            },
+            {
+                "definition": "characterized by or displaying negation or denial or opposition or resistance; having no positive features",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "unsupportive",
+                    "destructive",
+                    "pessimistic"
+                ],
+                "attribute": [
+                    "quality"
+                ],
+                "similarTo": [
+                    "antagonistic",
+                    "counter",
+                    "perverse"
+                ],
+                "antonyms": [
+                    "neutral",
+                    "positive"
+                ],
+                "derivation": [
+                    "negativity"
+                ],
+                "examples": [
+                    "a negative outlook on life",
+                    "a colorless negative personality",
+                    "a negative evaluation",
+                    "a negative reaction to an advertising campaign"
+                ]
+            },
+            {
+                "definition": "expressing or consisting of a negation or refusal or denial",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "unfavorable",
+                    "disinclined",
+                    "unfavourable"
+                ],
+                "similarTo": [
+                    "dissenting",
+                    "dissident",
+                    "dissentient"
+                ],
+                "antonyms": [
+                    "affirmative"
+                ],
+                "derivation": [
+                    "negate",
+                    "negativeness"
+                ]
+            },
+            {
+                "definition": "having the quality of something harmful or unpleasant",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "bad"
+                ],
+                "derivation": [
+                    "negativeness"
+                ],
+                "examples": [
+                    "ran a negative campaign",
+                    "delinquents retarded by their negative outlook on life"
+                ]
+            },
+            {
+                "definition": "less than zero",
+                "partOfSpeech": "adjective",
+                "inCategory": [
+                    "maths",
+                    "mathematics",
+                    "math"
+                ],
+                "similarTo": [
+                    "minus"
+                ],
+                "derivation": [
+                    "negativeness"
+                ],
+                "examples": [
+                    "a negative number"
+                ]
+            },
+            {
+                "definition": "reckoned in a direction opposite to that regarded as positive",
+                "partOfSpeech": null,
+                "antonyms": [
+                    "positive"
+                ],
+                "examples": [
+                    "negative interest rates"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 4.33,
+            "perMillion": 21.35,
+            "diversity": 0.08
+        }
+    },
+    "negligible": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "neg",
+                "li",
+                "gi",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nɛglɪdʒəbəl",
+            "simplified": "nɛglɪdʒəbəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɛglɪdʒəbəl"
+        },
+        "definitions": [
+            {
+                "definition": "not worth considering",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "paltry",
+                    "trifling"
+                ],
+                "similarTo": [
+                    "worthless"
+                ]
+            },
+            {
+                "definition": "so small as to be meaningless; insignificant",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "minimal",
+                    "minimum"
+                ],
+                "examples": [
+                    "the effect was negligible"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 2.45,
+            "perMillion": 0.27,
+            "diversity": 0
+        }
+    },
+    "negritize": {
+        "rhymes": {
+            "all": "-aɪz"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "nigrɪtaɪz"
+        },
+        "sounds": 9
+    },
+    "negroise": {
+        "rhymes": {
+            "all": "-aɪz"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "nigroʊaɪz"
+        },
+        "sounds": 9
+    },
+    "neither": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "nei",
+                "ther"
+            ]
+        },
+        "pronunciation": {
+            "all": "'niðər",
+            "simplified": "niðər"
+        },
+        "rhymePatterns": {
+            "all": "-iðər"
+        },
+        "definitions": [
+            {
+                "definition": "not either; not one or the other",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "incomplete",
+                    "uncomplete"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 4.87,
+            "perMillion": 73.89,
+            "diversity": 0.29
+        }
+    },
+    "nembutal": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "nem",
+                "bu",
+                "tal"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nɛmbjə,tɔl",
+            "simplified": "nɛmbjətɔl"
+        },
+        "rhymePatterns": {
+            "all": "-ɔl"
+        },
+        "definitions": [
+            {
+                "definition": "a barbiturate (trade name Nembutal) used as a sedative and hypnotic and antispasmodic",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "pentobarbital",
+                    "pentobarbital sodium",
+                    "yellow jacket"
+                ],
+                "typeOf": [
+                    "barbiturate"
+                ],
+                "usageOf": [
+                    "trade name"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "nemunas": {
+        "rhymes": {
+            "all": "-ɑs"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "njɛmʊnɑs"
+        },
+        "sounds": 8
+    },
+    "neo-confucianist": {
+        "rhymes": {
+            "all": "-uʃənɪst"
+        },
+        "letters": 16,
+        "pronunciation": {
+            "simplified": "nioʊkənfjuʃənɪst"
+        },
+        "sounds": 16
+    },
+    "neo-plasticism": {
+        "rhymes": {
+            "all": "-ɪzəm"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "nioʊplæstɪsɪzəm"
+        },
+        "sounds": 15
+    },
+    "neo-realism": {
+        "rhymes": {
+            "all": "-ɪzəm"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "nioʊriəlɪzəm"
+        },
+        "sounds": 12
+    },
+    "neocene": {
+        "rhymes": {
+            "all": "-in"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "niəsin"
+        },
+        "sounds": 6
+    },
+    "neological": {
+        "rhymes": {
+            "all": "-ɑdʒɪkəl"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "niəlɑdʒɪkəl"
+        },
+        "sounds": 11
+    },
+    "neostigmine": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ne",
+                "o",
+                "stig",
+                "mine"
+            ]
+        },
+        "pronunciation": {
+            "all": ",nioʊ'stɪgmin",
+            "simplified": "nioʊstɪgmin"
+        },
+        "rhymePatterns": {
+            "all": "-ɪgmin"
+        },
+        "definitions": [
+            {
+                "definition": "a cholinergic drug (trade name Prostigmin) used to treat some ophthalmic conditions and to treat myasthenia gravis",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "prostigmin"
+                ],
+                "typeOf": [
+                    "anticholinesterase"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11
+    },
+    "neoterise": {
+        "rhymes": {
+            "all": "-aɪz"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "niɑtəraɪz"
+        },
+        "sounds": 9
+    },
+    "nephelinite": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "neph",
+                "e",
+                "lin",
+                "ite"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nɛfələ,naɪt",
+            "simplified": "nɛfələnaɪt"
+        },
+        "rhymePatterns": {
+            "all": "-aɪt"
+        },
+        "definitions": [
+            {
+                "definition": "an igneous rock consisting of nepheline and pyroxene",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "mineral"
+                ],
+                "hasSubstances": [
+                    "nepheline",
+                    "nephelite",
+                    "pyroxene"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10
+    },
+    "nephelite-diorite": {
+        "rhymes": {
+            "all": "-aɪt"
+        },
+        "letters": 17,
+        "pronunciation": {
+            "simplified": "nɛfəlaɪtdaɪəraɪt"
+        },
+        "sounds": 16
+    },
+    "nephogram": {
+        "rhymes": {
+            "all": "-æm"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "nɛfəgræm"
+        },
+        "sounds": 8
+    },
+    "nephelite-tephrite": {
+        "rhymes": {
+            "all": "-ɛfraɪt"
+        },
+        "letters": 18,
+        "pronunciation": {
+            "simplified": "nɛfəlaɪttɛfraɪt"
+        },
+        "sounds": 15
+    },
+    "nephric": {
+        "rhymes": {
+            "all": "-ɛfrɪk"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "nɛfrɪk"
+        },
+        "sounds": 6
+    },
+    "nephron": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "neph",
+                "ron"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nɛfrɑn",
+            "simplified": "nɛfrɑn"
+        },
+        "rhymePatterns": {
+            "all": "-ɛfrɑn"
+        },
+        "definitions": [
+            {
+                "definition": "any of the small tubules that are the excretory units of the vertebrate kidney",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "uriniferous tubule"
+                ],
+                "typeOf": [
+                    "tubule"
+                ],
+                "hasParts": [
+                    "malpighian body",
+                    "malpighian corpuscle",
+                    "renal corpuscle"
+                ],
+                "partOf": [
+                    "kidney"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6
+    },
+    "nephrotoxicity": {
+        "rhymes": {
+            "all": "-ɪsɪti"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "nɛfroʊtɑksɪsɪti"
+        },
+        "sounds": 15,
+        "frequency": 2.02
+    },
+    "nepos": {
+        "rhymes": {
+            "all": "-ipɑs"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "nipɑs"
+        },
+        "sounds": 5
+    },
+    "nephtali": {
+        "rhymes": {
+            "all": "-əlaɪ"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "nɛftəlaɪ"
+        },
+        "sounds": 8
+    },
+    "nerveless": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "nerve",
+                "less"
+            ]
+        },
+        "pronunciation": {
+            "all": "'nɜrvlɪs",
+            "simplified": "nɜrvlɪs"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrvlɪs"
+        },
+        "definitions": [
+            {
+                "definition": "marked by calm self-control (especially in trying circumstances); unemotional",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "cool",
+                    "coolheaded"
+                ],
+                "similarTo": [
+                    "composed"
+                ],
+                "derivation": [
+                    "nervelessness"
+                ],
+                "examples": [
+                    "the most nerveless winner in the history of the tournament"
+                ]
+            },
+            {
+                "definition": "lacking strength",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "feeble"
+                ],
+                "similarTo": [
+                    "powerless"
+                ],
+                "examples": [
+                    "a weak, nerveless fool, devoid of energy and promptitude"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    }
+}

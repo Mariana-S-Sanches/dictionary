@@ -1,0 +1,2078 @@
+{
+
+    "unlovely": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "un",
+                "love",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'ləvli",
+            "simplified": "ənləvli"
+        },
+        "rhymePatterns": {
+            "all": "-əvli"
+        },
+        "definitions": [
+            {
+                "definition": "without beauty or charm",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unpicturesque"
+                ],
+                "similarTo": [
+                    "ugly"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "unmeaningful": {
+        "rhymes": {
+            "all": "-inɪŋfəl"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "ənminɪŋfəl"
+        },
+        "sounds": 10
+    },
+    "unmetrical": {
+        "rhymes": {
+            "all": "-ɛtrikəl"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ənmɛtrikəl"
+        },
+        "sounds": 10
+    },
+    "unmixed": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "un",
+                "mixed"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'mɪkst",
+            "simplified": "ənmɪkst"
+        },
+        "rhymePatterns": {
+            "all": "-ɪkst"
+        },
+        "definitions": [
+            {
+                "definition": "not mixed with extraneous elements",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "plain",
+                    "sheer",
+                    "unmingled"
+                ],
+                "similarTo": [
+                    "pure"
+                ],
+                "examples": [
+                    "not an unmixed blessing"
+                ]
+            },
+            {
+                "definition": "not constituting a compound",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "uncompounded"
+                ],
+                "similarTo": [
+                    "uncombined"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": 1.74
+    },
+   
+    "unmown": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "un",
+                "mown"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'moʊn",
+            "simplified": "ənmoʊn"
+        },
+        "rhymePatterns": {
+            "all": "-oʊn"
+        },
+        "definitions": [
+            {
+                "definition": "(used of grass or vegetation) not cut down with a hand implement or machine",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "uncut"
+                ],
+                "inCategory": [
+                    "botany",
+                    "flora",
+                    "vegetation"
+                ],
+                "antonyms": [
+                    "mown"
+                ],
+                "examples": [
+                    "an unmown lawn"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6
+    },
+    "unnecessary": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "un",
+                "nec",
+                "es",
+                "sar",
+                "y"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'nɛsɪ,sɛri",
+            "simplified": "ənnɛsɪsɛri"
+        },
+        "rhymePatterns": {
+            "all": "-ɛri"
+        },
+        "definitions": [
+            {
+                "definition": "not necessary",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unneeded"
+                ],
+                "also": [
+                    "inessential",
+                    "unessential"
+                ],
+                "attribute": [
+                    "necessity"
+                ],
+                "similarTo": [
+                    "gratuitous",
+                    "extra",
+                    "inessential",
+                    "needless",
+                    "redundant",
+                    "spare",
+                    "supererogatory",
+                    "superfluous",
+                    "supernumerary",
+                    "surplus",
+                    "uncalled-for",
+                    "excess"
+                ],
+                "antonyms": [
+                    "necessary"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 3.73,
+            "perMillion": 5.37,
+            "diversity": 0.03
+        }
+    },
+    "unneeded": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "un",
+                "need",
+                "ed"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'nidɪd",
+            "simplified": "ənnidɪd"
+        },
+        "rhymePatterns": {
+            "all": "-idɪd"
+        },
+        "definitions": [
+            {
+                "definition": "not necessary",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unnecessary"
+                ],
+                "also": [
+                    "inessential",
+                    "unessential"
+                ],
+                "attribute": [
+                    "necessity"
+                ],
+                "similarTo": [
+                    "gratuitous",
+                    "extra",
+                    "inessential",
+                    "needless",
+                    "redundant",
+                    "spare",
+                    "supererogatory",
+                    "superfluous",
+                    "supernumerary",
+                    "surplus",
+                    "uncalled-for",
+                    "excess"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.12,
+            "perMillion": 0.12,
+            "diversity": 0
+        }
+    },
+    "unpen": {
+        "rhymes": {
+            "all": "-ɛn"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "ənpɛn"
+        },
+        "sounds": 5
+    },
+    "unpeople": {
+        "rhymes": {
+            "all": "-ipəl"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ənpipəl"
+        },
+        "sounds": 7
+    },
+    "unperceptive": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "un",
+                "per",
+                "cep",
+                "tive"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ənpə'sɛptɪv",
+            "simplified": "ənpəsɛptɪv"
+        },
+        "rhymePatterns": {
+            "all": "-ɛptɪv"
+        },
+        "definitions": [
+            {
+                "definition": "lacking perception",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unperceiving"
+                ],
+                "similarTo": [
+                    "blank",
+                    "blind",
+                    "unobservant",
+                    "unseeing"
+                ],
+                "antonyms": [
+                    "perceptive"
+                ],
+                "derivation": [
+                    "unperceptiveness"
+                ],
+                "examples": [
+                    "as unperceptive as a boulder"
+                ]
+            },
+            {
+                "definition": "lacking sensitivity, taste, or judgment",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "indiscriminating",
+                    "undiscriminating"
+                ],
+                "derivation": [
+                    "unperceptiveness"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 10,
+        "frequency": 1.74
+    },
+    "unpick": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "un",
+                "pick"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'pɪk",
+            "simplified": "ənpɪk"
+        },
+        "rhymePatterns": {
+            "all": "-ɪk"
+        },
+        "definitions": [
+            {
+                "definition": "become or cause to become undone by separating the fibers or threads of",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "unknot",
+                    "unravel",
+                    "unscramble",
+                    "untangle"
+                ],
+                "entails": [
+                    "disunite",
+                    "divide",
+                    "part",
+                    "separate"
+                ],
+                "typeOf": [
+                    "undo"
+                ]
+            },
+            {
+                "definition": "undo (the stitches) of (a piece of sewing)",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "undo"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.12,
+            "perMillion": 0.12,
+            "diversity": 0
+        }
+    },
+    "unplaceable": {
+        "rhymes": {
+            "all": "-eɪsəbəl"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ənpleɪsəbəl"
+        },
+        "sounds": 11
+    },
+    "unplanned": {
+        "pronunciation": {
+            "all": "ən'plænd",
+            "simplified": "ənplænd"
+        },
+        "rhymePatterns": {
+            "all": "-ænd"
+        },
+        "definitions": [
+            {
+                "definition": "not done with purpose or intent",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unintentional",
+                    "unwitting"
+                ],
+                "similarTo": [
+                    "unintended"
+                ]
+            },
+            {
+                "definition": "without apparent forethought or prompting or planning",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "unintended"
+                ],
+                "similarTo": [
+                    "casual",
+                    "ad hoc",
+                    "unpremeditated",
+                    "chance"
+                ],
+                "antonyms": [
+                    "planned"
+                ],
+                "examples": [
+                    "an unplanned economy",
+                    "accepts an unplanned order",
+                    "an unplanned pregnancy",
+                    "unplanned remarks"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.54,
+            "perMillion": 0.33,
+            "diversity": 0
+        }
+    },
+    "unpledged": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "un",
+                "pledged"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'plɛdʒd",
+            "simplified": "ənplɛdʒd"
+        },
+        "rhymePatterns": {
+            "all": "-ɛdʒd"
+        },
+        "definitions": [
+            {
+                "definition": "not promised in marriage",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unengaged",
+                    "unpromised"
+                ],
+                "similarTo": [
+                    "unattached",
+                    "uncommitted"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8
+    },
+    "unpopular": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "un",
+                "pop",
+                "u",
+                "lar"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ən'pɑpjəlær",
+            "simplified": "ənpɑpjəlær"
+        },
+        "rhymePatterns": {
+            "all": "-ɑpjəlær"
+        },
+        "definitions": [
+            {
+                "definition": "regarded with disfavor or lacking general approval",
+                "partOfSpeech": "adjective",
+                "attribute": [
+                    "popularity"
+                ],
+                "similarTo": [
+                    "less-traveled",
+                    "out of fashion",
+                    "unfashionable"
+                ],
+                "antonyms": [
+                    "popular"
+                ],
+                "derivation": [
+                    "unpopularity"
+                ],
+                "examples": [
+                    "unpopular ideas",
+                    "an unpopular war"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 3.05,
+            "perMillion": 1.11,
+            "diversity": 0.01
+        }
+    },
+    "unprejudiced": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "un",
+                "prej",
+                "u",
+                "diced"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'prɛdʒədɪst",
+            "simplified": "ənprɛdʒədɪst"
+        },
+        "rhymePatterns": {
+            "all": "-ɛdʒədɪst"
+        },
+        "definitions": [
+            {
+                "definition": "free from undue bias or preconceived opinions",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "impartial"
+                ],
+                "also": [
+                    "open",
+                    "receptive"
+                ],
+                "similarTo": [
+                    "color-blind",
+                    "colour-blind",
+                    "nonracist"
+                ],
+                "antonyms": [
+                    "prejudiced"
+                ],
+                "examples": [
+                    "an unprejudiced appraisal of the pros and cons"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 12,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "unpresuming": {
+        "rhymes": {
+            "all": "-umiŋ"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ənprizjumiŋ"
+        },
+        "sounds": 11
+    },
+    "unproclaimed": {
+        "rhymes": {
+            "all": "-eɪmd"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "ənproʊkleɪmd"
+        },
+        "sounds": 12
+    },
+    "unprompted": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "un",
+                "prompt",
+                "ed"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'prɑmptɪd",
+            "simplified": "ənprɑmptɪd"
+        },
+        "rhymePatterns": {
+            "all": "-ɑmptɪd"
+        },
+        "definitions": [
+            {
+                "definition": "proceeding from natural feeling or impulse without external stimulus",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "impulsive"
+                ],
+                "similarTo": [
+                    "self-generated",
+                    "spontaneous"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "unqueen": {
+        "rhymes": {
+            "all": "-in"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ənkwin"
+        },
+        "sounds": 6
+    },
+    "unrealistic": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "un",
+                "re",
+                "al",
+                "is",
+                "tic"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ənriə'lɪstɪk",
+            "simplified": "ənriəlɪstɪk"
+        },
+        "rhymePatterns": {
+            "all": "-ɪstɪk"
+        },
+        "definitions": [
+            {
+                "definition": "not realistic",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "impossible",
+                    "unreal",
+                    "impractical"
+                ],
+                "similarTo": [
+                    "fantastic",
+                    "kafkaesque",
+                    "phantasmagoric",
+                    "phantasmagorical",
+                    "surreal",
+                    "surrealistic",
+                    "chimerical",
+                    "wild",
+                    "delusive",
+                    "false"
+                ],
+                "antonyms": [
+                    "realistic"
+                ],
+                "examples": [
+                    "unrealistic expectations",
+                    "prices at unrealistic high levels"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 3.11,
+            "perMillion": 1.28,
+            "diversity": 0.01
+        }
+    },
+    "unreality": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "un",
+                "re",
+                "al",
+                "i",
+                "ty"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ənri'ælɪti",
+            "simplified": "ənriælɪti"
+        },
+        "rhymePatterns": {
+            "all": "-ælɪti"
+        },
+        "definitions": [
+            {
+                "definition": "the state of being insubstantial or imaginary; not existing objectively or in fact",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "irreality"
+                ],
+                "typeOf": [
+                    "nonexistence",
+                    "nonentity"
+                ],
+                "hasTypes": [
+                    "falsity",
+                    "cloud",
+                    "falseness"
+                ],
+                "antonyms": [
+                    "reality"
+                ],
+                "derivation": [
+                    "unreal"
+                ]
+            },
+            {
+                "definition": "the quality possessed by something that is unreal",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "immateriality",
+                    "incorporeality"
+                ],
+                "antonyms": [
+                    "reality"
+                ],
+                "derivation": [
+                    "unreal"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "unreaped": {
+        "rhymes": {
+            "all": "-ipt"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ənript"
+        },
+        "sounds": 6
+    },
+    "unreasoning": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "un",
+                "rea",
+                "son",
+                "ing"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'rizənɪŋ",
+            "simplified": "ənrizənɪŋ"
+        },
+        "rhymePatterns": {
+            "all": "-izənɪŋ"
+        },
+        "definitions": [
+            {
+                "definition": "not based on reason or evidence",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "blind"
+                ],
+                "similarTo": [
+                    "irrational"
+                ],
+                "examples": [
+                    "unreasoning panic"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "unreeve": {
+        "rhymes": {
+            "all": "-iv"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ənriv"
+        },
+        "sounds": 5
+    },
+    "unregenerated": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "un",
+                "re",
+                "gen",
+                "er",
+                "at",
+                "ed"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ənrɪ'dʒɛnə,reɪtɪd",
+            "simplified": "ənrɪdʒɛnəreɪtɪd"
+        },
+        "rhymePatterns": {
+            "all": "-eɪtɪd"
+        },
+        "definitions": [
+            {
+                "definition": "not reformed morally or spiritually",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unregenerate"
+                ],
+                "also": [
+                    "lost",
+                    "unremorseful",
+                    "unrepentant",
+                    "impenitent"
+                ],
+                "similarTo": [
+                    "unconverted",
+                    "unpersuaded",
+                    "cussed",
+                    "unrepentant",
+                    "impenitent",
+                    "obdurate",
+                    "obstinate"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 15,
+        "frequency": 1.74
+    },
+    "unregenerate": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "un",
+                "re",
+                "gen",
+                "er",
+                "ate"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ənrɪ'dʒɛnərɪt",
+            "simplified": "ənrɪdʒɛnərɪt"
+        },
+        "rhymePatterns": {
+            "all": "-ɛnərɪt"
+        },
+        "definitions": [
+            {
+                "definition": "unrepentant and incapable of being reformed",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unreformable"
+                ],
+                "similarTo": [
+                    "incorrigible"
+                ],
+                "examples": [
+                    "an unregenerate criminal"
+                ]
+            },
+            {
+                "definition": "tenaciously unwilling or marked by tenacious unwillingness to yield",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "obstinate",
+                    "stubborn"
+                ],
+                "also": [
+                    "inflexible",
+                    "intractable",
+                    "uncompromising",
+                    "sturdy",
+                    "disobedient"
+                ],
+                "similarTo": [
+                    "strong-minded",
+                    "strong-willed",
+                    "stroppy",
+                    "tenacious",
+                    "unyielding",
+                    "bolshy",
+                    "bullet-headed",
+                    "bullheaded",
+                    "cantankerous",
+                    "contrarious",
+                    "cross-grained",
+                    "determined",
+                    "dogged",
+                    "dour",
+                    "hardheaded",
+                    "mulish",
+                    "persistent",
+                    "pertinacious",
+                    "pigheaded",
+                    "stiff-necked",
+                    "bloody-minded"
+                ]
+            },
+            {
+                "definition": "not reformed morally or spiritually",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unregenerated"
+                ],
+                "also": [
+                    "unrepentant",
+                    "impenitent",
+                    "lost",
+                    "unremorseful"
+                ],
+                "similarTo": [
+                    "impenitent",
+                    "unrepentant",
+                    "obdurate",
+                    "unconverted",
+                    "obstinate",
+                    "cussed",
+                    "unpersuaded"
+                ],
+                "antonyms": [
+                    "regenerate"
+                ],
+                "examples": [
+                    "unregenerate human nature",
+                    "unregenerate conservatism"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 12
+    },
+    "unregretted": {
+        "rhymes": {
+            "all": "-ɛtɪd"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ənrigrɛtɪd"
+        },
+        "sounds": 10
+    },
+    "unrenounced": {
+        "rhymes": {
+            "all": "-æʊnst"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ənrinæʊnst"
+        },
+        "sounds": 10
+    },
+    "unrevealed": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "un",
+                "re",
+                "vealed"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ənri'vild",
+            "simplified": "ənrivild"
+        },
+        "rhymePatterns": {
+            "all": "-ild"
+        },
+        "definitions": [
+            {
+                "definition": "not made known",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "undisclosed"
+                ],
+                "similarTo": [
+                    "covert"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 8,
+        "frequency": 2.02
+    },
+    "unrevoked": {
+        "rhymes": {
+            "all": "-oʊkt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ənrivoʊkt"
+        },
+        "sounds": 9
+    },
+    "unrewarded": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "un",
+                "re",
+                "ward",
+                "ed"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ənri'woʊrdɪd",
+            "simplified": "ənriwoʊrdɪd"
+        },
+        "rhymePatterns": {
+            "all": "-oʊrdɪd"
+        },
+        "definitions": [
+            {
+                "definition": "having acquired or gained nothing",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "empty-handed"
+                ],
+                "similarTo": [
+                    "unsuccessful"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 2.03,
+            "perMillion": 0.09,
+            "diversity": 0
+        }
+    },
+    "unruly": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "un",
+                "ru",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'ruli",
+            "simplified": "ənruli"
+        },
+        "rhymePatterns": {
+            "all": "-uli"
+        },
+        "definitions": [
+            {
+                "definition": "incapable of being controlled",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "indocile",
+                    "uncontrollable",
+                    "ungovernable"
+                ],
+                "similarTo": [
+                    "difficult",
+                    "unmanageable"
+                ],
+                "derivation": [
+                    "unruliness"
+                ],
+                "examples": [
+                    "the little boy's parents think he is spirited, but his teacher finds him unruly"
+                ]
+            },
+            {
+                "definition": "unwilling to submit to authority",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "disobedient"
+                ],
+                "similarTo": [
+                    "insubordinate"
+                ],
+                "derivation": [
+                    "unruliness"
+                ],
+                "examples": [
+                    "unruly teenagers"
+                ]
+            },
+            {
+                "definition": "noisy and lacking in restraint or discipline",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "boisterous",
+                    "rambunctious",
+                    "robustious",
+                    "rumbustious"
+                ],
+                "similarTo": [
+                    "disorderly"
+                ],
+                "derivation": [
+                    "unruliness"
+                ],
+                "examples": [
+                    "an unruly class"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.96,
+            "perMillion": 0.89,
+            "diversity": 0
+        }
+    },
+    "unrove": {
+        "rhymes": {
+            "all": "-oʊv"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "ənroʊv"
+        },
+        "sounds": 6
+    },
+    "unrra": {
+        "rhymes": {
+            "all": "-ənrə"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "ənrə"
+        },
+        "sounds": 4
+    },
+    "unsaturate": {
+        "rhymes": {
+            "all": "-ætʃərɪt"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "ənsæʧərɪt"
+        },
+        "sounds": 10
+    },
+    "unscalable": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "un",
+                "scal",
+                "a",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'skeɪləbəl",
+            "simplified": "ənskeɪləbəl"
+        },
+        "rhymePatterns": {
+            "all": "-eɪləbəl"
+        },
+        "definitions": [
+            {
+                "definition": "incapable of being ascended",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unclimbable"
+                ],
+                "antonyms": [
+                    "scalable"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 11
+    },
+    "unscientific": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "un",
+                "sci",
+                "en",
+                "tif",
+                "ic"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ənsaɪən'tɪfɪk",
+            "simplified": "ənsaɪəntɪfɪk"
+        },
+        "rhymePatterns": {
+            "all": "-ɪfɪk"
+        },
+        "definitions": [
+            {
+                "definition": "not consistent with the methods or principles of science",
+                "partOfSpeech": "adjective",
+                "attribute": [
+                    "scientific knowledge"
+                ],
+                "similarTo": [
+                    "pseudoscientific"
+                ],
+                "antonyms": [
+                    "scientific"
+                ],
+                "examples": [
+                    "an unscientific lack of objectivity"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 12,
+        "frequency": {
+            "zipf": 2.36,
+            "perMillion": 0.21,
+            "diversity": 0
+        }
+    },
+    "unscholarly": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "un",
+                "schol",
+                "ar",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'skɑləli",
+            "simplified": "ənskɑləli"
+        },
+        "rhymePatterns": {
+            "all": "-ɑləli"
+        },
+        "definitions": [
+            {
+                "definition": "not scholarly",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "nonintellectual"
+                ],
+                "similarTo": [
+                    "unlearned",
+                    "unstudious"
+                ],
+                "antonyms": [
+                    "scholarly"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 9
+    },
+    "unseaworthy": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "un",
+                "sea",
+                "wor",
+                "thy"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'si,wɜrði",
+            "simplified": "ənsiwɜrði"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrði"
+        },
+        "definitions": [
+            {
+                "definition": "unfit for a voyage",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "leaky"
+                ],
+                "attribute": [
+                    "seaworthiness"
+                ],
+                "antonyms": [
+                    "seaworthy"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 9
+    },
+    "unselfishly": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "un",
+                "self",
+                "ish",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'sɛlfɪʃli",
+            "simplified": "ənsɛlfɪʃli"
+        },
+        "rhymePatterns": {
+            "all": "-ɛlfɪʃli"
+        },
+        "definitions": [
+            {
+                "definition": "in an unselfish manner",
+                "partOfSpeech": null,
+                "antonyms": [
+                    "selfishly"
+                ],
+                "pertainsTo": [
+                    "unselfish"
+                ],
+                "examples": [
+                    "he acted unselfishly when he helped her get the promotion"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "unsensational": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "un",
+                "sen",
+                "sa",
+                "tion",
+                "al"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ənsɛn'seɪʃənəl",
+            "simplified": "ənsɛnseɪʃənəl"
+        },
+        "rhymePatterns": {
+            "all": "-eɪʃənəl"
+        },
+        "definitions": [
+            {
+                "definition": "not of such character as to arouse intense interest, curiosity, or emotional reaction",
+                "partOfSpeech": "adjective",
+                "attribute": [
+                    "sensationalism"
+                ],
+                "antonyms": [
+                    "sensational"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 13
+    },
+    "unsell": {
+        "rhymes": {
+            "all": "-ɛl"
+        },
+        "letters": 6,
+        "pronunciation": "ʌn'sɛl",
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "unset": {
+        "rhymes": {
+            "all": "-ɛt"
+        },
+        "letters": 5,
+        "pronunciation": "ʌn'sɛt",
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "unsex": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "un",
+                "sex"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'sɛks",
+            "simplified": "ənsɛks"
+        },
+        "rhymePatterns": {
+            "all": "-ɛks"
+        },
+        "definitions": [
+            {
+                "definition": "make infertile",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "desex",
+                    "desexualise",
+                    "desexualize",
+                    "fix",
+                    "sterilise",
+                    "sterilize"
+                ],
+                "typeOf": [
+                    "operate on",
+                    "operate"
+                ],
+                "hasTypes": [
+                    "demasculinize",
+                    "emasculate",
+                    "neuter",
+                    "vasectomize",
+                    "alter",
+                    "castrate",
+                    "demasculinise",
+                    "spay",
+                    "vasectomise"
+                ]
+            },
+            {
+                "definition": "deprive of sex or sexual powers",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "divest",
+                    "strip",
+                    "deprive"
+                ]
+            },
+            {
+                "definition": "remove the qualities typical of one's sex",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "change",
+                    "modify",
+                    "alter"
+                ],
+                "examples": [
+                    "She unsexed herself"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.03,
+            "perMillion": 0.09,
+            "diversity": 0
+        }
+    },
+    "unship": {
+        "rhymes": {
+            "all": "-ɪp"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "ənʃɪp"
+        },
+        "sounds": 5,
+        "frequency": 2.02
+    },
+    "unshed": {
+        "rhymes": {
+            "all": "-ɛd"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "ənʃɛd"
+        },
+        "sounds": 5
+    },
+    "unsold": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "un",
+                "sold"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'soʊld",
+            "simplified": "ənsoʊld"
+        },
+        "rhymePatterns": {
+            "all": "-oʊld"
+        },
+        "definitions": [
+            {
+                "definition": "not disposed of by purchase",
+                "partOfSpeech": null,
+                "antonyms": [
+                    "sold"
+                ],
+                "examples": [
+                    "the house has been on the market almost a year and is still unsold"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.36,
+            "perMillion": 0.21,
+            "diversity": 0
+        }
+    },
+    "unsnarl": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "un",
+                "snarl"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'snɑrl",
+            "simplified": "ənsnɑrl"
+        },
+        "rhymePatterns": {
+            "all": "-ɑrl"
+        },
+        "definitions": [
+            {
+                "definition": "extricate from entanglement",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "disentangle",
+                    "straighten out"
+                ],
+                "typeOf": [
+                    "order"
+                ],
+                "hasTypes": [
+                    "ravel",
+                    "loosen",
+                    "tease",
+                    "tease apart",
+                    "unravel",
+                    "ravel out"
+                ],
+                "antonyms": [
+                    "snarl"
+                ],
+                "derivation": [
+                    "unsnarling"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": 1.74
+    },
+    "unsocial": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "un",
+                "so",
+                "cial"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'soʊʃəl",
+            "simplified": "ənsoʊʃəl"
+        },
+        "rhymePatterns": {
+            "all": "-oʊʃəl"
+        },
+        "definitions": [
+            {
+                "definition": "not seeking or given to association; being or living without companions",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "ungregarious",
+                    "unsociable"
+                ],
+                "attribute": [
+                    "sociality"
+                ],
+                "similarTo": [
+                    "asocial",
+                    "lone",
+                    "lonely",
+                    "recluse",
+                    "reclusive",
+                    "solitary",
+                    "withdrawn",
+                    "alone",
+                    "antisocial"
+                ],
+                "antonyms": [
+                    "social"
+                ],
+                "examples": [
+                    "the unsocial disposition to neglect one's neighbors"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "unsolicited": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "un",
+                "so",
+                "lic",
+                "it",
+                "ed"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ənsə'lɪsɪtɪd",
+            "simplified": "ənsəlɪsɪtɪd"
+        },
+        "rhymePatterns": {
+            "all": "-ɪsɪtɪd"
+        },
+        "definitions": [
+            {
+                "definition": "not requested or sought",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unasked-for"
+                ],
+                "similarTo": [
+                    "unrequested"
+                ],
+                "examples": [
+                    "unsolicited junk mail"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 2.6,
+            "perMillion": 0.39,
+            "diversity": 0
+        }
+    },
+    "unsoundness": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "un",
+                "sound",
+                "ness"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'saʊndnɛs",
+            "simplified": "ənsaʊndnɛs"
+        },
+        "rhymePatterns": {
+            "all": "-aʊndnɛs"
+        },
+        "definitions": [
+            {
+                "definition": "a condition of damage or decay",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "condition",
+                    "status"
+                ],
+                "hasTypes": [
+                    "decay",
+                    "disrepair"
+                ],
+                "antonyms": [
+                    "soundness"
+                ],
+                "derivation": [
+                    "unsound"
+                ]
+            },
+            {
+                "definition": "a misconception that is fallacious and not true or valid",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "misconception"
+                ],
+                "derivation": [
+                    "unsound"
+                ],
+                "examples": [
+                    "the unsoundness of his conclusion was obvious"
+                ]
+            },
+            {
+                "definition": "not mentally or physically healthy",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "badness",
+                    "bad"
+                ],
+                "antonyms": [
+                    "soundness"
+                ],
+                "derivation": [
+                    "unsound"
+                ],
+                "examples": [
+                    "no one can be a poet without a certain unsoundness of mind"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10
+    },
+    "unsophisticatedness": {
+        "rhymes": {
+            "all": "-eɪtɪdnɛs"
+        },
+        "letters": 19,
+        "pronunciation": {
+            "simplified": "ənsəfɪstəkeɪtɪdnɛs"
+        },
+        "sounds": 18
+    },
+    "unspeakable": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "un",
+                "speak",
+                "a",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'spikəbəl",
+            "simplified": "ənspikəbəl"
+        },
+        "rhymePatterns": {
+            "all": "-ikəbəl"
+        },
+        "definitions": [
+            {
+                "definition": "too sacred to be uttered",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "ineffable",
+                    "unnameable",
+                    "unutterable"
+                ],
+                "similarTo": [
+                    "sacred"
+                ]
+            },
+            {
+                "definition": "defying expression or description",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "indefinable",
+                    "indescribable",
+                    "ineffable",
+                    "untellable",
+                    "unutterable"
+                ],
+                "similarTo": [
+                    "inexpressible",
+                    "unexpressible"
+                ],
+                "examples": [
+                    "unspeakable happiness"
+                ]
+            },
+            {
+                "definition": "exceptionally bad or displeasing",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "abominable",
+                    "atrocious",
+                    "awful",
+                    "dreadful",
+                    "painful",
+                    "terrible"
+                ],
+                "similarTo": [
+                    "bad"
+                ],
+                "examples": [
+                    "an unspeakable odor came sweeping into the room"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 2.97,
+            "perMillion": 0.92,
+            "diversity": 0.01
+        }
+    },
+    "unspecialized": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "un",
+                "spe",
+                "cial",
+                "ized"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'spɛʃə,laɪzd",
+            "simplified": "ənspɛʃəlaɪzd"
+        },
+        "rhymePatterns": {
+            "all": "-aɪzd"
+        },
+        "definitions": [
+            {
+                "definition": "not specialized or modified for a particular purpose or function",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "unspecialised"
+                ],
+                "also": [
+                    "general"
+                ],
+                "similarTo": [
+                    "generalised",
+                    "generalized"
+                ],
+                "antonyms": [
+                    "specialized"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 12
+    },
+    "unspiritual": {
+        "rhymes": {
+            "all": "-ɪritjʊəl"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ənspɪritjʊəl"
+        },
+        "sounds": 12
+    },
+    "unsporting": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "un",
+                "sport",
+                "ing"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'spoʊrtiŋ",
+            "simplified": "ənspoʊrtiŋ"
+        },
+        "rhymePatterns": {
+            "all": "-oʊrtiŋ"
+        },
+        "definitions": [
+            {
+                "definition": "violating accepted standards or rules",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "cheating",
+                    "dirty",
+                    "foul",
+                    "unsportsmanlike"
+                ],
+                "similarTo": [
+                    "unfair",
+                    "unjust"
+                ],
+                "examples": [
+                    "a nasty unsporting serve"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "unstable": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "un",
+                "sta",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "ən'steɪbəl",
+            "simplified": "ənsteɪbəl"
+        },
+        "rhymePatterns": {
+            "all": "-eɪbəl"
+        },
+        "definitions": [
+            {
+                "definition": "affording no ease or reassurance",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "precarious"
+                ],
+                "similarTo": [
+                    "uneasy"
+                ],
+                "derivation": [
+                    "unstableness"
+                ]
+            },
+            {
+                "definition": "suffering from severe mental illness",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "mentally ill",
+                    "unsound"
+                ],
+                "similarTo": [
+                    "insane"
+                ],
+                "derivation": [
+                    "unstableness"
+                ]
+            },
+            {
+                "definition": "subject to change; variable",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "fluid"
+                ],
+                "similarTo": [
+                    "changeful",
+                    "changeable"
+                ],
+                "examples": [
+                    "everything was unstable following the coup"
+                ]
+            },
+            {
+                "definition": "disposed to psychological variability",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "irresolute"
+                ],
+                "derivation": [
+                    "unstableness"
+                ],
+                "examples": [
+                    "his rather unstable religious convictions"
+                ]
+            },
+            {
+                "definition": "highly or violently reactive",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "reactive"
+                ],
+                "derivation": [
+                    "unstableness"
+                ],
+                "examples": [
+                    "sensitive and highly unstable compounds"
+                ]
+            },
+            {
+                "definition": "lacking stability or fixity or firmness",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "inconstant",
+                    "unsteady",
+                    "temporary",
+                    "impermanent"
+                ],
+                "similarTo": [
+                    "rocky",
+                    "seismal",
+                    "seismic",
+                    "shaky",
+                    "tender",
+                    "tippy",
+                    "tipsy",
+                    "top-heavy",
+                    "tottering",
+                    "wonky",
+                    "coseismal",
+                    "coseismic",
+                    "crank",
+                    "cranky",
+                    "explosive",
+                    "rickety",
+                    "volatile",
+                    "volcanic",
+                    "wobbly"
+                ],
+                "antonyms": [
+                    "stable"
+                ],
+                "derivation": [
+                    "unstableness"
+                ],
+                "examples": [
+                    "unstable political conditions",
+                    "the tower proved to be unstable in the high wind",
+                    "an unstable world economy"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 3.72,
+            "perMillion": 5.27,
+            "diversity": 0.03
+        }
+    }
+}

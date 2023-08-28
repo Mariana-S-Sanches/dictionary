@@ -1,0 +1,529 @@
+{
+    "zabrze": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "za",
+                "brze"
+            ]
+        },
+        "pronunciation": {
+            "all": "'zɑbʒɛ",
+            "simplified": "zɑbʒɛ"
+        },
+        "rhymePatterns": {
+            "all": "-ɑbʒɛ"
+        },
+        "definitions": [
+            {
+                "definition": "an industrial city in southern Poland",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "city",
+                    "metropolis",
+                    "urban center"
+                ],
+                "partOf": [
+                    "poland",
+                    "polska",
+                    "republic of poland"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5
+    },
+    "zaddik": {
+        "rhymes": {
+            "all": "-ik"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "zɑdik"
+        },
+        "sounds": 5
+    },
+    "zagreb": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "za",
+                "greb"
+            ]
+        },
+        "pronunciation": {
+            "all": "'zɑgrɛb",
+            "simplified": "zɑgrɛb"
+        },
+        "rhymePatterns": {
+            "all": "-ɑgrɛb"
+        },
+        "definitions": [
+            {
+                "definition": "the capital of Croatia",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "national capital"
+                ],
+                "partOf": [
+                    "croatia",
+                    "hrvatska",
+                    "republic of croatia"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.07,
+            "perMillion": 1.17,
+            "diversity": 0
+        }
+    },
+    "zama": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "za",
+                "ma"
+            ]
+        },
+        "pronunciation": {
+            "all": "'zeɪmə",
+            "simplified": "zeɪmə"
+        },
+        "rhymePatterns": {
+            "all": "-eɪmə"
+        },
+        "definitions": [
+            {
+                "definition": "the battle in 202 BC in which Scipio decisively defeated Hannibal at the end of the second Punic War",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "battle of zama"
+                ],
+                "inRegion": [
+                    "republic of tunisia",
+                    "tunisia"
+                ],
+                "instanceOf": [
+                    "pitched battle"
+                ],
+                "partOf": [
+                    "punic war"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.27,
+            "perMillion": 0.17,
+            "diversity": 0
+        }
+    },
+    "zamora": {
+        "rhymes": {
+            "all": "-ɔRɑ"
+        },
+        "letters": 6,
+        "pronunciation": "zʌ'mɔrʌ",
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.5,
+            "perMillion": 0.31,
+            "diversity": 0
+        }
+    },
+    "zany": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "za",
+                "ny"
+            ]
+        },
+        "pronunciation": {
+            "all": "'zeɪni",
+            "simplified": "zeɪni"
+        },
+        "rhymePatterns": {
+            "all": "-eɪni"
+        },
+        "definitions": [
+            {
+                "definition": "a man who is a stupid incompetent fool",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "bozo",
+                    "cuckoo",
+                    "fathead",
+                    "goof",
+                    "goofball",
+                    "goose",
+                    "jackass",
+                    "twat"
+                ],
+                "typeOf": [
+                    "muggins",
+                    "fool",
+                    "sap",
+                    "saphead",
+                    "tomfool"
+                ]
+            },
+            {
+                "definition": "ludicrous, foolish",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "goofy",
+                    "silly",
+                    "wacky",
+                    "whacky"
+                ],
+                "usageOf": [
+                    "colloquialism"
+                ],
+                "similarTo": [
+                    "foolish"
+                ]
+            },
+            {
+                "definition": "like a clown",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "buffoonish",
+                    "clownish",
+                    "clownlike"
+                ],
+                "similarTo": [
+                    "humourous",
+                    "humorous"
+                ],
+                "examples": [
+                    "a zany sense of humor"
+                ]
+            },
+            {
+                "definition": "a buffoon in one of the old comedies; imitates others for ludicrous effect",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "goofball",
+                    "merry andrew",
+                    "buffoon",
+                    "clown",
+                    "goof"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.4,
+            "perMillion": 0.24,
+            "diversity": 0
+        }
+    },
+    "zealous": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "zeal",
+                "ous"
+            ]
+        },
+        "pronunciation": {
+            "all": "'zɛləs",
+            "simplified": "zɛləs"
+        },
+        "rhymePatterns": {
+            "all": "-ɛləs"
+        },
+        "definitions": [
+            {
+                "definition": "marked by active interest and enthusiasm",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "avid"
+                ],
+                "similarTo": [
+                    "enthusiastic"
+                ],
+                "derivation": [
+                    "zeal"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.59,
+            "perMillion": 0.37,
+            "diversity": 0
+        }
+    },
+    "zebec": {
+        "rhymes": {
+            "all": "-ibɛk"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "zibɛk"
+        },
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "zelig": {
+        "rhymes": {
+            "all": "-ilɪɡ"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "zilɪɡ"
+        },
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "zelmira": {
+        "rhymes": {
+            "all": "-aɪrə"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "zɛlmaɪrə"
+        },
+        "sounds": 8
+    },
+    "zendo": {
+        "rhymes": {
+            "all": "-ɛndoʊ"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "zɛndoʊ"
+        },
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "zenist": {
+        "rhymes": {
+            "all": "-ɛnɪst"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "zɛnɪst"
+        },
+        "sounds": 6
+    },
+    "zenith": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ze",
+                "nith"
+            ]
+        },
+        "pronunciation": {
+            "all": "'zinɪθ",
+            "simplified": "zinɪθ"
+        },
+        "rhymePatterns": {
+            "all": "-inɪθ"
+        },
+        "definitions": [
+            {
+                "definition": "the point above the observer that is directly opposite the nadir on the imaginary sphere against which celestial bodies appear to be projected",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "celestial point"
+                ],
+                "partOf": [
+                    "celestial sphere",
+                    "empyrean",
+                    "firmament",
+                    "heavens",
+                    "sphere",
+                    "vault of heaven",
+                    "welkin"
+                ],
+                "antonyms": [
+                    "nadir"
+                ],
+                "derivation": [
+                    "zenithal"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.79,
+            "perMillion": 0.6,
+            "diversity": 0
+        }
+    },
+    "zero-divisor": {
+        "rhymes": {
+            "all": "-aɪzər"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "ziroʊdɪvaɪzər"
+        },
+        "sounds": 13
+    },
+    "zeroth": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ze",
+                "roth"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ziəroʊθ",
+            "simplified": "ziəroʊθ"
+        },
+        "rhymePatterns": {
+            "all": "-iəroʊθ"
+        },
+        "definitions": [
+            {
+                "definition": "preceding even the first",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "ordinal"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7
+    },
+    "zerubbabel": {
+        "rhymes": {
+            "all": "-əbəbəl"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "zərəbəbəl"
+        },
+        "sounds": 9
+    },
+    "zezel": {
+        "rhymes": {
+            "all": "-ɛzəl"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "zɛzəl"
+        },
+        "sounds": 5
+    },
+    "zincograph": {
+        "rhymes": {
+            "all": "-æf"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "zɪŋkəgræf"
+        },
+        "sounds": 9
+    },
+    "zino": {
+        "rhymes": {
+            "all": "-inoʊ"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "zinoʊ"
+        },
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "znaniecki": {
+        "rhymes": {
+            "all": "-ɛzki"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "znɑnjɛzki"
+        },
+        "sounds": 9
+    },
+    "zoar": {
+        "rhymes": {
+            "all": "-oʊər"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "zoʊər"
+        },
+        "sounds": 5
+    },
+    "zoometric": {
+        "rhymes": {
+            "all": "-ɛtrɪk"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "zoʊəmɛtrɪk"
+        },
+        "sounds": 10
+    },
+    "zoophobous": {
+        "rhymes": {
+            "all": "-ɑfəbəs"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "zoʊɑfəbəs"
+        },
+        "sounds": 9
+    },
+    "zosimus": {
+        "rhymes": {
+            "all": "-oʊsəməs"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "zoʊsəməs"
+        },
+        "sounds": 8
+    },
+    "zuloaga": {
+        "rhymes": {
+            "all": "-ɑɡɑ"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "θulɔɑɡɑ"
+        },
+        "sounds": 7
+    },
+    "zymoses": {
+        "rhymes": {
+            "all": "-aɪmoʊsiz"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "zaɪmoʊsiz"
+        },
+        "sounds": 9
+    }
+}

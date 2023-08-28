@@ -1,0 +1,1951 @@
+{
+    "a fortiori": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "a for",
+                "ti",
+                "o",
+                "ri"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɑ_,foʊRtɪ'oʊRi",
+            "simplified": "ɑfoʊRtɪoʊRi"
+        },
+        "rhymePatterns": {
+            "all": "-oʊRi"
+        },
+        "definitions": [],
+        "letters": 9,
+        "sounds": 11
+    },
+    "aarhus": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "aar",
+                "hus"
+            ]
+        },
+        "definitions": [
+            {
+                "definition": "port city of Denmark in eastern Jutland",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "arhus"
+                ],
+                "instanceOf": [
+                    "metropolis",
+                    "port",
+                    "urban center",
+                    "city"
+                ],
+                "partOf": [
+                    "kingdom of denmark",
+                    "danmark",
+                    "denmark"
+                ]
+            }
+        ],
+        "letters": 6,
+        "frequency": {
+            "zipf": 2.3,
+            "perMillion": 0.19,
+            "diversity": 0
+        }
+    },
+    "aaron's beard": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "aa",
+                "ron's",
+                "beard"
+            ]
+        },
+        "letters": 12
+    },
+  
+    "abd-al-kadir": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "abd-al-ka",
+                "dir"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ɑbdæl_'kɑdir",
+            "simplified": "ɑbdælkɑdir"
+        },
+        "rhymePatterns": {
+            "all": "-ɑdir"
+        },
+        "letters": 12,
+        "sounds": 10
+    },
+    "abbai": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ab",
+                "bai"
+            ]
+        },
+        "pronunciation": {
+            "all": "ɑ'baɪ",
+            "simplified": "ɑbaɪ"
+        },
+        "rhymePatterns": {
+            "all": "-aɪ"
+        },
+        "letters": 5,
+        "sounds": 4
+    },
+    "abbeystead": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ab",
+                "bey",
+                "stead"
+            ]
+        },
+        "pronunciation": {
+            "all": "'æbi,stɛd",
+            "simplified": "æbistɛd"
+        },
+        "rhymePatterns": {
+            "all": "-ɛd"
+        },
+        "letters": 10,
+        "sounds": 7
+    },
+    "abbess": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ab",
+                "bess"
+            ]
+        },
+        "pronunciation": {
+            "all": "'æbɪs",
+            "simplified": "æbɪs"
+        },
+        "rhymePatterns": {
+            "all": "-æbɪs"
+        },
+        "definitions": [
+            {
+                "definition": "the superior of a group of nuns",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "mother superior",
+                    "prioress"
+                ],
+                "typeOf": [
+                    "superior"
+                ],
+                "hasTypes": [
+                    "mother"
+                ],
+                "hasInstances": [
+                    "brigid",
+                    "heloise",
+                    "saint bride",
+                    "bride",
+                    "saint brigid",
+                    "st. bride",
+                    "st. bridget",
+                    "st. brigid",
+                    "saint bridget",
+                    "bridget"
+                ],
+                "derivation": [
+                    "abbatial"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 2.47,
+            "perMillion": 0.28,
+            "diversity": 0
+        }
+    },
+    "abdominous": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ab",
+                "dom",
+                "i",
+                "nous"
+            ]
+        },
+        "pronunciation": {
+            "all": "æb'dɑmənəs",
+            "simplified": "æbdɑmənəs"
+        },
+        "rhymePatterns": {
+            "all": "-ɑmənəs"
+        },
+        "definitions": [
+            {
+                "definition": "having a large belly",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "paunchy",
+                    "potbellied"
+                ],
+                "similarTo": [
+                    "fat"
+                ],
+                "derivation": [
+                    "abdominousness"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "abducens nerve": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ab",
+                "du",
+                "cens nerve"
+            ]
+        },
+        "pronunciation": {
+            "all": "æb'dusɛnz_nɜrv",
+            "simplified": "æbdusɛnznɜrv"
+        },
+        "rhymePatterns": {
+            "all": "-usɛnz_nɜrv"
+        },
+        "definitions": [
+            {
+                "definition": "a small motor nerve supplying the lateral rectus muscle of the eye",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "abducens",
+                    "abducent",
+                    "abducent nerve",
+                    "nervus abducens",
+                    "sixth cranial nerve"
+                ],
+                "typeOf": [
+                    "cranial nerve"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 12
+    },
+    "abelard": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ab",
+                "e",
+                "lard"
+            ]
+        },
+        "pronunciation": {
+            "all": "'æbə,lɑrd",
+            "simplified": "æbəlɑrd"
+        },
+        "rhymePatterns": {
+            "all": "-ɑrd"
+        },
+        "definitions": [
+            {
+                "definition": "French philosopher and theologian; lover of Heloise (1079-1142)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "peter abelard",
+                    "pierre abelard"
+                ],
+                "instanceOf": [
+                    "philosopher",
+                    "theologian",
+                    "theologiser",
+                    "theologist",
+                    "theologizer"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "abhenry": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ab",
+                "hen",
+                "ry"
+            ]
+        },
+        "pronunciation": {
+            "all": "æb'hɛnri",
+            "simplified": "æbhɛnri"
+        },
+        "rhymePatterns": {
+            "all": "-ɛnri"
+        },
+        "definitions": [
+            {
+                "definition": "a unit of inductance equal to one billionth of a henry",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "inductance unit"
+                ],
+                "partOf": [
+                    "h",
+                    "henry"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7
+    },
+    "abirritate": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ab",
+                "ir",
+                "ri",
+                "tate"
+            ]
+        },
+        "pronunciation": {
+            "all": "æb'ɪrɪ,teɪt",
+            "simplified": "æbɪrɪteɪt"
+        },
+        "rhymePatterns": {
+            "all": "-eɪt"
+        },
+        "letters": 10,
+        "sounds": 9
+    },
+    "abirritating": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ab",
+                "ir",
+                "ri",
+                "tat",
+                "ing"
+            ]
+        },
+        "letters": 12
+    },
+    "abirritative": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ab",
+                "ir",
+                "ri",
+                "ta",
+                "tive"
+            ]
+        },
+        "letters": 12
+    },
+    "abjection": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ab",
+                "jec",
+                "tion"
+            ]
+        },
+        "pronunciation": {
+            "all": "əb'dʒɛkʃən",
+            "simplified": "əbdʒɛkʃən"
+        },
+        "rhymePatterns": {
+            "all": "-ɛkʃən"
+        },
+        "definitions": [
+            {
+                "definition": "a low or downcast state",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "abasement",
+                    "degradation"
+                ],
+                "typeOf": [
+                    "humiliation"
+                ],
+                "hasTypes": [
+                    "decadence",
+                    "decadency",
+                    "degeneracy",
+                    "degeneration",
+                    "depth"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9
+    },
+    "abjectedness": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ab",
+                "ject",
+                "ed",
+                "ness"
+            ]
+        },
+        "letters": 12
+    },
+    "ablactating": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ab",
+                "lac",
+                "tat",
+                "ing"
+            ]
+        },
+        "letters": 11
+    },
+    "ablate": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ab",
+                "late"
+            ]
+        },
+        "pronunciation": {
+            "all": "æ'bleɪt",
+            "simplified": "æbleɪt"
+        },
+        "rhymePatterns": {
+            "all": "-eɪt"
+        },
+        "definitions": [
+            {
+                "definition": "remove an organ or bodily structure",
+                "partOfSpeech": "verb",
+                "inCategory": [
+                    "surgery",
+                    "surgical operation",
+                    "surgical procedure",
+                    "operation",
+                    "surgical process"
+                ],
+                "typeOf": [
+                    "withdraw",
+                    "remove",
+                    "take",
+                    "take away"
+                ],
+                "derivation": [
+                    "ablation"
+                ]
+            },
+            {
+                "definition": "wear away through erosion or vaporization",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "wear down",
+                    "wear off",
+                    "wear out",
+                    "wear thin",
+                    "wear"
+                ],
+                "derivation": [
+                    "ablation",
+                    "ablative"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": 1.74
+    },
+    "ablator": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ab",
+                "la",
+                "tor"
+            ]
+        },
+        "letters": 7
+    },
+    "abnormal psychology": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "ab",
+                "nor",
+                "mal psy",
+                "chol",
+                "o",
+                "gy"
+            ]
+        },
+        "pronunciation": {
+            "all": "æb'nɔrməl_saɪ'kɑlədʒi",
+            "simplified": "æbnɔrməlsaɪkɑlədʒi"
+        },
+        "rhymePatterns": {
+            "all": "-ɑlədʒi"
+        },
+        "definitions": [
+            {
+                "definition": "the branch of psychology concerned with abnormal behavior",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "psychopathology"
+                ],
+                "typeOf": [
+                    "psychological science",
+                    "psychology"
+                ]
+            }
+        ],
+        "letters": 18,
+        "sounds": 18
+    },
+    "abnormally": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ab",
+                "nor",
+                "mal",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "æb'nɔrməlli",
+            "simplified": "æbnɔrməlli"
+        },
+        "rhymePatterns": {
+            "all": "-ɔrməlli"
+        },
+        "definitions": [
+            {
+                "definition": "in an abnormal manner",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "abnormal"
+                ],
+                "examples": [
+                    "they were behaving abnormally",
+                    "his blood pressure was abnormally low"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 2.62,
+            "perMillion": 0.4,
+            "diversity": 0
+        }
+    },
+    "aborigine": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ab",
+                "o",
+                "rig",
+                "i",
+                "ne"
+            ]
+        },
+        "pronunciation": {
+            "all": ",æbə'rɪdʒəni",
+            "simplified": "æbərɪdʒəni"
+        },
+        "rhymePatterns": {
+            "all": "-ɪdʒəni"
+        },
+        "definitions": [
+            {
+                "definition": "a member of the people living in Australia when Europeans arrived",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "australian aborigine",
+                    "native australian"
+                ],
+                "typeOf": [
+                    "aussie",
+                    "australian",
+                    "ethnic group",
+                    "ethnos"
+                ]
+            },
+            {
+                "definition": "an indigenous person who was born in a particular place",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "aboriginal",
+                    "indigen",
+                    "indigene",
+                    "native"
+                ],
+                "typeOf": [
+                    "soul",
+                    "individual",
+                    "mortal",
+                    "person",
+                    "somebody",
+                    "someone"
+                ],
+                "hasTypes": [
+                    "russian",
+                    "levantine",
+                    "mauritian",
+                    "seychellois",
+                    "filipino"
+                ],
+                "derivation": [
+                    "aboriginal"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 2.49,
+            "perMillion": 0.29,
+            "diversity": 0
+        }
+    },
+    "abrogative": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ab",
+                "ro",
+                "ga",
+                "tive"
+            ]
+        },
+        "letters": 10
+    },
+    "abruption": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ab",
+                "rup",
+                "tion"
+            ]
+        },
+        "pronunciation": {
+            "all": "ə'brəpʃən",
+            "simplified": "əbrəpʃən"
+        },
+        "rhymePatterns": {
+            "all": "-əpʃən"
+        },
+        "definitions": [
+            {
+                "definition": "an instance of sudden interruption",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "breaking off"
+                ],
+                "typeOf": [
+                    "break",
+                    "disruption",
+                    "gap",
+                    "interruption"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": 2.48
+    },
+    "absentness": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ab",
+                "sent",
+                "ness"
+            ]
+        },
+        "letters": 10
+    },
+    "absente reo": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ab",
+                "sen",
+                "te",
+                "re",
+                "o"
+            ]
+        },
+        "pronunciation": {
+            "all": "æb'sɛnti_'rioʊ",
+            "simplified": "æbsɛntirioʊ"
+        },
+        "rhymePatterns": {
+            "all": "-ioʊ"
+        },
+        "letters": 10,
+        "sounds": 11
+    },
+    "absolve": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ab",
+                "solve"
+            ]
+        },
+        "pronunciation": {
+            "all": "æb'zɑlv",
+            "simplified": "æbzɑlv"
+        },
+        "rhymePatterns": {
+            "all": "-ɑlv"
+        },
+        "definitions": [
+            {
+                "definition": "grant remission of a sin to",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "shrive"
+                ],
+                "typeOf": [
+                    "forgive"
+                ],
+                "derivation": [
+                    "absolution",
+                    "absolver",
+                    "absolvitory"
+                ],
+                "examples": [
+                    "The priest absolved him and told him to say ten Hail Marys"
+                ]
+            },
+            {
+                "definition": "let off the hook",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "free"
+                ],
+                "typeOf": [
+                    "forgive"
+                ],
+                "hasTypes": [
+                    "justify",
+                    "let off",
+                    "relieve",
+                    "excuse",
+                    "wash one's hands",
+                    "exempt"
+                ],
+                "antonyms": [
+                    "blame"
+                ],
+                "derivation": [
+                    "absolvitory"
+                ],
+                "examples": [
+                    "I absolve you from this responsibility"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.98,
+            "perMillion": 0.93,
+            "diversity": 0
+        }
+    },
+    "absolved": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ab",
+                "solved"
+            ]
+        },
+        "definitions": [
+            {
+                "definition": "freed from any question of guilt",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "clear",
+                    "cleared",
+                    "exculpated",
+                    "exonerated",
+                    "vindicated"
+                ],
+                "similarTo": [
+                    "clean-handed",
+                    "guiltless",
+                    "innocent"
+                ],
+                "examples": [
+                    "is absolved from all blame"
+                ]
+            }
+        ],
+        "letters": 8,
+        "frequency": {
+            "zipf": 2.73,
+            "perMillion": 0.52,
+            "diversity": 0
+        },
+        "pronunciation": {"all": "ʌb'zɑlvd"}
+    },
+    "absolver": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ab",
+                "solv",
+                "er"
+            ]
+        },
+        "definitions": [
+            {
+                "definition": "someone who grants absolution",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "pardoner"
+                ],
+                "derivation": [
+                    "absolve"
+                ]
+            }
+        ],
+        "letters": 8,
+        "frequency": 2.31
+    },
+    "absolvent": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ab",
+                "sol",
+                "vent"
+            ]
+        },
+        "letters": 9
+    },
+    "absorbability": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "ab",
+                "sorb",
+                "a",
+                "bil",
+                "i",
+                "ty"
+            ]
+        },
+        "letters": 13
+    },
+    "absorbency": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ab",
+                "sorb",
+                "en",
+                "cy"
+            ]
+        },
+        "definitions": [
+            {
+                "definition": "the property of being absorbent",
+                "partOfSpeech": "noun",
+                "attribute": [
+                    "absorbent",
+                    "absorptive",
+                    "nonabsorbent",
+                    "nonabsorptive"
+                ],
+                "typeOf": [
+                    "permeability",
+                    "permeableness"
+                ],
+                "antonyms": [
+                    "nonabsorbency"
+                ],
+                "derivation": [
+                    "absorbent"
+                ]
+            }
+        ],
+        "letters": 10,
+        "pronunciation": {"all": "ʌb'zɔrbʌnsi"}
+    },
+    "absolute value": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ab",
+                "so",
+                "lute val",
+                "ue"
+            ]
+        },
+        "pronunciation": {
+            "all": "'æbsə,lut_'vælju",
+            "simplified": "æbsəlutvælju"
+        },
+        "rhymePatterns": {
+            "all": "-ælju"
+        },
+        "definitions": [
+            {
+                "definition": "a real number regardless of its sign",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "numerical value"
+                ],
+                "typeOf": [
+                    "definite quantity"
+                ],
+                "hasTypes": [
+                    "modulus"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 12
+    },
+    "abstersion": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ab",
+                "ster",
+                "sion"
+            ]
+        },
+        "pronunciation": {
+            "all": "æb'stɜrʃən",
+            "simplified": "æbstɜrʃən"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrʃən"
+        },
+        "letters": 10,
+        "sounds": 9
+    },
+    "abu simbel": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ab",
+                "u",
+                "sim",
+                "bel"
+            ]
+        },
+        "pronunciation": {
+            "all": "ə'bu_'sɪmbɛl",
+            "simplified": "əbusɪmbɛl"
+        },
+        "rhymePatterns": {
+            "all": "-ɪmbɛl"
+        },
+        "letters": 9,
+        "sounds": 9
+    },
+    "ac-globulin": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ac-glob",
+                "u",
+                "lin"
+            ]
+        },
+        "pronunciation": {
+            "all": "'eɪ'si,glɑbjəlɪn",
+            "simplified": "eɪsiglɑbjəlɪn"
+        },
+        "rhymePatterns": {
+            "all": "-ɑbjəlɪn"
+        },
+        "letters": 11,
+        "sounds": 13
+    },
+    "acheson": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ach",
+                "e",
+                "son"
+            ]
+        },
+        "pronunciation": {
+            "all": "'æʧɪsən",
+            "simplified": "æʧɪsən"
+        },
+        "rhymePatterns": {
+            "all": "-ætʃɪsən"
+        },
+        "definitions": [
+            {
+                "definition": "United States statesman who promoted the Marshall Plan and helped establish NATO (1893-1971)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dean acheson",
+                    "dean gooderham acheson"
+                ],
+                "instanceOf": [
+                    "national leader",
+                    "solon",
+                    "statesman"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.2,
+            "perMillion": 0.15,
+            "diversity": 0
+        }
+    },
+    "achromate": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ach",
+                "ro",
+                "mate"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ækrə,meɪt",
+            "simplified": "ækrəmeɪt"
+        },
+        "rhymePatterns": {
+            "all": "-eɪt"
+        },
+        "letters": 9,
+        "sounds": 8
+    },
+    "acanthodian": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ac",
+                "an",
+                "tho",
+                "di",
+                "an"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ækən'θoʊdiən",
+            "simplified": "ækənθoʊdiən"
+        },
+        "rhymePatterns": {
+            "all": "-oʊdiən"
+        },
+        "letters": 11,
+        "sounds": 11
+    },
+    "acanthosis": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ac",
+                "an",
+                "tho",
+                "sis"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ækən'θoʊsɪs",
+            "simplified": "ækənθoʊsɪs"
+        },
+        "rhymePatterns": {
+            "all": "-oʊsɪs"
+        },
+        "definitions": [
+            {
+                "definition": "an abnormal but benign thickening of the prickle-cell layer of the skin (as in psoriasis)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "disease of the skin",
+                    "skin disease",
+                    "skin disorder"
+                ],
+                "partOf": [
+                    "psoriasis"
+                ],
+                "derivation": [
+                    "acanthotic"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10
+    },
+    "academical": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ac",
+                "a",
+                "dem",
+                "i",
+                "cal"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ækə'dɛmɪkəl",
+            "simplified": "ækədɛmɪkəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɛmɪkəl"
+        },
+        "letters": 10,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "acaleph": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ac",
+                "a",
+                "leph"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ækə,lɛf",
+            "simplified": "ækəlɛf"
+        },
+        "rhymePatterns": {
+            "all": "-ɛf"
+        },
+        "letters": 7,
+        "sounds": 6
+    },
+    "acari": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ac",
+                "a",
+                "ri"
+            ]
+        },
+        "letters": 5
+    },
+    "acaroid gum": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ac",
+                "a",
+                "roid",
+                "gum"
+            ]
+        },
+        "letters": 10
+    },
+    "accadian": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ac",
+                "ca",
+                "di",
+                "an"
+            ]
+        },
+        "pronunciation": {
+            "all": "ə'keɪdiən",
+            "simplified": "əkeɪdiən"
+        },
+        "rhymePatterns": {
+            "all": "-eɪdiən"
+        },
+        "letters": 8,
+        "sounds": 8,
+        "frequency": 1.74
+    },
+    "acceptability": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "ac",
+                "cept",
+                "a",
+                "bil",
+                "i",
+                "ty"
+            ]
+        },
+        "pronunciation": {
+            "all": "ək,sɛptə'bɪlɪti",
+            "simplified": "əksɛptəbɪlɪti"
+        },
+        "rhymePatterns": {
+            "all": "-ɪlɪti"
+        },
+        "definitions": [
+            {
+                "definition": "satisfactoriness by virtue of conforming to approved standards",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "acceptableness"
+                ],
+                "typeOf": [
+                    "satisfactoriness"
+                ],
+                "hasTypes": [
+                    "admissibility",
+                    "palatability",
+                    "palatableness"
+                ],
+                "antonyms": [
+                    "unacceptability"
+                ],
+                "derivation": [
+                    "acceptable"
+                ]
+            }
+        ],
+        "letters": 13,
+        "sounds": 13,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "accepter": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ac",
+                "cept",
+                "er"
+            ]
+        },
+        "pronunciation": {
+            "all": "æk'sɛptər",
+            "simplified": "æksɛptər"
+        },
+        "rhymePatterns": {
+            "all": "-ɛptər"
+        },
+        "letters": 8,
+        "sounds": 8
+    },
+    "accessible": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ac",
+                "ces",
+                "si",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "æk'sɛsəbəl",
+            "simplified": "æksɛsəbəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɛsəbəl"
+        },
+        "definitions": [
+            {
+                "definition": "capable of being read with comprehension",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "approachable"
+                ],
+                "similarTo": [
+                    "comprehendible",
+                    "comprehensible"
+                ],
+                "examples": [
+                    "readily accessible to the nonprofessional reader"
+                ]
+            },
+            {
+                "definition": "capable of being reached",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "convenient"
+                ],
+                "attribute": [
+                    "availability",
+                    "availableness",
+                    "handiness",
+                    "accessibility"
+                ],
+                "similarTo": [
+                    "ready to hand",
+                    "approachable",
+                    "come-at-able",
+                    "get-at-able",
+                    "getatable",
+                    "handy",
+                    "reachable"
+                ],
+                "antonyms": [
+                    "inaccessible"
+                ],
+                "derivation": [
+                    "access"
+                ],
+                "examples": [
+                    "a town accessible by rail"
+                ]
+            },
+            {
+                "definition": "easily obtained",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "available"
+                ],
+                "derivation": [
+                    "accessibility"
+                ],
+                "examples": [
+                    "most students now have computers accessible",
+                    "accessible money"
+                ]
+            },
+            {
+                "definition": "easy to get along with or talk to; friendly",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "approachable"
+                ],
+                "derivation": [
+                    "accessibility"
+                ],
+                "examples": [
+                    "an accessible and genial man"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 3.24,
+            "perMillion": 1.73,
+            "diversity": 0.01
+        }
+    },
+    "accessorial": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ac",
+                "ces",
+                "so",
+                "ri",
+                "al"
+            ]
+        },
+        "pronunciation": {
+            "all": ",æksɪ'soʊriəl",
+            "simplified": "æksɪsoʊriəl"
+        },
+        "rhymePatterns": {
+            "all": "-oʊriəl"
+        },
+        "definitions": [
+            {
+                "definition": "nonessential but helpful",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "inessential",
+                    "unessential"
+                ],
+                "derivation": [
+                    "accessory"
+                ],
+                "examples": [
+                    "accessorial services included sorting and packing"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11
+    },
+    "accessorius": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ac",
+                "ces",
+                "so",
+                "ri",
+                "us"
+            ]
+        },
+        "pronunciation": {
+            "all": ",æksɪ'soʊriəs",
+            "simplified": "æksɪsoʊriəs"
+        },
+        "rhymePatterns": {
+            "all": "-oʊriəs"
+        },
+        "letters": 11,
+        "sounds": 11
+    },
+    "accipitrine": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ac",
+                "cip",
+                "i",
+                "trine"
+            ]
+        },
+        "pronunciation": {
+            "all": "æk'sɪpɪtrɪn",
+            "simplified": "æksɪpɪtrɪn"
+        },
+        "rhymePatterns": {
+            "all": "-ɪpɪtrɪn"
+        },
+        "definitions": [
+            {
+                "definition": "of or relating to or belonging to the genus Accipiter (or to typical hawks)",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "accipiter"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10
+    },
+    "acclimating": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ac",
+                "cli",
+                "mat",
+                "ing"
+            ]
+        },
+        "letters": 11,
+        "frequency": {
+            "zipf": 1.97,
+            "perMillion": 0.08,
+            "diversity": 0
+        }
+    },
+    "acclimatizing": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ac",
+                "cli",
+                "ma",
+                "tiz",
+                "ing"
+            ]
+        },
+        "letters": 13
+    },
+    "acclimatization": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "ac",
+                "cli",
+                "ma",
+                "ti",
+                "za",
+                "tion"
+            ]
+        },
+        "definitions": [
+            {
+                "definition": "adaptation to a new climate (a new temperature or altitude or environment)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "acclimation",
+                    "acclimatisation"
+                ],
+                "typeOf": [
+                    "adaptation",
+                    "adaption",
+                    "adjustment"
+                ],
+                "derivation": [
+                    "acclimatize"
+                ]
+            }
+        ],
+        "letters": 15,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "accompt": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ac",
+                "compt"
+            ]
+        },
+        "pronunciation": {
+            "all": "ə'kaʊnt",
+            "simplified": "əkaʊnt"
+        },
+        "rhymePatterns": {
+            "all": "-aʊnt"
+        },
+        "letters": 7,
+        "sounds": 6
+    },
+    "accommodate": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ac",
+                "com",
+                "mo",
+                "date"
+            ]
+        },
+        "pronunciation": {
+            "all": "ə'kɑmə,deɪt",
+            "simplified": "əkɑmədeɪt"
+        },
+        "rhymePatterns": {
+            "all": "-eɪt"
+        },
+        "definitions": [
+            {
+                "definition": "provide housing for",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "lodge"
+                ],
+                "typeOf": [
+                    "house",
+                    "put up",
+                    "domiciliate"
+                ],
+                "hasTypes": [
+                    "barrack",
+                    "quarter",
+                    "keep",
+                    "canton",
+                    "billet"
+                ],
+                "derivation": [
+                    "accommodation"
+                ]
+            },
+            {
+                "definition": "be agreeable or acceptable to",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "fit",
+                    "suit"
+                ],
+                "typeOf": [
+                    "fulfil",
+                    "fulfill",
+                    "satisfy",
+                    "fill",
+                    "conform to",
+                    "fit",
+                    "meet"
+                ],
+                "derivation": [
+                    "accommodative",
+                    "accommodation"
+                ]
+            },
+            {
+                "definition": "have room for; hold without crowding",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "admit",
+                    "hold"
+                ],
+                "hasTypes": [
+                    "sleep",
+                    "seat",
+                    "house"
+                ],
+                "verbGroup": [
+                    "hold",
+                    "contain",
+                    "take"
+                ],
+                "examples": [
+                    "This hotel can accommodate 250 guests"
+                ]
+            },
+            {
+                "definition": "make (one thing) compatible with (another)",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "conciliate",
+                    "reconcile"
+                ],
+                "typeOf": [
+                    "harmonize",
+                    "harmonise"
+                ],
+                "derivation": [
+                    "accommodation"
+                ],
+                "examples": [
+                    "The scientists had to accommodate the new results with the existing theories"
+                ]
+            },
+            {
+                "definition": "provide a service or favor for someone",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "oblige"
+                ],
+                "typeOf": [
+                    "abide by",
+                    "follow",
+                    "comply"
+                ],
+                "derivation": [
+                    "accommodation",
+                    "accommodative",
+                    "accommodator"
+                ]
+            },
+            {
+                "definition": "make fit for, or change to suit a new purpose",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "adapt"
+                ],
+                "typeOf": [
+                    "alter",
+                    "change",
+                    "vary"
+                ],
+                "hasTypes": [
+                    "wire",
+                    "adjust",
+                    "anglicise",
+                    "anglicize",
+                    "christianize",
+                    "cultivate",
+                    "domesticate",
+                    "electrify",
+                    "fit",
+                    "gear",
+                    "naturalise",
+                    "naturalize",
+                    "orient",
+                    "pitch",
+                    "shoehorn",
+                    "tailor",
+                    "tame",
+                    "transcribe"
+                ],
+                "derivation": [
+                    "accommodation"
+                ]
+            },
+            {
+                "definition": "provide with something desired or needed",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "ply",
+                    "supply",
+                    "provide",
+                    "cater"
+                ],
+                "derivation": [
+                    "accommodation"
+                ],
+                "examples": [
+                    "Can you accommodate me with a rental car?"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 3.3,
+            "perMillion": 2,
+            "diversity": 0.01
+        }
+    },
+    "accommodator": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ac",
+                "com",
+                "mo",
+                "da",
+                "tor"
+            ]
+        },
+        "definitions": [
+            {
+                "definition": "someone who performs a service or does a favor",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "obliger"
+                ],
+                "typeOf": [
+                    "benefactor",
+                    "helper"
+                ],
+                "derivation": [
+                    "accommodate"
+                ]
+            }
+        ],
+        "letters": 12
+    },
+    "accompanist": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ac",
+                "com",
+                "pa",
+                "nist"
+            ]
+        },
+        "pronunciation": {
+            "all": "ə'kəmpənɪst",
+            "simplified": "əkəmpənɪst"
+        },
+        "rhymePatterns": {
+            "all": "-əmpənɪst"
+        },
+        "definitions": [
+            {
+                "definition": "a person who provides musical accompaniment (usually on a piano)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "accompanyist"
+                ],
+                "typeOf": [
+                    "instrumentalist",
+                    "musician",
+                    "player"
+                ],
+                "derivation": [
+                    "accompany"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 2.08,
+            "perMillion": 0.11,
+            "diversity": 0
+        }
+    },
+    "accompanyist": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ac",
+                "com",
+                "pa",
+                "ny",
+                "ist"
+            ]
+        },
+        "pronunciation": {
+            "all": "ə'kəmpəniɪst",
+            "simplified": "əkəmpəniɪst"
+        },
+        "rhymePatterns": {
+            "all": "-əmpəniɪst"
+        },
+        "definitions": [
+            {
+                "definition": "a person who provides musical accompaniment (usually on a piano)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "accompanist"
+                ],
+                "typeOf": [
+                    "instrumentalist",
+                    "musician",
+                    "player"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 11
+    },
+    "accordant": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ac",
+                "cord",
+                "ant"
+            ]
+        },
+        "pronunciation": {
+            "all": "ə'kɔrdənt",
+            "simplified": "əkɔrdənt"
+        },
+        "rhymePatterns": {
+            "all": "-ɔrdənt"
+        },
+        "definitions": [
+            {
+                "definition": "in keeping",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "agreeable",
+                    "concordant",
+                    "conformable",
+                    "consonant"
+                ],
+                "similarTo": [
+                    "consistent"
+                ]
+            },
+            {
+                "definition": "being in agreement or harmony; often followed by `with'",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "unanimous",
+                    "agreeable",
+                    "concordant",
+                    "concurring",
+                    "consensual",
+                    "consentaneous",
+                    "consentient",
+                    "according"
+                ],
+                "antonyms": [
+                    "discordant"
+                ],
+                "derivation": [
+                    "accord",
+                    "accordance"
+                ],
+                "examples": [
+                    "a place perfectly accordant with man's nature"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8
+    },
+    "accordature": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ac",
+                "cor",
+                "da",
+                "tu",
+                "re"
+            ]
+        },
+        "letters": 11
+    },
+    "accordion": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ac",
+                "cor",
+                "di",
+                "on"
+            ]
+        },
+        "pronunciation": {
+            "all": "ə'kɔrdiən",
+            "simplified": "əkɔrdiən"
+        },
+        "rhymePatterns": {
+            "all": "-ɔrdiən"
+        },
+        "definitions": [
+            {
+                "definition": "a portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "squeeze box"
+                ],
+                "typeOf": [
+                    "free-reed instrument",
+                    "keyboard instrument"
+                ],
+                "hasTypes": [
+                    "button accordion",
+                    "piano accordion"
+                ],
+                "hasParts": [
+                    "fingerboard",
+                    "piano keyboard",
+                    "clavier"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.43,
+            "perMillion": 2.65,
+            "diversity": 0.01
+        }
+    }
+}

@@ -1,0 +1,1997 @@
+{
+    "habitually": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ha",
+                "bit",
+                "u",
+                "al",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "hə'bɪʧuəlli",
+            "simplified": "həbɪʧuəlli"
+        },
+        "rhymePatterns": {
+            "all": "-ɪtʃuəlli"
+        },
+        "definitions": [
+            {
+                "definition": "according to habit or custom",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "habitual"
+                ],
+                "examples": [
+                    "her habitually severe expression",
+                    "he habitually keeps his office door closed"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 11,
+        "frequency": {
+            "zipf": 2.38,
+            "perMillion": 0.23,
+            "diversity": 0
+        }
+    },
+    "habitues": {
+        "rhymes": {
+            "all": "-eɪz"
+        },
+        "letters": 8,
+        "pronunciation": "'hæbɪʧuz",
+        "sounds": 10
+    },
+    "habutai": {
+        "rhymes": {
+            "all": "-aɪ"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "hɑbətaɪ"
+        },
+        "sounds": 7
+    },
+    "hacienda": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ha",
+                "ci",
+                "en",
+                "da"
+            ]
+        },
+        "pronunciation": {
+            "all": ",hɑsi'ɛndə",
+            "simplified": "hɑsiɛndə"
+        },
+        "rhymePatterns": {
+            "all": "-ɛndə"
+        },
+        "definitions": [
+            {
+                "definition": "a large estate in Spanish-speaking countries",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "acres",
+                    "demesne",
+                    "estate",
+                    "land",
+                    "landed estate"
+                ]
+            },
+            {
+                "definition": "the main house on a ranch or large estate",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "house"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.96,
+            "perMillion": 0.91,
+            "diversity": 0
+        }
+    },
+    "hacking": {
+        "rhymes": {
+            "all": "-ækɪŋ"
+        },
+        "letters": 7,
+        "pronunciation": "'hækɪŋ",
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.36,
+            "perMillion": 2.25,
+            "diversity": 0.01
+        }
+    },
+    "hackmatack": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "hack",
+                "ma",
+                "tack"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hækmə,tæk",
+            "simplified": "hækmətæk"
+        },
+        "rhymePatterns": {
+            "all": "-æk"
+        },
+        "definitions": [
+            {
+                "definition": "poplar of northeastern North America with broad heart-shaped leaves",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "balsam poplar",
+                    "populus balsamifera",
+                    "tacamahac"
+                ],
+                "typeOf": [
+                    "poplar",
+                    "poplar tree"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 8
+    },
+    "hadassah": {
+        "rhymes": {
+            "all": "-ɑsə"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "hədɑsə"
+        },
+        "sounds": 6
+    },
+    "haddock": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "had",
+                "dock"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hædək",
+            "simplified": "hædək"
+        },
+        "rhymePatterns": {
+            "all": "-ædək"
+        },
+        "definitions": [
+            {
+                "definition": "important food fish on both sides of the Atlantic; related to cod but usually smaller",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "melanogrammus aeglefinus"
+                ],
+                "typeOf": [
+                    "gadoid",
+                    "gadoid fish"
+                ],
+                "memberOf": [
+                    "genus melanogrammus",
+                    "melanogrammus"
+                ]
+            },
+            {
+                "definition": "lean white flesh of fish similar to but smaller than cod; usually baked or poached or as fillets sauteed or fried",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "fish"
+                ],
+                "hasTypes": [
+                    "smoked haddock",
+                    "finnan haddie",
+                    "finnan haddock",
+                    "finnan"
+                ],
+                "partOf": [
+                    "melanogrammus aeglefinus"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.27,
+            "perMillion": 0.17,
+            "diversity": 0
+        }
+    },
+    "hadfield": {
+        "rhymes": {
+            "all": "-ild"
+        },
+        "letters": 8,
+        "pronunciation": "'hæd,fild",
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "hae": {
+        "rhymes": {
+            "all": "-eɪ"
+        },
+        "letters": 3,
+        "pronunciation": {
+            "simplified": "heɪ"
+        },
+        "sounds": 3,
+        "frequency": {
+            "zipf": 3.74,
+            "perMillion": 5.55,
+            "diversity": 0
+        }
+    },
+    "hadrian": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ha",
+                "dri",
+                "an"
+            ]
+        },
+        "pronunciation": {
+            "all": "'heɪdriən",
+            "simplified": "heɪdriən"
+        },
+        "rhymePatterns": {
+            "all": "-eɪdriən"
+        },
+        "definitions": [
+            {
+                "definition": "Roman Emperor who was the adoptive son of Trajan; travelled throughout his empire to strengthen its frontiers and encourage learning and architecture; on a visit to Britain in 122 he ordered the construction of Hadrian's Wall (76-138)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "adrian",
+                    "publius aelius hadrianus"
+                ],
+                "instanceOf": [
+                    "emperor of rome",
+                    "roman emperor"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.2,
+            "perMillion": 0.15,
+            "diversity": 0
+        }
+    },
+    "haec": {
+        "rhymes": {
+            "all": "-aɪk"
+        },
+        "letters": 4,
+        "pronunciation": {
+            "simplified": "haɪk"
+        },
+        "sounds": 4,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "haematitic": {
+        "rhymes": {
+            "all": "-ɪtɪk"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "hɛmətɪtɪk"
+        },
+        "sounds": 9
+    },
+    "haematocrit": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "haem",
+                "a",
+                "to",
+                "crit"
+            ]
+        },
+        "pronunciation": {
+            "all": "'himətoʊkrit",
+            "simplified": "himətoʊkrit"
+        },
+        "rhymePatterns": {
+            "all": "-imətoʊkrit"
+        },
+        "definitions": [
+            {
+                "definition": "the ratio of the volume occupied by packed red blood cells to the volume of the whole blood as measured by a hematocrit",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hematocrit",
+                    "packed cell volume"
+                ],
+                "typeOf": [
+                    "ratio"
+                ]
+            },
+            {
+                "definition": "a measuring instrument to determine (usually by centrifugation) the relative amounts of corpuscles and plasma in the blood",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hematocrit"
+                ],
+                "typeOf": [
+                    "measuring instrument",
+                    "extractor",
+                    "measuring device",
+                    "centrifuge",
+                    "measuring system",
+                    "separator"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11
+    },
+    "haematogenesis": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "haem",
+                "a",
+                "to",
+                "gen",
+                "e",
+                "sis"
+            ]
+        },
+        "pronunciation": {
+            "all": ",hɛmətoʊ'dʒɛnɪsɪs",
+            "simplified": "hɛmətoʊdʒɛnɪsɪs"
+        },
+        "rhymePatterns": {
+            "all": "-ɛnɪsɪs"
+        },
+        "definitions": [
+            {
+                "definition": "the formation of blood cells in the living body (especially in the bone marrow)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "haematopoiesis",
+                    "haemogenesis",
+                    "haemopoiesis",
+                    "hematogenesis",
+                    "hematopoiesis",
+                    "hemogenesis",
+                    "hemopoiesis",
+                    "sanguification"
+                ],
+                "typeOf": [
+                    "biological process",
+                    "organic process"
+                ]
+            }
+        ],
+        "letters": 14,
+        "sounds": 15
+    },
+    "haematopoietic": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "haem",
+                "a",
+                "to",
+                "poi",
+                "et",
+                "ic"
+            ]
+        },
+        "pronunciation": {
+            "all": ",hɛmətoʊpɔɪ'ɛtɪk",
+            "simplified": "hɛmətoʊpɔɪɛtɪk"
+        },
+        "rhymePatterns": {
+            "all": "-ɛtɪk"
+        },
+        "definitions": [
+            {
+                "definition": "pertaining to the formation of blood or blood cells",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "haematogenic",
+                    "haemopoietic",
+                    "hematogenic",
+                    "hematopoietic",
+                    "hemopoietic"
+                ],
+                "pertainsTo": [
+                    "haematopoiesis"
+                ],
+                "derivation": [
+                    "haematopoiesis"
+                ]
+            }
+        ],
+        "letters": 14,
+        "sounds": 14
+    },
+    "haemin": {
+        "rhymes": {
+            "all": "-imɪn"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "himɪn"
+        },
+        "sounds": 5
+    },
+    "haemoconcentration": {
+        "rhymes": {
+            "all": "-eɪʃən"
+        },
+        "letters": 18,
+        "pronunciation": {
+            "simplified": "himəkɑnsəntreɪʃən"
+        },
+        "sounds": 17
+    },
+    "haemodyalisis": {
+        "rhymes": {
+            "all": "-ælɪsɪs"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "himoʊdaɪælɪsɪs"
+        },
+        "sounds": 14
+    },
+    "haemorrhagic": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "haem",
+                "or",
+                "rhag",
+                "ic"
+            ]
+        },
+        "pronunciation": {
+            "all": ",hɛmə'rædʒɪk",
+            "simplified": "hɛmərædʒɪk"
+        },
+        "rhymePatterns": {
+            "all": "-ædʒɪk"
+        },
+        "definitions": [
+            {
+                "definition": "of or relating to a hemorrhage",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "hemorrhagic"
+                ],
+                "pertainsTo": [
+                    "haemorrhage"
+                ],
+                "derivation": [
+                    "haemorrhage"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "haemostasia": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "hae",
+                "mo",
+                "sta",
+                "sia"
+            ]
+        },
+        "pronunciation": {
+            "all": ",himə'steɪʒə",
+            "simplified": "himəsteɪʒə"
+        },
+        "rhymePatterns": {
+            "all": "-eɪʒə"
+        },
+        "definitions": [
+            {
+                "definition": "surgical procedure of stopping the flow of blood (as with a hemostat)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "haemostasis",
+                    "hemostasia",
+                    "hemostasis"
+                ],
+                "typeOf": [
+                    "stop",
+                    "stoppage"
+                ],
+                "partOf": [
+                    "surgical operation",
+                    "surgical procedure",
+                    "surgical process",
+                    "surgery",
+                    "operation"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10
+    },
+    "hafnium": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "haf",
+                "ni",
+                "um"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hæfniəm",
+            "simplified": "hæfniəm"
+        },
+        "rhymePatterns": {
+            "all": "-æfniəm"
+        },
+        "definitions": [
+            {
+                "definition": "a grey tetravalent metallic element that resembles zirconium chemically and is found in zirconium minerals; used in filaments for its ready emission of electrons",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "atomic number 72",
+                    "hf"
+                ],
+                "typeOf": [
+                    "metal",
+                    "metallic element"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": 1.74
+    },
+    "haftarah": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "haf",
+                "ta",
+                "rah"
+            ]
+        },
+        "pronunciation": {
+            "all": "hɑf'tɔrə",
+            "simplified": "hɑftɔrə"
+        },
+        "rhymePatterns": {
+            "all": "-ɔrə"
+        },
+        "definitions": [
+            {
+                "definition": "a short selection from the Prophets read on every Sabbath in a Jewish synagogue following a reading from the Torah",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "haftorah",
+                    "haphtarah",
+                    "haphtorah"
+                ],
+                "instanceOf": [
+                    "excerpt",
+                    "excerption",
+                    "extract",
+                    "selection"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7
+    },
+    "hagdon": {
+        "rhymes": {
+            "all": "-ægdən"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "hægdən"
+        },
+        "sounds": 6
+    },
+    "hagen": {
+        "rhymes": {
+            "all": "-ɑɡən"
+        },
+        "letters": 5,
+        "pronunciation": "'heɪɡʌn",
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.22,
+            "perMillion": 1.65,
+            "diversity": 0
+        }
+    },
+    "haggadah": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "hag",
+                "ga",
+                "dah"
+            ]
+        },
+        "pronunciation": {
+            "all": "hə'ɡɑdə",
+            "simplified": "həɡɑdə"
+        },
+        "rhymePatterns": {
+            "all": "-ɑdə"
+        },
+        "definitions": [
+            {
+                "definition": "Talmudic literature that does not deal with law but is still part of Jewish tradition",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hagada",
+                    "haggada"
+                ],
+                "typeOf": [
+                    "talmudic literature"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "haggadist": {
+        "rhymes": {
+            "all": "-ɑdɪst"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "həɡɑdɪst"
+        },
+        "sounds": 8
+    },
+    "haggishness": {
+        "rhymes": {
+            "all": "-æɡɪʃnɛs"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "hæɡɪʃnɛs"
+        },
+        "sounds": 8
+    },
+    "hagseed": {
+        "rhymes": {
+            "all": "-id"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "hæɡsid"
+        },
+        "sounds": 6
+    },
+    "hagiologic": {
+        "rhymes": {
+            "all": "-ɑdʒɪk"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "hæɡiəlɑdʒɪk"
+        },
+        "sounds": 11
+    },
+    "hague": {
+        "rhymes": {
+            "all": "-eɪɡ"
+        },
+        "letters": 5,
+        "pronunciation": "heɪɡ",
+        "sounds": 4,
+        "frequency": {
+            "zipf": 2.94,
+            "perMillion": 0.87,
+            "diversity": 0
+        }
+    },
+    "haiduk": {
+        "rhymes": {
+            "all": "-aɪdʊk"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "haɪdʊk"
+        },
+        "sounds": 6
+    },
+    "haifa": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "hai",
+                "fa"
+            ]
+        },
+        "pronunciation": {
+            "all": "'haɪfə",
+            "simplified": "haɪfə"
+        },
+        "rhymePatterns": {
+            "all": "-aɪfə"
+        },
+        "definitions": [
+            {
+                "definition": "a major port in northwestern Israel",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hefa"
+                ],
+                "instanceOf": [
+                    "port",
+                    "urban center",
+                    "metropolis",
+                    "city"
+                ],
+                "partOf": [
+                    "yisrael",
+                    "zion",
+                    "israel",
+                    "sion",
+                    "state of israel"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.88,
+            "perMillion": 0.75,
+            "diversity": 0
+        }
+    },
+    "hainaut": {
+        "rhymes": {
+            "all": "-oʊ"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ɛnoʊ"
+        },
+        "sounds": 4
+    },
+    "hairbrained": {
+        "rhymes": {
+            "all": "-eɪnd"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "hɜrbreɪnd"
+        },
+        "sounds": 9
+    },
+    "hairbrush": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "hair",
+                "brush"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hɜr,brəʃ",
+            "simplified": "hɜrbrəʃ"
+        },
+        "rhymePatterns": {
+            "all": "-əʃ"
+        },
+        "definitions": [
+            {
+                "definition": "a brush used to groom a person's hair",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "brush"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.63,
+            "perMillion": 0.41,
+            "diversity": 0
+        }
+    },
+    "haircut": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "hair",
+                "cut"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hɜr,kət",
+            "simplified": "hɜrkət"
+        },
+        "rhymePatterns": {
+            "all": "-ət"
+        },
+        "definitions": [
+            {
+                "definition": "the act of cutting the hair",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "cut",
+                    "cutting",
+                    "cutting off"
+                ]
+            },
+            {
+                "definition": "the style in which hair has been cut",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "hairstyle",
+                    "coiffure",
+                    "coif",
+                    "hair style",
+                    "hairdo"
+                ],
+                "hasTypes": [
+                    "mohawk haircut",
+                    "butch",
+                    "crew cut",
+                    "flattop",
+                    "mohawk",
+                    "brush cut"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.89,
+            "perMillion": 7.84,
+            "diversity": 0.03
+        }
+    },
+    "hairless": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "hair",
+                "less"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hɜrlɪs",
+            "simplified": "hɜrlɪs"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrlɪs"
+        },
+        "definitions": [
+            {
+                "definition": "having no hair or fur",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "bald",
+                    "bald-headed",
+                    "bald-pated",
+                    "balding",
+                    "beardless",
+                    "depilatory",
+                    "depilous",
+                    "glabrescent",
+                    "glabrous",
+                    "naked-muzzled",
+                    "naked-tailed",
+                    "nonhairy",
+                    "smooth-faced",
+                    "tonsured"
+                ],
+                "antonyms": [
+                    "hairy"
+                ],
+                "derivation": [
+                    "hairlessness"
+                ],
+                "examples": [
+                    "a Mexican Hairless is about the size of a fox terrier and hairless except for a tufts on the head and tail"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.86,
+            "perMillion": 0.71,
+            "diversity": 0
+        }
+    },
+    "hairspring": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "hair",
+                "spring"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hɜr,sprɪŋ",
+            "simplified": "hɜrsprɪŋ"
+        },
+        "rhymePatterns": {
+            "all": "-ɪŋ"
+        },
+        "definitions": [
+            {
+                "definition": "a fine spiral spring that regulates the movement of the balance wheel in a timepiece",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "spiral spring"
+                ],
+                "partOf": [
+                    "horologe",
+                    "timekeeper",
+                    "timepiece"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 8
+    },
+    "hairy-dog": {
+        "rhymes": {
+            "all": "-i_dɔɡ"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "hɜridɔɡ"
+        },
+        "sounds": 7
+    },
+    "hairy-footed": {
+        "rhymes": {
+            "all": "-ʊtɪd"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "hɜrifʊtɪd"
+        },
+        "sounds": 9
+    },
+    "hairy-fruited": {
+        "rhymes": {
+            "all": "-utɪd"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "hɜrifrutɪd"
+        },
+        "sounds": 10
+    },
+    "hakai": {
+        "rhymes": {
+            "all": "-aɪ"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "hɑkaɪ"
+        },
+        "sounds": 5
+    },
+    "hakeem": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ha",
+                "keem"
+            ]
+        },
+        "pronunciation": {
+            "all": "hɑ'kim",
+            "simplified": "hɑkim"
+        },
+        "rhymePatterns": {
+            "all": "-im"
+        },
+        "definitions": [
+            {
+                "definition": "a Muslim physician",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hakim"
+                ],
+                "typeOf": [
+                    "doc",
+                    "doctor",
+                    "dr.",
+                    "md",
+                    "medico",
+                    "moslem",
+                    "muslim",
+                    "physician"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "hakluyt": {
+        "rhymes": {
+            "all": "-æklɪt"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "hæklɪt"
+        },
+        "sounds": 6
+    },
+    "halavah": {
+        "rhymes": {
+            "all": "-ɑ"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "hɑləvɑ"
+        },
+        "sounds": 6
+    },
+    "halation": {
+        "rhymes": {
+            "all": "-eɪʃən"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "heɪleɪʃən"
+        },
+        "sounds": 9
+    },
+    "halevy": {
+        "pronunciation": {
+            "all": "Aleɪ'vi",
+            "simplified": "Aleɪvi"
+        },
+        "rhymePatterns": {
+            "all": "-i"
+        },
+        "definitions": [
+            {
+                "definition": "French operatic composer (1799-1862)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "fromental halevy",
+                    "jacques francois fromental elie halevy"
+                ],
+                "instanceOf": [
+                    "composer"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "half-alive": {
+        "rhymes": {
+            "all": "-aɪv"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "hæfəlaɪv"
+        },
+        "sounds": 8
+    },
+    "half-bare": {
+        "rhymes": {
+            "all": "-æf_bɜr"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "hæfbɜr"
+        },
+        "sounds": 6
+    },
+    "half-civil": {
+        "rhymes": {
+            "all": "-ɪvəl"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "hæfsɪvəl"
+        },
+        "sounds": 8
+    },
+    "half-consciously": {
+        "rhymes": {
+            "all": "-ɑnʃəsli"
+        },
+        "letters": 16,
+        "pronunciation": {
+            "simplified": "hæfkɑnʃəsli"
+        },
+        "sounds": 11
+    },
+    "half-contented": {
+        "rhymes": {
+            "all": "-ɛntɪd"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "hæfkəntɛntɪd"
+        },
+        "sounds": 12
+    },
+    "half-cordate": {
+        "rhymes": {
+            "all": "-ɔrdeɪt"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "hæfkɔrdeɪt"
+        },
+        "sounds": 10
+    },
+    "half-crazed": {
+        "pronunciation": {
+            "all": "hæf_kreɪzd",
+            "simplified": "hæfkreɪzd"
+        },
+        "rhymePatterns": {
+            "all": "-æf_kreɪzd"
+        },
+        "definitions": [
+            {
+                "definition": "driven insane",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "crazed",
+                    "deranged"
+                ],
+                "similarTo": [
+                    "insane"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 9
+    },
+    "half-crazy": {
+        "rhymes": {
+            "all": "-eɪzi"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "hæfkreɪzi"
+        },
+        "sounds": 9
+    },
+    "half-dacron": {
+        "rhymes": {
+            "all": "-eɪkrɑn"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "hæfdeɪkrɑn"
+        },
+        "sounds": 10
+    },
+    "half-english": {
+        "rhymes": {
+            "all": "-ɪŋglɪʃ"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "hæfɪŋglɪʃ"
+        },
+        "sounds": 9
+    },
+    "half-fed": {
+        "rhymes": {
+            "all": "-æf_fɛd"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "hæffɛd"
+        },
+        "sounds": 6
+    },
+    "half-fictitiously": {
+        "rhymes": {
+            "all": "-ɪʃəsli"
+        },
+        "letters": 17,
+        "pronunciation": {
+            "simplified": "hæffɪktɪʃəsli"
+        },
+        "sounds": 13
+    },
+    "half-fictitious": {
+        "rhymes": {
+            "all": "-ɪʃəs"
+        },
+        "letters": 15,
+        "pronunciation": {
+            "simplified": "hæffɪktɪʃəs"
+        },
+        "sounds": 11
+    },
+    "half-fertilely": {
+        "rhymes": {
+            "all": "-əlli"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "hæffɜrtəlli"
+        },
+        "sounds": 11
+    },
+    "half-mental": {
+        "rhymes": {
+            "all": "-ɛntəl"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "hæfmɛntəl"
+        },
+        "sounds": 9
+    },
+    "half-merited": {
+        "rhymes": {
+            "all": "-ɛrɪtɪd"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "hæfmɛrɪtɪd"
+        },
+        "sounds": 10
+    },
+    "half-port": {
+        "rhymes": {
+            "all": "-æf_poʊrt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "hæfpoʊrt"
+        },
+        "sounds": 8
+    },
+    "half-provocative": {
+        "rhymes": {
+            "all": "-ɑkətɪv"
+        },
+        "letters": 16,
+        "pronunciation": {
+            "simplified": "hæfprəvɑkətɪv"
+        },
+        "sounds": 13
+    },
+    "half-questioningly": {
+        "rhymes": {
+            "all": "-ɛstʃənɪŋli"
+        },
+        "letters": 18,
+        "pronunciation": {
+            "simplified": "hæfkwɛsʧənɪŋli"
+        },
+        "sounds": 15
+    },
+    "half-rebelliously": {
+        "rhymes": {
+            "all": "-ɛljəsli"
+        },
+        "letters": 17,
+        "pronunciation": {
+            "simplified": "hæfrɪbɛljəsli"
+        },
+        "sounds": 13
+    },
+    "half-refined": {
+        "rhymes": {
+            "all": "-aɪnd"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "hæfrɪfaɪnd"
+        },
+        "sounds": 10
+    },
+    "half-rotten": {
+        "rhymes": {
+            "all": "-ɑtən"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "hæfrɑtən"
+        },
+        "sounds": 8
+    },
+    "half-scottish": {
+        "rhymes": {
+            "all": "-ɑtɪʃ"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "hæfskɑtɪʃ"
+        },
+        "sounds": 9
+    },
+    "half-second": {
+        "rhymes": {
+            "all": "-ɛkənd"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "hæfsɛkənd"
+        },
+        "sounds": 9
+    },
+    "half-shroud": {
+        "rhymes": {
+            "all": "-æf_ʃraʊd"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "hæfʃraʊd"
+        },
+        "sounds": 8
+    },
+    "half-shot": {
+        "rhymes": {
+            "all": "-æf_ʃɑt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "hæfʃɑt"
+        },
+        "sounds": 6
+    },
+    "half-silk": {
+        "rhymes": {
+            "all": "-æf_sɪlk"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "hæfsɪlk"
+        },
+        "sounds": 7
+    },
+    "half-tented": {
+        "rhymes": {
+            "all": "-ɛntɪd"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "hæftɛntɪd"
+        },
+        "sounds": 9
+    },
+    "half-teaspoonful": {
+        "rhymes": {
+            "all": "-ispunfəl"
+        },
+        "letters": 16,
+        "pronunciation": {
+            "simplified": "hæftispunfəl"
+        },
+        "sounds": 12
+    },
+    "half-white": {
+        "rhymes": {
+            "all": "-æf_hwaɪt"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "hæfhwaɪt"
+        },
+        "sounds": 8
+    },
+    "half-witted": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "half-wit",
+                "ted"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hæf'wɪtɪd",
+            "simplified": "hæfwɪtɪd"
+        },
+        "rhymePatterns": {
+            "all": "-ɪtɪd"
+        },
+        "definitions": [
+            {
+                "definition": "retarded in intellectual development",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "backward",
+                    "feebleminded",
+                    "slow-witted"
+                ],
+                "usageOf": [
+                    "archaicism",
+                    "archaism"
+                ],
+                "similarTo": [
+                    "retarded"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 8
+    },
+    "half-worsted": {
+        "rhymes": {
+            "all": "-ʊstɪd"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "hæfwʊstɪd"
+        },
+        "sounds": 9
+    },
+    "halide": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "hal",
+                "ide"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hælaɪd",
+            "simplified": "hælaɪd"
+        },
+        "rhymePatterns": {
+            "all": "-ælaɪd"
+        },
+        "definitions": [
+            {
+                "definition": "a salt of any halogen acid",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "salt"
+                ],
+                "hasTypes": [
+                    "bromide",
+                    "chloride",
+                    "fluoride",
+                    "iodide",
+                    "tetrahalide"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "halicot": {
+        "rhymes": {
+            "all": "-oʊ"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "hæləkoʊ"
+        },
+        "sounds": 7
+    },
+    "halitosis": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "hal",
+                "i",
+                "to",
+                "sis"
+            ]
+        },
+        "pronunciation": {
+            "all": ",hælɪ'toʊsɪs",
+            "simplified": "hælɪtoʊsɪs"
+        },
+        "rhymePatterns": {
+            "all": "-oʊsɪs"
+        },
+        "definitions": [
+            {
+                "definition": "offensive breath",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "exhalation",
+                    "halitus"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 2.24,
+            "perMillion": 0.16,
+            "diversity": 0
+        }
+    },
+    "halling": {
+        "rhymes": {
+            "all": "-ɑlɪŋ"
+        },
+        "letters": 7,
+        "pronunciation": "'hɔlɪŋ",
+        "sounds": 5
+    },
+    "halloo": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "hal",
+                "loo"
+            ]
+        },
+        "pronunciation": {
+            "all": "hə'lu",
+            "simplified": "həlu"
+        },
+        "rhymePatterns": {
+            "all": "-u"
+        },
+        "definitions": [
+            {
+                "definition": "a shout to attract attention",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "cry",
+                    "outcry",
+                    "call",
+                    "shout",
+                    "vociferation",
+                    "yell"
+                ],
+                "examples": [
+                    "he gave a great halloo but no one heard him"
+                ]
+            },
+            {
+                "definition": "shout `halloo', as when greeting someone or attracting attention",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "yell",
+                    "call",
+                    "cry",
+                    "holler",
+                    "hollo",
+                    "shout",
+                    "shout out",
+                    "squall",
+                    "scream"
+                ]
+            },
+            {
+                "definition": "urge on with shouts",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "incite",
+                    "prod",
+                    "egg on"
+                ],
+                "examples": [
+                    "halloo the dogs in a hunt"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "halliwell": {
+        "rhymes": {
+            "all": "-ɛl"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "hælɪwɛl"
+        },
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.63,
+            "perMillion": 0.41,
+            "diversity": 0
+        }
+    },
+    "hallway": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "hall",
+                "way"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hɔl,weɪ",
+            "simplified": "hɔlweɪ"
+        },
+        "rhymePatterns": {
+            "all": "-eɪ"
+        },
+        "definitions": [
+            {
+                "definition": "an interior passage or corridor onto which rooms open",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hall"
+                ],
+                "typeOf": [
+                    "corridor"
+                ],
+                "hasTypes": [
+                    "concourse"
+                ],
+                "hasParts": [
+                    "ceiling",
+                    "floor",
+                    "flooring",
+                    "wall"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.81,
+            "perMillion": 6.43,
+            "diversity": 0.03
+        }
+    },
+    "halo-girt": {
+        "rhymes": {
+            "all": "-eɪloʊ_gɜrt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "heɪloʊgɜrt"
+        },
+        "sounds": 10
+    },
+    "haloa": {
+        "rhymes": {
+            "all": "-oʊə"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "həloʊə"
+        },
+        "sounds": 6
+    },
+    "halon": {
+        "pronunciation": {
+            "all": "'heɪlɑn",
+            "simplified": "heɪlɑn"
+        },
+        "rhymePatterns": {
+            "all": "-eɪlɑn"
+        },
+        "definitions": [
+            {
+                "definition": "a compound in which the hydrogen atoms of a hydrocarbon have been replaced by bromine and other halogen atoms; very stable; used in fire extinguishers although it is thought to release bromine that depletes the ozone layer",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "organic compound",
+                    "pollutant"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.03,
+            "perMillion": 0.09,
+            "diversity": 0
+        }
+    },
+    "hamamatsu": {
+        "rhymes": {
+            "all": "-ɑtsʊ"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "hɑmɑmɑtsʊ"
+        },
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "hamelin": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ha",
+                "melin"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hɑməɪn",
+            "simplified": "hɑməɪn"
+        },
+        "rhymePatterns": {
+            "all": "-ɑməɪn"
+        },
+        "definitions": [
+            {
+                "definition": "a town in northern Germany (near Hanover) that is famous as the setting for the legend of the Pied Piper",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hameln"
+                ],
+                "instanceOf": [
+                    "town"
+                ],
+                "partOf": [
+                    "deutschland",
+                    "federal republic of germany",
+                    "frg",
+                    "germany"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6
+    },
+    "hamiticized": {
+        "rhymes": {
+            "all": "-aɪzd"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "hæmɪtɪsaɪzd"
+        },
+        "sounds": 11
+    },
+    "hammer-refined": {
+        "rhymes": {
+            "all": "-aɪnd"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "hæmərrɪfaɪnd"
+        },
+        "sounds": 12
+    },
+    "hammering": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ham",
+                "mer",
+                "ing"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hæmərɪŋ",
+            "simplified": "hæmərɪŋ"
+        },
+        "rhymePatterns": {
+            "all": "-æmərɪŋ"
+        },
+        "definitions": [
+            {
+                "definition": "the act of pounding (delivering repeated heavy blows)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hammer",
+                    "pound",
+                    "pounding"
+                ],
+                "typeOf": [
+                    "blow"
+                ],
+                "derivation": [
+                    "hammer"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.2,
+            "perMillion": 1.56,
+            "diversity": 0.01
+        }
+    },
+    "hampshire": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "hamp",
+                "shire"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hæmpʃir",
+            "simplified": "hæmpʃir"
+        },
+        "rhymePatterns": {
+            "all": "-æmpʃir"
+        },
+        "definitions": [
+            {
+                "definition": "British breed of hornless dark-faced domestic sheep",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hampshire down"
+                ],
+                "typeOf": [
+                    "domestic sheep",
+                    "ovis aries"
+                ]
+            },
+            {
+                "definition": "a county of southern England on the English Channel",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "county"
+                ],
+                "hasParts": [
+                    "new forest",
+                    "winchester"
+                ],
+                "partOf": [
+                    "england"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.05,
+            "perMillion": 1.12,
+            "diversity": 0
+        }
+    },
+    "hamsun": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ham",
+                "sun"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hɑmsʊn",
+            "simplified": "hɑmsʊn"
+        },
+        "rhymePatterns": {
+            "all": "-ɑmsʊn"
+        },
+        "definitions": [
+            {
+                "definition": "Norwegian writer of novels (1859-1952)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "knut hamsun",
+                    "knut pedersen"
+                ],
+                "instanceOf": [
+                    "author",
+                    "writer"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6
+    },
+    "hamulus": {
+        "rhymes": {
+            "all": "-æmjələs"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "hæmjələs"
+        },
+        "sounds": 8
+    },
+    "handbag": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "hand",
+                "bag"
+            ]
+        },
+        "pronunciation": {
+            "all": "'hænd,bæɡ",
+            "simplified": "hændbæɡ"
+        },
+        "rhymePatterns": {
+            "all": "-æɡ"
+        },
+        "definitions": [
+            {
+                "definition": "a container used for carrying money and small personal items or accessories (especially by women)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "bag",
+                    "pocketbook",
+                    "purse"
+                ],
+                "typeOf": [
+                    "container"
+                ],
+                "hasTypes": [
+                    "clutch",
+                    "clutch bag",
+                    "etui",
+                    "evening bag",
+                    "reticule",
+                    "shoulder bag"
+                ],
+                "hasParts": [
+                    "clasp"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.49,
+            "perMillion": 3.07,
+            "diversity": 0.01
+        }
+    }
+}

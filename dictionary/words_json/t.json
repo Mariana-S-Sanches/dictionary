@@ -1,0 +1,2194 @@
+{
+    "taggard": {
+        "rhymes": {
+            "all": "-æɡərd"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "tæɡərd"
+        },
+        "sounds": 6
+    },
+    "tagger": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "tag",
+                "ger"
+            ]
+        },
+        "pronunciation": {
+            "all": "'tæɡər",
+            "simplified": "tæɡər"
+        },
+        "rhymePatterns": {
+            "all": "-æɡər"
+        },
+        "definitions": [
+            {
+                "definition": "a computer program that attaches labels to the grammatical constituents of textual matter",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "tagging program"
+                ],
+                "typeOf": [
+                    "computer program",
+                    "computer programme",
+                    "programme",
+                    "program"
+                ],
+                "hasTypes": [
+                    "pos tagger",
+                    "part-of-speech tagger",
+                    "sense tagger"
+                ]
+            },
+            {
+                "definition": "someone who appends or joins one thing to another",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "individual",
+                    "somebody",
+                    "person",
+                    "someone",
+                    "mortal",
+                    "soul"
+                ],
+                "examples": [
+                    "a theory that was simply added on by some anonymous tagger"
+                ]
+            },
+            {
+                "definition": "someone who assigns labels to the grammatical constituents of textual matter",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "soul",
+                    "mortal",
+                    "individual",
+                    "somebody",
+                    "someone",
+                    "person"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.2,
+            "perMillion": 0.15,
+            "diversity": 0
+        }
+    },
+    "tagliarini": {
+        "rhymes": {
+            "all": "-ini"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "tæljərini"
+        },
+        "sounds": 9,
+        "frequency": 2.02
+    },
+    "tahiti": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ta",
+                "hi",
+                "ti"
+            ]
+        },
+        "pronunciation": {
+            "all": "tə'hiti",
+            "simplified": "təhiti"
+        },
+        "rhymePatterns": {
+            "all": "-iti"
+        },
+        "definitions": [
+            {
+                "definition": "an island in the south Pacific; the most important island in French Polynesia; made famous by Robert Louis Stevenson and Paul Gauguin",
+                "partOfSpeech": "noun",
+                "instanceOf": [
+                    "island"
+                ],
+                "hasMembers": [
+                    "tahitian"
+                ],
+                "hasParts": [
+                    "papeete"
+                ],
+                "partOf": [
+                    "society islands"
+                ],
+                "derivation": [
+                    "tahitian"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3,
+            "perMillion": 0.99,
+            "diversity": 0
+        }
+    },
+    "tagmemics": {
+        "rhymes": {
+            "all": "-imɪks"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "tæɡmimɪks"
+        },
+        "sounds": 9
+    },
+    "tahoe": {
+        "rhymes": {
+            "all": "-ɑhoʊ"
+        },
+        "letters": 5,
+        "pronunciation": "'tæhoʊ",
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.96,
+            "perMillion": 0.91,
+            "diversity": 0
+        }
+    },
+    "tail": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "tail"
+            ]
+        },
+        "pronunciation": {
+            "all": "teɪl",
+            "simplified": "teɪl"
+        },
+        "rhymePatterns": {
+            "all": "-eɪl"
+        },
+        "definitions": [
+            {
+                "definition": "a spy employed to follow someone and report their movements",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "shadow",
+                    "shadower"
+                ],
+                "typeOf": [
+                    "follower",
+                    "spy"
+                ]
+            },
+            {
+                "definition": "the rear part of a ship",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "after part",
+                    "poop",
+                    "quarter",
+                    "stern"
+                ],
+                "typeOf": [
+                    "back",
+                    "rear"
+                ],
+                "hasParts": [
+                    "skeg",
+                    "escutcheon"
+                ],
+                "partOf": [
+                    "ship"
+                ]
+            },
+            {
+                "definition": "go after with the intent to catch",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "chase",
+                    "chase after",
+                    "dog",
+                    "give chase",
+                    "go after",
+                    "tag",
+                    "track",
+                    "trail"
+                ],
+                "typeOf": [
+                    "pursue",
+                    "follow"
+                ],
+                "hasTypes": [
+                    "quest",
+                    "trace",
+                    "run down",
+                    "hunt",
+                    "hound",
+                    "tree"
+                ],
+                "derivation": [
+                    "tailing"
+                ]
+            },
+            {
+                "definition": "any projection that resembles the tail of an animal",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "tail end"
+                ],
+                "typeOf": [
+                    "projection"
+                ]
+            },
+            {
+                "definition": "the fleshy part of the human body that you sit on",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "arse",
+                    "ass",
+                    "backside",
+                    "behind",
+                    "bottom",
+                    "bum",
+                    "buns",
+                    "butt",
+                    "buttocks",
+                    "can",
+                    "derriere",
+                    "fanny",
+                    "fundament",
+                    "hind end",
+                    "hindquarters",
+                    "keister",
+                    "nates",
+                    "posterior",
+                    "prat",
+                    "rear",
+                    "rear end",
+                    "rump",
+                    "seat",
+                    "stern",
+                    "tail end",
+                    "tooshie",
+                    "tush"
+                ],
+                "typeOf": [
+                    "body part"
+                ],
+                "partOf": [
+                    "trunk",
+                    "body",
+                    "torso"
+                ]
+            },
+            {
+                "definition": "the rear part of an aircraft",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "empennage",
+                    "tail assembly"
+                ],
+                "typeOf": [
+                    "back",
+                    "rear"
+                ],
+                "hasParts": [
+                    "stabilizer",
+                    "vertical tail",
+                    "horizontal tail"
+                ],
+                "partOf": [
+                    "fuselage"
+                ]
+            },
+            {
+                "definition": "remove or shorten the tail of an animal",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "bob",
+                    "dock"
+                ],
+                "typeOf": [
+                    "cut"
+                ]
+            },
+            {
+                "definition": "the time of the last part of something",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "fag end",
+                    "tail end"
+                ],
+                "typeOf": [
+                    "end",
+                    "ending"
+                ],
+                "examples": [
+                    "the tail of the storm"
+                ]
+            },
+            {
+                "definition": "remove the stalk of fruits or berries",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "pinch",
+                    "top"
+                ]
+            },
+            {
+                "definition": "the posterior part of the body of a vertebrate especially when elongated and extending beyond the trunk or main part of the body",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "appendage",
+                    "outgrowth",
+                    "process"
+                ],
+                "hasTypes": [
+                    "bobtail",
+                    "dock",
+                    "brush",
+                    "uropygium",
+                    "caudal appendage",
+                    "fluke",
+                    "rattle",
+                    "flag",
+                    "oxtail",
+                    "bob",
+                    "scut"
+                ],
+                "hasParts": [
+                    "dock"
+                ],
+                "partOf": [
+                    "vertebrate",
+                    "craniate"
+                ]
+            },
+            {
+                "definition": "(usually plural) the reverse side of a coin that does not bear the representation of a person's head",
+                "partOfSpeech": "noun",
+                "usageOf": [
+                    "plural form",
+                    "plural"
+                ],
+                "typeOf": [
+                    "verso",
+                    "reverse"
+                ],
+                "partOf": [
+                    "coin"
+                ],
+                "antonyms": [
+                    "head"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 4.34,
+            "perMillion": 21.93,
+            "diversity": 0.08
+        }
+    },
+    "tail-chasing": {
+        "rhymes": {
+            "all": "-eɪsɪŋ"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "teɪlʧeɪsɪŋ"
+        },
+        "sounds": 11
+    },
+    "tailfirst": {
+        "rhymes": {
+            "all": "-eɪl'fɜrst"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "teɪlfɜrst"
+        },
+        "sounds": 9
+    },
+    "taille": {
+        "rhymes": {
+            "all": "-eɪl"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "teɪl"
+        },
+        "sounds": 4
+    },
+    "tailing": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "tail",
+                "ing"
+            ]
+        },
+        "pronunciation": {
+            "all": "'teɪlɪŋ",
+            "simplified": "teɪlɪŋ"
+        },
+        "rhymePatterns": {
+            "all": "-eɪlɪŋ"
+        },
+        "definitions": [
+            {
+                "definition": "the act of following someone secretly",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "shadowing"
+                ],
+                "typeOf": [
+                    "chase",
+                    "following",
+                    "pursual",
+                    "pursuit"
+                ],
+                "derivation": [
+                    "tail"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.15,
+            "perMillion": 1.39,
+            "diversity": 0.01
+        }
+    },
+    "tailor-built": {
+        "rhymes": {
+            "all": "-eɪlər_bɪlt"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "teɪlərbɪlt"
+        },
+        "sounds": 10
+    },
+    "tailored": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "tai",
+                "lored"
+            ]
+        },
+        "pronunciation": {
+            "all": "'teɪlərd",
+            "simplified": "teɪlərd"
+        },
+        "rhymePatterns": {
+            "all": "-eɪlərd"
+        },
+        "definitions": [
+            {
+                "definition": "(of clothing) custom-made",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "bespoke",
+                    "bespoken",
+                    "made-to-order",
+                    "tailor-made"
+                ],
+                "similarTo": [
+                    "custom",
+                    "custom-made"
+                ]
+            },
+            {
+                "definition": "severely simple in line or design",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "trim"
+                ],
+                "similarTo": [
+                    "plain"
+                ],
+                "examples": [
+                    "a neat tailored suit",
+                    "tailored curtains"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.78,
+            "perMillion": 0.59,
+            "diversity": 0
+        }
+    },
+    "taisho": {
+        "rhymes": {
+            "all": "-ɔ"
+        },
+        "letters": 6,
+        "pronunciation": "'teɪʃoʊ",
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "take-in": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "take-in"
+            ]
+        },
+        "pronunciation": {
+            "all": "teɪk_ɪn",
+            "simplified": "teɪkɪn"
+        },
+        "rhymePatterns": {
+            "all": "-eɪk_ɪn"
+        },
+        "definitions": [
+            {
+                "definition": "the act of taking in as by fooling or cheating or swindling someone",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "deceit",
+                    "deception",
+                    "dissembling",
+                    "dissimulation"
+                ],
+                "derivation": [
+                    "take in"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6
+    },
+    "talking": {
+        "pronunciation": {
+            "all": "'tɑkiŋ",
+            "simplified": "tɑkiŋ"
+        },
+        "rhymePatterns": {
+            "all": "-ɑkiŋ"
+        },
+        "definitions": [
+            {
+                "definition": "an exchange of ideas via conversation",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "talk"
+                ],
+                "typeOf": [
+                    "conversation"
+                ],
+                "hasTypes": [
+                    "cant",
+                    "chatter",
+                    "dialog",
+                    "dialogue",
+                    "duologue",
+                    "heart-to-heart",
+                    "idle words",
+                    "jazz",
+                    "malarkey",
+                    "malarky",
+                    "nothingness",
+                    "pious platitude",
+                    "shmooze",
+                    "shop talk",
+                    "wind",
+                    "yack",
+                    "yak",
+                    "cackle",
+                    "yakety-yak"
+                ],
+                "derivation": [
+                    "talk"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 5.66,
+            "perMillion": 453.53,
+            "diversity": 0.77
+        }
+    },
+    "talkie": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "talk",
+                "ie"
+            ]
+        },
+        "pronunciation": {
+            "all": "'tɔki",
+            "simplified": "tɔki"
+        },
+        "rhymePatterns": {
+            "all": "-ɔki"
+        },
+        "definitions": [
+            {
+                "definition": "a movie with synchronized speech and singing",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "talking picture"
+                ],
+                "typeOf": [
+                    "film",
+                    "flick",
+                    "motion-picture show",
+                    "motion picture",
+                    "movie",
+                    "moving-picture show",
+                    "moving picture",
+                    "pic",
+                    "picture",
+                    "picture show"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.21,
+            "perMillion": 1.6,
+            "diversity": 0.01
+        }
+    },
+    "tallow-pale": {
+        "rhymes": {
+            "all": "-æloʊ_peɪl"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "tæloʊpeɪl"
+        },
+        "sounds": 9
+    },
+    "tallyshop": {
+        "rhymes": {
+            "all": "-ɑp"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "tæliʃɑp"
+        },
+        "sounds": 7
+    },
+    "talooka": {
+        "rhymes": {
+            "all": "-ukə"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "tɑlukə"
+        },
+        "sounds": 6
+    },
+    "talon": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "tal",
+                "on"
+            ]
+        },
+        "pronunciation": {
+            "all": "'tælən",
+            "simplified": "tælən"
+        },
+        "rhymePatterns": {
+            "all": "-ælən"
+        },
+        "definitions": [
+            {
+                "definition": "a sharp hooked claw especially on a bird of prey",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "claw"
+                ],
+                "partOf": [
+                    "bird's foot"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.06,
+            "perMillion": 1.15,
+            "diversity": 0
+        }
+    },
+    "tame": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "tame"
+            ]
+        },
+        "pronunciation": {
+            "all": "teɪm",
+            "simplified": "teɪm"
+        },
+        "rhymePatterns": {
+            "all": "-eɪm"
+        },
+        "definitions": [
+            {
+                "definition": "correct by punishment or discipline",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "chasten",
+                    "subdue"
+                ],
+                "typeOf": [
+                    "change",
+                    "modify",
+                    "alter"
+                ]
+            },
+            {
+                "definition": "make less strong or intense; soften",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "moderate",
+                    "tone down"
+                ],
+                "typeOf": [
+                    "change",
+                    "alter",
+                    "modify"
+                ],
+                "examples": [
+                    "The author finally tamed some of his potentially offensive statements"
+                ]
+            },
+            {
+                "definition": "overcome the wildness of; make docile and tractable",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "domesticate",
+                    "domesticise",
+                    "domesticize",
+                    "reclaim"
+                ],
+                "inCategory": [
+                    "animal",
+                    "brute",
+                    "fauna",
+                    "creature",
+                    "beast",
+                    "animate being"
+                ],
+                "typeOf": [
+                    "modify",
+                    "change",
+                    "alter"
+                ],
+                "hasTypes": [
+                    "break",
+                    "break in"
+                ],
+                "verbGroup": [
+                    "domesticate"
+                ],
+                "derivation": [
+                    "tameable",
+                    "tamer",
+                    "tamable"
+                ],
+                "examples": [
+                    "He tames lions for the circus"
+                ]
+            },
+            {
+                "definition": "brought from wildness into a domesticated state",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "tamed"
+                ],
+                "also": [
+                    "manipulable",
+                    "tractable"
+                ],
+                "attribute": [
+                    "domestication",
+                    "tameness"
+                ],
+                "similarTo": [
+                    "domestic",
+                    "gentle",
+                    "docile",
+                    "cultivated",
+                    "broken in",
+                    "broken",
+                    "domesticated",
+                    "tamed"
+                ],
+                "antonyms": [
+                    "wild"
+                ],
+                "derivation": [
+                    "tameness"
+                ],
+                "examples": [
+                    "tame animals",
+                    "fields of tame blueberries"
+                ]
+            },
+            {
+                "definition": "very docile",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "meek"
+                ],
+                "similarTo": [
+                    "docile"
+                ],
+                "derivation": [
+                    "tameness"
+                ],
+                "examples": [
+                    "tame obedience"
+                ]
+            },
+            {
+                "definition": "make fit for cultivation, domestic life, and service to humans",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "domesticate"
+                ],
+                "inCategory": [
+                    "fauna",
+                    "creature",
+                    "animal",
+                    "brute",
+                    "beast",
+                    "animate being"
+                ],
+                "typeOf": [
+                    "accommodate",
+                    "adapt"
+                ],
+                "verbGroup": [
+                    "domesticize",
+                    "domesticate",
+                    "domesticise",
+                    "reclaim"
+                ],
+                "examples": [
+                    "The wolf was tamed and evolved into the house dog"
+                ]
+            },
+            {
+                "definition": "adapt (a wild plant or unclaimed land) to the environment",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "cultivate",
+                    "domesticate",
+                    "naturalise",
+                    "naturalize"
+                ],
+                "inCategory": [
+                    "flora",
+                    "plant life",
+                    "plant"
+                ],
+                "typeOf": [
+                    "accommodate",
+                    "adapt"
+                ],
+                "examples": [
+                    "tame the soil"
+                ]
+            },
+            {
+                "definition": "flat and uninspiring",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "unexciting"
+                ],
+                "derivation": [
+                    "tameness"
+                ]
+            },
+            {
+                "definition": "very restrained or quiet",
+                "partOfSpeech": "adjective",
+                "also": [
+                    "quiet"
+                ],
+                "similarTo": [
+                    "subdued"
+                ],
+                "antonyms": [
+                    "wild"
+                ],
+                "examples": [
+                    "a tame Christmas party",
+                    "she was one of the tamest and most abject creatures imaginable with no will or power to act but as directed"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.43,
+            "perMillion": 2.65,
+            "diversity": 0.01
+        }
+    },
+    "tame-grief": {
+        "rhymes": {
+            "all": "-eɪm_grif"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "teɪmgrif"
+        },
+        "sounds": 8
+    },
+    "tameable": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "tame",
+                "a",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "'teɪməbəl",
+            "simplified": "teɪməbəl"
+        },
+        "rhymePatterns": {
+            "all": "-eɪməbəl"
+        },
+        "definitions": [
+            {
+                "definition": "capable of being tamed",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "tamable"
+                ],
+                "similarTo": [
+                    "manipulable",
+                    "tractable"
+                ],
+                "derivation": [
+                    "tame"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8
+    },
+    "tandoori": {
+        "rhymes": {
+            "all": "-ʊəri"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "tændʊəri"
+        },
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.54,
+            "perMillion": 0.33,
+            "diversity": 0
+        }
+    },
+    "tangerine": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "tan",
+                "ge",
+                "rine"
+            ]
+        },
+        "pronunciation": {
+            "all": ",tændʒə'rin",
+            "simplified": "tændʒərin"
+        },
+        "rhymePatterns": {
+            "all": "-in"
+        },
+        "definitions": [
+            {
+                "definition": "a variety of mandarin orange",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "tangerine tree"
+                ],
+                "typeOf": [
+                    "citrus reticulata",
+                    "mandarin",
+                    "mandarin orange",
+                    "mandarin orange tree"
+                ]
+            },
+            {
+                "definition": "any of various deep orange mandarins grown in the United States and southern Africa",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "mandarin",
+                    "mandarin orange"
+                ],
+                "partOf": [
+                    "tangerine tree"
+                ]
+            },
+            {
+                "definition": "a reddish to vivid orange color",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "reddish orange"
+                ]
+            },
+            {
+                "definition": "of a strong reddish orange color",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "chromatic"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.95,
+            "perMillion": 0.88,
+            "diversity": 0
+        }
+    },
+    "tangram": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "tan",
+                "gram"
+            ]
+        },
+        "pronunciation": {
+            "all": "'tæŋgrəm",
+            "simplified": "tæŋgrəm"
+        },
+        "rhymePatterns": {
+            "all": "-æŋgrəm"
+        },
+        "definitions": [
+            {
+                "definition": "a Chinese puzzle consisting of a square divided into seven pieces that must be arranged to match particular designs",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "puzzle"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7
+    },
+    "tanistry": {
+        "rhymes": {
+            "all": "-ænɪstri"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "tænɪstri"
+        },
+        "sounds": 8
+    },
+    "tanna": {
+        "rhymes": {
+            "all": "-ɑnɑ"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "tɑnɑ"
+        },
+        "sounds": 4,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "tansy": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "tan",
+                "sy"
+            ]
+        },
+        "pronunciation": {
+            "all": "'tænzi",
+            "simplified": "tænzi"
+        },
+        "rhymePatterns": {
+            "all": "-ænzi"
+        },
+        "definitions": [
+            {
+                "definition": "common perennial aromatic herb native to Eurasia having buttonlike yellow flower heads and bitter-tasting pinnate leaves sometimes used medicinally",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "golden buttons",
+                    "scented fern",
+                    "tanacetum vulgare"
+                ],
+                "typeOf": [
+                    "composite",
+                    "composite plant"
+                ],
+                "memberOf": [
+                    "genus tanacetum",
+                    "tanacetum"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.2,
+            "perMillion": 0.15,
+            "diversity": 0
+        }
+    },
+    "tantalus": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "tan",
+                "ta",
+                "lus"
+            ]
+        },
+        "pronunciation": {
+            "all": "'tæntələs",
+            "simplified": "tæntələs"
+        },
+        "rhymePatterns": {
+            "all": "-æntələs"
+        },
+        "definitions": [
+            {
+                "definition": "(Greek mythology) a wicked king and son of Zeus; condemned in Hades to stand in water that receded when he tried to drink and beneath fruit that receded when he reached for it",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "greek mythology"
+                ],
+                "instanceOf": [
+                    "mythical being"
+                ],
+                "derivation": [
+                    "tantalise",
+                    "tantalize"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": 1.74
+    },
+    "tap": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "tap"
+            ]
+        },
+        "pronunciation": {
+            "all": "tæp",
+            "simplified": "tæp"
+        },
+        "rhymePatterns": {
+            "all": "-æp"
+        },
+        "definitions": [
+            {
+                "definition": "draw from; make good use of",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "exploit"
+                ],
+                "typeOf": [
+                    "apply",
+                    "employ",
+                    "utilize",
+                    "use",
+                    "utilise"
+                ],
+                "hasTypes": [
+                    "milk",
+                    "commercialize",
+                    "harness",
+                    "maximise",
+                    "maximize",
+                    "mine",
+                    "overexploit",
+                    "quarry"
+                ]
+            },
+            {
+                "definition": "tap a telephone or telegraph wire to get information",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "bug",
+                    "intercept",
+                    "wiretap"
+                ],
+                "typeOf": [
+                    "eavesdrop",
+                    "listen in"
+                ],
+                "derivation": [
+                    "tapper"
+                ],
+                "examples": [
+                    "The FBI was tapping the phone line of the suspected spy"
+                ]
+            },
+            {
+                "definition": "dance and make rhythmic clicking sounds by means of metal plates nailed to the sole of the dance shoes",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "tapdance"
+                ],
+                "typeOf": [
+                    "dance",
+                    "trip the light fantastic",
+                    "trip the light fantastic toe"
+                ],
+                "derivation": [
+                    "tapper"
+                ],
+                "examples": [
+                    "Glover tapdances better than anybody"
+                ]
+            },
+            {
+                "definition": "make a solicitation or entreaty for something; request urgently or persistently",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "beg",
+                    "solicit"
+                ],
+                "typeOf": [
+                    "request",
+                    "bespeak",
+                    "ask for",
+                    "quest",
+                    "call for"
+                ],
+                "hasTypes": [
+                    "buttonhole",
+                    "lobby",
+                    "quest",
+                    "canvass"
+                ]
+            },
+            {
+                "definition": "a gentle blow",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "rap",
+                    "strike"
+                ],
+                "typeOf": [
+                    "blow",
+                    "bump"
+                ]
+            },
+            {
+                "definition": "the sound made by a gentle blow",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "pat",
+                    "rap"
+                ],
+                "typeOf": [
+                    "sound"
+                ],
+                "hasTypes": [
+                    "pitter-patter"
+                ]
+            },
+            {
+                "definition": "make light, repeated taps on a surface",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "knock",
+                    "pink",
+                    "rap"
+                ],
+                "typeOf": [
+                    "go",
+                    "sound"
+                ],
+                "derivation": [
+                    "tapping"
+                ],
+                "examples": [
+                    "he was tapping his fingers on the table impatiently"
+                ]
+            },
+            {
+                "definition": "a plug for a bunghole in a cask",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "spigot"
+                ],
+                "typeOf": [
+                    "stopple",
+                    "plug",
+                    "stopper"
+                ],
+                "partOf": [
+                    "barrel",
+                    "cask"
+                ],
+                "derivation": [
+                    "tapster"
+                ]
+            },
+            {
+                "definition": "a faucet for drawing water from a pipe or cask",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "hydrant",
+                    "water faucet",
+                    "water tap"
+                ],
+                "typeOf": [
+                    "spigot",
+                    "plumbing fixture",
+                    "faucet"
+                ],
+                "derivation": [
+                    "tapster"
+                ]
+            },
+            {
+                "definition": "the act of tapping a telephone or telegraph line to get information",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "wiretap"
+                ],
+                "typeOf": [
+                    "investigating",
+                    "investigation"
+                ]
+            },
+            {
+                "definition": "a light touch or stroke",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dab",
+                    "pat"
+                ],
+                "typeOf": [
+                    "touching",
+                    "touch"
+                ]
+            },
+            {
+                "definition": "strike lightly",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "tip"
+                ],
+                "typeOf": [
+                    "strike"
+                ],
+                "hasTypes": [
+                    "percuss"
+                ],
+                "derivation": [
+                    "tapper"
+                ],
+                "examples": [
+                    "He tapped me on the shoulder"
+                ]
+            },
+            {
+                "definition": "a small metal plate that attaches to the toe or heel of a shoe (as in tap dancing)",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "terpsichore",
+                    "dance",
+                    "saltation",
+                    "dancing"
+                ],
+                "typeOf": [
+                    "plate"
+                ]
+            },
+            {
+                "definition": "a tool for cutting female (internal) screw threads",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "tool"
+                ]
+            },
+            {
+                "definition": "cut a female screw thread with a tap",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "cut"
+                ],
+                "derivation": [
+                    "tapper"
+                ]
+            },
+            {
+                "definition": "draw from or dip into to get something",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "draw off",
+                    "take out",
+                    "draw",
+                    "withdraw"
+                ],
+                "examples": [
+                    "tap one's memory",
+                    "tap a source of money"
+                ]
+            },
+            {
+                "definition": "draw (liquor) from a tap",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "take out",
+                    "draw"
+                ],
+                "derivation": [
+                    "tapper"
+                ],
+                "examples": [
+                    "tap beer in a bar"
+                ]
+            },
+            {
+                "definition": "furnish with a tap or spout, so as to be able to draw liquid from it",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "render",
+                    "furnish",
+                    "provide",
+                    "supply"
+                ],
+                "derivation": [
+                    "tapper"
+                ],
+                "examples": [
+                    "tap a cask of wine"
+                ]
+            },
+            {
+                "definition": "pierce in order to draw a liquid from",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "pierce"
+                ],
+                "examples": [
+                    "tap a maple tree for its syrup",
+                    "tap a keg of beer"
+                ]
+            },
+            {
+                "definition": "walk with a tapping sound",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "walk"
+                ]
+            }
+        ],
+        "letters": 3,
+        "sounds": 3,
+        "frequency": {
+            "zipf": 4.12,
+            "perMillion": 13.04,
+            "diversity": 0.05
+        }
+    },
+    "tapestried": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "tap",
+                "es",
+                "tried"
+            ]
+        },
+        "pronunciation": {
+            "all": "'tæpɪstrid",
+            "simplified": "tæpɪstrid"
+        },
+        "rhymePatterns": {
+            "all": "-æpɪstrid"
+        },
+        "definitions": [
+            {
+                "definition": "hung or decorated with tapestry",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "adorned",
+                    "decorated"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "tapestry-covered": {
+        "rhymes": {
+            "all": "-əvərd"
+        },
+        "letters": 16,
+        "pronunciation": {
+            "simplified": "tæpɪstrikəvərd"
+        },
+        "sounds": 14
+    },
+    "tapeworm": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "tape",
+                "worm"
+            ]
+        },
+        "pronunciation": {
+            "all": "'teɪp,wɜrm",
+            "simplified": "teɪpwɜrm"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrm"
+        },
+        "definitions": [
+            {
+                "definition": "ribbonlike flatworms that are parasitic in the intestines of humans and other vertebrates",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "cestode"
+                ],
+                "typeOf": [
+                    "flatworm",
+                    "platyhelminth"
+                ],
+                "hasTypes": [
+                    "echinococcus",
+                    "taenia"
+                ],
+                "memberOf": [
+                    "cestoda",
+                    "class cestoda"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.15,
+            "perMillion": 1.41,
+            "diversity": 0
+        }
+    },
+    "taphole": {
+        "rhymes": {
+            "all": "-oʊl"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "tæphoʊl"
+        },
+        "sounds": 7
+    },
+    "tapioca-plant": {
+        "rhymes": {
+            "all": "-oʊkə_plænt"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "tæpioʊkəplænt"
+        },
+        "sounds": 13
+    },
+    "tapis": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "tap",
+                "is"
+            ]
+        },
+        "pronunciation": {
+            "all": "'tæpi",
+            "simplified": "tæpi"
+        },
+        "rhymePatterns": {
+            "all": "-æpi"
+        },
+        "definitions": [
+            {
+                "definition": "a heavy textile with a woven design; used for curtains and upholstery",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "tapestry"
+                ],
+                "typeOf": [
+                    "cloth",
+                    "fabric",
+                    "material",
+                    "textile"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "tapper": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "tap",
+                "per"
+            ]
+        },
+        "pronunciation": {
+            "all": "'tæpər",
+            "simplified": "tæpər"
+        },
+        "rhymePatterns": {
+            "all": "-æpər"
+        },
+        "definitions": [
+            {
+                "definition": "someone who wiretaps a telephone or telegraph wire",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "phone tapper",
+                    "wiretapper"
+                ],
+                "typeOf": [
+                    "eavesdropper"
+                ],
+                "derivation": [
+                    "tap"
+                ]
+            },
+            {
+                "definition": "a dancer who sounds out rhythms by using metal taps on the toes and heels of the shoes",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "tap dancer"
+                ],
+                "typeOf": [
+                    "dancer",
+                    "terpsichorean",
+                    "professional dancer"
+                ],
+                "derivation": [
+                    "tap"
+                ]
+            },
+            {
+                "definition": "a tavern keeper who taps kegs or casks",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "tapster"
+                ],
+                "typeOf": [
+                    "publican",
+                    "tavern keeper"
+                ],
+                "derivation": [
+                    "tap"
+                ]
+            },
+            {
+                "definition": "a person who strikes a surface lightly and usually repeatedly",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "person",
+                    "somebody",
+                    "soul",
+                    "someone",
+                    "individual",
+                    "mortal"
+                ],
+                "derivation": [
+                    "tap"
+                ],
+                "examples": [
+                    "finger tappers irritated her"
+                ]
+            },
+            {
+                "definition": "a worker who uses a tap to cut screw threads",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "worker"
+                ],
+                "derivation": [
+                    "tap"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "tapley": {
+        "rhymes": {
+            "all": "-æpli"
+        },
+        "letters": 6,
+        "pronunciation": "'tæpli",
+        "sounds": 5
+    },
+    "tar-laid": {
+        "rhymes": {
+            "all": "-ɑr_leɪd"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "tɑrleɪd"
+        },
+        "sounds": 7
+    },
+    "tarata": {
+        "rhymes": {
+            "all": "-ɑtə"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "tərɑtə"
+        },
+        "sounds": 6
+    },
+    "tarbrush": {
+        "rhymes": {
+            "all": "-əʃ"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "tɑrbrəʃ"
+        },
+        "sounds": 7
+    },
+    "tardenoisian": {
+        "rhymes": {
+            "all": "-ɔɪziən"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "tɑrdɪnɔɪziən"
+        },
+        "sounds": 12
+    },
+    "tardigrade": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "tar",
+                "di",
+                "grade"
+            ]
+        },
+        "pronunciation": {
+            "all": "'tɑrdə,greɪd",
+            "simplified": "tɑrdəgreɪd"
+        },
+        "rhymePatterns": {
+            "all": "-eɪd"
+        },
+        "definitions": [
+            {
+                "definition": "an arthropod of the division Tardigrada",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "arthropod"
+                ],
+                "memberOf": [
+                    "class tardigrada",
+                    "tardigrada"
+                ],
+                "hasParts": [
+                    "stylet"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10
+    },
+    "target-tower": {
+        "rhymes": {
+            "all": "-aʊər"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "tɑrgɪttaʊər"
+        },
+        "sounds": 11
+    },
+    "targu-mures": {
+        "rhymes": {
+            "all": "-uRɛʃ"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "tɪRgumuRɛʃ"
+        },
+        "sounds": 10
+    },
+    "tarheel": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "tar",
+                "heel"
+            ]
+        },
+        "pronunciation": {
+            "all": "'tɑr,hil",
+            "simplified": "tɑrhil"
+        },
+        "rhymePatterns": {
+            "all": "-il"
+        },
+        "definitions": [
+            {
+                "definition": "a native or resident of North Carolina",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "north carolinian"
+                ],
+                "typeOf": [
+                    "american"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6
+    },
+    "tarlton": {
+        "rhymes": {
+            "all": "-ɑrltən"
+        },
+        "letters": 7,
+        "pronunciation": "'tɑrltʌn",
+        "sounds": 7
+    },
+    "tarnation": {
+        "rhymes": {
+            "all": "-eɪʃən"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "tɑrneɪʃən"
+        },
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.36,
+            "perMillion": 0.21,
+            "diversity": 0
+        }
+    },
+    "tarnish": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "tar",
+                "nish"
+            ]
+        },
+        "pronunciation": {
+            "all": "'tɑrnɪʃ",
+            "simplified": "tɑrnɪʃ"
+        },
+        "rhymePatterns": {
+            "all": "-ɑrnɪʃ"
+        },
+        "definitions": [
+            {
+                "definition": "make dirty or spotty, as by exposure to air; also used metaphorically",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "defile",
+                    "maculate",
+                    "stain",
+                    "sully"
+                ],
+                "typeOf": [
+                    "fleck",
+                    "spot",
+                    "blob",
+                    "blot"
+                ],
+                "hasTypes": [
+                    "darken"
+                ],
+                "examples": [
+                    "The silver was tarnished by the long exposure to the air"
+                ]
+            },
+            {
+                "definition": "discoloration of metal surface caused by oxidation",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "stain",
+                    "discoloration",
+                    "discolouration"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.66,
+            "perMillion": 0.44,
+            "diversity": 0
+        }
+    },
+    "tarnkappe": {
+        "rhymes": {
+            "all": "-æpə"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "tɑrnkæpə"
+        },
+        "sounds": 8
+    },
+    "tarry-jacket": {
+        "rhymes": {
+            "all": "-ækɪt"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "tæridʒækɪt"
+        },
+        "sounds": 10
+    },
+    "tarsus": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "tar",
+                "sus"
+            ]
+        },
+        "pronunciation": {
+            "all": "'tɑrsəs",
+            "simplified": "tɑrsəs"
+        },
+        "rhymePatterns": {
+            "all": "-ɑrsəs"
+        },
+        "definitions": [
+            {
+                "definition": "the part of the foot of a vertebrate between the metatarsus and the leg; in human beings the bones of the ankle and heel collectively",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "skeletal structure"
+                ],
+                "hasParts": [
+                    "cuboid bone",
+                    "tarsal",
+                    "tarsal bone"
+                ],
+                "partOf": [
+                    "pedal extremity",
+                    "vertebrate foot"
+                ],
+                "derivation": [
+                    "tarsal"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.08,
+            "perMillion": 0.11,
+            "diversity": 0
+        }
+    },
+    "tartar": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "tar",
+                "tar"
+            ]
+        },
+        "pronunciation": {
+            "all": "'tɑrtər",
+            "simplified": "tɑrtər"
+        },
+        "rhymePatterns": {
+            "all": "-ɑrtər"
+        },
+        "definitions": [
+            {
+                "definition": "a fiercely vigilant and unpleasant woman",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dragon"
+                ],
+                "typeOf": [
+                    "unpleasant woman",
+                    "disagreeable woman"
+                ]
+            },
+            {
+                "definition": "a salt used especially in baking powder",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "cream of tartar",
+                    "potassium bitartrate",
+                    "potassium hydrogen tartrate"
+                ],
+                "typeOf": [
+                    "salt"
+                ],
+                "derivation": [
+                    "tartaric"
+                ]
+            },
+            {
+                "definition": "a member of the Mongolian people of central Asia who invaded Russia in the 13th century",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "mongol tatar",
+                    "tatar"
+                ],
+                "typeOf": [
+                    "mongol",
+                    "mongolian"
+                ]
+            },
+            {
+                "definition": "an incrustation that forms on the teeth and gums",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "calculus",
+                    "tophus"
+                ],
+                "typeOf": [
+                    "crust",
+                    "encrustation",
+                    "incrustation"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.91,
+            "perMillion": 0.8,
+            "diversity": 0
+        }
+    },
+    "tasker": {
+        "rhymes": {
+            "all": "-æskər"
+        },
+        "letters": 6,
+        "pronunciation": "'tæskɝr",
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.97,
+            "perMillion": 0.08,
+            "diversity": 0
+        }
+    },
+    "taste-maker": {
+        "pronunciation": {
+            "all": "teɪst_'meɪkər",
+            "simplified": "teɪstmeɪkər"
+        },
+        "rhymePatterns": {
+            "all": "-eɪkər"
+        },
+        "definitions": [
+            {
+                "definition": "someone who popularizes a new fashion",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "fashion arbiter",
+                    "trend-setter"
+                ],
+                "typeOf": [
+                    "model",
+                    "role model"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 11
+    },
+    "tastelessly": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "taste",
+                "less",
+                "ly"
+            ]
+        },
+        "pronunciation": {
+            "all": "'teɪstlɪsli",
+            "simplified": "teɪstlɪsli"
+        },
+        "rhymePatterns": {
+            "all": "-eɪstlɪsli"
+        },
+        "definitions": [
+            {
+                "definition": "without taste or in poor taste; in a tasteless manner",
+                "partOfSpeech": null,
+                "antonyms": [
+                    "tastefully"
+                ],
+                "pertainsTo": [
+                    "tasteless"
+                ],
+                "examples": [
+                    "the house was tastelessly decorated"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10
+    }
+}

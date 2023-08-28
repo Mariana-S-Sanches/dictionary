@@ -1,0 +1,2006 @@
+{
+    "rab": {
+        "rhymes": {
+            "all": "-æb"
+        },
+        "letters": 3,
+        "pronunciation": "ræb",
+        "sounds": 3,
+        "frequency": {
+            "zipf": 2.27,
+            "perMillion": 0.17,
+            "diversity": 0
+        }
+    },
+    "rabaul": {
+        "rhymes": {
+            "all": "-aʊl"
+        },
+        "letters": 6,
+        "pronunciation": {
+            "simplified": "rɑbaʊl"
+        },
+        "sounds": 6
+    },
+    "rabbit-foot": {
+        "rhymes": {
+            "all": "-æbɪt_fʊt"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ræbɪtfʊt"
+        },
+        "sounds": 8
+    },
+    "rabbit-meat": {
+        "rhymes": {
+            "all": "-æbɪt_mit"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ræbɪtmit"
+        },
+        "sounds": 8
+    },
+    "rabidity": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "rab",
+                "id",
+                "i",
+                "ty"
+            ]
+        },
+        "pronunciation": {
+            "all": "rə'bɪdɪti",
+            "simplified": "rəbɪdɪti"
+        },
+        "rhymePatterns": {
+            "all": "-ɪdɪti"
+        },
+        "definitions": [
+            {
+                "definition": "unrestrained excitement or enthusiasm",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "madness",
+                    "rabidness"
+                ],
+                "typeOf": [
+                    "ebullience",
+                    "enthusiasm",
+                    "exuberance"
+                ],
+                "derivation": [
+                    "rabid"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8
+    },
+    "rabot": {
+        "rhymes": {
+            "all": "-æbət"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "ræbət"
+        },
+        "sounds": 5
+    },
+    "race": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "race"
+            ]
+        },
+        "pronunciation": {
+            "all": "reɪs",
+            "simplified": "reɪs"
+        },
+        "rhymePatterns": {
+            "all": "-eɪs"
+        },
+        "definitions": [
+            {
+                "definition": "compete in a race",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "run"
+                ],
+                "typeOf": [
+                    "compete",
+                    "vie",
+                    "contend"
+                ],
+                "hasTypes": [
+                    "horse-race",
+                    "boat-race",
+                    "campaign",
+                    "place",
+                    "run",
+                    "show",
+                    "speed skate"
+                ],
+                "derivation": [
+                    "racer",
+                    "racing"
+                ],
+                "examples": [
+                    "let's race and see who gets there first"
+                ]
+            },
+            {
+                "definition": "the flow of air that is driven backwards by an aircraft propeller",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "airstream",
+                    "backwash",
+                    "slipstream",
+                    "wash"
+                ],
+                "typeOf": [
+                    "flow"
+                ]
+            },
+            {
+                "definition": "cause to move fast or to rush or race",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "rush"
+                ],
+                "typeOf": [
+                    "move",
+                    "displace"
+                ],
+                "derivation": [
+                    "racer"
+                ],
+                "examples": [
+                    "The psychologist raced the rats through a long maze"
+                ]
+            },
+            {
+                "definition": "move hurridly",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "belt along",
+                    "bucket along",
+                    "cannonball along",
+                    "hasten",
+                    "hie",
+                    "hotfoot",
+                    "pelt along",
+                    "rush",
+                    "rush along",
+                    "speed",
+                    "step on it"
+                ],
+                "typeOf": [
+                    "go",
+                    "travel",
+                    "locomote",
+                    "move"
+                ],
+                "hasTypes": [
+                    "flash",
+                    "barge",
+                    "buck",
+                    "dash",
+                    "dart",
+                    "shoot",
+                    "shoot down",
+                    "charge",
+                    "tear",
+                    "push forward",
+                    "thrust ahead",
+                    "scoot",
+                    "scud"
+                ],
+                "examples": [
+                    "The cars raced down the street"
+                ]
+            },
+            {
+                "definition": "a canal for a current of water",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "raceway"
+                ],
+                "typeOf": [
+                    "canal"
+                ]
+            },
+            {
+                "definition": "(biology) a taxonomic group that is a division of a species; usually arises as a consequence of geographical isolation within a species",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "subspecies"
+                ],
+                "inCategory": [
+                    "biological science",
+                    "biology"
+                ],
+                "typeOf": [
+                    "taxonomic group",
+                    "taxon",
+                    "taxonomic category"
+                ]
+            },
+            {
+                "definition": "a contest of speed",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "contest",
+                    "competition"
+                ],
+                "hasTypes": [
+                    "bicycle race",
+                    "bike race",
+                    "boat race",
+                    "burnup",
+                    "relay race",
+                    "auto race",
+                    "automobile race",
+                    "chariot race",
+                    "cross country",
+                    "dog racing",
+                    "foot race",
+                    "footrace",
+                    "freestyle",
+                    "heat",
+                    "horse race",
+                    "potato race",
+                    "relay",
+                    "repechage",
+                    "run",
+                    "sack race",
+                    "scratch race",
+                    "ski race",
+                    "skiing race",
+                    "car race"
+                ],
+                "derivation": [
+                    "racy"
+                ],
+                "examples": [
+                    "the race is to the swift"
+                ]
+            },
+            {
+                "definition": "any competition",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "competition",
+                    "contest"
+                ],
+                "hasTypes": [
+                    "campaign",
+                    "political campaign",
+                    "run",
+                    "arms race"
+                ],
+                "examples": [
+                    "the race for the presidency"
+                ]
+            },
+            {
+                "definition": "people who are believed to belong to the same genetic stock",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "group",
+                    "grouping"
+                ],
+                "hasTypes": [
+                    "master race",
+                    "herrenvolk"
+                ],
+                "derivation": [
+                    "racial"
+                ],
+                "examples": [
+                    "some biologists doubt that there are important genetic differences between races of human beings"
+                ]
+            },
+            {
+                "definition": "to work as fast as possible towards a goal, sometimes in competition with others",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "move",
+                    "act"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 4.75,
+            "perMillion": 56.2,
+            "diversity": 0.13
+        }
+    },
+    "racemate": {
+        "rhymes": {
+            "all": "-eɪt"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ræsɪmeɪt"
+        },
+        "sounds": 8
+    },
+    "racemic": {
+        "rhymes": {
+            "all": "-imɪk"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "rəsimɪk"
+        },
+        "sounds": 7,
+        "frequency": 1.74
+    },
+    "racer": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "rac",
+                "er"
+            ]
+        },
+        "pronunciation": {
+            "all": "'reɪsər",
+            "simplified": "reɪsər"
+        },
+        "rhymePatterns": {
+            "all": "-eɪsər"
+        },
+        "definitions": [
+            {
+                "definition": "someone who drives racing cars at high speeds",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "automobile driver",
+                    "race driver"
+                ],
+                "typeOf": [
+                    "driver"
+                ],
+                "hasTypes": [
+                    "finisher"
+                ],
+                "hasInstances": [
+                    "berna eli oldfield",
+                    "barney oldfield",
+                    "oldfield"
+                ],
+                "derivation": [
+                    "race"
+                ]
+            },
+            {
+                "definition": "a fast car that competes in races",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "race car",
+                    "racing car"
+                ],
+                "typeOf": [
+                    "auto",
+                    "motorcar",
+                    "car",
+                    "machine",
+                    "automobile"
+                ],
+                "hasTypes": [
+                    "stock car",
+                    "finisher"
+                ],
+                "hasParts": [
+                    "cockpit"
+                ],
+                "derivation": [
+                    "race"
+                ]
+            },
+            {
+                "definition": "an animal that races",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "animal",
+                    "animate being",
+                    "beast",
+                    "brute",
+                    "creature",
+                    "fauna"
+                ],
+                "hasTypes": [
+                    "finisher",
+                    "steeplechaser",
+                    "greyhound"
+                ],
+                "derivation": [
+                    "race"
+                ]
+            },
+            {
+                "definition": "slender fast-moving North American snakes",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "colubrid",
+                    "colubrid snake"
+                ],
+                "hasTypes": [
+                    "coluber constrictor",
+                    "blacksnake",
+                    "horseshoe whipsnake",
+                    "black racer",
+                    "coluber hippocrepis"
+                ],
+                "memberOf": [
+                    "genus coluber",
+                    "coluber"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.37,
+            "perMillion": 2.32,
+            "diversity": 0
+        }
+    },
+    "racemule": {
+        "rhymes": {
+            "all": "-ul"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "ræsəmjul"
+        },
+        "sounds": 8
+    },
+    "rack": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "rack"
+            ]
+        },
+        "pronunciation": {
+            "all": "ræk",
+            "simplified": "ræk"
+        },
+        "rhymePatterns": {
+            "all": "-æk"
+        },
+        "definitions": [
+            {
+                "definition": "an instrument of torture that stretches or disjoints or mutilates victims",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "wheel"
+                ],
+                "typeOf": [
+                    "instrument of torture"
+                ]
+            },
+            {
+                "definition": "torment emotionally or mentally",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "excruciate",
+                    "torment",
+                    "torture"
+                ],
+                "typeOf": [
+                    "hurt",
+                    "anguish",
+                    "pain"
+                ]
+            },
+            {
+                "definition": "a support for displaying various articles",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "stand"
+                ],
+                "typeOf": [
+                    "support"
+                ],
+                "hasTypes": [
+                    "cruet-stand",
+                    "magazine rack",
+                    "music rack",
+                    "music stand",
+                    "spice rack",
+                    "tripod",
+                    "bier",
+                    "dress rack"
+                ],
+                "hasParts": [
+                    "spit"
+                ],
+                "examples": [
+                    "the newspapers were arranged on a rack"
+                ]
+            },
+            {
+                "definition": "go at a rack",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "single-foot"
+                ],
+                "typeOf": [
+                    "pace"
+                ]
+            },
+            {
+                "definition": "a rapid gait of a horse in which each foot strikes the ground separately",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "single-foot"
+                ],
+                "typeOf": [
+                    "gait"
+                ]
+            },
+            {
+                "definition": "the destruction or collapse of something",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "wrack"
+                ],
+                "typeOf": [
+                    "destruction",
+                    "wipeout",
+                    "demolition"
+                ],
+                "examples": [
+                    "wrack and ruin"
+                ]
+            },
+            {
+                "definition": "obtain by coercion or intimidation",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "extort",
+                    "gouge",
+                    "squeeze",
+                    "wring"
+                ],
+                "typeOf": [
+                    "pluck",
+                    "overcharge",
+                    "surcharge",
+                    "soak",
+                    "rob",
+                    "fleece",
+                    "gazump",
+                    "hook",
+                    "plume"
+                ],
+                "hasTypes": [
+                    "bleed"
+                ]
+            },
+            {
+                "definition": "run before a gale",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "scud"
+                ],
+                "inCategory": [
+                    "pilotage",
+                    "navigation",
+                    "piloting"
+                ],
+                "typeOf": [
+                    "sail"
+                ]
+            },
+            {
+                "definition": "a form of torture in which pain is inflicted by stretching the body",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "torture",
+                    "torturing"
+                ]
+            },
+            {
+                "definition": "draw off from the lees",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "take out",
+                    "draw"
+                ],
+                "examples": [
+                    "rack wine"
+                ]
+            },
+            {
+                "definition": "fly in high wind",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "wing",
+                    "fly"
+                ]
+            },
+            {
+                "definition": "framework for holding objects",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "frame",
+                    "framework"
+                ],
+                "hasTypes": [
+                    "barbecue",
+                    "barbeque",
+                    "bicycle rack",
+                    "carrier",
+                    "coat rack",
+                    "coatrack",
+                    "dish rack",
+                    "hatrack",
+                    "hayrack",
+                    "pipe rack",
+                    "plate rack",
+                    "tie rack",
+                    "toastrack",
+                    "towel horse",
+                    "towel rack"
+                ]
+            },
+            {
+                "definition": "put on a rack and pinion",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "put to work",
+                    "work"
+                ],
+                "examples": [
+                    "rack a camera"
+                ]
+            },
+            {
+                "definition": "rib section of a forequarter of veal or pork or especially lamb or mutton",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "cut of meat",
+                    "cut"
+                ],
+                "hasTypes": [
+                    "crown roast",
+                    "rack of lamb"
+                ]
+            },
+            {
+                "definition": "seize together, as of parallel ropes of a tackle in order to prevent running through the block",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "seize",
+                    "clutch",
+                    "prehend"
+                ]
+            },
+            {
+                "definition": "stretch to the limits",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "stress",
+                    "try",
+                    "strain"
+                ],
+                "examples": [
+                    "rack one's brains"
+                ]
+            },
+            {
+                "definition": "torture on the rack",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "torture",
+                    "excruciate",
+                    "torment"
+                ]
+            },
+            {
+                "definition": "work on a rack",
+                "partOfSpeech": "verb",
+                "entails": [
+                    "stretch"
+                ],
+                "typeOf": [
+                    "process",
+                    "work",
+                    "work on"
+                ],
+                "examples": [
+                    "rack leather"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 3,
+        "frequency": {
+            "zipf": 3.81,
+            "perMillion": 6.45,
+            "diversity": 0.02
+        }
+    },
+    "racketeer": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "rack",
+                "et",
+                "eer"
+            ]
+        },
+        "pronunciation": {
+            "all": ",rækɪ'tir",
+            "simplified": "rækɪtir"
+        },
+        "rhymePatterns": {
+            "all": "-ir"
+        },
+        "definitions": [
+            {
+                "definition": "carry on illegal business activities involving crime",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "deal",
+                    "conduct",
+                    "carry on"
+                ],
+                "derivation": [
+                    "racketeering"
+                ]
+            },
+            {
+                "definition": "someone who commits crimes for profit (especially one who obtains money by fraud or extortion)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "felon",
+                    "malefactor",
+                    "outlaw",
+                    "criminal",
+                    "crook"
+                ],
+                "hasTypes": [
+                    "bagman"
+                ],
+                "memberOf": [
+                    "underworld"
+                ],
+                "derivation": [
+                    "racket"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "raddleman": {
+        "rhymes": {
+            "all": "-ædəlmən"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "rædəlmən"
+        },
+        "sounds": 8
+    },
+    "radha": {
+        "rhymes": {
+            "all": "-ɑdɑ"
+        },
+        "letters": 5,
+        "pronunciation": "'rɑdʌ",
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.46,
+            "perMillion": 2.87,
+            "diversity": 0
+        }
+    },
+    "radiant": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ra",
+                "di",
+                "ant"
+            ]
+        },
+        "pronunciation": {
+            "all": "'reɪdiənt",
+            "simplified": "reɪdiənt"
+        },
+        "rhymePatterns": {
+            "all": "-eɪdiənt"
+        },
+        "definitions": [
+            {
+                "definition": "radiating or as if radiating light",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "beaming",
+                    "beamy",
+                    "effulgent",
+                    "refulgent"
+                ],
+                "similarTo": [
+                    "bright"
+                ],
+                "derivation": [
+                    "radiance",
+                    "radiancy",
+                    "radiate"
+                ],
+                "examples": [
+                    "a radiant sunrise"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.34,
+            "perMillion": 2.2,
+            "diversity": 0.01
+        }
+    },
+    "radiculose": {
+        "rhymes": {
+            "all": "-oʊs"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "rədɪkjəloʊs"
+        },
+        "sounds": 11
+    },
+    "radioactive": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ra",
+                "di",
+                "o",
+                "ac",
+                "tive"
+            ]
+        },
+        "pronunciation": {
+            "all": ",reɪdioʊ'æktɪv",
+            "simplified": "reɪdioʊæktɪv"
+        },
+        "rhymePatterns": {
+            "all": "-æktɪv"
+        },
+        "definitions": [
+            {
+                "definition": "exhibiting or caused by radioactivity",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "hot"
+                ],
+                "antonyms": [
+                    "nonradioactive"
+                ],
+                "derivation": [
+                    "radioactivity"
+                ],
+                "examples": [
+                    "radioactive isotope",
+                    "radioactive decay",
+                    "radioactive fallout"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 12,
+        "frequency": {
+            "zipf": 3.46,
+            "perMillion": 2.89,
+            "diversity": 0.01
+        }
+    },
+    "radioactinium": {
+        "rhymes": {
+            "all": "-ɪniəm"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "reɪdioʊæktɪniəm"
+        },
+        "sounds": 15
+    },
+    "radiobiology": {
+        "syllables": {
+            "count": 7,
+            "list": [
+                "ra",
+                "di",
+                "o",
+                "bi",
+                "ol",
+                "o",
+                "gy"
+            ]
+        },
+        "pronunciation": {
+            "all": ",reɪdioʊbaɪ'ɑlədʒi",
+            "simplified": "reɪdioʊbaɪɑlədʒi"
+        },
+        "rhymePatterns": {
+            "all": "-ɑlədʒi"
+        },
+        "definitions": [
+            {
+                "definition": "the branch of biology that studies the effects of radiation on living organisms",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "biological science",
+                    "biology"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 16
+    },
+    "radiophonic": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "ra",
+                "di",
+                "o",
+                "phon",
+                "ic"
+            ]
+        },
+        "pronunciation": {
+            "all": ",reɪdɪoʊ'fɑnɪk",
+            "simplified": "reɪdɪoʊfɑnɪk"
+        },
+        "rhymePatterns": {
+            "all": "-ɑnɪk"
+        },
+        "definitions": [
+            {
+                "definition": "relating to or by means of radiotelephony",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "radiotelephonic"
+                ],
+                "pertainsTo": [
+                    "radiotelephony"
+                ],
+                "derivation": [
+                    "radiophone"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 12
+    },
+    "radiophotography": {
+        "syllables": {
+            "count": 7,
+            "list": [
+                "ra",
+                "di",
+                "o",
+                "pho",
+                "tog",
+                "ra",
+                "phy"
+            ]
+        },
+        "pronunciation": {
+            "all": ",reɪdioʊfə'tɑgrəfi",
+            "simplified": "reɪdioʊfətɑgrəfi"
+        },
+        "rhymePatterns": {
+            "all": "-ɑgrəfi"
+        },
+        "definitions": [
+            {
+                "definition": "transmission of photographs by radio waves",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "telephotography"
+                ]
+            }
+        ],
+        "letters": 16,
+        "sounds": 16
+    },
+    "radiophotograph": {
+        "syllables": {
+            "count": 6,
+            "list": [
+                "ra",
+                "di",
+                "o",
+                "pho",
+                "to",
+                "graph"
+            ]
+        },
+        "pronunciation": {
+            "all": ",reɪdioʊ'foʊtə,græf",
+            "simplified": "reɪdioʊfoʊtəgræf"
+        },
+        "rhymePatterns": {
+            "all": "-æf"
+        },
+        "definitions": [
+            {
+                "definition": "a photograph transmitted by radio waves",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "radiophoto"
+                ],
+                "typeOf": [
+                    "telephotograph"
+                ]
+            }
+        ],
+        "letters": 15,
+        "sounds": 16
+    },
+    "rae": {
+        "rhymes": {
+            "all": "-eɪ"
+        },
+        "letters": 3,
+        "pronunciation": "reɪ",
+        "sounds": 3,
+        "frequency": {
+            "zipf": 3.13,
+            "perMillion": 1.35,
+            "diversity": 0
+        }
+    },
+    "radome": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ra",
+                "dome"
+            ]
+        },
+        "pronunciation": {
+            "all": "'reɪ,doʊm",
+            "simplified": "reɪdoʊm"
+        },
+        "rhymePatterns": {
+            "all": "-oʊm"
+        },
+        "definitions": [
+            {
+                "definition": "a housing for a radar antenna; transparent to radio waves",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "radar dome"
+                ],
+                "typeOf": [
+                    "housing"
+                ],
+                "partOf": [
+                    "aeroplane",
+                    "airplane",
+                    "plane"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7
+    },
+    "raenell": {
+        "rhymes": {
+            "all": "-ɛl"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "reɪnɛl"
+        },
+        "sounds": 6
+    },
+    "raffinate": {
+        "rhymes": {
+            "all": "-eɪt"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "ræfəneɪt"
+        },
+        "sounds": 8
+    },
+    "ragfish": {
+        "rhymes": {
+            "all": "-ɪʃ"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ræɡfɪʃ"
+        },
+        "sounds": 6
+    },
+    "ragee": {
+        "pronunciation": {
+            "all": "'rɑɡi",
+            "simplified": "rɑɡi"
+        },
+        "rhymePatterns": {
+            "all": "-ɑɡi"
+        },
+        "definitions": [
+            {
+                "definition": "East Indian cereal grass whose seed yield a somewhat bitter flour, a staple in the Orient",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "african millet",
+                    "coracan",
+                    "corakan",
+                    "eleusine coracana",
+                    "finger millet",
+                    "kurakkan",
+                    "ragi"
+                ],
+                "typeOf": [
+                    "millet"
+                ],
+                "memberOf": [
+                    "eleusine",
+                    "genus eleusine"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 4
+    },
+    "ragweed": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "rag",
+                "weed"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ræɡ,wid",
+            "simplified": "ræɡwid"
+        },
+        "rhymePatterns": {
+            "all": "-id"
+        },
+        "definitions": [
+            {
+                "definition": "widespread European weed having yellow daisylike flowers; sometimes an obnoxious weed and toxic to cattle if consumed in quantity",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "benweed",
+                    "ragwort",
+                    "senecio jacobaea",
+                    "tansy ragwort"
+                ],
+                "typeOf": [
+                    "weed"
+                ],
+                "memberOf": [
+                    "senecio",
+                    "genus senecio"
+                ]
+            },
+            {
+                "definition": "any of numerous chiefly North American weedy plants constituting the genus Ambrosia that produce highly allergenic pollen responsible for much hay fever and asthma",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "ambrosia",
+                    "bitterweed"
+                ],
+                "typeOf": [
+                    "weed"
+                ],
+                "hasTypes": [
+                    "ambrosia psilostachya",
+                    "ambrosia trifida",
+                    "common ragweed",
+                    "western ragweed",
+                    "great ragweed",
+                    "perennial ragweed",
+                    "ambrosia artemisiifolia"
+                ],
+                "memberOf": [
+                    "genus ambrosia"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": 2.6
+    },
+    "ragwork": {
+        "rhymes": {
+            "all": "-æɡ,wɜrk"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "ræɡwɜrk"
+        },
+        "sounds": 7
+    },
+    "rail": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "rail"
+            ]
+        },
+        "pronunciation": {
+            "all": "reɪl",
+            "simplified": "reɪl"
+        },
+        "rhymePatterns": {
+            "all": "-eɪl"
+        },
+        "definitions": [
+            {
+                "definition": "a barrier consisting of a horizontal bar and supports",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "railing"
+                ],
+                "typeOf": [
+                    "barrier"
+                ],
+                "hasTypes": [
+                    "bar",
+                    "fife rail",
+                    "guardrail",
+                    "taffrail",
+                    "safety rail"
+                ],
+                "hasParts": [
+                    "ledger board"
+                ],
+                "partOf": [
+                    "bannister",
+                    "banister",
+                    "handrail",
+                    "balustrade",
+                    "balusters"
+                ]
+            },
+            {
+                "definition": "enclose with rails",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "rail in"
+                ],
+                "typeOf": [
+                    "enclose",
+                    "confine",
+                    "hold in"
+                ],
+                "derivation": [
+                    "railing"
+                ],
+                "examples": [
+                    "rail in the old graves"
+                ]
+            },
+            {
+                "definition": "criticize severely",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "fulminate"
+                ],
+                "typeOf": [
+                    "denounce"
+                ],
+                "examples": [
+                    "She railed against the bad social policies"
+                ]
+            },
+            {
+                "definition": "complain bitterly",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "inveigh"
+                ],
+                "typeOf": [
+                    "quetch",
+                    "sound off",
+                    "kick",
+                    "plain",
+                    "complain",
+                    "kvetch"
+                ]
+            },
+            {
+                "definition": "separate with a railing",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "rail off"
+                ],
+                "typeOf": [
+                    "separate",
+                    "divide"
+                ],
+                "derivation": [
+                    "railing"
+                ],
+                "examples": [
+                    "rail off the crowds from the Presidential palace"
+                ]
+            },
+            {
+                "definition": "spread negative information about",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "revile",
+                    "vilify",
+                    "vituperate"
+                ],
+                "typeOf": [
+                    "blackguard",
+                    "abuse",
+                    "shout",
+                    "clapperclaw"
+                ]
+            },
+            {
+                "definition": "travel by rail or train",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "train"
+                ],
+                "typeOf": [
+                    "ride"
+                ],
+                "examples": [
+                    "They railed from Rome to Venice"
+                ]
+            },
+            {
+                "definition": "a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "rails",
+                    "runway",
+                    "track"
+                ],
+                "typeOf": [
+                    "bar"
+                ],
+                "hasTypes": [
+                    "third rail"
+                ],
+                "partOf": [
+                    "railway",
+                    "streetcar track",
+                    "tramway",
+                    "railroad",
+                    "tramline",
+                    "railroad track"
+                ]
+            },
+            {
+                "definition": "a horizontal bar (usually of wood or metal)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "bar"
+                ],
+                "hasTypes": [
+                    "split rail",
+                    "hitching bar",
+                    "hitchrack",
+                    "ledger board",
+                    "picture rail",
+                    "plate rail",
+                    "fence rail"
+                ]
+            },
+            {
+                "definition": "any of numerous widely distributed small wading birds of the family Rallidae having short wings and very long toes for running on soft mud",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "wading bird",
+                    "wader"
+                ],
+                "hasTypes": [
+                    "coot",
+                    "crake",
+                    "maori hen",
+                    "notornis",
+                    "notornis mantelli",
+                    "takahe",
+                    "weka",
+                    "wood hen"
+                ],
+                "memberOf": [
+                    "rallidae",
+                    "family rallidae"
+                ]
+            },
+            {
+                "definition": "convey (goods etc.) by rails",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "transport"
+                ],
+                "examples": [
+                    "fresh fruit are railed from Italy to Belgium"
+                ]
+            },
+            {
+                "definition": "fish with a handline over the rails of a boat",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "fish"
+                ],
+                "examples": [
+                    "They are railing for fresh fish"
+                ]
+            },
+            {
+                "definition": "lay with rails",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "put down",
+                    "lay",
+                    "repose"
+                ],
+                "examples": [
+                    "hundreds of miles were railed out here"
+                ]
+            },
+            {
+                "definition": "provide with rails",
+                "partOfSpeech": "verb",
+                "inCategory": [
+                    "architecture"
+                ],
+                "typeOf": [
+                    "furnish",
+                    "supply",
+                    "provide",
+                    "render"
+                ],
+                "derivation": [
+                    "railing"
+                ],
+                "examples": [
+                    "The yard was railed"
+                ]
+            },
+            {
+                "definition": "short for railway",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "railway",
+                    "railway line",
+                    "railroad line",
+                    "railroad",
+                    "railway system"
+                ],
+                "examples": [
+                    "he traveled by rail",
+                    "he was concerned with rail safety"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.65,
+            "perMillion": 4.47,
+            "diversity": 0.02
+        }
+    },
+    "rail-cutting": {
+        "rhymes": {
+            "all": "-ətɪŋ"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "reɪlkətɪŋ"
+        },
+        "sounds": 9
+    },
+    "railroading": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "rail",
+                "road",
+                "ing"
+            ]
+        },
+        "pronunciation": {
+            "all": "'reɪl,roʊdɪŋ",
+            "simplified": "reɪlroʊdɪŋ"
+        },
+        "rhymePatterns": {
+            "all": "-oʊdɪŋ"
+        },
+        "definitions": [
+            {
+                "definition": "the activity of designing and constructing and operating railroads",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "rail technology"
+                ],
+                "typeOf": [
+                    "technology"
+                ],
+                "hasTypes": [
+                    "maglev",
+                    "magnetic levitation"
+                ],
+                "derivation": [
+                    "railroad"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 1.9,
+            "perMillion": 0.07,
+            "diversity": 0
+        }
+    },
+    "raillery": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "rail",
+                "ler",
+                "y"
+            ]
+        },
+        "pronunciation": {
+            "all": "'reɪləri",
+            "simplified": "reɪləri"
+        },
+        "rhymePatterns": {
+            "all": "-eɪləri"
+        },
+        "definitions": [
+            {
+                "definition": "light teasing repartee",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "backchat",
+                    "banter",
+                    "give-and-take"
+                ],
+                "typeOf": [
+                    "repartee"
+                ],
+                "hasTypes": [
+                    "badinage",
+                    "persiflage"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 7
+    },
+    "railway": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "rail",
+                "way"
+            ]
+        },
+        "pronunciation": {
+            "all": "'reɪlweɪ",
+            "simplified": "reɪlweɪ"
+        },
+        "rhymePatterns": {
+            "all": "-eɪlweɪ"
+        },
+        "definitions": [
+            {
+                "definition": "line that is the commercial organization responsible for operating a system of transportation for trains that pull passengers or freight",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "railroad",
+                    "railroad line",
+                    "railway line",
+                    "railway system"
+                ],
+                "typeOf": [
+                    "line"
+                ],
+                "hasTypes": [
+                    "overhead railway",
+                    "monorail",
+                    "underground",
+                    "metro",
+                    "scenic railway",
+                    "funicular railway",
+                    "funicular",
+                    "elevated railway",
+                    "subway",
+                    "subway system",
+                    "elevated railroad",
+                    "elevated",
+                    "el",
+                    "cog railway",
+                    "tube",
+                    "cable railway",
+                    "rack railway",
+                    "rail"
+                ]
+            },
+            {
+                "definition": "a line of track providing a runway for wheels",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "railroad",
+                    "railroad track"
+                ],
+                "typeOf": [
+                    "track"
+                ],
+                "hasTypes": [
+                    "railroad siding",
+                    "switch",
+                    "standard gauge",
+                    "siding",
+                    "gantlet",
+                    "turnout",
+                    "sidetrack",
+                    "narrow gauge",
+                    "broad gauge"
+                ],
+                "hasParts": [
+                    "track",
+                    "crosstie",
+                    "rail",
+                    "tie",
+                    "runway",
+                    "rails",
+                    "sleeper",
+                    "railroad tie"
+                ],
+                "partOf": [
+                    "rail line",
+                    "line",
+                    "railway line"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.84,
+            "perMillion": 6.92,
+            "diversity": 0.02
+        }
+    },
+    "rain": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "rain"
+            ]
+        },
+        "pronunciation": {
+            "all": "reɪn",
+            "simplified": "reɪn"
+        },
+        "rhymePatterns": {
+            "all": "-eɪn"
+        },
+        "definitions": [
+            {
+                "definition": "anything happening rapidly or in quick successive",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "pelting"
+                ],
+                "typeOf": [
+                    "chronological sequence",
+                    "chronological succession",
+                    "sequence",
+                    "succession",
+                    "successiveness"
+                ],
+                "examples": [
+                    "a rain of bullets"
+                ]
+            },
+            {
+                "definition": "drops of fresh water that fall as precipitation from clouds",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "rainwater"
+                ],
+                "typeOf": [
+                    "freshwater",
+                    "fresh water"
+                ],
+                "derivation": [
+                    "rainy"
+                ]
+            },
+            {
+                "definition": "precipitate as rain",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "rain down"
+                ],
+                "typeOf": [
+                    "precipitate",
+                    "fall",
+                    "come down"
+                ],
+                "hasTypes": [
+                    "rain buckets",
+                    "rain cats and dogs",
+                    "shower",
+                    "shower down",
+                    "mizzle",
+                    "spit",
+                    "sprinkle",
+                    "stream",
+                    "spatter",
+                    "patter",
+                    "pelt",
+                    "pitter-patter",
+                    "pour",
+                    "drizzle"
+                ],
+                "examples": [
+                    "If it rains much more, we can expect some flooding"
+                ]
+            },
+            {
+                "definition": "water falling in drops from vapor condensed in the atmosphere",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "rainfall"
+                ],
+                "typeOf": [
+                    "precipitation",
+                    "downfall"
+                ],
+                "hasTypes": [
+                    "waterspout",
+                    "drizzle",
+                    "mizzle",
+                    "monsoon",
+                    "pelter",
+                    "rain shower",
+                    "rainstorm",
+                    "shower",
+                    "soaker",
+                    "torrent",
+                    "downpour",
+                    "cloudburst",
+                    "deluge"
+                ],
+                "hasParts": [
+                    "raindrop"
+                ],
+                "derivation": [
+                    "rainy"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 4.77,
+            "perMillion": 59.37,
+            "diversity": 0.18
+        }
+    },
+    "rain-driven": {
+        "rhymes": {
+            "all": "-ɪvən"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "reɪndrɪvən"
+        },
+        "sounds": 10
+    },
+    "raincoat": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "rain",
+                "coat"
+            ]
+        },
+        "pronunciation": {
+            "all": "'reɪn,koʊt",
+            "simplified": "reɪnkoʊt"
+        },
+        "rhymePatterns": {
+            "all": "-oʊt"
+        },
+        "definitions": [
+            {
+                "definition": "a water-resistant coat",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "waterproof"
+                ],
+                "typeOf": [
+                    "coat"
+                ],
+                "hasTypes": [
+                    "mac",
+                    "burberry",
+                    "mack",
+                    "mackintosh",
+                    "trench coat",
+                    "macintosh"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.21,
+            "perMillion": 1.63,
+            "diversity": 0.01
+        }
+    },
+    "rainbow-winged": {
+        "rhymes": {
+            "all": "-oʊ_wɪŋd"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "reɪnboʊwɪŋd"
+        },
+        "sounds": 11
+    },
+    "raisin-colored": {
+        "rhymes": {
+            "all": "-ələrd"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "reɪzɪnkələrd"
+        },
+        "sounds": 12
+    },
+    "rakish": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "rak",
+                "ish"
+            ]
+        },
+        "pronunciation": {
+            "all": "'reɪkɪʃ",
+            "simplified": "reɪkɪʃ"
+        },
+        "rhymePatterns": {
+            "all": "-eɪkɪʃ"
+        },
+        "definitions": [
+            {
+                "definition": "marked by up-to-dateness in dress and manners",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "dapper",
+                    "dashing",
+                    "jaunty",
+                    "natty",
+                    "raffish",
+                    "snappy",
+                    "spiffy",
+                    "spruce"
+                ],
+                "similarTo": [
+                    "fashionable",
+                    "stylish"
+                ],
+                "derivation": [
+                    "rakishness"
+                ]
+            },
+            {
+                "definition": "marked by a carefree unconventionality or disreputableness",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "devil-may-care",
+                    "raffish"
+                ],
+                "similarTo": [
+                    "unconventional"
+                ],
+                "derivation": [
+                    "rakishness"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.97,
+            "perMillion": 0.08,
+            "diversity": 0
+        }
+    },
+    "ramadan": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ram",
+                "a",
+                "dan"
+            ]
+        },
+        "pronunciation": {
+            "all": ",ræmə'dɑn",
+            "simplified": "ræmədɑn"
+        },
+        "rhymePatterns": {
+            "all": "-ɑn"
+        },
+        "definitions": [
+            {
+                "definition": "(Islam) a fast (held from sunrise to sunset) that is carried out during the Islamic month of Ramadan",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "islamism",
+                    "mohammedanism",
+                    "islam",
+                    "muslimism",
+                    "muhammadanism"
+                ],
+                "typeOf": [
+                    "fast",
+                    "fasting"
+                ]
+            },
+            {
+                "definition": "the ninth month of the Islamic calendar; the month of fasting; the holiest period for the Islamic faith",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "islamic calendar month"
+                ],
+                "partOf": [
+                    "mohammedan calendar",
+                    "moslem calendar",
+                    "muhammadan calendar",
+                    "muslim calendar",
+                    "islamic calendar"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.96,
+            "perMillion": 0.91,
+            "diversity": 0
+        }
+    }
+}

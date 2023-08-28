@@ -1,0 +1,2057 @@
+{
+    "sawyer": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "saw",
+                "yer"
+            ]
+        },
+        "pronunciation": {
+            "all": "'sɔjər",
+            "simplified": "sɔjər"
+        },
+        "rhymePatterns": {
+            "all": "-ɔjər"
+        },
+        "definitions": [
+            {
+                "definition": "any of several beetles whose larvae bore holes in dead or dying trees especially conifers",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "sawyer beetle"
+                ],
+                "typeOf": [
+                    "long-horned beetle",
+                    "longicorn beetle",
+                    "longicorn"
+                ],
+                "hasTypes": [
+                    "pine sawyer"
+                ],
+                "memberOf": [
+                    "monochamus",
+                    "genus monochamus"
+                ]
+            },
+            {
+                "definition": "one who is employed to saw wood",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "labourer",
+                    "laborer",
+                    "jack",
+                    "manual laborer"
+                ],
+                "derivation": [
+                    "saw"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.46,
+            "perMillion": 2.88,
+            "diversity": 0
+        }
+    },
+    "sawdust": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "saw",
+                "dust"
+            ]
+        },
+        "pronunciation": {
+            "all": "'sɔ,dəst",
+            "simplified": "sɔdəst"
+        },
+        "rhymePatterns": {
+            "all": "-əst"
+        },
+        "definitions": [
+            {
+                "definition": "fine particles of wood made by sawing wood",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "wood"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.73,
+            "perMillion": 0.52,
+            "diversity": 0
+        }
+    },
+    "sawed-off": {
+        "pronunciation": {
+            "all": "'sɔd'ɔf",
+            "simplified": "sɔdɔf"
+        },
+        "rhymePatterns": {
+            "all": "-ɔf"
+        },
+        "definitions": [
+            {
+                "definition": "cut short",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "sawn-off",
+                    "shortened"
+                ],
+                "similarTo": [
+                    "short"
+                ],
+                "examples": [
+                    "a sawed-off shotgun",
+                    "a sawed-off broomstick"
+                ]
+            },
+            {
+                "definition": "well below average height",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "pint-size",
+                    "pint-sized",
+                    "runty",
+                    "sawn-off"
+                ],
+                "usageOf": [
+                    "cant",
+                    "jargon",
+                    "lingo",
+                    "patois",
+                    "slang",
+                    "vernacular",
+                    "argot"
+                ],
+                "similarTo": [
+                    "little",
+                    "short"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 5
+    },
+    "saxon": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "sax",
+                "on"
+            ]
+        },
+        "pronunciation": {
+            "all": "'sæksən",
+            "simplified": "sæksən"
+        },
+        "rhymePatterns": {
+            "all": "-æksən"
+        },
+        "definitions": [
+            {
+                "definition": "a member of a Germanic people who conquered England and merged with the Angles and Jutes to become Anglo-Saxons; dominant in England until the Norman Conquest",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "european"
+                ],
+                "hasTypes": [
+                    "west saxon"
+                ],
+                "hasInstances": [
+                    "athelstan"
+                ]
+            },
+            {
+                "definition": "of or relating to or characteristic of the early Saxons or Anglo-Saxons and their descendents (especially the English or Lowland Scots) and their language",
+                "partOfSpeech": "adjective",
+                "inRegion": [
+                    "england"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.27,
+            "perMillion": 1.84,
+            "diversity": 0
+        }
+    },
+    "saxonism": {
+        "rhymes": {
+            "all": "-ɪzəm"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "sæksənɪzəm"
+        },
+        "sounds": 10
+    },
+    "scabies": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "sca",
+                "bies"
+            ]
+        },
+        "pronunciation": {
+            "all": "'skeɪbiz",
+            "simplified": "skeɪbiz"
+        },
+        "rhymePatterns": {
+            "all": "-eɪbiz"
+        },
+        "definitions": [
+            {
+                "definition": "a contagious skin infection caused by the itch mite; characterized by persistent itching and skin irritation",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "itch"
+                ],
+                "typeOf": [
+                    "infection"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.17,
+            "perMillion": 0.13,
+            "diversity": 0
+        }
+    },
+    "scabiosa": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "sca",
+                "bi",
+                "o",
+                "sa"
+            ]
+        },
+        "pronunciation": {
+            "all": ",skeɪbi'oʊsə",
+            "simplified": "skeɪbioʊsə"
+        },
+        "rhymePatterns": {
+            "all": "-oʊsə"
+        },
+        "definitions": [
+            {
+                "definition": "any of various plants of the genus Scabiosa",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "scabious"
+                ],
+                "typeOf": [
+                    "flower"
+                ],
+                "hasTypes": [
+                    "sweet scabious",
+                    "field scabious",
+                    "mournful widow",
+                    "pincushion flower",
+                    "scabiosa arvensis",
+                    "scabiosa atropurpurea"
+                ],
+                "memberOf": [
+                    "genus scabiosa"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 10
+    },
+    "scalariform": {
+        "rhymes": {
+            "all": "-ɔrm"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "skəlærəfɔrm"
+        },
+        "sounds": 11
+    },
+    "scalar": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "sca",
+                "lar"
+            ]
+        },
+        "pronunciation": {
+            "all": "'skeɪlər",
+            "simplified": "skeɪlər"
+        },
+        "rhymePatterns": {
+            "all": "-eɪlər"
+        },
+        "definitions": [
+            {
+                "definition": "a variable quantity that cannot be resolved into components",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "variable",
+                    "variable quantity"
+                ]
+            },
+            {
+                "definition": "of or relating to a musical scale",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "scale"
+                ],
+                "derivation": [
+                    "scale"
+                ],
+                "examples": [
+                    "he played some basic scalar patterns on his guitar"
+                ]
+            },
+            {
+                "definition": "of or relating to a directionless magnitude (such as mass or speed etc.) that is completely specified by its magnitude",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "scale"
+                ],
+                "examples": [
+                    "scalar quantity"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7
+    },
+    "scalawag": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "scal",
+                "a",
+                "wag"
+            ]
+        },
+        "pronunciation": {
+            "all": "'skælə,wæɡ",
+            "simplified": "skæləwæɡ"
+        },
+        "rhymePatterns": {
+            "all": "-æɡ"
+        },
+        "definitions": [
+            {
+                "definition": "one who is playfully mischievous",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "imp",
+                    "monkey",
+                    "rapscallion",
+                    "rascal",
+                    "scallywag",
+                    "scamp"
+                ],
+                "typeOf": [
+                    "kid",
+                    "minor",
+                    "nestling",
+                    "nipper",
+                    "youngster",
+                    "child",
+                    "fry",
+                    "small fry",
+                    "tiddler",
+                    "tike",
+                    "tyke",
+                    "shaver"
+                ],
+                "hasTypes": [
+                    "little terror",
+                    "brat",
+                    "holy terror",
+                    "terror"
+                ]
+            },
+            {
+                "definition": "a deceitful and unreliable scoundrel",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "knave",
+                    "rapscallion",
+                    "rascal",
+                    "rogue",
+                    "scallywag",
+                    "varlet"
+                ],
+                "typeOf": [
+                    "villain",
+                    "scoundrel"
+                ]
+            },
+            {
+                "definition": "a white Southerner who supported Reconstruction policies after the American Civil War (usually for self-interest)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "scallywag"
+                ],
+                "typeOf": [
+                    "bad person"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "scaleboard": {
+        "rhymes": {
+            "all": "-oʊrd"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "skeɪlboʊrd"
+        },
+        "sounds": 10
+    },
+    "scaleless": {
+        "pronunciation": {
+            "all": "'skeɪllɛs",
+            "simplified": "skeɪllɛs"
+        },
+        "rhymePatterns": {
+            "all": "-eɪllɛs"
+        },
+        "definitions": [
+            {
+                "definition": "destitute of scales",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "unarmored",
+                    "unarmoured"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8
+    },
+    "scansorial": {
+        "rhymes": {
+            "all": "-oʊriəl"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "skænsoʊriəl"
+        },
+        "sounds": 11
+    },
+    "scantling": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "scant",
+                "ling"
+            ]
+        },
+        "pronunciation": {
+            "all": "'skæntlɪŋ",
+            "simplified": "skæntlɪŋ"
+        },
+        "rhymePatterns": {
+            "all": "-æntlɪŋ"
+        },
+        "definitions": [
+            {
+                "definition": "an upright in house framing",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "stud"
+                ],
+                "typeOf": [
+                    "upright",
+                    "vertical"
+                ],
+                "partOf": [
+                    "building",
+                    "edifice"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8
+    },
+    "scaphopodous": {
+        "rhymes": {
+            "all": "-ɑpədəs"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "skəfɑpədəs"
+        },
+        "sounds": 10
+    },
+    "scare-bird": {
+        "rhymes": {
+            "all": "-d"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "skɜrbɜrd"
+        },
+        "sounds": 8
+    },
+    "scatoma": {
+        "rhymes": {
+            "all": "-oʊmə"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "skətoʊmə"
+        },
+        "sounds": 8
+    },
+    "scatter-gun": {
+        "rhymes": {
+            "all": "-ætər_gən"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "skætərgən"
+        },
+        "sounds": 9
+    },
+    "scavenge": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "scav",
+                "enge"
+            ]
+        },
+        "pronunciation": {
+            "all": "'skævɪndʒ",
+            "simplified": "skævɪndʒ"
+        },
+        "rhymePatterns": {
+            "all": "-ævɪndʒ"
+        },
+        "definitions": [
+            {
+                "definition": "collect discarded material",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "salvage"
+                ],
+                "typeOf": [
+                    "gather",
+                    "collect",
+                    "pull together",
+                    "garner"
+                ],
+                "derivation": [
+                    "scavenger"
+                ],
+                "examples": [
+                    "She scavenged the garbage cans for food"
+                ]
+            },
+            {
+                "definition": "remove unwanted substances from",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "clean"
+                ],
+                "inCategory": [
+                    "chemical science",
+                    "chemistry"
+                ],
+                "typeOf": [
+                    "remove",
+                    "take",
+                    "take away",
+                    "withdraw"
+                ],
+                "derivation": [
+                    "scavenger"
+                ]
+            },
+            {
+                "definition": "clean refuse from",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "make clean",
+                    "clean"
+                ]
+            },
+            {
+                "definition": "feed on carrion or refuse",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "give",
+                    "feed"
+                ],
+                "derivation": [
+                    "scavenger"
+                ],
+                "examples": [
+                    "hyenas scavenge"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.33,
+            "perMillion": 0.2,
+            "diversity": 0
+        }
+    },
+    "scenario": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "sce",
+                "nar",
+                "i",
+                "o"
+            ]
+        },
+        "pronunciation": {
+            "all": "sɪ'nɜri,oʊ",
+            "simplified": "sɪnɜrioʊ"
+        },
+        "rhymePatterns": {
+            "all": "-oʊ"
+        },
+        "definitions": [
+            {
+                "definition": "an outline or synopsis of a play (or, by extension, of a literary work)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "book",
+                    "playscript",
+                    "script"
+                ],
+                "derivation": [
+                    "scenarist"
+                ]
+            },
+            {
+                "definition": "a postulated sequence of possible events",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "assumption",
+                    "premise",
+                    "premiss"
+                ],
+                "examples": [
+                    "planners developed several scenarios in case of an attack"
+                ]
+            },
+            {
+                "definition": "a setting for a work of art or literature",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "scene",
+                    "setting"
+                ],
+                "examples": [
+                    "the scenario is France during the Reign of Terror"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 3.8,
+            "perMillion": 6.25,
+            "diversity": 0.03
+        }
+    },
+    "schefferite": {
+        "rhymes": {
+            "all": "-aɪt"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ʃɛfəraɪt"
+        },
+        "sounds": 8
+    },
+    "schematise": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "sche",
+                "ma",
+                "tise"
+            ]
+        },
+        "pronunciation": {
+            "all": "'skimə,taɪz",
+            "simplified": "skimətaɪz"
+        },
+        "rhymePatterns": {
+            "all": "-aɪz"
+        },
+        "definitions": [
+            {
+                "definition": "give conventional form to",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "schematize"
+                ],
+                "typeOf": [
+                    "alter",
+                    "change",
+                    "modify"
+                ],
+                "derivation": [
+                    "schematisation"
+                ],
+                "examples": [
+                    "some art forms schematise designs into geometrical patterns"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 9
+    },
+    "scheming": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "schem",
+                "ing"
+            ]
+        },
+        "pronunciation": {
+            "all": "'skimɪŋ",
+            "simplified": "skimɪŋ"
+        },
+        "rhymePatterns": {
+            "all": "-imɪŋ"
+        },
+        "definitions": [
+            {
+                "definition": "acting with a specific goal",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "calculating",
+                    "calculative",
+                    "conniving",
+                    "shrewd"
+                ],
+                "similarTo": [
+                    "hard"
+                ]
+            },
+            {
+                "definition": "concealing crafty designs for advancing your own interest",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "designing"
+                ],
+                "similarTo": [
+                    "artful"
+                ],
+                "examples": [
+                    "a scheming wife",
+                    "a scheming gold digger"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 3.06,
+            "perMillion": 1.15,
+            "diversity": 0.01
+        }
+    },
+    "schippers": {
+        "rhymes": {
+            "all": "-ɪpərz"
+        },
+        "letters": 9,
+        "pronunciation": "'ʃɪpɝrz",
+        "sounds": 6
+    },
+    "schismatic": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "schis",
+                "mat",
+                "ic"
+            ]
+        },
+        "pronunciation": {
+            "all": "sɪz'mætɪk",
+            "simplified": "sɪzmætɪk"
+        },
+        "rhymePatterns": {
+            "all": "-ætɪk"
+        },
+        "definitions": [
+            {
+                "definition": "of or relating to or involved in or characteristic of schism",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "schismatical"
+                ],
+                "pertainsTo": [
+                    "schism"
+                ],
+                "derivation": [
+                    "schism"
+                ],
+                "examples": [
+                    "schismatic sects"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 8
+    },
+    "schizogenesis": {
+        "rhymes": {
+            "all": "-ɛnɪsɪs"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "skɪzədʒɛnɪsɪs"
+        },
+        "sounds": 13
+    },
+    "schizoid": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "schiz",
+                "oid"
+            ]
+        },
+        "pronunciation": {
+            "all": "'skɪtsɔɪd",
+            "simplified": "skɪtsɔɪd"
+        },
+        "rhymePatterns": {
+            "all": "-ɪtsɔɪd"
+        },
+        "definitions": [
+            {
+                "definition": "of or relating to or characteristic of schizophrenia",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "schizophrenic"
+                ],
+                "pertainsTo": [
+                    "schizophrenia"
+                ]
+            },
+            {
+                "definition": "characterized by symptoms similar to but less severe than schizophrenia",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "schizotypal personality"
+                ],
+                "typeOf": [
+                    "personality disorder"
+                ]
+            },
+            {
+                "definition": "marked by withdrawal and inability to form close relationships",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "neurotic",
+                    "psychoneurotic"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.33,
+            "perMillion": 0.2,
+            "diversity": 0
+        }
+    },
+    "schizogenously": {
+        "rhymes": {
+            "all": "-ɑdʒənəsli"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "skɪzɑdʒənəsli"
+        },
+        "sounds": 13
+    },
+    "schizomycosis": {
+        "rhymes": {
+            "all": "-oʊsɪs"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "skɪzoʊmaɪkoʊsɪs"
+        },
+        "sounds": 15
+    },
+    "schlepp": {
+        "rhymes": {
+            "all": "-ɛp"
+        },
+        "letters": 7,
+        "pronunciation": "ʃlɛp",
+        "sounds": 4,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "schlimazel": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "schli",
+                "ma",
+                "zel"
+            ]
+        },
+        "pronunciation": {
+            "all": "ʃlɪ'mɑzəl",
+            "simplified": "ʃlɪmɑzəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɑzəl"
+        },
+        "definitions": [
+            {
+                "definition": "(Yiddish) a very unlucky or inept person who fails at everything",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "shlimazel"
+                ],
+                "inCategory": [
+                    "yiddish"
+                ],
+                "typeOf": [
+                    "unfortunate",
+                    "unfortunate person"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 8,
+        "frequency": 2.19
+    },
+    "schmeling": {
+        "rhymes": {
+            "all": "-ɛlɪŋ"
+        },
+        "letters": 9,
+        "pronunciation": "'ʃmɛlɪŋ",
+        "sounds": 6
+    },
+    "schmooze": {
+        "pronunciation": {
+            "all": "ʃmuz",
+            "simplified": "ʃmuz"
+        },
+        "rhymePatterns": {
+            "all": "-uz"
+        },
+        "definitions": [
+            {
+                "definition": "talk idly or casually and in a friendly way",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "jawbone",
+                    "schmoose",
+                    "shmoose",
+                    "shmooze"
+                ],
+                "typeOf": [
+                    "visit",
+                    "chaffer",
+                    "chat",
+                    "chatter",
+                    "chew the fat",
+                    "chit-chat",
+                    "chitchat",
+                    "claver",
+                    "confab",
+                    "confabulate",
+                    "gossip",
+                    "jaw",
+                    "natter",
+                    "shoot the breeze"
+                ],
+                "derivation": [
+                    "schmoozer"
+                ]
+            },
+            {
+                "definition": "an informal conversation",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "chat",
+                    "confab",
+                    "confabulation",
+                    "schmoose"
+                ],
+                "typeOf": [
+                    "conversation"
+                ],
+                "hasTypes": [
+                    "chin-wagging",
+                    "chin wag",
+                    "chin wagging",
+                    "chit-chat",
+                    "chit chat",
+                    "chitchat",
+                    "gab",
+                    "gabfest",
+                    "gossip",
+                    "small talk",
+                    "tittle-tattle",
+                    "chin-wag",
+                    "causerie"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 2.36,
+            "perMillion": 0.21,
+            "diversity": 0
+        }
+    },
+    "schnabel": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "schna",
+                "bel"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ʃnɑbəl",
+            "simplified": "ʃnɑbəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɑbəl"
+        },
+        "definitions": [
+            {
+                "definition": "United States composer (born in Austria) and pianist noted for his interpretations of the works of Mozart and Beethoven and Schubert (1882-1951)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "artur schnabel"
+                ],
+                "instanceOf": [
+                    "composer",
+                    "pianist",
+                    "piano player"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.97,
+            "perMillion": 0.08,
+            "diversity": 0
+        }
+    },
+    "scholasticate": {
+        "rhymes": {
+            "all": "-eɪt"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "skəlæstəkeɪt"
+        },
+        "sounds": 12
+    },
+    "scholiast": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "scho",
+                "li",
+                "ast"
+            ]
+        },
+        "pronunciation": {
+            "all": "'skoʊlɪ,æst",
+            "simplified": "skoʊlɪæst"
+        },
+        "rhymePatterns": {
+            "all": "-æst"
+        },
+        "definitions": [
+            {
+                "definition": "a scholar who writes explanatory notes on an author (especially an ancient commentator on a classical author)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "bookman",
+                    "scholar",
+                    "scholarly person",
+                    "student"
+                ],
+                "hasTypes": [
+                    "glossarist"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9
+    },
+    "school-age": {
+        "rhymes": {
+            "all": "-ul_eɪdʒ"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "skuleɪdʒ"
+        },
+        "sounds": 8
+    },
+    "school-magisterial": {
+        "rhymes": {
+            "all": "-iriəl"
+        },
+        "letters": 18,
+        "pronunciation": {
+            "simplified": "skulmædʒɪstiriəl"
+        },
+        "sounds": 16
+    },
+    "school-bred": {
+        "rhymes": {
+            "all": "-ul_brɛd"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "skulbrɛd"
+        },
+        "sounds": 8
+    },
+    "schoolmarm": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "school",
+                "marm"
+            ]
+        },
+        "pronunciation": {
+            "all": "'skul,mærm",
+            "simplified": "skulmærm"
+        },
+        "rhymePatterns": {
+            "all": "-ærm"
+        },
+        "definitions": [
+            {
+                "definition": "a woman schoolteacher (especially one regarded as strict)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "mistress",
+                    "schoolma'am",
+                    "schoolmistress"
+                ],
+                "typeOf": [
+                    "school teacher",
+                    "schoolteacher"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.97,
+            "perMillion": 0.08,
+            "diversity": 0
+        }
+    },
+    "schorl": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "schorl"
+            ]
+        },
+        "pronunciation": {
+            "all": "ʃɔrl",
+            "simplified": "ʃɔrl"
+        },
+        "rhymePatterns": {
+            "all": "-ɔrl"
+        },
+        "definitions": [
+            {
+                "definition": "black tourmaline",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "tourmaline"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 4
+    },
+    "schorl-rock": {
+        "rhymes": {
+            "all": "-ɔrl_rɑk"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "ʃɔrlrɑk"
+        },
+        "sounds": 7
+    },
+    "schuman": {
+        "rhymes": {
+            "all": "-umən"
+        },
+        "letters": 7,
+        "pronunciation": "'ʃumʌn",
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    },
+    "schwarz": {
+        "rhymes": {
+            "all": "-ɔrtz"
+        },
+        "letters": 7,
+        "pronunciation": "ʃwɔrts",
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.36,
+            "perMillion": 0.21,
+            "diversity": 0
+        }
+    },
+    "schweitzer": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "schweit",
+                "zer"
+            ]
+        },
+        "pronunciation": {
+            "all": "'ʃwaɪtsər",
+            "simplified": "ʃwaɪtsər"
+        },
+        "rhymePatterns": {
+            "all": "-aɪtsər"
+        },
+        "definitions": [
+            {
+                "definition": "French philosopher and physician and organist who spent most of his life as a medical missionary in Gabon (1875-1965)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "albert schweitzer"
+                ],
+                "instanceOf": [
+                    "doc",
+                    "doctor",
+                    "dr.",
+                    "md",
+                    "medico",
+                    "missionary",
+                    "missioner",
+                    "organist",
+                    "philosopher",
+                    "physician"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.54,
+            "perMillion": 0.33,
+            "diversity": 0
+        }
+    },
+    "sciagraphy": {
+        "rhymes": {
+            "all": "-ægrəfi"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "skaɪægrəfi"
+        },
+        "sounds": 10
+    },
+    "sclerophylly": {
+        "rhymes": {
+            "all": "-ɪli"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "sklirəfɪli"
+        },
+        "sounds": 10
+    },
+    "sclerotomic": {
+        "rhymes": {
+            "all": "-ɑmɪk"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "sklirətɑmɪk"
+        },
+        "sounds": 11
+    },
+    "sconce": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "sconce"
+            ]
+        },
+        "pronunciation": {
+            "all": "skɑns",
+            "simplified": "skɑns"
+        },
+        "rhymePatterns": {
+            "all": "-ɑns"
+        },
+        "definitions": [
+            {
+                "definition": "a candle or flaming torch secured in a sconce",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "light",
+                    "light source"
+                ]
+            },
+            {
+                "definition": "a decorative wall bracket for holding candles or other sources of light",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "wall bracket",
+                    "bracket"
+                ]
+            },
+            {
+                "definition": "a shelter or screen providing protection from enemy fire or from the weather",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "shelter"
+                ]
+            },
+            {
+                "definition": "a small fort or earthwork defending a ford, pass, or castle gate",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "fort",
+                    "earthwork",
+                    "fortress"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.03,
+            "perMillion": 0.09,
+            "diversity": 0
+        }
+    },
+    "scordatura": {
+        "rhymes": {
+            "all": "-ʊrə"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "skɔrdətʊrə"
+        },
+        "sounds": 10
+    },
+    "scorpionic": {
+        "rhymes": {
+            "all": "-ɑnɪk"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "skɔrpiɑnɪk"
+        },
+        "sounds": 10
+    },
+    "scoter": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "sco",
+                "ter"
+            ]
+        },
+        "pronunciation": {
+            "all": "'skoʊtər",
+            "simplified": "skoʊtər"
+        },
+        "rhymePatterns": {
+            "all": "-oʊtər"
+        },
+        "definitions": [
+            {
+                "definition": "large black diving duck of northern parts of the northern hemisphere",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "scooter"
+                ],
+                "typeOf": [
+                    "sea duck"
+                ],
+                "hasTypes": [
+                    "common scoter",
+                    "melanitta nigra"
+                ],
+                "memberOf": [
+                    "genus melanitta",
+                    "melanitta"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7
+    },
+    "scotism": {
+        "rhymes": {
+            "all": "-oʊtɪzəm"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "skoʊtɪzəm"
+        },
+        "sounds": 9
+    },
+    "scotsman": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "scots",
+                "man"
+            ]
+        },
+        "pronunciation": {
+            "all": "'skɑtsmən",
+            "simplified": "skɑtsmən"
+        },
+        "rhymePatterns": {
+            "all": "-ɑtsmən"
+        },
+        "definitions": [
+            {
+                "definition": "a native or inhabitant of Scotland",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "scot",
+                    "scotchman"
+                ],
+                "typeOf": [
+                    "european"
+                ],
+                "hasTypes": [
+                    "glaswegian",
+                    "highland scot",
+                    "highlander",
+                    "lowland scot",
+                    "lowlander",
+                    "scotchwoman",
+                    "scotswoman",
+                    "scottish highlander",
+                    "scottish lowlander"
+                ],
+                "memberOf": [
+                    "scotland"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.54,
+            "perMillion": 0.33,
+            "diversity": 0
+        }
+    },
+    "scott": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "scott"
+            ]
+        },
+        "pronunciation": {
+            "all": "skɑt",
+            "simplified": "skɑt"
+        },
+        "rhymePatterns": {
+            "all": "-ɑt"
+        },
+        "definitions": [
+            {
+                "definition": "United States general who was a hero of the War of 1812 and who defeated Santa Anna in the Mexican War (1786-1866)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "winfield scott"
+                ],
+                "instanceOf": [
+                    "full general",
+                    "general"
+                ]
+            },
+            {
+                "definition": "United States slave who sued for liberty after living in a non-slave state; caused the Supreme Court to declare the Missouri Compromise unconstitutional (1795?-1858)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dred scott"
+                ],
+                "instanceOf": [
+                    "slave"
+                ]
+            },
+            {
+                "definition": "British author of historical novels and ballads (1771-1832)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "sir walter scott",
+                    "walter scott"
+                ],
+                "instanceOf": [
+                    "author",
+                    "writer"
+                ]
+            },
+            {
+                "definition": "award-winning United States film actor (1928-1999)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "george c. scott"
+                ],
+                "instanceOf": [
+                    "actor",
+                    "histrion",
+                    "player",
+                    "role player",
+                    "thespian"
+                ]
+            },
+            {
+                "definition": "English explorer who reached the South Pole just a month after Amundsen; he and his party died on the return journey (1868-1912)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "robert falcon scott",
+                    "robert scott"
+                ],
+                "instanceOf": [
+                    "adventurer",
+                    "explorer"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 4.39,
+            "perMillion": 24.78,
+            "diversity": 0.03
+        }
+    },
+    "scraich": {
+        "rhymes": {
+            "all": "-eɪx"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "skReɪx"
+        },
+        "sounds": 6
+    },
+    "scrambler": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "scram",
+                "bler"
+            ]
+        },
+        "pronunciation": {
+            "all": "'skræmblər",
+            "simplified": "skræmblər"
+        },
+        "rhymePatterns": {
+            "all": "-æmblər"
+        },
+        "definitions": [
+            {
+                "definition": "a lightweight motorcycle equipped with rugged tires and suspension; an off-road motorcycle designed for riding cross country or over unpaved ground",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "dirt bike",
+                    "trail bike"
+                ],
+                "typeOf": [
+                    "bike",
+                    "motorcycle"
+                ]
+            },
+            {
+                "definition": "a rapid mover; someone who scrambles",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "mover"
+                ],
+                "derivation": [
+                    "scramble"
+                ],
+                "examples": [
+                    "their quarterback was a good scrambler",
+                    "scramblers can often unnerve a better tennis player"
+                ]
+            },
+            {
+                "definition": "electronic equipment that makes speech unintelligible during transmission and restores it at reception",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "electronic equipment"
+                ],
+                "derivation": [
+                    "scramble"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.3,
+            "perMillion": 0.19,
+            "diversity": 0
+        }
+    },
+    "scraper": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "scrap",
+                "er"
+            ]
+        },
+        "pronunciation": {
+            "all": "'skreɪpər",
+            "simplified": "skreɪpər"
+        },
+        "rhymePatterns": {
+            "all": "-eɪpər"
+        },
+        "definitions": [
+            {
+                "definition": "any of various hand tools for scraping",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "hand tool"
+                ],
+                "derivation": [
+                    "scrape"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.2,
+            "perMillion": 0.15,
+            "diversity": 0
+        }
+    },
+    "scratch-coated": {
+        "rhymes": {
+            "all": "-oʊtɪd"
+        },
+        "letters": 14,
+        "pronunciation": {
+            "simplified": "skræʧkoʊtɪd"
+        },
+        "sounds": 12
+    },
+    "screen": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "screen"
+            ]
+        },
+        "pronunciation": {
+            "all": "skrin",
+            "simplified": "skrin"
+        },
+        "rhymePatterns": {
+            "all": "-in"
+        },
+        "definitions": [
+            {
+                "definition": "protect, hide, or conceal from danger or harm",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "shield"
+                ],
+                "typeOf": [
+                    "protect"
+                ],
+                "derivation": [
+                    "screening"
+                ]
+            },
+            {
+                "definition": "test or examine for the presence of disease or infection",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "test"
+                ],
+                "typeOf": [
+                    "check"
+                ],
+                "examples": [
+                    "screen the blood for the HIV virus"
+                ]
+            },
+            {
+                "definition": "a strainer for separating lumps from powdered material or grading particles",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "sieve"
+                ],
+                "typeOf": [
+                    "strainer"
+                ],
+                "hasTypes": [
+                    "riddle",
+                    "sifter"
+                ]
+            },
+            {
+                "definition": "a covering that serves to conceal or shelter something",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "concealment",
+                    "cover",
+                    "covert"
+                ],
+                "typeOf": [
+                    "covering"
+                ],
+                "hasTypes": [
+                    "blind",
+                    "camouflage",
+                    "shoji",
+                    "stalking-horse"
+                ],
+                "examples": [
+                    "a screen of trees afforded privacy"
+                ]
+            },
+            {
+                "definition": "the personnel of the film industry",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "filmdom",
+                    "screenland"
+                ],
+                "typeOf": [
+                    "film industry",
+                    "movie industry"
+                ],
+                "examples": [
+                    "a star of stage and screen"
+                ]
+            },
+            {
+                "definition": "separate with a riddle, as grain from chaff",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "riddle"
+                ],
+                "typeOf": [
+                    "sieve",
+                    "sift",
+                    "strain"
+                ]
+            },
+            {
+                "definition": "examine in order to test suitability",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "screen out",
+                    "sieve",
+                    "sort"
+                ],
+                "typeOf": [
+                    "choose",
+                    "take",
+                    "select",
+                    "pick out"
+                ],
+                "derivation": [
+                    "screening",
+                    "screener"
+                ],
+                "examples": [
+                    "screen these samples",
+                    "screen the job applicants"
+                ]
+            },
+            {
+                "definition": "a white or silvered surface where pictures can be projected for viewing",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "projection screen",
+                    "silver screen"
+                ],
+                "typeOf": [
+                    "surface"
+                ],
+                "hasTypes": [
+                    "wide screen"
+                ]
+            },
+            {
+                "definition": "prevent from entering",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "block out"
+                ],
+                "typeOf": [
+                    "occlude",
+                    "block",
+                    "close up",
+                    "impede",
+                    "jam",
+                    "obstruct",
+                    "obturate"
+                ],
+                "hasTypes": [
+                    "shade"
+                ]
+            },
+            {
+                "definition": "the display that is electronically created on the surface of the large end of a cathode-ray tube",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "crt screen"
+                ],
+                "typeOf": [
+                    "video display",
+                    "display"
+                ],
+                "hasTypes": [
+                    "computer screen",
+                    "background",
+                    "computer display",
+                    "screen background",
+                    "desktop"
+                ],
+                "hasParts": [
+                    "foreground"
+                ],
+                "partOf": [
+                    "crt",
+                    "cathode-ray tube"
+                ]
+            },
+            {
+                "definition": "a protective covering that keeps things out or hinders sight",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "blind"
+                ],
+                "typeOf": [
+                    "protective covering",
+                    "protective cover",
+                    "protection"
+                ],
+                "hasTypes": [
+                    "pall",
+                    "shutter",
+                    "window blind",
+                    "blinker",
+                    "drapery",
+                    "drape",
+                    "mantle",
+                    "curtain",
+                    "blinder",
+                    "winker"
+                ]
+            },
+            {
+                "definition": "a protective covering consisting of netting; can be mounted in a frame",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "protection",
+                    "protective cover",
+                    "protective covering"
+                ],
+                "hasTypes": [
+                    "fire screen",
+                    "windshield",
+                    "windscreen",
+                    "window screen",
+                    "mosquito net",
+                    "smoke screen",
+                    "fireguard",
+                    "smokescreen"
+                ],
+                "partOf": [
+                    "screen door"
+                ],
+                "hasSubstances": [
+                    "screening"
+                ],
+                "examples": [
+                    "they put screens in the windows for protection against insects",
+                    "a metal screen protected the observers"
+                ]
+            },
+            {
+                "definition": "examine methodically",
+                "partOfSpeech": "verb",
+                "entails": [
+                    "extinguish",
+                    "do away with",
+                    "eliminate",
+                    "get rid of"
+                ],
+                "typeOf": [
+                    "examine",
+                    "study",
+                    "analyse",
+                    "canvass",
+                    "analyze"
+                ],
+                "derivation": [
+                    "screener",
+                    "screening"
+                ],
+                "examples": [
+                    "screen the suitcases"
+                ]
+            },
+            {
+                "definition": "partition consisting of a decorative frame or panel that serves to divide a space",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "divider",
+                    "partition"
+                ],
+                "hasTypes": [
+                    "reredos",
+                    "purdah",
+                    "rood screen",
+                    "altarpiece"
+                ]
+            },
+            {
+                "definition": "project onto a screen for viewing",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "show"
+                ],
+                "derivation": [
+                    "screening"
+                ],
+                "examples": [
+                    "screen a film"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 4.38,
+            "perMillion": 23.97,
+            "diversity": 0.09
+        }
+    },
+    "screen-wall": {
+        "rhymes": {
+            "all": "-in_wɔl"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "skrinwɔl"
+        },
+        "sounds": 8
+    },
+    "screwed": {
+        "rhymes": {
+            "all": "-ud"
+        },
+        "letters": 7,
+        "pronunciation": "skrud",
+        "sounds": 5,
+        "frequency": {
+            "zipf": 4.51,
+            "perMillion": 31.99,
+            "diversity": 0.13
+        }
+    },
+    "scrim": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "scrim"
+            ]
+        },
+        "pronunciation": {
+            "all": "skrim",
+            "simplified": "skrim"
+        },
+        "rhymePatterns": {
+            "all": "-im"
+        },
+        "definitions": [
+            {
+                "definition": "a firm open-weave fabric used for a curtain in the theater",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "cloth",
+                    "fabric",
+                    "material",
+                    "textile"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 1.82,
+            "perMillion": 0.05,
+            "diversity": 0
+        }
+    }
+}

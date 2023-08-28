@@ -1,0 +1,2076 @@
+{
+    "venality": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ve",
+                "nal",
+                "i",
+                "ty"
+            ]
+        },
+        "pronunciation": {
+            "all": "vi'nælɪti",
+            "simplified": "vinælɪti"
+        },
+        "rhymePatterns": {
+            "all": "-ælɪti"
+        },
+        "definitions": [
+            {
+                "definition": "prostitution of talents or offices or services for reward",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "corruption",
+                    "corruptness"
+                ],
+                "derivation": [
+                    "venal"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": 2.19
+    },
+    "vend": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ven",
+                "d"
+            ]
+        },
+        "pronunciation": {
+            "all": "vɛnd",
+            "simplified": "vɛnd"
+        },
+        "rhymePatterns": {
+            "all": "-ɛnd"
+        },
+        "definitions": [
+            {
+                "definition": "sell or offer for sale from place to place",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "hawk",
+                    "huckster",
+                    "monger",
+                    "peddle",
+                    "pitch"
+                ],
+                "typeOf": [
+                    "deal",
+                    "sell",
+                    "trade"
+                ],
+                "derivation": [
+                    "vendable",
+                    "vender",
+                    "vendible",
+                    "vending",
+                    "vendition",
+                    "vendor"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "venerable": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ven",
+                "er",
+                "a",
+                "ble"
+            ]
+        },
+        "pronunciation": {
+            "all": "'vɛnərəbəl",
+            "simplified": "vɛnərəbəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɛnərəbəl"
+        },
+        "definitions": [
+            {
+                "definition": "profoundly honored",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "august",
+                    "revered"
+                ],
+                "similarTo": [
+                    "honorable",
+                    "honourable"
+                ],
+                "derivation": [
+                    "venerability",
+                    "venerableness"
+                ]
+            },
+            {
+                "definition": "impressive by reason of age",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "old"
+                ],
+                "derivation": [
+                    "venerableness"
+                ],
+                "examples": [
+                    "a venerable sage with white hair and beard"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 2.75,
+            "perMillion": 0.55,
+            "diversity": 0
+        }
+    },
+    "venereal": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ve",
+                "ne",
+                "re",
+                "al"
+            ]
+        },
+        "pronunciation": {
+            "all": "və'niriəl",
+            "simplified": "vəniriəl"
+        },
+        "rhymePatterns": {
+            "all": "-iriəl"
+        },
+        "definitions": [
+            {
+                "definition": "of or relating to the external sex organs",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "genital"
+                ],
+                "examples": [
+                    "venereal disease"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.85,
+            "perMillion": 0.69,
+            "diversity": 0
+        }
+    },
+    "venerer": {
+        "rhymes": {
+            "all": "-ɛnərər"
+        },
+        "letters": 7,
+        "pronunciation": {
+            "simplified": "vɛnərər"
+        },
+        "sounds": 7
+    },
+    "venezuela": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ven",
+                "e",
+                "zue",
+                "la"
+            ]
+        },
+        "pronunciation": {
+            "all": ",vɛnɪ'zweɪlə",
+            "simplified": "vɛnɪzweɪlə"
+        },
+        "rhymePatterns": {
+            "all": "-eɪlə"
+        },
+        "definitions": [
+            {
+                "definition": "a republic in northern South America on the Caribbean; achieved independence from Spain in 1811; rich in oil",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "republic of venezuela"
+                ],
+                "instanceOf": [
+                    "south american country",
+                    "south american nation"
+                ],
+                "hasMembers": [
+                    "venezuelan"
+                ],
+                "memberOf": [
+                    "organization of petroleum-exporting countries",
+                    "opec",
+                    "oas",
+                    "organization of american states"
+                ],
+                "hasParts": [
+                    "cuquenan",
+                    "cuquenan falls",
+                    "kukenaam",
+                    "kukenaam falls",
+                    "maracaibo",
+                    "angel",
+                    "orinoco",
+                    "orinoco river",
+                    "valencia",
+                    "maracay",
+                    "angel falls",
+                    "arauca",
+                    "capital of venezuela",
+                    "caracas",
+                    "ciudad bolivar",
+                    "cumana"
+                ],
+                "partOf": [
+                    "south america"
+                ],
+                "derivation": [
+                    "venezuelan"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 3.26,
+            "perMillion": 1.83,
+            "diversity": 0.01
+        }
+    },
+    "venison": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ven",
+                "i",
+                "son"
+            ]
+        },
+        "pronunciation": {
+            "all": "'vɛnɪsən",
+            "simplified": "vɛnɪsən"
+        },
+        "rhymePatterns": {
+            "all": "-ɛnɪsən"
+        },
+        "definitions": [
+            {
+                "definition": "meat from a deer used as food",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "game"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.77,
+            "perMillion": 0.57,
+            "diversity": 0
+        }
+    },
+    "venipuncture": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ven",
+                "i",
+                "punc",
+                "ture"
+            ]
+        },
+        "pronunciation": {
+            "all": "'vɛnə,pəŋkʧər",
+            "simplified": "vɛnəpəŋkʧər"
+        },
+        "rhymePatterns": {
+            "all": "-əŋktʃər"
+        },
+        "definitions": [
+            {
+                "definition": "(medicine) puncture of a vein through the skin in order to withdraw blood for analysis or to start an intravenous drip or to inject medication or a radiopaque dye",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "medical specialty",
+                    "medicine"
+                ],
+                "typeOf": [
+                    "puncture"
+                ]
+            }
+        ],
+        "letters": 12,
+        "sounds": 12
+    },
+    "venomous-hearted": {
+        "rhymes": {
+            "all": "-ɑrtɪd"
+        },
+        "letters": 16,
+        "pronunciation": {
+            "simplified": "vɛnəməshɑrtɪd"
+        },
+        "sounds": 13
+    },
+    "vent": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ven",
+                "t"
+            ]
+        },
+        "pronunciation": {
+            "all": "vɛnt",
+            "simplified": "vɛnt"
+        },
+        "rhymePatterns": {
+            "all": "-ɛnt"
+        },
+        "definitions": [
+            {
+                "definition": "activity that frees or expresses creative energy or emotion",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "outlet",
+                    "release"
+                ],
+                "typeOf": [
+                    "activity"
+                ],
+                "examples": [
+                    "he gave vent to his anger"
+                ]
+            },
+            {
+                "definition": "expose to cool or cold air so as to cool or freshen",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "air",
+                    "air out",
+                    "ventilate"
+                ],
+                "typeOf": [
+                    "refresh",
+                    "freshen"
+                ],
+                "derivation": [
+                    "venting"
+                ]
+            },
+            {
+                "definition": "give expression or utterance to",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "give vent",
+                    "ventilate"
+                ],
+                "typeOf": [
+                    "express",
+                    "evince",
+                    "show"
+                ],
+                "derivation": [
+                    "venter"
+                ],
+                "examples": [
+                    "She vented her anger",
+                    "The graduates gave vent to cheers"
+                ]
+            },
+            {
+                "definition": "a fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "volcano"
+                ],
+                "hasCategories": [
+                    "active",
+                    "eructation",
+                    "eruption",
+                    "extravasation"
+                ],
+                "typeOf": [
+                    "crack",
+                    "crevice",
+                    "fissure",
+                    "scissure",
+                    "cleft"
+                ]
+            },
+            {
+                "definition": "a hole for the escape of gas or air",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "blowhole",
+                    "vent-hole",
+                    "venthole"
+                ],
+                "typeOf": [
+                    "hole"
+                ],
+                "hasTypes": [
+                    "smoke hole"
+                ],
+                "partOf": [
+                    "air duct",
+                    "airway",
+                    "air passage"
+                ],
+                "derivation": [
+                    "ventilate"
+                ]
+            },
+            {
+                "definition": "a slit in a garment (as in the back seam of a jacket)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "slit"
+                ]
+            },
+            {
+                "definition": "external opening of urinary or genital system of a lower vertebrate",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "orifice",
+                    "porta",
+                    "opening"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.56,
+            "perMillion": 3.59,
+            "diversity": 0.01
+        }
+    },
+    "ventosity": {
+        "rhymes": {
+            "all": "-ɑsɪti"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "vɛntɑsɪti"
+        },
+        "sounds": 9
+    },
+    "ventriculography": {
+        "rhymes": {
+            "all": "-ɑgrəfi"
+        },
+        "letters": 16,
+        "pronunciation": {
+            "simplified": "vɛntrɪkjəlɑgrəfi"
+        },
+        "sounds": 16
+    },
+    "ventripotent": {
+        "rhymes": {
+            "all": "-ipətənt"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "vɛntripətənt"
+        },
+        "sounds": 12
+    },
+    "venus's-flytrap": {
+        "rhymes": {
+            "all": "-ap"
+        },
+        "letters": 15,
+        "pronunciation": {
+            "simplified": "vinəsizflaɪtrap"
+        },
+        "sounds": 15
+    },
+    "venusberg": {
+        "rhymes": {
+            "all": "-inəs,bɜrg"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "vinəsbɜrg"
+        },
+        "sounds": 9,
+        "frequency": 1.74
+    },
+    "veratrine": {
+        "rhymes": {
+            "all": "-in"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "vɛrɪtrin"
+        },
+        "sounds": 8
+    },
+    "verbalise": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ver",
+                "bal",
+                "ise"
+            ]
+        },
+        "pronunciation": {
+            "all": "'vɜrbə,laɪz",
+            "simplified": "vɜrbəlaɪz"
+        },
+        "rhymePatterns": {
+            "all": "-aɪz"
+        },
+        "definitions": [
+            {
+                "definition": "articulate; either verbally or with a cry, shout, or noise",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "express",
+                    "give tongue to",
+                    "utter",
+                    "verbalize"
+                ],
+                "hasTypes": [
+                    "marvel",
+                    "hurl",
+                    "wish",
+                    "voice",
+                    "vociferate",
+                    "cuss",
+                    "say",
+                    "represent",
+                    "raise",
+                    "drop",
+                    "pour out",
+                    "pooh-pooh",
+                    "exclaim",
+                    "platitudinize",
+                    "outcry",
+                    "get off",
+                    "imprecate",
+                    "blaspheme",
+                    "throw",
+                    "tell",
+                    "breathe",
+                    "swear",
+                    "call out",
+                    "state",
+                    "shout out",
+                    "clamor",
+                    "clamour",
+                    "shout",
+                    "cry",
+                    "cry out",
+                    "curse"
+                ],
+                "derivation": [
+                    "verbalisation"
+                ]
+            },
+            {
+                "definition": "express in speech",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "mouth",
+                    "speak",
+                    "talk",
+                    "utter",
+                    "verbalize"
+                ],
+                "typeOf": [
+                    "intercommunicate",
+                    "communicate"
+                ],
+                "hasTypes": [
+                    "intone",
+                    "jabber",
+                    "jaw",
+                    "lip off",
+                    "gibber",
+                    "maunder",
+                    "modulate",
+                    "generalize",
+                    "generalise",
+                    "mouth off",
+                    "mumble",
+                    "murmur",
+                    "mussitate",
+                    "mutter",
+                    "open up",
+                    "gabble",
+                    "palaver",
+                    "peep",
+                    "phonate",
+                    "piffle",
+                    "falter",
+                    "enthuse",
+                    "ejaculate",
+                    "prate",
+                    "prattle",
+                    "present",
+                    "rabbit on",
+                    "drone on",
+                    "rant",
+                    "rasp",
+                    "rattle on",
+                    "rave",
+                    "read",
+                    "drone",
+                    "deliver",
+                    "shoot one's mouth off",
+                    "shout",
+                    "clack",
+                    "sibilate",
+                    "sing",
+                    "siss",
+                    "sizz",
+                    "slur",
+                    "snap",
+                    "snarl",
+                    "snivel",
+                    "chatter",
+                    "speak in tongues",
+                    "speak up",
+                    "spout",
+                    "stammer",
+                    "chant",
+                    "stutter",
+                    "swallow",
+                    "cackle",
+                    "bumble",
+                    "blurt out",
+                    "talk about",
+                    "talk of",
+                    "tattle",
+                    "blurt",
+                    "blunder out",
+                    "tittle-tattle",
+                    "tone",
+                    "troll",
+                    "twaddle",
+                    "blunder",
+                    "blubber out",
+                    "yap away",
+                    "gulp",
+                    "inflect",
+                    "yack away",
+                    "hiss",
+                    "blubber",
+                    "blabber",
+                    "verbalize",
+                    "blab",
+                    "begin",
+                    "vocalise",
+                    "vocalize",
+                    "bay",
+                    "bark",
+                    "whiff",
+                    "whine",
+                    "whisper",
+                    "babble",
+                    "yack"
+                ],
+                "verbGroup": [
+                    "verbalize"
+                ],
+                "derivation": [
+                    "verbalisation"
+                ]
+            },
+            {
+                "definition": "be verbose",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "verbalize"
+                ],
+                "typeOf": [
+                    "mouth",
+                    "utter",
+                    "talk",
+                    "speak",
+                    "verbalize"
+                ],
+                "verbGroup": [
+                    "talk",
+                    "verbalize",
+                    "speak",
+                    "utter",
+                    "mouth"
+                ]
+            },
+            {
+                "definition": "convert into a verb",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "verbalize"
+                ],
+                "inCategory": [
+                    "language",
+                    "speech"
+                ],
+                "typeOf": [
+                    "convert"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9
+    },
+    "verbiage": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ver",
+                "bi",
+                "age"
+            ]
+        },
+        "pronunciation": {
+            "all": "'vɜrbiɪdʒ",
+            "simplified": "vɜrbiɪdʒ"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrbiɪdʒ"
+        },
+        "definitions": [
+            {
+                "definition": "the manner in which something is expressed in words",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "choice of words",
+                    "diction",
+                    "phraseology",
+                    "phrasing",
+                    "wording"
+                ],
+                "typeOf": [
+                    "formulation",
+                    "expression"
+                ],
+                "hasTypes": [
+                    "verbalisation",
+                    "mot juste",
+                    "verbalization"
+                ],
+                "examples": [
+                    "use concise military verbiage"
+                ]
+            },
+            {
+                "definition": "overabundance of words",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "verbalism"
+                ],
+                "typeOf": [
+                    "verboseness",
+                    "verbosity"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 2.08,
+            "perMillion": 0.11,
+            "diversity": 0
+        }
+    },
+    "verdun": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ver",
+                "dun"
+            ]
+        },
+        "pronunciation": {
+            "all": "vɜr'dən",
+            "simplified": "vɜrdən"
+        },
+        "rhymePatterns": {
+            "all": "-ən"
+        },
+        "definitions": [
+            {
+                "definition": "a battle in World War I (1916); in some of the bloodiest fighting in World War I the German offensive was stopped",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "battle of verdun"
+                ],
+                "inRegion": [
+                    "french republic",
+                    "france"
+                ],
+                "instanceOf": [
+                    "pitched battle"
+                ],
+                "partOf": [
+                    "world war 1",
+                    "first world war",
+                    "world war i",
+                    "great war",
+                    "war to end war"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 2.45,
+            "perMillion": 0.27,
+            "diversity": 0
+        }
+    },
+    "verel": {
+        "rhymes": {
+            "all": "-ɛl"
+        },
+        "letters": 5,
+        "pronunciation": {
+            "simplified": "vərɛl"
+        },
+        "sounds": 5
+    },
+    "vereshchagin": {
+        "rhymes": {
+            "all": "-ɑɡɪn"
+        },
+        "letters": 12,
+        "pronunciation": {
+            "simplified": "vɛRɛʃʧɑɡɪn"
+        },
+        "sounds": 11
+    },
+    "verger": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ver",
+                "ger"
+            ]
+        },
+        "pronunciation": {
+            "all": "'vɜrdʒər",
+            "simplified": "vɜrdʒər"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrdʒər"
+        },
+        "definitions": [
+            {
+                "definition": "a church officer who takes care of the interior of the building and acts as an attendant (carries the verge) during ceremonies",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "caretaker",
+                    "church officer"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 2.49,
+            "perMillion": 0.29,
+            "diversity": 0
+        }
+    },
+    "verify": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ver",
+                "i",
+                "fy"
+            ]
+        },
+        "pronunciation": {
+            "all": "'vɛrə,faɪ",
+            "simplified": "vɛrəfaɪ"
+        },
+        "rhymePatterns": {
+            "all": "-aɪ"
+        },
+        "definitions": [
+            {
+                "definition": "check or regulate (a scientific experiment) by conducting a parallel experiment or comparing with another standard",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "control"
+                ],
+                "inCategory": [
+                    "scientific discipline",
+                    "science"
+                ],
+                "typeOf": [
+                    "essay",
+                    "examine",
+                    "prove",
+                    "try",
+                    "try out",
+                    "test"
+                ],
+                "verbGroup": [
+                    "assure",
+                    "insure",
+                    "check",
+                    "see to it",
+                    "see",
+                    "ascertain",
+                    "control",
+                    "ensure"
+                ]
+            },
+            {
+                "definition": "to declare or affirm solemnly and formally as true",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "affirm",
+                    "assert",
+                    "aver",
+                    "avow",
+                    "swan",
+                    "swear"
+                ],
+                "typeOf": [
+                    "declare"
+                ],
+                "hasTypes": [
+                    "take",
+                    "tell",
+                    "claim",
+                    "attest",
+                    "protest",
+                    "assure",
+                    "declare",
+                    "hold"
+                ]
+            },
+            {
+                "definition": "attach or append a legal verification to (a pleading or petition)",
+                "partOfSpeech": "verb",
+                "inCategory": [
+                    "jurisprudence",
+                    "law"
+                ],
+                "typeOf": [
+                    "confirm",
+                    "reassert"
+                ],
+                "derivation": [
+                    "verification"
+                ]
+            },
+            {
+                "definition": "confirm the truth of",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "affirm",
+                    "corroborate",
+                    "sustain",
+                    "support",
+                    "confirm",
+                    "substantiate"
+                ],
+                "hasTypes": [
+                    "see",
+                    "ascertain",
+                    "assure",
+                    "check",
+                    "check off",
+                    "control",
+                    "ensure",
+                    "insure",
+                    "mark",
+                    "mark off",
+                    "see to it",
+                    "tick",
+                    "tick off"
+                ],
+                "derivation": [
+                    "verifiable",
+                    "verification",
+                    "verificatory",
+                    "verifier"
+                ],
+                "examples": [
+                    "Please verify that the doors are closed",
+                    "verify a claim"
+                ]
+            }
+        ],
+        "letters": 6,
+        "sounds": 7,
+        "frequency": {
+            "zipf": 3.63,
+            "perMillion": 4.24,
+            "diversity": 0.02
+        }
+    },
+    "vermiculite": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ver",
+                "mic",
+                "u",
+                "lite"
+            ]
+        },
+        "pronunciation": {
+            "all": "vər'mɪkjə,laɪt",
+            "simplified": "vərmɪkjəlaɪt"
+        },
+        "rhymePatterns": {
+            "all": "-aɪt"
+        },
+        "definitions": [
+            {
+                "definition": "any of a group of yellow or brown hydrous silicate minerals having a micaceous structure",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "mineral"
+                ]
+            }
+        ],
+        "letters": 11,
+        "sounds": 12
+    },
+    "vermilion-tawny": {
+        "rhymes": {
+            "all": "-ɔni"
+        },
+        "letters": 15,
+        "pronunciation": {
+            "simplified": "vərmɪljəntɔni"
+        },
+        "sounds": 13
+    },
+    "vern": {
+        "rhymes": {
+            "all": "-n"
+        },
+        "letters": 4,
+        "pronunciation": "vɝrn",
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.1,
+            "perMillion": 1.25,
+            "diversity": 0
+        }
+    },
+    "vernation": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ver",
+                "na",
+                "tion"
+            ]
+        },
+        "pronunciation": {
+            "all": "vər'neɪʃən",
+            "simplified": "vərneɪʃən"
+        },
+        "rhymePatterns": {
+            "all": "-eɪʃən"
+        },
+        "definitions": [
+            {
+                "definition": "(botany) the arrangement of young leaves in a leaf bud before it opens",
+                "partOfSpeech": "noun",
+                "inCategory": [
+                    "botany",
+                    "phytology"
+                ],
+                "typeOf": [
+                    "arrangement"
+                ],
+                "partOf": [
+                    "leaf bud"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 9
+    },
+    "verriere": {
+        "rhymes": {
+            "all": "-ɛri'ɜr"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "vɛriɜr"
+        },
+        "sounds": 6
+    },
+    "veronese": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ve",
+                "ro",
+                "ne",
+                "se"
+            ]
+        },
+        "pronunciation": {
+            "all": ",vɛRɔ'nɛzɛ",
+            "simplified": "vɛRɔnɛzɛ"
+        },
+        "rhymePatterns": {
+            "all": "-ɛzɛ"
+        },
+        "definitions": [
+            {
+                "definition": "Italian painter of the Venetian school (1528-1588)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "paola caliari",
+                    "paolo veronese"
+                ],
+                "instanceOf": [
+                    "old master"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 8,
+        "frequency": {
+            "zipf": 1.6,
+            "perMillion": 0.03,
+            "diversity": 0
+        }
+    },
+    "verrucosity": {
+        "rhymes": {
+            "all": "-ɑsɪti"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "vɛrəkɑsɪti"
+        },
+        "sounds": 10
+    },
+    "verse-prose": {
+        "rhymes": {
+            "all": "-oʊz"
+        },
+        "letters": 11,
+        "pronunciation": {
+            "simplified": "vɜrsproʊz"
+        },
+        "sounds": 9
+    },
+    "versiera": {
+        "rhymes": {
+            "all": "-ə"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "vɛrsjɜrə"
+        },
+        "sounds": 8
+    },
+    "version": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ver",
+                "sion"
+            ]
+        },
+        "pronunciation": {
+            "all": "'vɜrʒən",
+            "simplified": "vɜrʒən"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrʒən"
+        },
+        "definitions": [
+            {
+                "definition": "a written communication in a second language having the same meaning as the written communication in a first language",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "interlingual rendition",
+                    "rendering",
+                    "translation"
+                ],
+                "typeOf": [
+                    "written record",
+                    "written account"
+                ],
+                "hasTypes": [
+                    "caption",
+                    "pony",
+                    "mistranslation",
+                    "crib",
+                    "retroversion",
+                    "subtitle",
+                    "supertitle",
+                    "surtitle",
+                    "trot"
+                ]
+            },
+            {
+                "definition": "a written work (as a novel) that has been recast in a new form",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "adaptation"
+                ],
+                "typeOf": [
+                    "piece of writing",
+                    "writing",
+                    "written material"
+                ],
+                "hasTypes": [
+                    "versification",
+                    "modernization"
+                ]
+            },
+            {
+                "definition": "a mental representation of the meaning or significance of something",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "interpretation",
+                    "reading"
+                ],
+                "typeOf": [
+                    "representation",
+                    "internal representation",
+                    "mental representation"
+                ],
+                "hasTypes": [
+                    "reinterpretation",
+                    "anagoge"
+                ]
+            },
+            {
+                "definition": "something a little different from others of the same type",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "edition",
+                    "variant",
+                    "variation"
+                ],
+                "typeOf": [
+                    "type"
+                ],
+                "examples": [
+                    "an experimental version of the night fighter"
+                ]
+            },
+            {
+                "definition": "an interpretation of a matter from a particular viewpoint",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "interpretation"
+                ],
+                "hasTypes": [
+                    "approximation"
+                ],
+                "examples": [
+                    "his version of the fight was different from mine"
+                ]
+            },
+            {
+                "definition": "manual turning of a fetus in the uterus (usually to aid delivery)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "turn",
+                    "turning"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 4.2,
+            "perMillion": 15.69,
+            "diversity": 0.06
+        }
+    },
+    "verso": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ver",
+                "so"
+            ]
+        },
+        "pronunciation": {
+            "all": "'vɜrsoʊ",
+            "simplified": "vɜrsoʊ"
+        },
+        "rhymePatterns": {
+            "all": "-ɜrsoʊ"
+        },
+        "definitions": [
+            {
+                "definition": "the side of a coin or medal that does not bear the principal design",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "reverse"
+                ],
+                "typeOf": [
+                    "side"
+                ],
+                "hasTypes": [
+                    "tail"
+                ],
+                "partOf": [
+                    "coin"
+                ]
+            },
+            {
+                "definition": "left-hand page",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "page"
+                ],
+                "antonyms": [
+                    "recto"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 6,
+        "frequency": {
+            "zipf": 1.73,
+            "perMillion": 0.04,
+            "diversity": 0
+        }
+    },
+    "verticity": {
+        "rhymes": {
+            "all": "-ɪsɪti"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "vərtɪsɪti"
+        },
+        "sounds": 9
+    },
+    "vesalius": {
+        "syllables": {
+            "count": 4,
+            "list": [
+                "ve",
+                "sa",
+                "li",
+                "us"
+            ]
+        },
+        "pronunciation": {
+            "all": "vɪ'seɪliəs",
+            "simplified": "vɪseɪliəs"
+        },
+        "rhymePatterns": {
+            "all": "-eɪliəs"
+        },
+        "definitions": [
+            {
+                "definition": "a Flemish surgeon who is considered the father of modern anatomy (1514-1564)",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "andreas vesalius"
+                ],
+                "instanceOf": [
+                    "anatomist"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9
+    },
+    "vesical": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "ves",
+                "i",
+                "cal"
+            ]
+        },
+        "pronunciation": {
+            "all": "'vɛsɪkəl",
+            "simplified": "vɛsɪkəl"
+        },
+        "rhymePatterns": {
+            "all": "-ɛsɪkəl"
+        },
+        "definitions": [
+            {
+                "definition": "of or relating to a bladder (especially the urinary bladder)",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "vesica"
+                ],
+                "derivation": [
+                    "vesica"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 7
+    },
+    "vest": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "vest"
+            ]
+        },
+        "pronunciation": {
+            "all": "vɛst",
+            "simplified": "vɛst"
+        },
+        "rhymePatterns": {
+            "all": "-ɛst"
+        },
+        "definitions": [
+            {
+                "definition": "provide with power and authority",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "enthrone",
+                    "invest"
+                ],
+                "typeOf": [
+                    "instal",
+                    "install"
+                ],
+                "hasTypes": [
+                    "ordinate",
+                    "consecrate",
+                    "ordain",
+                    "order",
+                    "coronate",
+                    "crown",
+                    "throne",
+                    "enthrone"
+                ],
+                "examples": [
+                    "They vested the council with special rights"
+                ]
+            },
+            {
+                "definition": "a man's sleeveless garment worn underneath a coat",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "waistcoat"
+                ],
+                "typeOf": [
+                    "garment"
+                ],
+                "hasTypes": [
+                    "bulletproof vest"
+                ],
+                "partOf": [
+                    "three-piece suit"
+                ]
+            },
+            {
+                "definition": "a collarless men's undergarment for the upper part of the body",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "singlet",
+                    "undershirt"
+                ],
+                "typeOf": [
+                    "unmentionable",
+                    "undergarment"
+                ]
+            },
+            {
+                "definition": "clothe formally; especially in ecclesiastical robes",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "robe"
+                ],
+                "typeOf": [
+                    "garb",
+                    "apparel",
+                    "clothe",
+                    "dress",
+                    "enclothe",
+                    "fit out",
+                    "garment",
+                    "habilitate",
+                    "raiment",
+                    "tog"
+                ],
+                "derivation": [
+                    "vestment",
+                    "vesture"
+                ]
+            },
+            {
+                "definition": "become legally vested",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "change hands",
+                    "change owners"
+                ],
+                "examples": [
+                    "The property vests in the trustees"
+                ]
+            },
+            {
+                "definition": "clothe oneself in ecclesiastical garments",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "dress",
+                    "dress up"
+                ],
+                "verbGroup": [
+                    "robe"
+                ]
+            },
+            {
+                "definition": "place (authority, property, or rights) in the control of a person or group of persons",
+                "partOfSpeech": "verb",
+                "typeOf": [
+                    "give"
+                ],
+                "examples": [
+                    "She vested her vast fortune in her two sons"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 4,
+        "frequency": {
+            "zipf": 3.63,
+            "perMillion": 4.24,
+            "diversity": 0.02
+        }
+    },
+    "vestigium": {
+        "rhymes": {
+            "all": "-ɪdʒiəm"
+        },
+        "letters": 9,
+        "pronunciation": {
+            "simplified": "vɛstɪdʒiəm"
+        },
+        "sounds": 10
+    },
+    "veterinary": {
+        "syllables": {
+            "count": 5,
+            "list": [
+                "vet",
+                "er",
+                "i",
+                "nar",
+                "y"
+            ]
+        },
+        "pronunciation": {
+            "all": "'vɛtərə,nɛri",
+            "simplified": "vɛtərənɛri"
+        },
+        "rhymePatterns": {
+            "all": "-ɛri"
+        },
+        "definitions": [
+            {
+                "definition": "a doctor who practices veterinary medicine",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "vet",
+                    "veterinarian",
+                    "veterinary surgeon"
+                ],
+                "typeOf": [
+                    "physician",
+                    "doctor",
+                    "dr.",
+                    "doc",
+                    "md",
+                    "medico"
+                ],
+                "hasTypes": [
+                    "horse doctor"
+                ]
+            },
+            {
+                "definition": "of or relating to veterinarians or veterinary medicine",
+                "partOfSpeech": null,
+                "pertainsTo": [
+                    "veterinarian",
+                    "veterinary medicine"
+                ]
+            }
+        ],
+        "letters": 10,
+        "sounds": 10,
+        "frequency": {
+            "zipf": 3.01,
+            "perMillion": 1.01,
+            "diversity": 0
+        }
+    },
+    "veto": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "ve",
+                "to"
+            ]
+        },
+        "pronunciation": {
+            "all": "'vitoʊ",
+            "simplified": "vitoʊ"
+        },
+        "rhymePatterns": {
+            "all": "-itoʊ"
+        },
+        "definitions": [
+            {
+                "definition": "command against",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "disallow",
+                    "forbid",
+                    "interdict",
+                    "nix",
+                    "prohibit",
+                    "proscribe"
+                ],
+                "typeOf": [
+                    "require",
+                    "command"
+                ],
+                "hasTypes": [
+                    "debar",
+                    "ban",
+                    "bar",
+                    "criminalise",
+                    "criminalize",
+                    "enjoin",
+                    "exclude",
+                    "illegalise",
+                    "illegalize",
+                    "outlaw"
+                ],
+                "examples": [
+                    "Mother vetoed the trip to the chocolate store"
+                ]
+            },
+            {
+                "definition": "vote against; refuse to endorse; refuse to assent",
+                "partOfSpeech": "verb",
+                "synonyms": [
+                    "blackball",
+                    "negative"
+                ],
+                "entails": [
+                    "vote"
+                ],
+                "typeOf": [
+                    "controvert",
+                    "contradict",
+                    "oppose"
+                ],
+                "hasTypes": [
+                    "vote down",
+                    "vote out",
+                    "kill",
+                    "defeat",
+                    "shoot down"
+                ],
+                "examples": [
+                    "The President vetoed the bill"
+                ]
+            },
+            {
+                "definition": "a vote that blocks a decision",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "vote",
+                    "voting",
+                    "balloting",
+                    "ballot"
+                ],
+                "hasTypes": [
+                    "pocket veto"
+                ]
+            },
+            {
+                "definition": "the power or right to prohibit or reject a proposed or intended act (especially the power of a chief executive to reject a bill passed by the legislature)",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "powerfulness",
+                    "power"
+                ]
+            }
+        ],
+        "letters": 4,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.36,
+            "perMillion": 2.29,
+            "diversity": 0.01
+        }
+    },
+    "vexation": {
+        "syllables": {
+            "count": 3,
+            "list": [
+                "vex",
+                "a",
+                "tion"
+            ]
+        },
+        "pronunciation": {
+            "all": "vɛk'seɪʃən",
+            "simplified": "vɛkseɪʃən"
+        },
+        "rhymePatterns": {
+            "all": "-eɪʃən"
+        },
+        "definitions": [
+            {
+                "definition": "anger produced by some annoying irritation",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "annoyance",
+                    "chafe"
+                ],
+                "typeOf": [
+                    "choler",
+                    "anger",
+                    "ire"
+                ],
+                "hasTypes": [
+                    "torment",
+                    "displeasure",
+                    "exasperation",
+                    "frustration",
+                    "harassment",
+                    "irritation",
+                    "pique",
+                    "temper",
+                    "aggravation"
+                ]
+            },
+            {
+                "definition": "something or someone that causes anxiety; a source of unhappiness",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "concern",
+                    "headache",
+                    "worry"
+                ],
+                "typeOf": [
+                    "negative stimulus"
+                ],
+                "hasTypes": [
+                    "encumbrance",
+                    "business",
+                    "incumbrance",
+                    "burden",
+                    "load",
+                    "onus",
+                    "bugaboo"
+                ],
+                "derivation": [
+                    "vex"
+                ]
+            },
+            {
+                "definition": "the psychological state of being irritated or annoyed",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "annoyance",
+                    "botheration",
+                    "irritation"
+                ],
+                "typeOf": [
+                    "mental condition",
+                    "psychological state",
+                    "psychological condition",
+                    "mental state"
+                ],
+                "hasTypes": [
+                    "impatience",
+                    "bummer",
+                    "huff",
+                    "restlessness",
+                    "miff",
+                    "pinprick",
+                    "snit",
+                    "seeing red"
+                ],
+                "derivation": [
+                    "vex"
+                ]
+            },
+            {
+                "definition": "the act of troubling or annoying someone",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "annoyance",
+                    "annoying",
+                    "irritation"
+                ],
+                "typeOf": [
+                    "mistreatment"
+                ],
+                "hasTypes": [
+                    "red flag",
+                    "exasperation"
+                ],
+                "derivation": [
+                    "vex"
+                ]
+            }
+        ],
+        "letters": 8,
+        "sounds": 9,
+        "frequency": {
+            "zipf": 1.97,
+            "perMillion": 0.08,
+            "diversity": 0
+        }
+    },
+    "vexed": {
+        "syllables": {
+            "count": 1,
+            "list": [
+                "vexed"
+            ]
+        },
+        "pronunciation": {
+            "all": "vɛkst",
+            "simplified": "vɛkst"
+        },
+        "rhymePatterns": {
+            "all": "-ɛkst"
+        },
+        "definitions": [
+            {
+                "definition": "troubled persistently especially with petty annoyances",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "annoyed",
+                    "harassed",
+                    "harried",
+                    "pestered"
+                ],
+                "similarTo": [
+                    "troubled"
+                ],
+                "examples": [
+                    "the vexed parents of an unruly teenager"
+                ]
+            },
+            {
+                "definition": "causing difficulty in finding an answer or solution; much disputed",
+                "partOfSpeech": "adjective",
+                "similarTo": [
+                    "difficult",
+                    "hard"
+                ],
+                "examples": [
+                    "the vexed issue of priorities",
+                    "we live in vexed and troubled times"
+                ]
+            }
+        ],
+        "letters": 5,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 2.96,
+            "perMillion": 0.89,
+            "diversity": 0
+        }
+    },
+    "vibraculum": {
+        "rhymes": {
+            "all": "-ækjələm"
+        },
+        "letters": 10,
+        "pronunciation": {
+            "simplified": "vaɪbrækjələm"
+        },
+        "sounds": 12
+    },
+    "vibrioid": {
+        "rhymes": {
+            "all": "-ɔɪd"
+        },
+        "letters": 8,
+        "pronunciation": {
+            "simplified": "vɪbriɔɪd"
+        },
+        "sounds": 8
+    },
+    "vicariousness": {
+        "rhymes": {
+            "all": "-iəsnɛs"
+        },
+        "letters": 13,
+        "pronunciation": {
+            "simplified": "vaɪkɜriəsnɛs"
+        },
+        "sounds": 12
+    },
+    "vicereine": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "vice",
+                "reine"
+            ]
+        },
+        "pronunciation": {
+            "all": "'vaɪsreɪn",
+            "simplified": "vaɪsreɪn"
+        },
+        "rhymePatterns": {
+            "all": "-aɪsreɪn"
+        },
+        "definitions": [
+            {
+                "definition": "governor of a country or province who rules as the representative of his or her king or sovereign",
+                "partOfSpeech": "noun",
+                "synonyms": [
+                    "viceroy"
+                ],
+                "typeOf": [
+                    "governor"
+                ],
+                "hasTypes": [
+                    "exarch",
+                    "khedive"
+                ]
+            },
+            {
+                "definition": "wife of a viceroy",
+                "partOfSpeech": "noun",
+                "typeOf": [
+                    "married woman",
+                    "wife"
+                ]
+            }
+        ],
+        "letters": 9,
+        "sounds": 8
+    },
+    "vicious": {
+        "syllables": {
+            "count": 2,
+            "list": [
+                "vi",
+                "cious"
+            ]
+        },
+        "pronunciation": {
+            "all": "'vɪʃəs",
+            "simplified": "vɪʃəs"
+        },
+        "rhymePatterns": {
+            "all": "-ɪʃəs"
+        },
+        "definitions": [
+            {
+                "definition": "having the nature of vice",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "evil"
+                ],
+                "similarTo": [
+                    "wicked"
+                ],
+                "derivation": [
+                    "vice",
+                    "viciousness"
+                ]
+            },
+            {
+                "definition": "marked by deep ill will; deliberately harmful",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "poisonous",
+                    "venomous"
+                ],
+                "similarTo": [
+                    "malicious"
+                ],
+                "derivation": [
+                    "viciousness"
+                ],
+                "examples": [
+                    "vicious gossip"
+                ]
+            },
+            {
+                "definition": "(of persons or their actions) able or disposed to inflict pain or suffering",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "barbarous",
+                    "brutal",
+                    "cruel",
+                    "fell",
+                    "roughshod",
+                    "savage"
+                ],
+                "similarTo": [
+                    "inhumane"
+                ],
+                "derivation": [
+                    "viciousness"
+                ],
+                "examples": [
+                    "vicious kicks"
+                ]
+            },
+            {
+                "definition": "bringing or deserving severe rebuke or censure",
+                "partOfSpeech": "adjective",
+                "synonyms": [
+                    "condemnable",
+                    "criminal",
+                    "deplorable",
+                    "reprehensible"
+                ],
+                "similarTo": [
+                    "wrong"
+                ]
+            }
+        ],
+        "letters": 7,
+        "sounds": 5,
+        "frequency": {
+            "zipf": 3.82,
+            "perMillion": 6.61,
+            "diversity": 0.03
+        }
+    }
+}
