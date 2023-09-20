@@ -18,7 +18,7 @@ class _AudioPlayerState extends State<AudioPlayer> {
   FlutterTts tts = FlutterTts();
 
   TtsState state = TtsState.stopped;
-  int audio = 0;
+  double audio = 0.1;
 
   @override
   Widget build(BuildContext context) {
@@ -48,22 +48,18 @@ class _AudioPlayerState extends State<AudioPlayer> {
           children: [
             Padding(
               padding: const EdgeInsets.only(left: 10),
-              child: IconButton(
-                onPressed: () async {
-                  startPlayer();
-                },
-                icon: Icon(
-                  Icons.play_arrow_rounded,
-                ),
-              ),
+              child: audioPlayer(),
             ),
-            SizedBox(
-              height: 5,
-              width: MediaQuery.of(context).size.width * 0.6,
-              child: LinearProgressIndicator(
-                backgroundColor: DefaultColors.primaryTheme.shade200,
-                valueColor: const AlwaysStoppedAnimation<Color>(DefaultColors.primaryTheme),
+            Expanded(
+              child: Slider(
+                inactiveColor: DefaultColors.primaryTheme.shade200,
+                activeColor: DefaultColors.primaryTheme,
                 value: audio / widget.wordsModel.word!.length,
+                onChanged: (value) {
+                  setState(() {
+                    audio = value;
+                  });
+                },
               ),
             ),
           ],
@@ -72,20 +68,66 @@ class _AudioPlayerState extends State<AudioPlayer> {
     );
   }
 
+  Widget audioPlayer() {
+    Widget button;
+    switch (state) {
+      case TtsState.playing:
+        button = IconButton(
+          onPressed: () async {
+            pausePlayer();
+          },
+          icon: const Icon(
+            Icons.pause_rounded,
+          ),
+        );
+        break;
+      case TtsState.paused:
+      case TtsState.stopped:
+      default:
+        button = IconButton(
+          onPressed: () async {
+            startPlayer();
+          },
+          icon: const Icon(
+            Icons.play_arrow_rounded,
+          ),
+        );
+        break;
+    }
+    return button;
+  }
+
   startPlayer() async {
     tts.setProgressHandler((text, start, end, word) {
       setState(() {
-        audio = end;
+        audio = end.toDouble();
+        if (start == end) {
+          setState(() {
+            state = TtsState.paused;
+          });
+        }
       });
     });
     await tts.setLanguage('en');
+     tts.awaitSpeakCompletion(true);
     await tts.speak(widget.wordsModel.word!);
     setState(() {
       state = TtsState.playing;
     });
   }
 
-  pausePlayer() async {}
+  pausePlayer() async {
+    tts.setProgressHandler((text, start, end, word) {
+      setState(() {
+        audio = end.toDouble();
+      });
+    });
+    await tts.setLanguage('en');
+    await tts.pause();
+    setState(() {
+      state = TtsState.paused;
+    });
+  }
 
   resumePlayer() async {}
 }

@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import '../bloc_cubit/presenter/word_search.dart';
 import '../utils/components/navigator.dart';
-import '../word_load/word_load.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import '../bloc_cubit/presenter/word_search.dart';
 import 'package:dictionary/utils/text_styles.dart';
 import 'package:dictionary/utils/default_colors.dart';
 import '../bloc_cubit/presenter/cubit/words_cubit.dart';
@@ -10,6 +9,7 @@ import '../bloc_cubit/presenter/cubit/words_state.dart';
 import 'package:dictionary/bloc_cubit/model/word_model.dart';
 import 'package:dictionary/utils/components/form_field.dart';
 import 'package:dictionary/bloc_cubit/model/word_presset.dart';
+import 'package:dictionary/utils/components/scrollbar_letters.dart';
 
 class WordItemWidget extends StatefulWidget {
   const WordItemWidget({Key? key}) : super(key: key);
@@ -20,72 +20,90 @@ class WordItemWidget extends StatefulWidget {
 }
 
 class _WordItemWidgetState extends State<WordItemWidget> {
+  List<List<WordsModel>> model = [
+    WordLetterModel.presset_a,
+    WordLetterModel.presset_b,
+  ];
+
   @override
   void initState() {
-    WordLoad().readJsonData_A(context);
-    WordLoad().readJsonData_B(context);
-
-    WordLoad().readJsonData_OTHER(context).then((value) => hasData = value);
+    context.read<WordsMethodsCubit>().doLoadWord(context);
 
     super.initState();
   }
 
-  bool? hasData;
   TextEditingController controllerSearch = TextEditingController();
+  ScrollController ctr = ScrollController();
+  double position = 0.0;
 
   @override
   Widget build(BuildContext context) {
     return BlocConsumer<WordsMethodsCubit, WordsState>(
-      listener: (context, state) {},
+      listener: (context, state) {
+        if (state is WordsLoadState) {
+          setState(() {});
+        }
+      },
       builder: (context, state) {
-        return ListView(
+        return Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            Row(
-              children: [
-                Expanded(
-                  child: CustomTextFields(
-                    labelText: 'Procurar palavras',
-                    controller: controllerSearch,
+            Expanded(
+              child: Column(
+                children: [
+                  Row(
+                    children: [
+                      Expanded(
+                        child: CustomTextFields(
+                          labelText: 'Procurar palavras',
+                          controller: controllerSearch,
+                        ),
+                      ),
+                      Padding(
+                        padding: const EdgeInsets.only(left: 15),
+                        child: GestureDetector(
+                          onTap: () {
+                            context.read<WordsMethodsCubit>().doGetWordMethods(controllerSearch.text);
+                          },
+                          child: const Icon(
+                            Icons.search,
+                            color: DefaultColors.neutral,
+                          ),
+                        ),
+                      )
+                    ],
                   ),
-                ),
-                Padding(
-                  padding: const EdgeInsets.only(left: 15),
-                  child: GestureDetector(
-                    onTap: () {
-                      context.read<WordsMethodsCubit>().doGetWordMethods(controllerSearch.text);
-                    },
-                    child: const Icon(
-                      Icons.search,
-                      color: DefaultColors.neutral,
+                  if (state is WordsSucessState) component(state.wordsModel),
+                  Expanded(
+                    child: ListView.builder(
+                      controller: ctr,
+                      itemCount: model.length,
+                      itemBuilder: (_, i) {
+                        return GetBoxOffse(
+                          offset: (offset) {
+                            position = offset.dy;
+                          },
+                          child: state is WordsLoadState || state is WordsSucessState
+                              ? ListView.builder(
+                                  shrinkWrap: true,
+                                  physics: const NeverScrollableScrollPhysics(),
+                                  itemCount: model[i].length,
+                                  itemBuilder: (context, index) {
+                                    return component(model[i][index]);
+                                  },
+                                )
+                              : const SizedBox(),
+                        );
+                      },
                     ),
                   ),
-                )
-              ],
+                ],
+              ),
             ),
-            if (state is WordsSucessState) component(state.wordsModel),
-            Row(
-              children: [
-                Text(
-                  'A',
-                  style: CustomTextStyles.headH1,
-                ),
-              ],
-            ),
-            ListView.builder(
-              shrinkWrap: true,
-              physics: const NeverScrollableScrollPhysics(),
-              itemCount: WordLetterModel.presset_a.length,
-              itemBuilder: (context, index) {
-                return component(WordLetterModel.presset_a[index]);
-              },
-            ),
-            ListView.builder(
-              shrinkWrap: true,
-              physics: const NeverScrollableScrollPhysics(),
-              itemCount: WordLetterModel.presset_b.length,
-              itemBuilder: (context, index) {
-                return component(WordLetterModel.presset_b[index]);
-              },
+            ScrollBarLetters(
+              controller: ctr,
+              position: position,
             ),
           ],
         );

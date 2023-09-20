@@ -29,4 +29,10 @@ class CustomTextStyles extends TextStyle {
     fontFamily: 'montserrat',
     color: DefaultColors.primary_grey,
   );
+  static TextStyle labelHighlight = const TextStyle(
+    fontSize: 10,
+    fontFamily: 'montserrat',
+    fontWeight: FontWeight.w700,
+    color: DefaultColors.primaryTheme,
+  );
 }

@@ -29,21 +29,26 @@ class CardNeumosrfism extends StatelessWidget {
           ),
         ],
       ),
-      child: Row(
+      child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            crossAxisAlignment: CrossAxisAlignment.center,
+          Wrap(
+            crossAxisAlignment: WrapCrossAlignment.center,
+            alignment: WrapAlignment.center,
             children: [
               Text(
                 wordsModel.word!,
                 style: CustomTextStyles.headH1,
+                textAlign: TextAlign.center,
               ),
-              Text(
-                wordsModel.syllables!.list.toString().replaceAll('[', '').replaceAll(']', ''),
-                style: CustomTextStyles.body,
+              Padding(
+                padding: const EdgeInsets.only(top: 10),
+                child: Text(
+                  wordsModel.syllables!.list.toString().replaceAll('[', '').replaceAll(']', ''),
+                  style: CustomTextStyles.bodySmall,
+                  textAlign: TextAlign.center,
+                ),
               ),
             ],
           ),

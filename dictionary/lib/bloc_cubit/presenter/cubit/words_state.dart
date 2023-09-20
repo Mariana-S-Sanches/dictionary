@@ -16,6 +16,14 @@ class WordsLoadingState extends WordsState {
   @override
   List<Object> get props => [prop];
 }
+class WordsLoadState extends WordsState {
+  final bool prop;
+
+  WordsLoadState(this.prop);
+
+  @override
+  List<Object> get props => [prop];
+}
 
 class WordsSucessState extends WordsState {
   final WordsModel wordsModel;

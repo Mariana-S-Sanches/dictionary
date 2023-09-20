@@ -1,13 +1,12 @@
 // ignore_for_file: library_private_types_in_public_api
 
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:dictionary/mobile/main_mobile.dart';
 import 'package:dictionary/tablet/main_tablet.dart';
-import 'package:dictionary/desktop/main_desktop.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
-
-import 'bloc_cubit/external/get_words_datasource.dart';
 import 'bloc_cubit/presenter/cubit/words_cubit.dart';
+import 'package:dictionary/desktop/main_desktop.dart';
+import 'bloc_cubit/external/get_words_datasource.dart';
 
 void main() {
   runApp(const MyApp());
@@ -32,7 +31,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Paylev Solutions',
+      title: 'Dictionary',
       debugShowCheckedModeBanner: false,
       home: BlocProvider<WordsMethodsCubit>(
         create: (context) => WordsMethodsCubit(doGetWordsUseCase: WordApiRequest()),
